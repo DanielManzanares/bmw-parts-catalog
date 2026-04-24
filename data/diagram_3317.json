@@ -1,0 +1,61 @@
+{
+  "id": 3317,
+  "diagram_title": "Roof",
+  "image_url": "http://ills.bmwfans.info/tqa.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "41 31 8 239 490",
+      "quantity": 1,
+      "description": "Roof covering lifting-sliding roof",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "41 31 8 240 301",
+      "quantity": 1,
+      "description": "Roof covering lifting-sliding roof",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "41 32 8 228 246",
+      "quantity": 1,
+      "description": "Upper apron",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "41 32 8 228 248",
+      "quantity": 1,
+      "description": "Rear window frame upper part",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "41 32 8 228 245",
+      "quantity": 1,
+      "description": "Rear window frame bottom part",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "41 32 8 228 247",
+      "quantity": 1,
+      "description": "Roof bow",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

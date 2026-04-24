@@ -1,0 +1,173 @@
+{
+  "id": 1507,
+  "diagram_title": "Seat cover rear",
+  "image_url": "http://ills.bmwfans.info/bqh.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 20 1 888 636",
+      "quantity": 1,
+      "description": "Seat cover vinyl",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 1 888 637",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 1 888 640",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 1 903 816",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 1 903 817",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 1 903 820",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 1 915 466",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 1 915 467",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 1 915 470",
+      "quantity": 1,
+      "description": "Seat cover vinyl",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 1 915 471",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 1 888 636",
+      "quantity": 1,
+      "description": "Seat cover vinyl",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 1 888 637",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 1 888 640",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 1 903 816",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 1 903 817",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 1 903 820",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 1 915 466",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 1 915 467",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 1 915 470",
+      "quantity": 1,
+      "description": "Seat cover vinyl",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 1 915 471",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

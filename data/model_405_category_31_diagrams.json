@@ -1,0 +1,32 @@
+[
+  {
+    "id": 444,
+    "diagram_title": "Exp.tank/activated carbon container",
+    "image_url": "http://ills.bmwfans.info/1zr7.png",
+    "parts_count": 38
+  },
+  {
+    "id": 436,
+    "diagram_title": "Expansion tank",
+    "image_url": "http://ills.bmwfans.info/4pn.png",
+    "parts_count": 14
+  },
+  {
+    "id": 442,
+    "diagram_title": "Fuel pipe and mounting parts",
+    "image_url": "http://ills.bmwfans.info/2zo0.png",
+    "parts_count": 28
+  },
+  {
+    "id": 437,
+    "diagram_title": "Fuel pump and fuel level sensor",
+    "image_url": "http://ills.bmwfans.info/a4z3.png",
+    "parts_count": 14
+  },
+  {
+    "id": 440,
+    "diagram_title": "Fuel tank/attaching parts",
+    "image_url": "http://ills.bmwfans.info/272s.png",
+    "parts_count": 52
+  }
+]

@@ -1,0 +1,69 @@
+{
+  "id": 1101,
+  "diagram_title": "crankshaft_pistons",
+  "image_url": "/static/images/diagrams/E46_330Ci-M54_engine_crankshaft_pistons.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1,
+  "category_name": "Engine",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "11 25 7 506 222",
+      "quantity": 6,
+      "description": "Mahle piston",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E53, E60, E65, E66, E83, E85, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 25 7 506 223",
+      "quantity": 6,
+      "description": "Mahle piston",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E53, E60, E65, E66, E83, E85, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 25 7 506 224",
+      "quantity": 6,
+      "description": "Mahle piston",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E53, E60, E65, E66, E83, E85, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 934 460",
+      "quantity": 12,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E61, E65, E66, E83, E85, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 25 7 506 252",
+      "quantity": 6,
+      "description": "Repair kit piston rings",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E53, E60, E65, E66, E83, E85, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 25 7 506 253",
+      "quantity": 6,
+      "description": "Repair kit piston rings",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E53, E60, E65, E66, E83, E85, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 25 7 506 254",
+      "quantity": 6,
+      "description": "Repair kit piston rings",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E53, E60, E65, E66, E83, E85, Z3"
+    }
+  ]
+}

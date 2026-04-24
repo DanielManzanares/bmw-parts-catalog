@@ -1,0 +1,973 @@
+{
+  "id": 2007,
+  "diagram_title": "Getrag 260/5/50 gear wheel set, sing part",
+  "image_url": "http://ills.bmwfans.info/2hx.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 42,
+  "category_name": "Manual Transmission",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "23 21 1 224 273",
+      "quantity": 1,
+      "description": "Drive Shaft",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "23 21 1 224 273",
+      "quantity": 1,
+      "description": "Drive Shaft",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "23 21 1 224 273",
+      "quantity": 1,
+      "description": "Drive Shaft",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "23 23 1 224 230",
+      "quantity": 1,
+      "description": "Synchronizer ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "23 23 1 224 230",
+      "quantity": 1,
+      "description": "Synchronizer ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "23 23 1 224 230",
+      "quantity": 1,
+      "description": "Synchronizer ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "23 23 1 224 281",
+      "quantity": 1,
+      "description": "Guide sleeve 3rd and 4th gear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "23 23 0 005 220",
+      "quantity": 1,
+      "description": "Guide sleeve 3rd and 4th gear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "23 23 0 005 220",
+      "quantity": 1,
+      "description": "Guide sleeve 3rd and 4th gear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "23 23 1 224 281",
+      "quantity": 1,
+      "description": "Guide sleeve 3rd and 4th gear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "23 23 0 005 220",
+      "quantity": 1,
+      "description": "Guide sleeve 3rd and 4th gear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "23 23 0 005 220",
+      "quantity": 1,
+      "description": "Guide sleeve 3rd and 4th gear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "23 23 1 224 281",
+      "quantity": 1,
+      "description": "Guide sleeve 3rd and 4th gear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "23 23 0 005 220",
+      "quantity": 1,
+      "description": "Guide sleeve 3rd and 4th gear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "23 23 0 005 220",
+      "quantity": 1,
+      "description": "Guide sleeve 3rd and 4th gear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "23 23 1 205 228",
+      "quantity": 1,
+      "description": "Compression spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "23 23 1 205 228",
+      "quantity": 1,
+      "description": "Compression spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "23 23 1 205 228",
+      "quantity": 1,
+      "description": "Compression spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 11 9 986 272",
+      "quantity": 1,
+      "description": "Ball",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 11 9 986 272",
+      "quantity": 1,
+      "description": "Ball",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 11 9 986 272",
+      "quantity": 1,
+      "description": "Ball",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "23 23 1 224 172",
+      "quantity": 1,
+      "description": "Insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "23 23 1 224 172",
+      "quantity": 1,
+      "description": "Insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "23 23 1 224 172",
+      "quantity": 1,
+      "description": "Insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "23 22 1 224 489",
+      "quantity": 1,
+      "description": "Shift gear for 3rd. gear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "23 22 1 224 489",
+      "quantity": 1,
+      "description": "Shift gear for 3rd. gear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "23 22 1 224 489",
+      "quantity": 1,
+      "description": "Shift gear for 3rd. gear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "23 23 1 224 230",
+      "quantity": 1,
+      "description": "Synchronizer ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "23 23 1 224 230",
+      "quantity": 1,
+      "description": "Synchronizer ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "23 23 1 224 230",
+      "quantity": 1,
+      "description": "Synchronizer ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "23 21 1 209 359",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "23 21 1 209 360",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "23 21 1 209 361",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "23 21 1 209 362",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "23 21 1 209 359",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "23 21 1 209 360",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "23 21 1 209 361",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "23 21 1 209 362",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "23 21 1 209 359",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "23 21 1 209 360",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "23 21 1 209 361",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "23 21 1 209 362",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    },
+    {
+      "position_number": "10",
+      "part_number": "23 22 1 224 376",
+      "quantity": 1,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "23 22 1 224 377",
+      "quantity": 1,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "23 22 1 224 378",
+      "quantity": 1,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "23 22 1 224 376",
+      "quantity": 1,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "23 22 1 224 377",
+      "quantity": 1,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "23 22 1 224 378",
+      "quantity": 1,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "23 22 1 224 376",
+      "quantity": 1,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "23 22 1 224 377",
+      "quantity": 1,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "23 22 1 224 378",
+      "quantity": 1,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "23 23 1 209 325",
+      "quantity": 2,
+      "description": "Support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "23 23 1 209 325",
+      "quantity": 2,
+      "description": "Support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "23 23 1 209 325",
+      "quantity": 2,
+      "description": "Support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "23 12 1 224 164",
+      "quantity": 1,
+      "description": "Ball bearing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "23 12 1 224 164",
+      "quantity": 1,
+      "description": "Ball bearing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "23 12 1 224 164",
+      "quantity": 1,
+      "description": "Ball bearing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "23 22 1 207 784",
+      "quantity": 1,
+      "description": "Needle cage",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "23 22 1 207 784",
+      "quantity": 1,
+      "description": "Needle cage",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "23 22 1 207 784",
+      "quantity": 1,
+      "description": "Needle cage",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "23 21 1 209 359",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    },
+    {
+      "position_number": "14",
+      "part_number": "23 21 1 209 360",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    },
+    {
+      "position_number": "14",
+      "part_number": "23 21 1 209 361",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    },
+    {
+      "position_number": "14",
+      "part_number": "23 21 1 209 362",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    },
+    {
+      "position_number": "14",
+      "part_number": "23 22 1 224 183",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "23 21 1 209 359",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    },
+    {
+      "position_number": "14",
+      "part_number": "23 21 1 209 360",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    },
+    {
+      "position_number": "14",
+      "part_number": "23 21 1 209 361",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    },
+    {
+      "position_number": "14",
+      "part_number": "23 21 1 209 362",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    },
+    {
+      "position_number": "14",
+      "part_number": "23 22 1 224 183",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "23 21 1 209 359",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    },
+    {
+      "position_number": "14",
+      "part_number": "23 21 1 209 360",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    },
+    {
+      "position_number": "14",
+      "part_number": "23 21 1 209 361",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    },
+    {
+      "position_number": "14",
+      "part_number": "23 21 1 209 362",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    },
+    {
+      "position_number": "14",
+      "part_number": "23 22 1 224 183",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "23 22 1 224 179",
+      "quantity": 1,
+      "description": "Needle cage",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "23 22 1 224 179",
+      "quantity": 1,
+      "description": "Needle cage",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "23 22 1 224 179",
+      "quantity": 1,
+      "description": "Needle cage",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "23 22 1 224 182",
+      "quantity": 1,
+      "description": "Spacer bush",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "23 22 1 224 292",
+      "quantity": 1,
+      "description": "Spacer bush",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "23 22 1 224 182",
+      "quantity": 1,
+      "description": "Spacer bush",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "23 22 1 224 292",
+      "quantity": 1,
+      "description": "Spacer bush",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "23 22 1 224 182",
+      "quantity": 1,
+      "description": "Spacer bush",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "23 22 1 224 292",
+      "quantity": 1,
+      "description": "Spacer bush",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "23 22 1 224 185",
+      "quantity": 1,
+      "description": "Needle cage",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "23 22 1 224 185",
+      "quantity": 1,
+      "description": "Needle cage",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "23 22 1 224 185",
+      "quantity": 1,
+      "description": "Needle cage",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "23 22 1 224 287",
+      "quantity": 1,
+      "description": "Needle cage",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "23 22 1 224 287",
+      "quantity": 1,
+      "description": "Needle cage",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "23 22 1 224 287",
+      "quantity": 1,
+      "description": "Needle cage",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "23 22 1 224 190",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "23 22 1 224 191",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "23 22 1 224 192",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "23 22 1 224 193",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "23 22 1 224 194",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "23 22 1 224 190",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "23 22 1 224 191",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "23 22 1 224 192",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "23 22 1 224 193",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "23 22 1 224 194",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "23 22 1 224 190",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "23 22 1 224 191",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "23 22 1 224 192",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "23 22 1 224 193",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "23 22 1 224 194",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "23 22 1 224 485",
+      "quantity": 1,
+      "description": "Shift gear for 2nd. gear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "23 22 1 224 485",
+      "quantity": 1,
+      "description": "Shift gear for 2nd. gear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "23 22 1 224 485",
+      "quantity": 1,
+      "description": "Shift gear for 2nd. gear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "24",
+      "part_number": "23 23 1 224 230",
+      "quantity": 1,
+      "description": "Synchronizer ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "24",
+      "part_number": "23 23 1 224 230",
+      "quantity": 1,
+      "description": "Synchronizer ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "24",
+      "part_number": "23 23 1 224 230",
+      "quantity": 1,
+      "description": "Synchronizer ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "25",
+      "part_number": "23 23 1 224 302",
+      "quantity": 1,
+      "description": "Guide sleeve",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "25",
+      "part_number": "23 23 1 224 302",
+      "quantity": 1,
+      "description": "Guide sleeve",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "25",
+      "part_number": "23 23 1 224 302",
+      "quantity": 1,
+      "description": "Guide sleeve",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "26",
+      "part_number": "23 22 1 228 021",
+      "quantity": 1,
+      "description": "Shift gear for 1st. gear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "26",
+      "part_number": "23 22 1 228 021",
+      "quantity": 1,
+      "description": "Shift gear for 1st. gear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "26",
+      "part_number": "23 22 1 228 021",
+      "quantity": 1,
+      "description": "Shift gear for 1st. gear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "27",
+      "part_number": "23 23 1 224 230",
+      "quantity": 1,
+      "description": "Synchronizer ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "27",
+      "part_number": "23 23 1 224 230",
+      "quantity": 1,
+      "description": "Synchronizer ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "27",
+      "part_number": "23 23 1 224 230",
+      "quantity": 1,
+      "description": "Synchronizer ring",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

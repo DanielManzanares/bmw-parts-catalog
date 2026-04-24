@@ -1,0 +1,61 @@
+{
+  "id": 1492,
+  "diagram_title": "BMW sports seat upholstery parts",
+  "image_url": "http://ills.bmwfans.info/1dby.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "7",
+      "part_number": "52 10 1 923 905",
+      "quantity": 4,
+      "description": "Pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 1 923 905",
+      "quantity": 4,
+      "description": "Pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 23 1 943 279",
+      "quantity": 4,
+      "description": "Securing plate",
+      "price_eur": null,
+      "compatible_models": "CMSP, E23, E24, E28, E30, Z1"
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 23 1 943 279",
+      "quantity": 4,
+      "description": "Securing plate",
+      "price_eur": null,
+      "compatible_models": "CMSP, E23, E24, E28, E30, Z1"
+    },
+    {
+      "position_number": "9",
+      "part_number": "52 10 1 927 000",
+      "quantity": 2,
+      "description": "Claspe backrest front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "52 10 1 927 000",
+      "quantity": 2,
+      "description": "Claspe backrest front",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

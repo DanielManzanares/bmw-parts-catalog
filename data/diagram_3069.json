@@ -1,0 +1,237 @@
+{
+  "id": 3069,
+  "diagram_title": "Side panel/tail trim",
+  "image_url": "http://ills.bmwfans.info/ac8.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "41 35 8 130 797",
+      "quantity": 1,
+      "description": "Left rear side panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "41 35 8 130 798",
+      "quantity": 1,
+      "description": "Left rear side panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "41 34 8 151 542",
+      "quantity": 1,
+      "description": "Tail trim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 17 1 960 024",
+      "quantity": 1,
+      "description": "Fill-in flap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 17 1 923 919",
+      "quantity": 1,
+      "description": "Support filler cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "67 11 6 987 627",
+      "quantity": 1,
+      "description": "Filler flap actuator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 17 8 156 239",
+      "quantity": 2,
+      "description": "Stop buffer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 17 1 888 394",
+      "quantity": 2,
+      "description": "Spacer sleeve",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 71 1 977 597",
+      "quantity": 1,
+      "description": "Rubber cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 905 543",
+      "quantity": 2,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E83, E83 Facelift, E84, E85, E86, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02 Facelift, F03, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F36, F46, F48, F85, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 25 8 151 799",
+      "quantity": 1,
+      "description": "Rubber boot",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 25 8 151 536",
+      "quantity": 1,
+      "description": "Sleeve",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 26 8 354 462",
+      "quantity": 1,
+      "description": "Torx-bolt for plastic material",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 71 8 130 071",
+      "quantity": 1,
+      "description": "Trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 71 8 130 072",
+      "quantity": 1,
+      "description": "Trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "16 13 1 176 747",
+      "quantity": 2,
+      "description": "Plastic nut",
+      "price_eur": null,
+      "compatible_models": "CMSP, E23, E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E64, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F46, F48, F80, F80 Facelift, F82, F83, F85, F86, F87, G11, G12, I01, I12, Z1, Z3"
+    },
+    {
+      "position_number": "17",
+      "part_number": "51 71 8 242 741",
+      "quantity": 2,
+      "description": "Plug-in nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "07 11 9 901 299",
+      "quantity": 2,
+      "description": "Hex head screw",
+      "price_eur": 1.12,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E52, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F46, F82, I01, Z1, Z3"
+    },
+    {
+      "position_number": "19",
+      "part_number": "41 35 8 162 789",
+      "quantity": 1,
+      "description": "Section of rear left fender",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "41 35 8 162 790",
+      "quantity": 1,
+      "description": "Section of rear left fender",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "41 35 8 162 787",
+      "quantity": 1,
+      "description": "Section of rear left fender",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "41 35 8 162 788",
+      "quantity": 1,
+      "description": "Section of rear left fender",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "51 17 1 888 374",
+      "quantity": 1,
+      "description": "Spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "51 25 8 132 168",
+      "quantity": 1,
+      "description": "Pulling strip f emergency mechanism",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "51 25 8 132 166",
+      "quantity": 1,
+      "description": "Emergency mechanism",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "24",
+      "part_number": "41 14 8 134 049",
+      "quantity": 1,
+      "description": "Bracket CD-changer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "25",
+      "part_number": "51 17 8 153 364",
+      "quantity": 1,
+      "description": "Stop buffer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "26",
+      "part_number": "51 25 2 238 237",
+      "quantity": 4,
+      "description": "Stop buffer",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 5147,
+  "diagram_title": "Retrofit kit, teleph. antenna Dualband",
+  "image_url": "http://ills.bmwfans.info/22nj.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "3",
+      "part_number": "84 53 0 029 400",
+      "quantity": 1,
+      "description": "Install.kit, telephone roof antenna",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "84 53 0 029 400",
+      "quantity": 1,
+      "description": "Install.kit, telephone roof antenna",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "84 51 0 016 669",
+      "quantity": 1,
+      "description": "Fender antenna retrofit kit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "84 51 0 016 669",
+      "quantity": 1,
+      "description": "Fender antenna retrofit kit",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

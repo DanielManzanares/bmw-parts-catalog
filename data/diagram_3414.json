@@ -1,0 +1,45 @@
+{
+  "id": 3414,
+  "diagram_title": "Ews control unit/tr module/support",
+  "image_url": "http://ills.bmwfans.info/knr.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "3",
+      "part_number": "61 35 8 362 337",
+      "quantity": 1,
+      "description": "Transmitter receiver module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 35 8 379 502",
+      "quantity": 1,
+      "description": "Transmitter receiver module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 13 8 369 055",
+      "quantity": 1,
+      "description": "Bracket f transmitter receiver module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 13 8 369 056",
+      "quantity": 1,
+      "description": "Bracket f transmitter receiver module",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

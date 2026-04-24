@@ -1,0 +1,629 @@
+{
+  "id": 3195,
+  "diagram_title": "Sun blind, rear window shelf",
+  "image_url": "http://ills.bmwfans.info/b31.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 46 8 183 639",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 8 183 640",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 8 183 641",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 8 183 642",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 8 183 643",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 8 183 644",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 8 183 645",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 8 183 702",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 8 183 703",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 8 183 704",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 8 183 705",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 8 183 706",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 8 183 707",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 8 183 708",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 8 183 702",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 8 183 703",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 8 183 704",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 8 183 705",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 8 183 706",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 8 183 707",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 8 183 708",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 46 8 110 359",
+      "quantity": 4,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 1 964 201",
+      "quantity": 4,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 46 8 174 978",
+      "quantity": 1,
+      "description": "Cover loudspeaker left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 46 8 174 977",
+      "quantity": 1,
+      "description": "Cover loudspeaker right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 46 8 174 979",
+      "quantity": 1,
+      "description": "Cover loudspeaker right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 46 8 174 980",
+      "quantity": 1,
+      "description": "Cover loudspeaker right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 46 8 174 981",
+      "quantity": 1,
+      "description": "Cover loudspeaker right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 46 8 174 982",
+      "quantity": 1,
+      "description": "Cover loudspeaker right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 46 8 174 983",
+      "quantity": 1,
+      "description": "Cover loudspeaker right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 46 8 174 984",
+      "quantity": 1,
+      "description": "Cover loudspeaker right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 46 8 174 985",
+      "quantity": 1,
+      "description": "Cover loudspeaker right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 46 8 174 986",
+      "quantity": 1,
+      "description": "Cover loudspeaker right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 46 8 174 987",
+      "quantity": 1,
+      "description": "Cover loudspeaker right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 46 8 174 988",
+      "quantity": 1,
+      "description": "Cover loudspeaker right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 46 8 174 989",
+      "quantity": 1,
+      "description": "Cover loudspeaker right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 46 8 174 990",
+      "quantity": 1,
+      "description": "Cover loudspeaker right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 46 8 117 215",
+      "quantity": 1,
+      "description": "Grid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 46 8 173 236",
+      "quantity": 1,
+      "description": "Grid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 46 8 173 244",
+      "quantity": 1,
+      "description": "Grid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 46 8 173 261",
+      "quantity": 1,
+      "description": "Grid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 46 8 173 273",
+      "quantity": 1,
+      "description": "Grid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 46 8 173 279",
+      "quantity": 1,
+      "description": "Grid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 46 8 173 285",
+      "quantity": 1,
+      "description": "Grid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 46 8 117 215",
+      "quantity": 1,
+      "description": "Grid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 46 8 173 236",
+      "quantity": 1,
+      "description": "Grid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 46 8 173 244",
+      "quantity": 1,
+      "description": "Grid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 46 8 173 261",
+      "quantity": 1,
+      "description": "Grid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 46 8 173 273",
+      "quantity": 1,
+      "description": "Grid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 46 8 173 279",
+      "quantity": 1,
+      "description": "Grid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 46 8 173 285",
+      "quantity": 1,
+      "description": "Grid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 46 8 183 639",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 46 8 183 640",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 46 8 183 641",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 46 8 183 698",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 46 8 183 699",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 46 8 183 700",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 46 8 183 701",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 46 8 183 702",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 46 8 183 703",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 46 8 183 704",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 46 8 183 705",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 46 8 183 706",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 46 8 183 714",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 46 8 183 715",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 46 8 183 702",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 46 8 183 703",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 46 8 183 704",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 46 8 183 705",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 46 8 183 706",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 46 8 183 714",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 46 8 183 715",
+      "quantity": 1,
+      "description": "Rear window shelf",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 16 1 977 262",
+      "quantity": 2,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 16 1 977 027",
+      "quantity": 1,
+      "description": "Hook left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 16 1 977 028",
+      "quantity": 1,
+      "description": "Hook left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 46 8 130 825",
+      "quantity": 1,
+      "description": "Roller sun shield",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 16 9 410 520",
+      "quantity": 1,
+      "description": "Retrofit kit, sun blind, manual",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

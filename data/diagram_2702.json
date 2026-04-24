@@ -1,0 +1,21 @@
+{
+  "id": 2702,
+  "diagram_title": "Boot/trunk floor net",
+  "image_url": "http://ills.bmwfans.info/dmv.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 47 0 142 396",
+      "quantity": 1,
+      "description": "Boot/trunk floor net",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

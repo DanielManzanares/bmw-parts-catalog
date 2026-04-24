@@ -1,0 +1,109 @@
+{
+  "id": 342,
+  "diagram_title": "Hydro steering-oil pipes",
+  "image_url": "http://ills.bmwfans.info/30f.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 137,
+  "category_name": "Steering",
+  "parts": [
+    {
+      "position_number": "6",
+      "part_number": "32 41 6 783 886",
+      "quantity": 2,
+      "description": "Hollow bolt",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "32 41 6 852 469",
+      "quantity": 2,
+      "description": "12",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E83, E85, F15, F16, Z1, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "32 41 6 783 886",
+      "quantity": 2,
+      "description": "Hollow bolt",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "32 41 6 852 469",
+      "quantity": 2,
+      "description": "12",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E83, E85, F15, F16, Z1, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "32 41 1 093 596",
+      "quantity": 4,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E81, E82, E83, E84, E85, E86, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F15, F16, Z1, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "32 41 1 093 596",
+      "quantity": 4,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E81, E82, E83, E84, E85, E86, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F15, F16, Z1, Z3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "32 41 1 141 714",
+      "quantity": 1,
+      "description": "Return pipe with cooling coil",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "8",
+      "part_number": "32 41 1 141 714",
+      "quantity": 1,
+      "description": "Return pipe with cooling coil",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "9",
+      "part_number": "07 12 9 952 107",
+      "quantity": 1,
+      "description": "Hose clamp",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E81, E82, E83, E83 Facelift, E84, E87 Facelift, E88, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F36, F45, F46, F48, NK, Z1, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "07 12 9 952 107",
+      "quantity": 1,
+      "description": "Hose clamp",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E81, E82, E83, E83 Facelift, E84, E87 Facelift, E88, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F36, F45, F46, F48, NK, Z1, Z3"
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 913 426",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E53, E65, E66, E85, E9, NK, Z3"
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 913 426",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E53, E65, E66, E85, E9, NK, Z3"
+    }
+  ]
+}

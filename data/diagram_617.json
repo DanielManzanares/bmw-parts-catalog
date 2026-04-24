@@ -1,0 +1,61 @@
+{
+  "id": 617,
+  "diagram_title": "short_engine",
+  "image_url": "/static/images/diagrams/E46_318i-N42_engine_short_engine.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1,
+  "category_name": "Engine",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "11 00 7 519 601",
+      "quantity": 1,
+      "description": "Short Engine",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 00 0 304 935",
+      "quantity": 1,
+      "description": "03",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 00 7 519 602",
+      "quantity": 1,
+      "description": "Rmfd short engine",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 00 0 304 936",
+      "quantity": 1,
+      "description": "03",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 00 0 391 085",
+      "quantity": 1,
+      "description": "Short Engine",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 00 0 391 086",
+      "quantity": 1,
+      "description": "Rmfd short engine",
+      "price_eur": null,
+      "compatible_models": "E46"
+    }
+  ]
+}

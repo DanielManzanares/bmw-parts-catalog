@@ -1,0 +1,45 @@
+{
+  "id": 7524,
+  "diagram_title": "Individ. M sports strng whl airbag SA710",
+  "image_url": "http://ills.bmwfans.info/2hcd.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "32 34 8 019 988",
+      "quantity": 1,
+      "description": "M sports steer.-wheel, airbag, leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 34 8 022 399",
+      "quantity": 1,
+      "description": "M sports steer.-wheel, airbag, leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 34 8 019 037",
+      "quantity": 1,
+      "description": "M sports steer.-wheel, airbag, leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 34 8 022 400",
+      "quantity": 1,
+      "description": "M sports steer.-wheel, airbag, leather",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

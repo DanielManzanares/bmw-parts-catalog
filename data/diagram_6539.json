@@ -1,0 +1,173 @@
+{
+  "id": 6539,
+  "diagram_title": "Circular connector / D 2, 5 mm System",
+  "image_url": "http://ills.bmwfans.info/3krp.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "4",
+      "part_number": "61 13 0 007 449",
+      "quantity": 1,
+      "description": "Snap-in receptacle 2.5 with cable",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 13 0 007 450",
+      "quantity": 1,
+      "description": "Snap-in receptacle 2.5 with cable",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 13 0 007 452",
+      "quantity": 1,
+      "description": "Circular contact 2.5 with cable",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 13 0 007 453",
+      "quantity": 1,
+      "description": "Circular contact 2.5 with cable",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 13 0 007 470",
+      "quantity": 1,
+      "description": "Snap-in receptacle 2.5 with cable",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 13 0 007 472",
+      "quantity": 1,
+      "description": "Snap-in receptacle 2.5 with cable",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "61 13 0 007 569",
+      "quantity": 1,
+      "description": "Snap-in receptacle 2.5 ELA with cable",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "61 13 0 007 571",
+      "quantity": 1,
+      "description": "Snap-in receptacle 2.5 ELA with cable",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "61 13 0 007 570",
+      "quantity": 1,
+      "description": "Circular contact 2.5 ELA with cable",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "61 13 0 007 572",
+      "quantity": 1,
+      "description": "Circular contact 2.5 ELA with cable",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 13 1 376 202",
+      "quantity": 1,
+      "description": "Snap-in receptacle 2.5",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 13 1 376 204",
+      "quantity": 1,
+      "description": "Snap-in receptacle 2.5",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 13 1 376 206",
+      "quantity": 1,
+      "description": "Snap-in receptacle 2.5",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 13 8 352 926",
+      "quantity": 1,
+      "description": "Snap-in receptacle 2.5",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 13 1 392 302",
+      "quantity": 1,
+      "description": "Snap-in receptacle 2.5",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 13 1 392 304",
+      "quantity": 1,
+      "description": "Snap-in receptacle 2.5",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "61 13 1 376 224",
+      "quantity": 1,
+      "description": "Snap-in receptacle 2.5",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "61 13 1 376 191",
+      "quantity": 1,
+      "description": "Circular contact 2.5",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "61 13 1 376 193",
+      "quantity": 1,
+      "description": "Circular contact 2.5",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "61 13 1 376 195",
+      "quantity": 1,
+      "description": "Circular contact 2.5",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

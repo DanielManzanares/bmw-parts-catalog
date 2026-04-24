@@ -1,0 +1,164 @@
+[
+  {
+    "id": 5778,
+    "diagram_title": "Barrel spring rear",
+    "image_url": "http://ills.bmwfans.info/ter.png",
+    "parts_count": 0
+  },
+  {
+    "id": 5737,
+    "diagram_title": "Differential-drive/output",
+    "image_url": "http://ills.bmwfans.info/e3j1.png",
+    "parts_count": 25
+  },
+  {
+    "id": 5741,
+    "diagram_title": "Final drive, gasket set",
+    "image_url": "http://ills.bmwfans.info/3e8k.png",
+    "parts_count": 11
+  },
+  {
+    "id": 5763,
+    "diagram_title": "Headlight vertical aim control sensor",
+    "image_url": "http://ills.bmwfans.info/flv.png",
+    "parts_count": 14
+  },
+  {
+    "id": 5766,
+    "diagram_title": "Kit, wheel bearing, rear / Value Line",
+    "image_url": "http://ills.bmwfans.info/d7e8.png",
+    "parts_count": 3
+  },
+  {
+    "id": 5744,
+    "diagram_title": "Output shaft",
+    "image_url": "http://ills.bmwfans.info/2a85.png",
+    "parts_count": 8
+  },
+  {
+    "id": 5748,
+    "diagram_title": "Output shaft with bearing ball cage",
+    "image_url": "http://ills.bmwfans.info/2qd0.png",
+    "parts_count": 6
+  },
+  {
+    "id": 5752,
+    "diagram_title": "Rear axle carrier",
+    "image_url": "http://ills.bmwfans.info/2ot0.png",
+    "parts_count": 17
+  },
+  {
+    "id": 5756,
+    "diagram_title": "Rear axle support/wheel suspension",
+    "image_url": "http://ills.bmwfans.info/fgb.png",
+    "parts_count": 29
+  },
+  {
+    "id": 5771,
+    "diagram_title": "Rear spring strut mounting parts",
+    "image_url": "http://ills.bmwfans.info/1yey.png",
+    "parts_count": 19
+  },
+  {
+    "id": 5759,
+    "diagram_title": "Repair kit for trailing arm",
+    "image_url": "http://ills.bmwfans.info/bxp4.png",
+    "parts_count": 1
+  },
+  {
+    "id": 5774,
+    "diagram_title": "Repair kits, shock absorber rear",
+    "image_url": "http://ills.bmwfans.info/byqo.png",
+    "parts_count": 3
+  },
+  {
+    "id": 5768,
+    "diagram_title": "Side shaft/wheel bearings",
+    "image_url": "http://ills.bmwfans.info/bzmk.png",
+    "parts_count": 5
+  },
+  {
+    "id": 5782,
+    "diagram_title": "Stabilizer, rear",
+    "image_url": "http://ills.bmwfans.info/fh4.png",
+    "parts_count": 14
+  },
+  {
+    "id": 1191,
+    "diagram_title": "differential_drive_output",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_rear_axle_differential_drive_output.png",
+    "parts_count": 24
+  },
+  {
+    "id": 1187,
+    "diagram_title": "final_drive_gasket_set",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_rear_axle_final_drive_gasket_set.png",
+    "parts_count": 11
+  },
+  {
+    "id": 1194,
+    "diagram_title": "headlight_vertical_aim_control_sensor",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_rear_axle_headlight_vertical_aim_control_sensor.png",
+    "parts_count": 14
+  },
+  {
+    "id": 1189,
+    "diagram_title": "kit_wheel_bearing_rear_value_line",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_rear_axle_kit_wheel_bearing_rear_value_line.png",
+    "parts_count": 3
+  },
+  {
+    "id": 1188,
+    "diagram_title": "output_shaft",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_rear_axle_output_shaft.png",
+    "parts_count": 8
+  },
+  {
+    "id": 1185,
+    "diagram_title": "output_shaft_with_bearing_ball_cage",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_rear_axle_output_shaft_with_bearing_ball_cage.png",
+    "parts_count": 6
+  },
+  {
+    "id": 1186,
+    "diagram_title": "rear_axle_carrier",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_rear_axle_rear_axle_carrier.png",
+    "parts_count": 17
+  },
+  {
+    "id": 1193,
+    "diagram_title": "rear_axle_support_wheel_suspension",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_rear_axle_rear_axle_support_wheel_suspension.png",
+    "parts_count": 29
+  },
+  {
+    "id": 1199,
+    "diagram_title": "rear_spring_strut_mounting_parts",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_rear_axle_rear_spring_strut_mounting_parts.png",
+    "parts_count": 16
+  },
+  {
+    "id": 1192,
+    "diagram_title": "repair_kit_for_trailing_arm",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_rear_axle_repair_kit_for_trailing_arm.png",
+    "parts_count": 1
+  },
+  {
+    "id": 1195,
+    "diagram_title": "repair_kits_shock_absorber_rear",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_rear_axle_repair_kits_shock_absorber_rear.png",
+    "parts_count": 3
+  },
+  {
+    "id": 1190,
+    "diagram_title": "side_shaft_wheel_bearings",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_rear_axle_side_shaft_wheel_bearings.png",
+    "parts_count": 5
+  },
+  {
+    "id": 1196,
+    "diagram_title": "stabilizer_rear",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_rear_axle_stabilizer_rear.png",
+    "parts_count": 12
+  }
+]

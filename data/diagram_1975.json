@@ -1,0 +1,109 @@
+{
+  "id": 1975,
+  "diagram_title": "Cassetten radio",
+  "image_url": "http://ills.bmwfans.info/dnl.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 11 9 058 621",
+      "quantity": 1,
+      "description": "Radio Bavaria Mono",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 11 9 061 281",
+      "quantity": 1,
+      "description": "Radio Bavaria Mono",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 11 9 058 621",
+      "quantity": 1,
+      "description": "Radio Bavaria Mono",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 11 9 061 281",
+      "quantity": 1,
+      "description": "Radio Bavaria Mono",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 11 9 058 621",
+      "quantity": 1,
+      "description": "Radio Bavaria Mono",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 11 9 061 281",
+      "quantity": 1,
+      "description": "Radio Bavaria Mono",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 11 9 057 164",
+      "quantity": 1,
+      "description": "Stereo System 1",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 11 9 057 456",
+      "quantity": 1,
+      "description": "Stereo System 1",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 11 9 057 164",
+      "quantity": 1,
+      "description": "Stereo System 1",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 11 9 057 456",
+      "quantity": 1,
+      "description": "Stereo System 1",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 11 9 057 164",
+      "quantity": 1,
+      "description": "Stereo System 1",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 11 9 057 456",
+      "quantity": 1,
+      "description": "Stereo System 1",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

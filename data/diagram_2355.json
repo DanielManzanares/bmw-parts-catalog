@@ -1,0 +1,101 @@
+{
+  "id": 2355,
+  "diagram_title": "Labels independent heating",
+  "image_url": "http://ills.bmwfans.info/3dza.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 12 0 152 493",
+      "quantity": 1,
+      "description": "Duplicate plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "64 12 0 152 021",
+      "quantity": 1,
+      "description": "Tank information label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "64 12 0 152 666",
+      "quantity": 1,
+      "description": "Tank information label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "64 12 6 955 188",
+      "quantity": 1,
+      "description": "Tank information label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "71 23 9 215 934",
+      "quantity": 1,
+      "description": "Tank information label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "64 12 6 955 187",
+      "quantity": 1,
+      "description": "Tank information label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "64 12 6 955 189",
+      "quantity": 1,
+      "description": "Tank information label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "64 12 6 955 190",
+      "quantity": 1,
+      "description": "Tank information label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "64 12 6 955 191",
+      "quantity": 1,
+      "description": "Tank information label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "64 12 6 955 192",
+      "quantity": 1,
+      "description": "Tank information label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "71 23 9 230 081",
+      "quantity": 1,
+      "description": "Tank information label",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

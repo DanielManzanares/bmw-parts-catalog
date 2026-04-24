@@ -1,0 +1,197 @@
+{
+  "id": 5879,
+  "diagram_title": "M Trim, front",
+  "image_url": "http://ills.bmwfans.info/dogl.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 11 7 893 057",
+      "quantity": 1,
+      "description": "Trim cover, bumper, primered, front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 11 0 025 162",
+      "quantity": 1,
+      "description": "Trim cover, bumper, primered, front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 11 1 000 238",
+      "quantity": 1,
+      "description": "Flap, towing eye, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 11 7 173 750",
+      "quantity": 1,
+      "description": "Flap, towing eye, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 11 8 191 149",
+      "quantity": 1,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 11 7 893 062",
+      "quantity": 1,
+      "description": "Grid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 11 7 896 273",
+      "quantity": 1,
+      "description": "Adapter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "64 11 8 247 773",
+      "quantity": 4,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 11 7 893 067",
+      "quantity": 1,
+      "description": "Cover, fog lamp, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 11 7 893 068",
+      "quantity": 1,
+      "description": "Cover, fog lamp, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 11 8 245 103",
+      "quantity": 1,
+      "description": "Licence plate base primed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 11 8 255 006",
+      "quantity": 1,
+      "description": "Licence plate base",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 11 8 244 354",
+      "quantity": 1,
+      "description": "Licence plate base primed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 11 8 255 005",
+      "quantity": 1,
+      "description": "Licence plate base",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "11 61 1 716 166",
+      "quantity": 2,
+      "description": "Threaded bush",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 14 6 959 925",
+      "quantity": 1,
+      "description": "Phillips screw f plastic material",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 11 8 195 295",
+      "quantity": 1,
+      "description": "Support fender left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 11 8 195 296",
+      "quantity": 1,
+      "description": "Support fender left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 11 9 902 933",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "07 11 9 904 164",
+      "quantity": 4,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39, E46, E53, E65, F45, F80, F80 Facelift, F82, F83, Z3"
+    },
+    {
+      "position_number": "17",
+      "part_number": "51 11 8 222 901",
+      "quantity": 8,
+      "description": "Blind compression rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "51 11 8 174 185",
+      "quantity": 1,
+      "description": "Expanding rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "51 11 2 293 995",
+      "quantity": 1,
+      "description": "Set of mounted parts, bumper, front",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

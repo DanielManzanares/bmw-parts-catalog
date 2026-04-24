@@ -1,0 +1,133 @@
+{
+  "id": 1963,
+  "diagram_title": "Touring bicycle holder",
+  "image_url": "http://ills.bmwfans.info/2nai.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 72 0 137 716",
+      "quantity": 1,
+      "description": "Touring bicycle holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 71 2 166 924",
+      "quantity": 1,
+      "description": "Touring bicycle holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 72 0 137 716",
+      "quantity": 1,
+      "description": "Touring bicycle holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 71 2 166 924",
+      "quantity": 1,
+      "description": "Touring bicycle holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 72 0 137 716",
+      "quantity": 1,
+      "description": "Touring bicycle holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 71 2 166 924",
+      "quantity": 1,
+      "description": "Touring bicycle holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 72 0 154 315",
+      "quantity": 1,
+      "description": "Strap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 72 0 154 315",
+      "quantity": 1,
+      "description": "Strap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 72 0 154 315",
+      "quantity": 1,
+      "description": "Strap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 72 0 144 049",
+      "quantity": 1,
+      "description": "Key (Code)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 72 0 144 049",
+      "quantity": 1,
+      "description": "Key (Code)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 72 0 144 049",
+      "quantity": 1,
+      "description": "Key (Code)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 72 0 303 536",
+      "quantity": 1,
+      "description": "Lock cylinder with key",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 72 0 303 536",
+      "quantity": 1,
+      "description": "Lock cylinder with key",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 72 0 303 536",
+      "quantity": 1,
+      "description": "Lock cylinder with key",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

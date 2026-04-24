@@ -1,0 +1,301 @@
+{
+  "id": 3087,
+  "diagram_title": "Front door control/door lock",
+  "image_url": "http://ills.bmwfans.info/abx.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 21 8 122 441",
+      "quantity": 1,
+      "description": "Covering front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 21 8 122 442",
+      "quantity": 1,
+      "description": "Covering front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 21 8 205 302",
+      "quantity": 1,
+      "description": "Covering front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 21 8 151 559",
+      "quantity": 2,
+      "description": "Pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 21 1 928 307",
+      "quantity": 2,
+      "description": "Nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 21 1 928 380",
+      "quantity": 2,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 12 9 934 911",
+      "quantity": 2,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 21 8 203 937",
+      "quantity": 2,
+      "description": "Lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 21 1 977 539",
+      "quantity": 1,
+      "description": "Door handle, inside left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 21 1 977 540",
+      "quantity": 1,
+      "description": "Door handle, inside left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 21 2 261 145",
+      "quantity": 1,
+      "description": "Door handle, inside left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 21 2 261 146",
+      "quantity": 1,
+      "description": "Door handle, inside left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 22 8 219 023",
+      "quantity": 1,
+      "description": "Covering left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 22 8 219 024",
+      "quantity": 1,
+      "description": "Covering left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "07 14 7 117 570",
+      "quantity": 2,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 12 9 904 220",
+      "quantity": 2,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 21 8 132 895",
+      "quantity": 1,
+      "description": "Left operating rod",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 21 8 132 896",
+      "quantity": 1,
+      "description": "Left operating rod",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "61 13 1 379 079",
+      "quantity": 2,
+      "description": "Cable holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 21 1 977 669",
+      "quantity": 2,
+      "description": "Base",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 21 8 132 887",
+      "quantity": 2,
+      "description": "Operating rod",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 21 1 805 643",
+      "quantity": 2,
+      "description": "Lock button",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 21 8 399 243",
+      "quantity": 2,
+      "description": "Lock button",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 21 1 975 404",
+      "quantity": 2,
+      "description": "Blind plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "51 21 1 970 530",
+      "quantity": 2,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "61 13 1 383 592",
+      "quantity": 2,
+      "description": "Plug-in connection bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "51 22 8 202 809",
+      "quantity": 2,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "51 21 8 169 237",
+      "quantity": 1,
+      "description": "Repair kit lock cylinder left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "51 21 8 169 238",
+      "quantity": 1,
+      "description": "Repair kit lock cylinder left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "51 21 8 135 959",
+      "quantity": 1,
+      "description": "Repair kit lock cylinder left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "51 21 8 135 960",
+      "quantity": 1,
+      "description": "Repair kit lock cylinder left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "61 31 1 387 028",
+      "quantity": 1,
+      "description": "Microswitch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "51 21 8 208 423",
+      "quantity": 1,
+      "description": "Microswitch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "61 31 1 382 372",
+      "quantity": 1,
+      "description": "Microswitch clip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "24",
+      "part_number": "51 21 1 970 863",
+      "quantity": 2,
+      "description": "Stop buffer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "25",
+      "part_number": "61 13 1 383 592",
+      "quantity": 2,
+      "description": "Plug-in connection bracket",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 2319,
+  "diagram_title": "Fine wood trim",
+  "image_url": "http://ills.bmwfans.info/dmm.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "82 25 9 402 148",
+      "quantity": 1,
+      "description": "Wooden cover front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 25 9 402 152",
+      "quantity": 1,
+      "description": "Wooden cover front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 25 9 403 137",
+      "quantity": 1,
+      "description": "Wooden cover rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 25 9 403 138",
+      "quantity": 1,
+      "description": "Wooden cover rear left",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

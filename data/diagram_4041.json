@@ -1,0 +1,21 @@
+{
+  "id": 4041,
+  "diagram_title": "Ultrasonic-sensor",
+  "image_url": "http://ills.bmwfans.info/bxb4.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1644,
+  "category_name": "Distance Systems, Cruise Control",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "66 21 6 902 180",
+      "quantity": 4,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

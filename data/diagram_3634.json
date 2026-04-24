@@ -1,0 +1,125 @@
+{
+  "id": 3634,
+  "diagram_title": "Front seat backrest frame/rear panel",
+  "image_url": "http://ills.bmwfans.info/2x9m.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 234 341",
+      "quantity": 1,
+      "description": "Backrest frame",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 7 047 117",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 235 907",
+      "quantity": 1,
+      "description": "Rear panel with net bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 235 908",
+      "quantity": 1,
+      "description": "Rear panel with net bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 235 909",
+      "quantity": 1,
+      "description": "Rear panel with net bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 267 637",
+      "quantity": 1,
+      "description": "Rear panel with net bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 267 636",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 267 638",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 8 251 432",
+      "quantity": 2,
+      "description": "Set of fittings for seat insets",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 10 8 240 499",
+      "quantity": 2,
+      "description": "Set of fittings for seat shell",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 8 240 495",
+      "quantity": 2,
+      "description": "Set of fittings for backrest rear panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 7 004 689",
+      "quantity": 2,
+      "description": "Valve unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 8 099 008",
+      "quantity": 2,
+      "description": "Lumbar support pump",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 099 007",
+      "quantity": 2,
+      "description": "Lordosis pad",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

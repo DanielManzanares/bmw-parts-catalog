@@ -1,0 +1,125 @@
+{
+  "id": 3025,
+  "diagram_title": "Gearshift manual transmission",
+  "image_url": "http://ills.bmwfans.info/2vk3.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1635,
+  "category_name": "Gearshift",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "25 11 1 434 109",
+      "quantity": 1,
+      "description": "Shifting arm",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "25 11 7 519 669",
+      "quantity": 1,
+      "description": "Bearing sleeve, round",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "25 11 1 221 849",
+      "quantity": 1,
+      "description": "Bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "25 11 1 222 015",
+      "quantity": 1,
+      "description": "Bearing, shifting arm",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "25 11 7 527 256",
+      "quantity": 1,
+      "description": "Shift lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "25 11 1 220 600",
+      "quantity": 1,
+      "description": "Bearing, shift lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "25 11 7 522 149",
+      "quantity": 1,
+      "description": "Rubber boot",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "25 11 1 434 613",
+      "quantity": 1,
+      "description": "Selector rod",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "25 11 1 220 439",
+      "quantity": 4,
+      "description": "Plastic washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "25 11 7 571 899",
+      "quantity": 2,
+      "description": "Circlip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "25 11 7 580 281",
+      "quantity": 1,
+      "description": "Gearshift rod joint",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "25 11 1 222 451",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "25 11 1 434 194",
+      "quantity": 1,
+      "description": "Plastic washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "23 41 1 466 134",
+      "quantity": 1,
+      "description": "Dowel pin",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

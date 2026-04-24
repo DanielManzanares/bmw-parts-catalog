@@ -1,0 +1,29 @@
+{
+  "id": 3324,
+  "diagram_title": "Wiring electr. seat adjustment front",
+  "image_url": "http://ills.bmwfans.info/bud.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 11 8 353 948",
+      "quantity": 1,
+      "description": "Wiring set f left seat adjustm./lordosis",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 12 8 365 950",
+      "quantity": 1,
+      "description": "Wiring set f right seat adjust./lordosis",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

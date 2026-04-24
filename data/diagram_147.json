@@ -1,0 +1,141 @@
+{
+  "id": 147,
+  "diagram_title": "Sports steering wheel",
+  "image_url": "http://ills.bmwfans.info/2z9.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 137,
+  "category_name": "Steering",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "32 34 1 159 693",
+      "quantity": 1,
+      "description": "Sports steering wheel",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 34 1 159 693",
+      "quantity": 1,
+      "description": "Sports steering wheel",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 33 1 158 880",
+      "quantity": 1,
+      "description": "Horn pad",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 33 1 158 880",
+      "quantity": 1,
+      "description": "Horn pad",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "32 31 1 159 065",
+      "quantity": 1,
+      "description": "Slip ring",
+      "price_eur": null,
+      "compatible_models": "E31, E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "32 31 1 159 065",
+      "quantity": 1,
+      "description": "Slip ring",
+      "price_eur": null,
+      "compatible_models": "E31, E36"
+    },
+    {
+      "position_number": "4",
+      "part_number": "32 33 1 117 126",
+      "quantity": 3,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E9, Z1"
+    },
+    {
+      "position_number": "4",
+      "part_number": "32 33 1 117 126",
+      "quantity": 3,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E9, Z1"
+    },
+    {
+      "position_number": "5",
+      "part_number": "32 31 1 159 342",
+      "quantity": 3,
+      "description": "Compression spring",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36"
+    },
+    {
+      "position_number": "5",
+      "part_number": "32 31 1 159 342",
+      "quantity": 3,
+      "description": "Compression spring",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36"
+    },
+    {
+      "position_number": "6",
+      "part_number": "32 31 1 159 064",
+      "quantity": 3,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36"
+    },
+    {
+      "position_number": "6",
+      "part_number": "32 31 1 159 064",
+      "quantity": 3,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36"
+    },
+    {
+      "position_number": "7",
+      "part_number": "32 33 1 159 745",
+      "quantity": 3,
+      "description": "Insulating washer",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36"
+    },
+    {
+      "position_number": "7",
+      "part_number": "32 33 1 159 745",
+      "quantity": 3,
+      "description": "Insulating washer",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36"
+    },
+    {
+      "position_number": "8",
+      "part_number": "32 33 1 117 279",
+      "quantity": 1,
+      "description": "Badge",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E31, E32, E34, E36"
+    },
+    {
+      "position_number": "8",
+      "part_number": "32 33 1 117 279",
+      "quantity": 1,
+      "description": "Badge",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E31, E32, E34, E36"
+    }
+  ]
+}

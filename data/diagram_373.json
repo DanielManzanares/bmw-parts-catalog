@@ -1,0 +1,605 @@
+{
+  "id": 373,
+  "diagram_title": "Seat, rear, uphlstry/cover, load-through",
+  "image_url": "http://ills.bmwfans.info/b9z.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 151 950",
+      "quantity": 1,
+      "description": "Rear seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 151 950",
+      "quantity": 1,
+      "description": "Rear seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 8 130 149",
+      "quantity": 1,
+      "description": "Backrest rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 8 130 150",
+      "quantity": 1,
+      "description": "Backrest rear right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 8 130 149",
+      "quantity": 1,
+      "description": "Backrest rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 8 130 150",
+      "quantity": 1,
+      "description": "Backrest rear right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 039",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 040",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 041",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 042",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 043",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 044",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 045",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 046",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 047",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 048",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 8 144 563",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 8 144 564",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 8 144 565",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 8 144 566",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 8 144 567",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 8 144 568",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 8 144 569",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 8 144 570",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 025",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 026",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 027",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 028",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 029",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 030",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 031",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 032",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 036",
+      "quantity": 1,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 8 144 485",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 8 144 486",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 033",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 034",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 035",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 037",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 038",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 039",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 040",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 041",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 042",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 043",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 044",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 045",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 046",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 047",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 048",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 8 144 563",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 8 144 564",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 8 144 565",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 8 144 566",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 8 144 567",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 8 144 568",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 8 144 569",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 8 144 570",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 025",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 026",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 027",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 028",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 029",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 030",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 031",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 032",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 036",
+      "quantity": 1,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 8 144 485",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 8 144 486",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 033",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 034",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 035",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 037",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 038",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

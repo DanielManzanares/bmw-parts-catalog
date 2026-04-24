@@ -1,0 +1,53 @@
+{
+  "id": 2252,
+  "diagram_title": "Rubber mat",
+  "image_url": "http://ills.bmwfans.info/fdl.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 47 9 410 476",
+      "quantity": 1,
+      "description": "Set rubber mats front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 55 9 405 057",
+      "quantity": 1,
+      "description": "Set rubber mats front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 9 410 287",
+      "quantity": 1,
+      "description": "Set rubber mats rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 55 9 405 059",
+      "quantity": 1,
+      "description": "Set rubber mats rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 47 1 919 177",
+      "quantity": 1,
+      "description": "Lock",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

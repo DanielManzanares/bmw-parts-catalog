@@ -1,0 +1,157 @@
+{
+  "id": 1517,
+  "diagram_title": "Cover material, running meter",
+  "image_url": "http://ills.bmwfans.info/bpx.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "51 92 1 875 728",
+      "quantity": 1,
+      "description": "Upholstery cloth anthrazit",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 1 875 729",
+      "quantity": 1,
+      "description": "Upholstery cloth pacific",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 1 911 636",
+      "quantity": 1,
+      "description": "Upholstery cloth perlbeige",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 1 875 728",
+      "quantity": 1,
+      "description": "Upholstery cloth anthrazit",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 1 875 729",
+      "quantity": 1,
+      "description": "Upholstery cloth pacific",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 1 911 636",
+      "quantity": 1,
+      "description": "Upholstery cloth perlbeige",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 1 875 735",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E23, E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 1 875 736",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E23, E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 1 911 638",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E23, E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 1 875 735",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E23, E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 1 875 736",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E23, E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 1 911 638",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E23, E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 92 1 875 739",
+      "quantity": 1,
+      "description": "Upholstery vinyl pacific",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 92 1 905 498",
+      "quantity": 1,
+      "description": "Upholstery vinyl schwarz",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E9"
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 92 1 911 618",
+      "quantity": 1,
+      "description": "Upholstery vinyl perlbeige",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 92 1 875 739",
+      "quantity": 1,
+      "description": "Upholstery vinyl pacific",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 92 1 905 498",
+      "quantity": 1,
+      "description": "Upholstery vinyl schwarz",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E9"
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 92 1 911 618",
+      "quantity": 1,
+      "description": "Upholstery vinyl perlbeige",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    }
+  ]
+}

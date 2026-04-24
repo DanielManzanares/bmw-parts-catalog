@@ -1,0 +1,61 @@
+{
+  "id": 4294,
+  "diagram_title": "Labels BMW",
+  "image_url": "http://ills.bmwfans.info/2sax.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1531,
+  "category_name": "Technical Literature",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "01 30 9 599 190",
+      "quantity": 1,
+      "description": "Labels",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 49 0 390 517",
+      "quantity": 1,
+      "description": "Labels",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 30 9 099 980",
+      "quantity": 1,
+      "description": "Labels",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 30 9 599 190",
+      "quantity": 1,
+      "description": "Labels",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 49 0 390 517",
+      "quantity": 1,
+      "description": "Labels",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 30 9 099 980",
+      "quantity": 1,
+      "description": "Labels",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

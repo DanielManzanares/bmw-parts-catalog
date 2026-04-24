@@ -1,0 +1,101 @@
+{
+  "id": 3724,
+  "diagram_title": "Electric parts for ac unit",
+  "image_url": "http://ills.bmwfans.info/32zu.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 11 8 390 208",
+      "quantity": 1,
+      "description": "Blower unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 11 8 391 749",
+      "quantity": 1,
+      "description": "Blower resistor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 11 1 374 242",
+      "quantity": 2,
+      "description": "Temperature sensor, heater",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "64 51 8 364 458",
+      "quantity": 1,
+      "description": "Evaporator temperature sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "64 51 1 377 494",
+      "quantity": 1,
+      "description": "Rubber grommet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "64 11 8 364 761",
+      "quantity": 1,
+      "description": "Actuator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "64 11 8 364 761",
+      "quantity": 1,
+      "description": "Actuator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "64 11 8 364 760",
+      "quantity": 1,
+      "description": "Actuator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "64 11 1 378 849",
+      "quantity": 1,
+      "description": "Repair kit temperature sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "64 11 8 390 874",
+      "quantity": 1,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "61 12 8 362 295",
+      "quantity": 1,
+      "description": "Wiring for air conditioner",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

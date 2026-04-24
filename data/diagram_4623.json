@@ -1,0 +1,237 @@
+{
+  "id": 4623,
+  "diagram_title": "Retrofit fine wood trim, myrtle",
+  "image_url": "http://ills.bmwfans.info/12i8.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 45 8 214 679",
+      "quantity": 1,
+      "description": "Set of wooden covers, cockpit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 45 8 214 679",
+      "quantity": 1,
+      "description": "Set of wooden covers, cockpit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 209 568",
+      "quantity": 1,
+      "description": "Bottom panel depositing box wood",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 209 568",
+      "quantity": 1,
+      "description": "Bottom panel depositing box wood",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 41 8 259 957",
+      "quantity": 1,
+      "description": "Armrest, wood, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 41 8 259 958",
+      "quantity": 1,
+      "description": "Armrest, wood, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 41 8 259 959",
+      "quantity": 1,
+      "description": "Armrest, wood, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 41 8 259 960",
+      "quantity": 1,
+      "description": "Armrest, wood, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 41 8 259 961",
+      "quantity": 1,
+      "description": "Armrest, wood, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 41 8 259 962",
+      "quantity": 1,
+      "description": "Armrest, wood, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 41 8 259 957",
+      "quantity": 1,
+      "description": "Armrest, wood, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 41 8 259 958",
+      "quantity": 1,
+      "description": "Armrest, wood, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 41 8 259 959",
+      "quantity": 1,
+      "description": "Armrest, wood, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 41 8 259 960",
+      "quantity": 1,
+      "description": "Armrest, wood, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 41 8 259 961",
+      "quantity": 1,
+      "description": "Armrest, wood, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 41 8 259 962",
+      "quantity": 1,
+      "description": "Armrest, wood, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 43 8 257 969",
+      "quantity": 1,
+      "description": "Armrest, wood, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 43 8 257 970",
+      "quantity": 1,
+      "description": "Armrest, wood, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 43 8 257 973",
+      "quantity": 1,
+      "description": "Armrest, wood, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 43 8 257 974",
+      "quantity": 1,
+      "description": "Armrest, wood, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 43 8 257 977",
+      "quantity": 1,
+      "description": "Armrest, wood, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 43 8 257 978",
+      "quantity": 1,
+      "description": "Armrest, wood, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 43 8 257 969",
+      "quantity": 1,
+      "description": "Armrest, wood, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 43 8 257 970",
+      "quantity": 1,
+      "description": "Armrest, wood, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 43 8 257 973",
+      "quantity": 1,
+      "description": "Armrest, wood, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 43 8 257 974",
+      "quantity": 1,
+      "description": "Armrest, wood, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 43 8 257 977",
+      "quantity": 1,
+      "description": "Armrest, wood, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 43 8 257 978",
+      "quantity": 1,
+      "description": "Armrest, wood, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

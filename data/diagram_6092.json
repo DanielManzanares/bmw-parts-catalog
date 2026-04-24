@@ -1,0 +1,125 @@
+{
+  "id": 6092,
+  "diagram_title": "Rear wheelhouse/floor parts",
+  "image_url": "http://ills.bmwfans.info/2s5a.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "41 11 7 000 246",
+      "quantity": 1,
+      "description": "Repair part, insert, rear axle support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "41 14 8 231 757",
+      "quantity": 1,
+      "description": "Rear left wheelhouse, inner half",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "41 14 8 231 758",
+      "quantity": 1,
+      "description": "Rear right wheelhouse, inner half",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "41 14 8 245 733",
+      "quantity": 1,
+      "description": "Covering plate left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "41 14 8 245 734",
+      "quantity": 1,
+      "description": "Covering plate right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "41 14 8 196 386",
+      "quantity": 1,
+      "description": "Fuel expansion tank bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "41 00 7 042 349",
+      "quantity": 1,
+      "description": "Bracket f battery mounting",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "41 21 8 228 239",
+      "quantity": 1,
+      "description": "Left exterior column c",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "41 21 8 228 240",
+      "quantity": 1,
+      "description": "Right exterior column c",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "41 00 7 030 266",
+      "quantity": 1,
+      "description": "Repair part, insert, rear axle support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "41 11 7 000 246",
+      "quantity": 1,
+      "description": "Repair part, insert, rear axle support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "41 12 8 246 251",
+      "quantity": 1,
+      "description": "Bracket f shifting arm bearing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "41 11 7 023 994",
+      "quantity": 2,
+      "description": "Molded part, rear axle support right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "24",
+      "part_number": "41 12 3 405 031",
+      "quantity": 1,
+      "description": "Bracket for propel. shaft center bearing",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

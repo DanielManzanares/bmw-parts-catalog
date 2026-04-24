@@ -1,0 +1,53 @@
+{
+  "id": 3235,
+  "diagram_title": "Front aggregate protective plate",
+  "image_url": "http://ills.bmwfans.info/bek.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 71 8 209 093",
+      "quantity": 1,
+      "description": "Front aggregate protective plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 31 1 159 024",
+      "quantity": 2,
+      "description": "Welding nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 71 1 909 942",
+      "quantity": 2,
+      "description": "Blind rivet nut, flat headed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 931 687",
+      "quantity": 2,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "71 60 1 245 892",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

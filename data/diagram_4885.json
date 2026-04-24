@@ -1,0 +1,29 @@
+{
+  "id": 4885,
+  "diagram_title": "Luggage compatment box \"multifix\"",
+  "image_url": "http://ills.bmwfans.info/dmr.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 12 9 400 851",
+      "quantity": 1,
+      "description": "Luggage carrier",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 12 9 400 851",
+      "quantity": 1,
+      "description": "Luggage carrier",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

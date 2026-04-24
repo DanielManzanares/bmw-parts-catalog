@@ -1,0 +1,45 @@
+{
+  "id": 2467,
+  "diagram_title": "Retrofit real wood version, maple",
+  "image_url": "http://ills.bmwfans.info/14zg.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 45 8 237 204",
+      "quantity": 1,
+      "description": "Set of wooden covers, cockpit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 8 239 227",
+      "quantity": 1,
+      "description": "Set of wooden covers",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 8 239 117",
+      "quantity": 1,
+      "description": "Bottom panel depositing box wood",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 8 239 121",
+      "quantity": 1,
+      "description": "Bottom panel depositing box wood",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

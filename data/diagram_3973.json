@@ -1,0 +1,389 @@
+{
+  "id": 3973,
+  "diagram_title": "Individual wood, interior door handle",
+  "image_url": "http://ills.bmwfans.info/f1j.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 41 2 261 234",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 2 261 272",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 2 261 274",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 2 261 276",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 2 261 278",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 2 261 296",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 2 261 302",
+      "quantity": 1,
+      "description": "Handle left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 2 423 564",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 2 423 712",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 2 423 794",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 2 424 280",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 2 261 233",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 2 261 271",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 2 261 273",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 2 261 275",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 2 261 277",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 2 261 295",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 2 261 301",
+      "quantity": 1,
+      "description": "Handle left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 2 423 563",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 2 423 711",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 2 423 793",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 2 424 279",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 2 261 133",
+      "quantity": 1,
+      "description": "Handle left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 2 261 134",
+      "quantity": 1,
+      "description": "Handle left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 42 2 261 236",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 42 2 261 282",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 42 2 261 284",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 42 2 261 286",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 42 2 261 288",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 42 2 261 298",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 42 2 261 304",
+      "quantity": 1,
+      "description": "Handle left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 42 2 423 566",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 42 2 423 714",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 42 2 423 796",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 42 2 424 282",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 42 2 261 235",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 42 2 261 281",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 42 2 261 283",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 42 2 261 285",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 42 2 261 287",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 42 2 261 303",
+      "quantity": 1,
+      "description": "Handle left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 42 2 423 565",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 42 2 423 713",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 42 2 423 795",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 42 2 424 281",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 42 2 261 135",
+      "quantity": 1,
+      "description": "Handle left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 42 2 261 136",
+      "quantity": 1,
+      "description": "Handle left",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

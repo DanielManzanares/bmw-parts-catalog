@@ -1,0 +1,77 @@
+{
+  "id": 7122,
+  "diagram_title": "Single parts f package shelf hifi system",
+  "image_url": "http://ills.bmwfans.info/he0.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 13 8 368 238",
+      "quantity": 2,
+      "description": "Bass loudspeaker hifi system",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 901 294",
+      "quantity": 6,
+      "description": "Hex head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 901 299",
+      "quantity": 6,
+      "description": "Hex head screw",
+      "price_eur": 1.12,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E52, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F46, F82, I01, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 13 7 067 915",
+      "quantity": 6,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 46 8 213 971",
+      "quantity": 2,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 46 8 226 494",
+      "quantity": 2,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 46 8 226 496",
+      "quantity": 2,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 46 8 226 497",
+      "quantity": 2,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

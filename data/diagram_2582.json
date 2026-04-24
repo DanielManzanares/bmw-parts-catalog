@@ -1,0 +1,221 @@
+{
+  "id": 2582,
+  "diagram_title": "Headlight cleaning system",
+  "image_url": "http://ills.bmwfans.info/c2m.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "61 66 1 368 669",
+      "quantity": 1,
+      "description": "Fluid container",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 66 1 377 795",
+      "quantity": 1,
+      "description": "Fluid container",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 66 1 368 589",
+      "quantity": 3,
+      "description": "Wash pump",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 66 1 365 657",
+      "quantity": 3,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "61 31 1 367 391",
+      "quantity": 1,
+      "description": "Wiper-wash-interval control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "07 11 9 906 822",
+      "quantity": 1,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "61 66 1 371 257",
+      "quantity": 1,
+      "description": "Strainer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "61 66 1 369 516",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "61 66 1 373 175",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "61 66 1 369 516",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "07 11 9 912 327",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "61 66 1 370 388",
+      "quantity": 1,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "61 66 1 380 464",
+      "quantity": 5,
+      "description": "Valve",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "61 66 1 355 939",
+      "quantity": 5,
+      "description": "Distribution piece",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "61 67 1 369 124",
+      "quantity": 2,
+      "description": "Spray nozzle",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "12 52 1 276 147",
+      "quantity": 2,
+      "description": "Cable holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "61 13 1 267 476",
+      "quantity": 4,
+      "description": "Cable holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "61 66 1 357 388",
+      "quantity": 1,
+      "description": "Hose line",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "26",
+      "part_number": "51 14 1 885 911",
+      "quantity": 1,
+      "description": "Label \"concentrated cleaner\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "27",
+      "part_number": "07 11 9 931 044",
+      "quantity": 1,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E9, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "28",
+      "part_number": "51 43 6 440 260",
+      "quantity": 2,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "29",
+      "part_number": "17 11 1 117 442",
+      "quantity": 1,
+      "description": "Rubber grommet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "30",
+      "part_number": "17 11 1 117 441",
+      "quantity": 1,
+      "description": "Spacer sleeve",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "30",
+      "part_number": "07 14 6 977 328",
+      "quantity": 1,
+      "description": "Spacer sleeve",
+      "price_eur": null,
+      "compatible_models": "CMSP, E21, E23, E24, E28, E30, E31, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F46, F48, F80, F80 Facelift, F82, F83, F85, F86, F87, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "31",
+      "part_number": "63 21 1 371 401",
+      "quantity": 1,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "31",
+      "part_number": "63 25 9 128 043",
+      "quantity": 1,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,461 @@
+{
+  "id": 7565,
+  "diagram_title": "Individual decor strips",
+  "image_url": "http://ills.bmwfans.info/vti.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 45 8 008 987",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 45 8 009 023",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 45 8 010 287",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 45 8 010 303",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 45 8 010 319",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 45 8 022 109",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 45 0 139 211",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 45 7 904 025",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 45 8 008 989",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 45 8 009 024",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 45 8 010 289",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 45 8 010 305",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 45 8 010 321",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 45 8 022 110",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 45 0 139 215",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 45 7 904 029",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 45 8 008 988",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 45 8 009 022",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 45 8 010 288",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 45 8 010 304",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 45 8 010 320",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 45 8 022 108",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 45 0 139 212",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 45 7 904 026",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 41 0 151 607",
+      "quantity": 1,
+      "description": "Decor strip, front left door, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 41 8 020 157",
+      "quantity": 1,
+      "description": "Decor strip, front left door, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 41 8 008 991",
+      "quantity": 1,
+      "description": "Decor strip, front left door, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 41 8 009 025",
+      "quantity": 1,
+      "description": "Decor strip, front left door, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 41 8 010 993",
+      "quantity": 1,
+      "description": "Decor strip, front left door, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 41 8 011 005",
+      "quantity": 1,
+      "description": "Decor strip, front left door, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 41 8 011 017",
+      "quantity": 1,
+      "description": "Decor strip, front left door, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 41 8 022 111",
+      "quantity": 1,
+      "description": "Decor strip, front left door, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 41 0 151 614",
+      "quantity": 1,
+      "description": "Decor strip, front right door, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 41 8 020 158",
+      "quantity": 1,
+      "description": "Decor strip, front right door, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 41 8 008 992",
+      "quantity": 1,
+      "description": "Decor strip, front right door, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 41 8 009 026",
+      "quantity": 1,
+      "description": "Decor strip, front right door, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 41 8 010 994",
+      "quantity": 1,
+      "description": "Decor strip, front right door, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 41 8 011 006",
+      "quantity": 1,
+      "description": "Decor strip, front right door, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 41 8 011 018",
+      "quantity": 1,
+      "description": "Decor strip, front right door, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 41 8 022 112",
+      "quantity": 1,
+      "description": "Decor strip, front right door, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 42 0 151 611",
+      "quantity": 1,
+      "description": "Decor strip, rear left door, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 42 8 020 159",
+      "quantity": 1,
+      "description": "Decor strip, rear left door, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 42 8 008 993",
+      "quantity": 1,
+      "description": "Decor strip, rear left door, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 42 8 009 027",
+      "quantity": 1,
+      "description": "Decor strip, rear left door, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 42 8 010 995",
+      "quantity": 1,
+      "description": "Decor strip, rear left door, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 42 8 011 007",
+      "quantity": 1,
+      "description": "Decor strip, rear left door, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 42 8 011 019",
+      "quantity": 1,
+      "description": "Decor strip, rear left door, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 42 8 022 113",
+      "quantity": 1,
+      "description": "Decor strip, rear left door, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 42 8 008 994",
+      "quantity": 1,
+      "description": "Decorative strip, door rear right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 42 8 009 028",
+      "quantity": 1,
+      "description": "Decorative strip, door rear right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 42 8 010 996",
+      "quantity": 1,
+      "description": "Decorative strip, door rear right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 42 8 011 008",
+      "quantity": 1,
+      "description": "Decorative strip, door rear right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 42 8 011 020",
+      "quantity": 1,
+      "description": "Decorative strip, door rear right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 42 8 022 114",
+      "quantity": 1,
+      "description": "Decorative strip, door rear right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 42 0 151 616",
+      "quantity": 1,
+      "description": "Decorative strip, door rear right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 42 8 020 160",
+      "quantity": 1,
+      "description": "Decorative strip, door rear right",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

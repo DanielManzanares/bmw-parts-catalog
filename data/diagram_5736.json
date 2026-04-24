@@ -1,0 +1,29 @@
+{
+  "id": 5736,
+  "diagram_title": "Hydro unit DSC/fastening/sensors",
+  "image_url": "http://ills.bmwfans.info/3mab.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 68,
+  "category_name": "Brakes",
+  "parts": [
+    {
+      "position_number": "14",
+      "part_number": "61 13 8 383 300",
+      "quantity": 1,
+      "description": "Socket housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "61 13 6 954 574",
+      "quantity": 1,
+      "description": "Socket housing",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

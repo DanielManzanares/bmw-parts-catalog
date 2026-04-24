@@ -1,0 +1,189 @@
+{
+  "id": 3993,
+  "diagram_title": "Coolant lines",
+  "image_url": "http://ills.bmwfans.info/208j.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 53 6 984 883",
+      "quantity": 1,
+      "description": "Pressure hose assy compressor-condenser",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 53 6 904 013",
+      "quantity": 1,
+      "description": "Condenser-dryer pressure hose assy",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 53 6 908 908",
+      "quantity": 1,
+      "description": "Dryer-evaporator pressure hose assy",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 53 6 909 448",
+      "quantity": 1,
+      "description": "Dryer-evaporator pressure hose assy",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "64 53 6 908 907",
+      "quantity": 1,
+      "description": "Double pipe",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "64 53 6 933 368",
+      "quantity": 1,
+      "description": "Suction pipe evaporator-compressor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "64 53 6 923 956",
+      "quantity": 1,
+      "description": "Suction pipe evaporator-compressor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "64 50 8 374 959",
+      "quantity": 4,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "64 50 8 375 741",
+      "quantity": 3,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "64 50 8 363 041",
+      "quantity": 1,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "64 53 8 375 742",
+      "quantity": 2,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "64 50 9 177 579",
+      "quantity": 1,
+      "description": "Valve insert, suction line",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "64 53 8 387 437",
+      "quantity": 1,
+      "description": "Sealing cap for suction line",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "64 53 8 376 911",
+      "quantity": 1,
+      "description": "Bracket suction pipe airconditioner",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "64 50 9 177 577",
+      "quantity": 1,
+      "description": "Valve insert, suction line",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "64 53 8 391 215",
+      "quantity": 1,
+      "description": "Valve insert, suction line",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "64 53 9 141 957",
+      "quantity": 1,
+      "description": "Pressure sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "64 53 9 181 464",
+      "quantity": 1,
+      "description": "Pressure sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "07 11 9 904 102",
+      "quantity": 8,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "07 12 9 904 477",
+      "quantity": 8,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "61 13 8 365 348",
+      "quantity": 1,
+      "description": "Universal socket housing uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "61 13 2 359 998",
+      "quantity": 1,
+      "description": "Rep. kit for socket housing",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

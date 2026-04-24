@@ -1,0 +1,141 @@
+{
+  "id": 2448,
+  "diagram_title": "Slipstream deflector",
+  "image_url": "http://ills.bmwfans.info/bs4.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1639,
+  "category_name": "Sliding Roof / Folding Top",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "54 12 9 057 385",
+      "quantity": 1,
+      "description": "Conversion set glass slid.lifting roof",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "54 12 9 057 386",
+      "quantity": 1,
+      "description": "Conversion set glass slid.lifting roof",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "54 12 9 057 065",
+      "quantity": 1,
+      "description": "Conversion set glass slid.lifting roof",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "54 12 9 057 066",
+      "quantity": 1,
+      "description": "Conversion set glass slid.lifting roof",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 11 9 401 144",
+      "quantity": 1,
+      "description": "Retrofit kit, slipstream deflector",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "72 60 1 857 053",
+      "quantity": 1,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "72 60 1 852 660",
+      "quantity": 2,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "72 60 1 852 659",
+      "quantity": 2,
+      "description": "Support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "72 60 1 852 661",
+      "quantity": 2,
+      "description": "Nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "54 12 1 927 970",
+      "quantity": 1,
+      "description": "Slipstream deflector",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "54 12 1 927 975",
+      "quantity": 1,
+      "description": "Linkage, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "54 12 1 927 976",
+      "quantity": 1,
+      "description": "Linkage, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "54 12 1 926 664",
+      "quantity": 1,
+      "description": "Rubber buffer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "54 12 1 934 931",
+      "quantity": 1,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "54 12 1 935 374",
+      "quantity": 1,
+      "description": "Rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "54 12 1 933 211",
+      "quantity": 1,
+      "description": "Rubber buffer",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

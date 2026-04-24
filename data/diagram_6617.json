@@ -1,0 +1,61 @@
+{
+  "id": 6617,
+  "diagram_title": "Fuses audio / video",
+  "image_url": "http://ills.bmwfans.info/2ad5.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 13 6 917 400",
+      "quantity": 1,
+      "description": "Fuse Mini, rosa",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 13 6 917 401",
+      "quantity": 1,
+      "description": "Fuse Mini, rosa",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 13 6 917 402",
+      "quantity": 1,
+      "description": "Fuse Mini, rosa",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 13 6 917 403",
+      "quantity": 1,
+      "description": "Fuse Mini, rosa",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 13 6 917 404",
+      "quantity": 1,
+      "description": "Fuse Mini, rosa",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 13 6 942 071",
+      "quantity": 1,
+      "description": "Fuse Mini, rosa",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 2779,
+  "diagram_title": "Trailer, individual parts, support wheel",
+  "image_url": "http://ills.bmwfans.info/md2.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "86 19 9 416 914",
+      "quantity": 3,
+      "description": "Self-locking hexagon screx",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "86 19 9 416 495",
+      "quantity": 1,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "86 19 9 416 496",
+      "quantity": 1,
+      "description": "Support wheel",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

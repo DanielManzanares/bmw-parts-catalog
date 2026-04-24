@@ -1,0 +1,37 @@
+{
+  "id": 2598,
+  "diagram_title": "Instruments",
+  "image_url": "http://ills.bmwfans.info/cgi.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1641,
+  "category_name": "Instruments, Measuring systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "62 12 1 380 432",
+      "quantity": 1,
+      "description": "Speedometer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "62 13 1 376 645",
+      "quantity": 1,
+      "description": "Instrument panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "62 13 1 376 624",
+      "quantity": 1,
+      "description": "Revolution counter",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

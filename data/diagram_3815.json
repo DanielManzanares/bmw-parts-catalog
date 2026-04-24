@@ -1,0 +1,45 @@
+{
+  "id": 3815,
+  "diagram_title": "Single parts f side panel teleph.antenna",
+  "image_url": "http://ills.bmwfans.info/d2t.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 61 8 356 076",
+      "quantity": 1,
+      "description": "Antenna radiator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 61 8 357 523",
+      "quantity": 1,
+      "description": "Antenna base",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 22 1 369 754",
+      "quantity": 1,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "65 61 8 357 069",
+      "quantity": 1,
+      "description": "Antenna cable",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

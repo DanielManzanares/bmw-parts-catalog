@@ -1,0 +1,37 @@
+{
+  "id": 6336,
+  "diagram_title": "Round plug system D 1.5 mm",
+  "image_url": "http://ills.bmwfans.info/a19u.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 52 1 436 205",
+      "quantity": 1,
+      "description": "Bushing contact",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 1 436 206",
+      "quantity": 1,
+      "description": "Bushing contact",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 1 740 180",
+      "quantity": 1,
+      "description": "Bushing contact",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": 3633,
+  "diagram_title": "Single components for wiper arm",
+  "image_url": "http://ills.bmwfans.info/c3l.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 61 8 360 411",
+      "quantity": 1,
+      "description": "Wiper arm left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 61 8 360 412",
+      "quantity": 1,
+      "description": "Wiper arm right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 61 8 353 289",
+      "quantity": 1,
+      "description": "Wiper blade driver side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 61 1 387 678",
+      "quantity": 1,
+      "description": "Wiper blade right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 61 8 220 913",
+      "quantity": 2,
+      "description": "Wiper rubber",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "61 61 1 383 432",
+      "quantity": 2,
+      "description": "Wiper axle cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 11 9 904 032",
+      "quantity": 2,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E53, E61, E61 Facelift, E70, E70 Facelift, E71, E81, E83, E83 Facelift, E84, E87, E87 Facelift, E9, E91, E91 Facelift, F11, F11 Facelift, F25, F31, F31 Facelift, G11, G12, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 11 9 905 515",
+      "quantity": 2,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "CMSP, E3, E34, E36, E38, E39, E46, E53, E61, E61 Facelift, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E87, E87 Facelift, E88, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F11, F11 Facelift, F15, F16, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F80, F80 Facelift, F82, F83, F87, ISE, Z1, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "07 11 9 932 095",
+      "quantity": 2,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E53, E9, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "10",
+      "part_number": "61 61 9 069 197",
+      "quantity": 1,
+      "description": "Set of wiper blades",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": 7473,
+  "diagram_title": "Individual wood gear shift knobs 5-speed",
+  "image_url": "http://ills.bmwfans.info/2ty7.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "25 11 8 010 295",
+      "quantity": 1,
+      "description": "Gear shift knob wood/5-speed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 8 010 312",
+      "quantity": 1,
+      "description": "Gear shift knob wood/5-speed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 8 008 982",
+      "quantity": 1,
+      "description": "Shifting knob, wood vogelaugenahorn",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 8 009 015",
+      "quantity": 1,
+      "description": "Shifting knob, wood vogelaugenahorn",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 8 010 295",
+      "quantity": 1,
+      "description": "Gear shift knob wood/5-speed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 8 010 311",
+      "quantity": 1,
+      "description": "Gear shift knob wood/5-speed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 8 010 312",
+      "quantity": 1,
+      "description": "Gear shift knob wood/5-speed",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

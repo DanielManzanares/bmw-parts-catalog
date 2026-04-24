@@ -1,0 +1,21 @@
+{
+  "id": 2504,
+  "diagram_title": "Boot lashing strap",
+  "image_url": "http://ills.bmwfans.info/hfs.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "71 10 8 045 545",
+      "quantity": 1,
+      "description": "Luggage compartment tensioning straps",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": 1198,
+  "diagram_title": "front_brake_brake_disc",
+  "image_url": "/static/images/diagrams/E46_330Ci-M54_brakes_front_brake_brake_disc.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 68,
+  "category_name": "Brakes",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "34 11 6 864 047",
+      "quantity": 2,
+      "description": "Brake disc, ventilated",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 21 1 161 806",
+      "quantity": 2,
+      "description": "Inner hex bolt",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F46, F48, F80, F80 Facelift, F82, F83, F85, F86, F87, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "34 11 6 759 787",
+      "quantity": 1,
+      "description": "Protection plate left",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "3",
+      "part_number": "34 11 6 759 788",
+      "quantity": 1,
+      "description": "Protection plate right",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "4",
+      "part_number": "34 10 3 451 068",
+      "quantity": 6,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "CMSP, E31, E32, E34, E36, E38, E46, E52, E53, E83, E83 Facelift, E85, E86, Z3"
+    }
+  ]
+}

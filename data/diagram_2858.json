@@ -1,0 +1,29 @@
+{
+  "id": 2858,
+  "diagram_title": "Retrofit kit, hands free facili.Siemens25",
+  "image_url": "http://ills.bmwfans.info/128i.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "84 64 0 022 961",
+      "quantity": 1,
+      "description": "Upgrade kit, hands-free",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 64 0 022 959",
+      "quantity": 1,
+      "description": "Upgrade kit, hands-free",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

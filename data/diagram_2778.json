@@ -1,0 +1,53 @@
+{
+  "id": 2778,
+  "diagram_title": "Radio accessories",
+  "image_url": "http://ills.bmwfans.info/czk.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 14 1 373 380",
+      "quantity": 1,
+      "description": "Cassette box",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 11 1 375 261",
+      "quantity": 8,
+      "description": "Cassettedrawer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 14 1 370 179",
+      "quantity": 8,
+      "description": "Cassettedrawer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 12 9 056 513",
+      "quantity": 1,
+      "description": "Cleaning sticks",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "65 12 9 056 514",
+      "quantity": 1,
+      "description": "Cleaning rag antenna",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

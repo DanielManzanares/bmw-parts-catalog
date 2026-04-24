@@ -1,0 +1,21 @@
+{
+  "id": 3461,
+  "diagram_title": "Relay for ABS pump motor K75",
+  "image_url": "http://ills.bmwfans.info/e5mx.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 36 1 393 403",
+      "quantity": 1,
+      "description": "ABS motor relay, mausgrau",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

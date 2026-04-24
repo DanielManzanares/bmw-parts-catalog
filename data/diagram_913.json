@@ -1,0 +1,61 @@
+{
+  "id": 913,
+  "diagram_title": "a5s325z_parking_lock",
+  "image_url": "/static/images/diagrams/E46_320Ci-M54_automatic_transmission_a5s325z_parking_lock.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 456,
+  "category_name": "Automatic Transmission",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "24 53 1 219 285",
+      "quantity": 1,
+      "description": "Pawl",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, E53, E85"
+    },
+    {
+      "position_number": "2",
+      "part_number": "24 53 1 219 286",
+      "quantity": 1,
+      "description": "Retainer spring",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E85"
+    },
+    {
+      "position_number": "3",
+      "part_number": "24 53 1 219 284",
+      "quantity": 1,
+      "description": "Pin",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, E53, E85"
+    },
+    {
+      "position_number": "4",
+      "part_number": "24 11 7 552 350",
+      "quantity": 1,
+      "description": "Screw Plug With Gasket Ring",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E83, E83 Facelift, E85, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F02, F03, F03 Facelift"
+    },
+    {
+      "position_number": "5",
+      "part_number": "24 53 1 219 287",
+      "quantity": 1,
+      "description": "Guide plate",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, E53, E85"
+    },
+    {
+      "position_number": "6",
+      "part_number": "24 53 1 215 476",
+      "quantity": 4,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E53, E85"
+    }
+  ]
+}

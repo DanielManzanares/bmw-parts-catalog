@@ -1,0 +1,189 @@
+{
+  "id": 1559,
+  "diagram_title": "Hydro unit DSC/control unit/fastening",
+  "image_url": "http://ills.bmwfans.info/a3ex.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 68,
+  "category_name": "Brakes",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "34 51 6 753 601",
+      "quantity": 1,
+      "description": "Hydro unit DSC",
+      "price_eur": null,
+      "compatible_models": "E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 51 6 753 601",
+      "quantity": 1,
+      "description": "Hydro unit DSC",
+      "price_eur": null,
+      "compatible_models": "E46, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 51 1 165 027",
+      "quantity": 1,
+      "description": "Repair kit, hydraulic unit DSC",
+      "price_eur": null,
+      "compatible_models": "E46, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 51 1 165 027",
+      "quantity": 1,
+      "description": "Repair kit, hydraulic unit DSC",
+      "price_eur": null,
+      "compatible_models": "E46, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "34 52 6 753 602",
+      "quantity": 1,
+      "description": "Repair kit, control unit DSC",
+      "price_eur": null,
+      "compatible_models": "E46, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "34 52 6 753 602",
+      "quantity": 1,
+      "description": "Repair kit, control unit DSC",
+      "price_eur": null,
+      "compatible_models": "E46, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "34 51 6 750 966",
+      "quantity": 1,
+      "description": "Bracket hydro unit",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "4",
+      "part_number": "34 51 6 750 966",
+      "quantity": 1,
+      "description": "Bracket hydro unit",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "5",
+      "part_number": "34 51 1 164 465",
+      "quantity": 1,
+      "description": "Rubber Mounting",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "5",
+      "part_number": "34 51 1 164 465",
+      "quantity": 1,
+      "description": "Rubber Mounting",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "6",
+      "part_number": "34 51 1 162 818",
+      "quantity": 2,
+      "description": "Rubber Mounting",
+      "price_eur": null,
+      "compatible_models": "E31, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F80, F80 Facelift, F82, F83, F85, F86, F87, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "34 51 1 162 818",
+      "quantity": 2,
+      "description": "Rubber Mounting",
+      "price_eur": null,
+      "compatible_models": "E31, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F80, F80 Facelift, F82, F83, F85, F86, F87, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "34 50 6 756 769",
+      "quantity": 1,
+      "description": "Spacer bush",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "7",
+      "part_number": "34 50 6 781 284",
+      "quantity": 2,
+      "description": "Spacer sleeve",
+      "price_eur": null,
+      "compatible_models": "E36, E46, E81, E82, E84, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "34 50 6 756 769",
+      "quantity": 1,
+      "description": "Spacer bush",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "7",
+      "part_number": "34 50 6 781 284",
+      "quantity": 2,
+      "description": "Spacer sleeve",
+      "price_eur": null,
+      "compatible_models": "E36, E46, E81, E82, E84, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, Z3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 11 9 901 504",
+      "quantity": 1,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 14 6 971 298",
+      "quantity": 2,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F46, F48, F80, F80 Facelift, F82, F83, F85, F86, F87, G11, G12, I12, Z3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 11 9 901 504",
+      "quantity": 1,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 14 6 971 298",
+      "quantity": 2,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F46, F48, F80, F80 Facelift, F82, F83, F85, F86, F87, G11, G12, I12, Z3"
+    },
+    {
+      "position_number": "11",
+      "part_number": "61 13 6 954 574",
+      "quantity": 1,
+      "description": "Socket housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "61 13 6 954 574",
+      "quantity": 1,
+      "description": "Socket housing",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

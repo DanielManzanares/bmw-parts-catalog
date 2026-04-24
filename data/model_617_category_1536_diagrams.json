@@ -1,0 +1,44 @@
+[
+  {
+    "id": 5507,
+    "diagram_title": "Cooling unit",
+    "image_url": "http://ills.bmwfans.info/ikr.png",
+    "parts_count": 3
+  },
+  {
+    "id": 5511,
+    "diagram_title": "Expansion tank, automatic transmission",
+    "image_url": "http://ills.bmwfans.info/3s9e.png",
+    "parts_count": 14
+  },
+  {
+    "id": 5514,
+    "diagram_title": "Expansion tank, manual transmission",
+    "image_url": "http://ills.bmwfans.info/3s9f.png",
+    "parts_count": 12
+  },
+  {
+    "id": 5517,
+    "diagram_title": "Fan shroud",
+    "image_url": "http://ills.bmwfans.info/a2tf.png",
+    "parts_count": 17
+  },
+  {
+    "id": 5508,
+    "diagram_title": "Mounting parts f radiator",
+    "image_url": "http://ills.bmwfans.info/rml.png",
+    "parts_count": 13
+  },
+  {
+    "id": 5505,
+    "diagram_title": "Oil cooling, automatic gearbox A5S ...R",
+    "image_url": "http://ills.bmwfans.info/r7t.png",
+    "parts_count": 11
+  },
+  {
+    "id": 5502,
+    "diagram_title": "Water hoses",
+    "image_url": "http://ills.bmwfans.info/3khf.png",
+    "parts_count": 14
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": 4376,
+  "diagram_title": "Install.kit, Park Distance Control",
+  "image_url": "http://ills.bmwfans.info/dok.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "66 20 0 302 421",
+      "quantity": 1,
+      "description": "Install.kit, Park Distance Control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 0 302 421",
+      "quantity": 1,
+      "description": "Install.kit, Park Distance Control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 0 302 421",
+      "quantity": 1,
+      "description": "Install.kit, Park Distance Control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 0 302 421",
+      "quantity": 1,
+      "description": "Install.kit, Park Distance Control",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

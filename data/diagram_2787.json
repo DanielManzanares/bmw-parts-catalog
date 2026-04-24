@@ -1,0 +1,325 @@
+{
+  "id": 2787,
+  "diagram_title": "Single components stereo system",
+  "image_url": "http://ills.bmwfans.info/cz0.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 11 1 367 160",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 11 1 368 515",
+      "quantity": 1,
+      "description": "Radio frame",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 11 1 368 498",
+      "quantity": 2,
+      "description": "Plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "65 11 1 369 658",
+      "quantity": 1,
+      "description": "Support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "65 11 1 363 445",
+      "quantity": 1,
+      "description": "Carrier",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "65 11 1 363 446",
+      "quantity": 1,
+      "description": "Nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "65 11 1 363 448",
+      "quantity": 2,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 11 9 905 947",
+      "quantity": 1,
+      "description": "Grub screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "65 11 1 367 881",
+      "quantity": 2,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "65 11 1 369 117",
+      "quantity": 2,
+      "description": "Rotary knob",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "65 12 1 375 109",
+      "quantity": 2,
+      "description": "Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "65 12 1 375 225",
+      "quantity": 2,
+      "description": "Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "65 12 1 375 391",
+      "quantity": 2,
+      "description": "Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "65 12 1 369 884",
+      "quantity": 2,
+      "description": "Spacer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "65 12 1 369 885",
+      "quantity": 2,
+      "description": "Spacer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "65 12 1 377 742",
+      "quantity": 2,
+      "description": "Spacer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "65 12 1 367 715",
+      "quantity": 4,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "65 12 1 367 716",
+      "quantity": 4,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "65 12 1 370 199",
+      "quantity": 4,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "65 12 1 373 235",
+      "quantity": 4,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "65 12 1 373 236",
+      "quantity": 4,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "65 12 1 377 741",
+      "quantity": 4,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "65 11 1 360 120",
+      "quantity": 8,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "65 11 1 374 608",
+      "quantity": 8,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 11 9 902 468",
+      "quantity": 8,
+      "description": "Recessed oval head sheet-metal screw",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E30, NK"
+    },
+    {
+      "position_number": "17",
+      "part_number": "07 11 9 902 475",
+      "quantity": 8,
+      "description": "Recessed oval head sheet-metal screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "07 12 9 925 708",
+      "quantity": 8,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "07 50 9 063 123",
+      "quantity": 8,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "07 12 9 901 645",
+      "quantity": 8,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "65 11 1 368 790",
+      "quantity": 1,
+      "description": "Guide rail",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "65 11 1 363 622",
+      "quantity": 1,
+      "description": "Bracket rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "65 11 9 055 933",
+      "quantity": 1,
+      "description": "Radio installation-supplementary set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "51 48 1 921 099",
+      "quantity": 2,
+      "description": "Sound insulation",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "07 11 9 976 100",
+      "quantity": 1,
+      "description": "Fuse",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "07 11 9 976 101",
+      "quantity": 1,
+      "description": "Fuse",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "07 11 9 976 102",
+      "quantity": 1,
+      "description": "Fuse",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "07 11 9 976 103",
+      "quantity": 1,
+      "description": "Fuse",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "61 13 1 380 468",
+      "quantity": 1,
+      "description": "Fuse",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "65 11 1 366 117",
+      "quantity": 1,
+      "description": "Fuse",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

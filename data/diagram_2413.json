@@ -1,0 +1,101 @@
+{
+  "id": 2413,
+  "diagram_title": "Ski-box",
+  "image_url": "http://ills.bmwfans.info/d9a.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 12 9 401 061",
+      "quantity": 1,
+      "description": "Ski-box",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 12 9 401 068",
+      "quantity": 1,
+      "description": "Ski-box",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 12 9 401 077",
+      "quantity": 2,
+      "description": "Ski-box",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 12 9 401 088",
+      "quantity": 1,
+      "description": "Ski-box",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 12 9 401 099",
+      "quantity": 1,
+      "description": "Ski-box",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 12 9 401 122",
+      "quantity": 1,
+      "description": "Ski-box",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 12 9 401 123",
+      "quantity": 2,
+      "description": "Ski-box",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 12 9 401 124",
+      "quantity": 1,
+      "description": "Ski-box",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 12 9 401 125",
+      "quantity": 2,
+      "description": "Ski-box",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 12 9 401 180",
+      "quantity": 1,
+      "description": "Ski-box",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 79 9 404 149",
+      "quantity": 2,
+      "description": "Ski-box",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

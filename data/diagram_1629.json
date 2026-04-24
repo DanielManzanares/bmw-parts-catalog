@@ -1,0 +1,29 @@
+{
+  "id": 1629,
+  "diagram_title": "Repair kit for anti-roll bar links",
+  "image_url": "http://ills.bmwfans.info/bx5o.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 49,
+  "category_name": "Front Axle",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "31 35 2 241 254",
+      "quantity": 1,
+      "description": "Repair kit for anti-roll bar links",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 35 2 241 254",
+      "quantity": 1,
+      "description": "Repair kit for anti-roll bar links",
+      "price_eur": null,
+      "compatible_models": "E46"
+    }
+  ]
+}

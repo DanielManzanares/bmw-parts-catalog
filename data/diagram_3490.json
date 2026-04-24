@@ -1,0 +1,29 @@
+{
+  "id": 3490,
+  "diagram_title": "Relay, bridge — connection plug",
+  "image_url": "http://ills.bmwfans.info/emhi.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 36 1 390 321",
+      "quantity": 1,
+      "description": "Connection plug w.notch lock",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 36 8 366 551",
+      "quantity": 1,
+      "description": "Connection plug",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

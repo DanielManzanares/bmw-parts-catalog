@@ -1,0 +1,77 @@
+{
+  "id": 4993,
+  "diagram_title": "Retrofit kit, TV function",
+  "image_url": "http://ills.bmwfans.info/2eql.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 50 0 302 840",
+      "quantity": 1,
+      "description": "Retrofit kit, TV function",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 50 0 397 389",
+      "quantity": 1,
+      "description": "Retrofit kit, TV function",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 50 0 143 549",
+      "quantity": 1,
+      "description": "Retrofit kit, TV function",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 50 0 397 412",
+      "quantity": 1,
+      "description": "Retrofit kit, TV function",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 50 0 302 840",
+      "quantity": 1,
+      "description": "Retrofit kit, TV function",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 50 0 397 389",
+      "quantity": 1,
+      "description": "Retrofit kit, TV function",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 50 0 143 549",
+      "quantity": 1,
+      "description": "Retrofit kit, TV function",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 50 0 397 412",
+      "quantity": 1,
+      "description": "Retrofit kit, TV function",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

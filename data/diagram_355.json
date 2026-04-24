@@ -1,0 +1,93 @@
+{
+  "id": 355,
+  "diagram_title": "Seat, front, upholstery and cover",
+  "image_url": "http://ills.bmwfans.info/b9e.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 130 701",
+      "quantity": 2,
+      "description": "Seat cover leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 130 702",
+      "quantity": 2,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 130 703",
+      "quantity": 2,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 130 704",
+      "quantity": 2,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 156 610",
+      "quantity": 2,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 130 701",
+      "quantity": 1,
+      "description": "Seat cover leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 130 702",
+      "quantity": 1,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 130 703",
+      "quantity": 1,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 130 704",
+      "quantity": 1,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 156 610",
+      "quantity": 1,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

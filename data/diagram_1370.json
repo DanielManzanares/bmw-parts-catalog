@@ -1,0 +1,493 @@
+{
+  "id": 1370,
+  "diagram_title": "Zf 4hp22/24 drive clutch b",
+  "image_url": "http://ills.bmwfans.info/248.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 456,
+  "category_name": "Automatic Transmission",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "24 23 1 216 351",
+      "quantity": 1,
+      "description": "Cylinder",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "24 23 1 216 351",
+      "quantity": 1,
+      "description": "Cylinder",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "24 23 1 216 351",
+      "quantity": 1,
+      "description": "Cylinder",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "24 23 1 216 351",
+      "quantity": 1,
+      "description": "Cylinder",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30"
+    },
+    {
+      "position_number": "2",
+      "part_number": "24 23 1 215 980",
+      "quantity": 1,
+      "description": "Rectangring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "24 23 1 215 980",
+      "quantity": 1,
+      "description": "Rectangring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "24 23 1 215 980",
+      "quantity": 1,
+      "description": "Rectangring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "24 23 1 215 980",
+      "quantity": 1,
+      "description": "Rectangring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "24 32 1 209 815",
+      "quantity": 1,
+      "description": "Piston",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "24 32 1 209 815",
+      "quantity": 1,
+      "description": "Piston",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "24 32 1 209 815",
+      "quantity": 1,
+      "description": "Piston",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "24 32 1 209 815",
+      "quantity": 1,
+      "description": "Piston",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "24 23 1 205 913",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30"
+    },
+    {
+      "position_number": "4",
+      "part_number": "24 23 1 205 913",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30"
+    },
+    {
+      "position_number": "4",
+      "part_number": "24 23 1 205 913",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30"
+    },
+    {
+      "position_number": "4",
+      "part_number": "24 23 1 205 913",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30"
+    },
+    {
+      "position_number": "5",
+      "part_number": "24 23 1 215 448",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "5",
+      "part_number": "24 23 1 215 448",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "5",
+      "part_number": "24 23 1 215 448",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "5",
+      "part_number": "24 23 1 215 448",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "6",
+      "part_number": "24 34 1 422 152",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E53"
+    },
+    {
+      "position_number": "6",
+      "part_number": "24 34 1 422 152",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E53"
+    },
+    {
+      "position_number": "6",
+      "part_number": "24 34 1 422 152",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E53"
+    },
+    {
+      "position_number": "6",
+      "part_number": "24 34 1 422 152",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E53"
+    },
+    {
+      "position_number": "7",
+      "part_number": "24 23 1 215 423",
+      "quantity": 1,
+      "description": "Backup ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "7",
+      "part_number": "24 23 1 215 423",
+      "quantity": 1,
+      "description": "Backup ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "7",
+      "part_number": "24 23 1 215 423",
+      "quantity": 1,
+      "description": "Backup ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "7",
+      "part_number": "24 23 1 215 423",
+      "quantity": 1,
+      "description": "Backup ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "8",
+      "part_number": "24 23 1 205 934",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "8",
+      "part_number": "24 23 1 205 934",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "8",
+      "part_number": "24 23 1 205 934",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "8",
+      "part_number": "24 23 1 205 934",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "9",
+      "part_number": "24 23 1 215 770",
+      "quantity": 4,
+      "description": "Clutch disc",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E32, E34"
+    },
+    {
+      "position_number": "9",
+      "part_number": "24 23 1 215 770",
+      "quantity": 4,
+      "description": "Clutch disc",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E32, E34"
+    },
+    {
+      "position_number": "9",
+      "part_number": "24 23 1 215 770",
+      "quantity": 4,
+      "description": "Clutch disc",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E32, E34"
+    },
+    {
+      "position_number": "9",
+      "part_number": "24 23 1 215 770",
+      "quantity": 4,
+      "description": "Clutch disc",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E32, E34"
+    },
+    {
+      "position_number": "10",
+      "part_number": "24 23 1 205 935",
+      "quantity": 4,
+      "description": "Outer disc",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "10",
+      "part_number": "24 23 1 205 935",
+      "quantity": 4,
+      "description": "Outer disc",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "10",
+      "part_number": "24 23 1 205 935",
+      "quantity": 4,
+      "description": "Outer disc",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "10",
+      "part_number": "24 23 1 205 935",
+      "quantity": 4,
+      "description": "Outer disc",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "11",
+      "part_number": "24 23 1 205 937",
+      "quantity": 1,
+      "description": "Disc",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E32, E34"
+    },
+    {
+      "position_number": "11",
+      "part_number": "24 23 1 205 937",
+      "quantity": 1,
+      "description": "Disc",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E32, E34"
+    },
+    {
+      "position_number": "11",
+      "part_number": "24 23 1 205 937",
+      "quantity": 1,
+      "description": "Disc",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E32, E34"
+    },
+    {
+      "position_number": "11",
+      "part_number": "24 23 1 205 937",
+      "quantity": 1,
+      "description": "Disc",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E32, E34"
+    },
+    {
+      "position_number": "12",
+      "part_number": "24 23 1 217 134",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30"
+    },
+    {
+      "position_number": "12",
+      "part_number": "24 23 1 217 134",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30"
+    },
+    {
+      "position_number": "12",
+      "part_number": "24 23 1 217 134",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30"
+    },
+    {
+      "position_number": "12",
+      "part_number": "24 23 1 217 134",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30"
+    },
+    {
+      "position_number": "13",
+      "part_number": "24 23 1 205 930",
+      "quantity": 1,
+      "description": "Diaphragm spring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30"
+    },
+    {
+      "position_number": "13",
+      "part_number": "24 23 1 205 930",
+      "quantity": 1,
+      "description": "Diaphragm spring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30"
+    },
+    {
+      "position_number": "13",
+      "part_number": "24 23 1 205 930",
+      "quantity": 1,
+      "description": "Diaphragm spring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30"
+    },
+    {
+      "position_number": "13",
+      "part_number": "24 23 1 205 930",
+      "quantity": 1,
+      "description": "Diaphragm spring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30"
+    },
+    {
+      "position_number": "14",
+      "part_number": "24 23 1 205 931",
+      "quantity": 1,
+      "description": "Circlip",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "14",
+      "part_number": "24 23 1 205 931",
+      "quantity": 1,
+      "description": "Circlip",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "14",
+      "part_number": "24 23 1 205 931",
+      "quantity": 1,
+      "description": "Circlip",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "14",
+      "part_number": "24 23 1 205 931",
+      "quantity": 1,
+      "description": "Circlip",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "15",
+      "part_number": "24 23 1 205 932",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30"
+    },
+    {
+      "position_number": "15",
+      "part_number": "24 23 1 205 932",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30"
+    },
+    {
+      "position_number": "15",
+      "part_number": "24 23 1 205 932",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30"
+    },
+    {
+      "position_number": "15",
+      "part_number": "24 23 1 205 932",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30"
+    }
+  ]
+}

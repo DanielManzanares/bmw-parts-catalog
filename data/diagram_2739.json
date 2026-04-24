@@ -1,0 +1,37 @@
+{
+  "id": 2739,
+  "diagram_title": "Retrofit kit, teleph. antenna Singleband",
+  "image_url": "http://ills.bmwfans.info/22ni.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "84 54 0 029 415",
+      "quantity": 1,
+      "description": "Retrofit kit, window antenna",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "84 54 9 405 538",
+      "quantity": 1,
+      "description": "Adhesive films for on-glass antenna",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "84 51 9 404 711",
+      "quantity": 1,
+      "description": "Retrofit kit, rear antenna",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

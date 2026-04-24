@@ -1,0 +1,98 @@
+[
+  {
+    "id": 5516,
+    "diagram_title": "Gearbox mounting",
+    "image_url": "http://ills.bmwfans.info/jjn.png",
+    "parts_count": 6
+  },
+  {
+    "id": 5510,
+    "diagram_title": "Manual Transmission S5D...G",
+    "image_url": "http://ills.bmwfans.info/dr13.png",
+    "parts_count": 3
+  },
+  {
+    "id": 5513,
+    "diagram_title": "Manual Transmission S5D...Z",
+    "image_url": "http://ills.bmwfans.info/dr13.png",
+    "parts_count": 1
+  },
+  {
+    "id": 5523,
+    "diagram_title": "S5D...G countershaft/reverse gear",
+    "image_url": "http://ills.bmwfans.info/2i4.png",
+    "parts_count": 28
+  },
+  {
+    "id": 5519,
+    "diagram_title": "S5D...G drive shaft/output shaft",
+    "image_url": "http://ills.bmwfans.info/2h5.png",
+    "parts_count": 38
+  },
+  {
+    "id": 5518,
+    "diagram_title": "S5D...G housing + mounting parts",
+    "image_url": "http://ills.bmwfans.info/2iq.png",
+    "parts_count": 25
+  },
+  {
+    "id": 5527,
+    "diagram_title": "S5D...G inner gear shifting parts",
+    "image_url": "http://ills.bmwfans.info/2h6.png",
+    "parts_count": 16
+  },
+  {
+    "id": 5529,
+    "diagram_title": "S5D...G inner gear shifting parts",
+    "image_url": "http://ills.bmwfans.info/fck.png",
+    "parts_count": 22
+  },
+  {
+    "id": 899,
+    "diagram_title": "gearbox_mounting",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_manual_transmission_gearbox_mounting.png",
+    "parts_count": 6
+  },
+  {
+    "id": 894,
+    "diagram_title": "manual_transmission_s5d_g",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_manual_transmission_manual_transmission_s5d_g.png",
+    "parts_count": 3
+  },
+  {
+    "id": 898,
+    "diagram_title": "manual_transmission_s5d_z",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_manual_transmission_manual_transmission_s5d_z.png",
+    "parts_count": 1
+  },
+  {
+    "id": 900,
+    "diagram_title": "s5d_g_countershaft_reverse_gear",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_manual_transmission_s5d_g_countershaft_reverse_gear.png",
+    "parts_count": 28
+  },
+  {
+    "id": 906,
+    "diagram_title": "s5d_g_drive_shaft_output_shaft",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_manual_transmission_s5d_g_drive_shaft_output_shaft.png",
+    "parts_count": 38
+  },
+  {
+    "id": 901,
+    "diagram_title": "s5d_g_housing_mounting_parts",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_manual_transmission_s5d_g_housing_mounting_parts.png",
+    "parts_count": 25
+  },
+  {
+    "id": 902,
+    "diagram_title": "s5d_g_inner_gear_shifting_parts",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_manual_transmission_s5d_g_inner_gear_shifting_parts.png",
+    "parts_count": 16
+  },
+  {
+    "id": 908,
+    "diagram_title": "s5d_g_inner_gear_shifting_parts_2",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_manual_transmission_s5d_g_inner_gear_shifting_parts_2.png",
+    "parts_count": 22
+  }
+]

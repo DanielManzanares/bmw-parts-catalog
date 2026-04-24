@@ -1,0 +1,37 @@
+{
+  "id": 3030,
+  "diagram_title": "Drive shaft (swivel joint)",
+  "image_url": "http://ills.bmwfans.info/1926.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1636,
+  "category_name": "Drive Shaft",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "26 11 1 229 557",
+      "quantity": 1,
+      "description": "Drive shaft assy five speed gearbox",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "26 11 1 229 564",
+      "quantity": 1,
+      "description": "Drive shaft assy five speed gearbox",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "26 11 1 229 565",
+      "quantity": 1,
+      "description": "Drive shaft assy five speed gearbox",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

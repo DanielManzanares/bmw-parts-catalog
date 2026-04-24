@@ -1,0 +1,45 @@
+{
+  "id": 4108,
+  "diagram_title": "Single parts f Classic hands-free facil.",
+  "image_url": "http://ills.bmwfans.info/21d1.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1648,
+  "category_name": "Communication systems",
+  "parts": [
+    {
+      "position_number": "3",
+      "part_number": "84 31 8 380 319",
+      "quantity": 1,
+      "description": "Hands free telephone microphone",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "84 31 8 375 642",
+      "quantity": 1,
+      "description": "Loudspeaker hands free telephone",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "84 31 8 375 642",
+      "quantity": 1,
+      "description": "Loudspeaker hands free telephone",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "84 31 8 375 642",
+      "quantity": 1,
+      "description": "Loudspeaker hands free telephone",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

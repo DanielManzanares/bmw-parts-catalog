@@ -1,0 +1,45 @@
+{
+  "id": 2087,
+  "diagram_title": "BMW type approval",
+  "image_url": "http://ills.bmwfans.info/3iqh.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1531,
+  "category_name": "Technical Literature",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "01 20 9 786 214",
+      "quantity": 1,
+      "description": "General Operating Permit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 9 786 647",
+      "quantity": 1,
+      "description": "General Operating Permit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 9 786 648",
+      "quantity": 1,
+      "description": "General Operating Permit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 9 786 649",
+      "quantity": 1,
+      "description": "General Operating Permit",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

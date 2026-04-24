@@ -1,0 +1,21 @@
+{
+  "id": 2901,
+  "diagram_title": "CD box",
+  "image_url": "http://ills.bmwfans.info/doz.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 14 0 006 996",
+      "quantity": 1,
+      "description": "CD holder",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

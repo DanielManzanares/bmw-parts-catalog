@@ -1,0 +1,45 @@
+{
+  "id": 2882,
+  "diagram_title": "Alternator parts 90a",
+  "image_url": "http://ills.bmwfans.info/1cx.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 31 1 738 067",
+      "quantity": 1,
+      "description": "Pulley",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "12 31 1 730 595",
+      "quantity": 1,
+      "description": "Fan wheel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "12 31 1 738 375",
+      "quantity": 1,
+      "description": "Intake manifold",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "12 31 1 748 607",
+      "quantity": 1,
+      "description": "Voltage regulator",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

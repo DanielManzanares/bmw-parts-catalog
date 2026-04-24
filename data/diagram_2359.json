@@ -1,0 +1,29 @@
+{
+  "id": 2359,
+  "diagram_title": "Selector lever handle",
+  "image_url": "http://ills.bmwfans.info/1di9.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "25 11 0 394 107",
+      "quantity": 1,
+      "description": "Aluminum selector lever grip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 16 9 416 258",
+      "quantity": 1,
+      "description": "Aluminum selector lever grip",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": 3916,
+  "diagram_title": "Winter tires",
+  "image_url": "http://ills.bmwfans.info/38i8.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1649,
+  "category_name": "Complete wheel and tyre sets",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 535 078",
+      "quantity": 1,
+      "description": "Michelin Alpin A3",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 535 457",
+      "quantity": 1,
+      "description": "Michelin Alpin A3",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 535 613",
+      "quantity": 1,
+      "description": "Michelin Alpin A3",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 535 625",
+      "quantity": 1,
+      "description": "Michelin Alpin A3",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 536 065",
+      "quantity": 1,
+      "description": "Michelin Alpin A3",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 536 804",
+      "quantity": 1,
+      "description": "Michelin Alpin A3",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 536 807",
+      "quantity": 1,
+      "description": "Michelin Alpin A3",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 536 947",
+      "quantity": 1,
+      "description": "Michelin Alpin A3",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 537 021",
+      "quantity": 1,
+      "description": "Michelin Alpin A3",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 537 401",
+      "quantity": 1,
+      "description": "Michelin Alpin A3",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 537 402",
+      "quantity": 1,
+      "description": "Michelin Alpin A3",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 537 409",
+      "quantity": 1,
+      "description": "Michelin Alpin A3",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 538 098",
+      "quantity": 1,
+      "description": "Michelin Alpin A3",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 543 923",
+      "quantity": 1,
+      "description": "Michelin Alpin A3",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 543 962",
+      "quantity": 1,
+      "description": "Michelin Alpin A3",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

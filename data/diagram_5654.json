@@ -1,0 +1,37 @@
+{
+  "id": 5654,
+  "diagram_title": "Repair kits for shock absorbers, rear",
+  "image_url": "http://ills.bmwfans.info/cfrk.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 49,
+  "category_name": "Front Axle",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "31 30 2 290 314",
+      "quantity": 2,
+      "description": "Repair kit, additional damper guard tube",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 30 2 281 820",
+      "quantity": 1,
+      "description": "Repair kit, additional damper guard tube",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "31 35 2 241 445",
+      "quantity": 2,
+      "description": "Repair kit for support bearing",
+      "price_eur": null,
+      "compatible_models": "E46"
+    }
+  ]
+}

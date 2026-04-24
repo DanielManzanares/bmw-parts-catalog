@@ -1,0 +1,21 @@
+{
+  "id": 3688,
+  "diagram_title": "Heater radiator Siemens",
+  "image_url": "http://ills.bmwfans.info/cu9.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "8",
+      "part_number": "07 11 9 905 543",
+      "quantity": 1,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E83, E83 Facelift, E84, E85, E86, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02 Facelift, F03, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F36, F46, F48, F85, ISE, NK, Z1, Z3"
+    }
+  ]
+}

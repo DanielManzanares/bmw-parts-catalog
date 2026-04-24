@@ -1,0 +1,365 @@
+{
+  "id": 5037,
+  "diagram_title": "Trailer, indiv. parts, wheel suspension",
+  "image_url": "http://ills.bmwfans.info/m8g.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "07 11 9 914 146",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "07 11 9 914 146",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 12 9 964 661",
+      "quantity": 2,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 905 753",
+      "quantity": 2,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, E85, E86, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 12 9 964 661",
+      "quantity": 2,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 905 753",
+      "quantity": 2,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, E85, E86, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 901 164",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 901 164",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "86 19 9 416 943",
+      "quantity": 2,
+      "description": "Bracket rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "86 19 9 416 943",
+      "quantity": 2,
+      "description": "Bracket rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "86 19 9 416 799",
+      "quantity": 1,
+      "description": "Shock absorber",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "86 19 9 416 799",
+      "quantity": 1,
+      "description": "Shock absorber",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 11 9 931 096",
+      "quantity": 4,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "114, E31, E32, E34, E36, E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 11 9 931 096",
+      "quantity": 4,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "114, E31, E32, E34, E36, E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 12 9 900 580",
+      "quantity": 2,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 12 9 900 580",
+      "quantity": 2,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 11 9 914 150",
+      "quantity": 4,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 11 9 914 150",
+      "quantity": 4,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "86 19 9 416 829",
+      "quantity": 2,
+      "description": "Pressure plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "86 19 9 416 829",
+      "quantity": 2,
+      "description": "Pressure plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "86 19 9 416 835",
+      "quantity": 2,
+      "description": "Pressure plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "86 19 9 416 835",
+      "quantity": 2,
+      "description": "Pressure plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "86 19 9 416 862",
+      "quantity": 2,
+      "description": "Coil spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "86 19 9 416 862",
+      "quantity": 2,
+      "description": "Coil spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "86 19 9 416 839",
+      "quantity": 2,
+      "description": "Pressure plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "86 19 9 416 839",
+      "quantity": 2,
+      "description": "Pressure plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 11 9 921 541",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 11 9 921 541",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "86 19 9 416 860",
+      "quantity": 2,
+      "description": "Trailing arm",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "86 19 9 416 860",
+      "quantity": 2,
+      "description": "Trailing arm",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "86 19 9 416 652",
+      "quantity": 1,
+      "description": "Wheel brake assy, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "86 19 9 416 653",
+      "quantity": 1,
+      "description": "Wheel brake assy, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "86 19 9 416 652",
+      "quantity": 1,
+      "description": "Wheel brake assy, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "86 19 9 416 653",
+      "quantity": 1,
+      "description": "Wheel brake assy, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "86 19 9 416 798",
+      "quantity": 2,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "86 19 9 416 798",
+      "quantity": 2,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "86 19 9 416 947",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "86 19 9 416 947",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "86 19 9 416 864",
+      "quantity": 2,
+      "description": "Compensator bush",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "86 19 9 416 864",
+      "quantity": 2,
+      "description": "Compensator bush",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "86 19 9 416 863",
+      "quantity": 2,
+      "description": "Spacer tube",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "86 19 9 416 863",
+      "quantity": 2,
+      "description": "Spacer tube",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "86 19 9 416 865",
+      "quantity": 2,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "86 19 9 416 865",
+      "quantity": 2,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

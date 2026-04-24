@@ -1,0 +1,29 @@
+{
+  "id": 2174,
+  "diagram_title": "Labels BMW",
+  "image_url": "http://ills.bmwfans.info/2sax.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1531,
+  "category_name": "Technical Literature",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "01 30 9 599 190",
+      "quantity": 1,
+      "description": "Labels",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 30 9 099 980",
+      "quantity": 1,
+      "description": "Labels",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

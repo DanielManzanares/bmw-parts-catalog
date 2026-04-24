@@ -1,0 +1,53 @@
+{
+  "id": 3045,
+  "diagram_title": "Front body bracket left",
+  "image_url": "http://ills.bmwfans.info/1g9t.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "41 14 8 144 284",
+      "quantity": 1,
+      "description": "Bracket ADS II",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "41 14 8 144 393",
+      "quantity": 1,
+      "description": "Bracket activated carbon container",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "41 11 8 144 395",
+      "quantity": 1,
+      "description": "Bracket fuel strainer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "41 11 8 122 484",
+      "quantity": 1,
+      "description": "Bracket ABS-Hydraulic unit front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "41 11 1 977 267",
+      "quantity": 1,
+      "description": "Bracket ABS hydraulic unit rear",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

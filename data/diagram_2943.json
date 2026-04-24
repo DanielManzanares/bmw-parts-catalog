@@ -1,0 +1,53 @@
+{
+  "id": 2943,
+  "diagram_title": "Modificat. Business to Professional",
+  "image_url": "http://ills.bmwfans.info/1f82.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 902 709",
+      "quantity": 1,
+      "description": "Radio BMW Professional",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 901 179",
+      "quantity": 2,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 904 176",
+      "quantity": 2,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 12 6 907 814",
+      "quantity": 1,
+      "description": "Button",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "65 12 8 370 535",
+      "quantity": 1,
+      "description": "Radio supporting pin",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

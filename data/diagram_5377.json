@@ -1,0 +1,37 @@
+{
+  "id": 5377,
+  "diagram_title": "Wiring harness, engine trans. module",
+  "image_url": "http://ills.bmwfans.info/36jn.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 51 7 519 632",
+      "quantity": 1,
+      "description": "Wiring harness, engine trans. module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 51 7 506 793",
+      "quantity": 1,
+      "description": "Wiring harness, engine trans. module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 51 7 506 794",
+      "quantity": 1,
+      "description": "Wiring harness, engine trans. module",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "id": 6383,
+  "diagram_title": "Front panel",
+  "image_url": "http://ills.bmwfans.info/1yps.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 71 7 111 691",
+      "quantity": 1,
+      "description": "Front panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 11 8 162 553",
+      "quantity": 2,
+      "description": "Cap, shock absorber",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 11 7 070 183",
+      "quantity": 6,
+      "description": "Hex nut with plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "17 11 1 709 442",
+      "quantity": 4,
+      "description": "Hex head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 24 7 035 332",
+      "quantity": 2,
+      "description": "Expanding rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 14 7 201 571",
+      "quantity": 6,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 71 8 226 114",
+      "quantity": 1,
+      "description": "Battery carrier, front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 12 9 905 470",
+      "quantity": 1,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 11 9 902 031",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 11 9 903 995",
+      "quantity": 4,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 11 9 913 102",
+      "quantity": 3,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E30, E31, E32, E34, E36, E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 71 8 201 161",
+      "quantity": 1,
+      "description": "Cover, module carrier left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 12 9 948 781",
+      "quantity": 4,
+      "description": "Rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 71 8 245 775",
+      "quantity": 2,
+      "description": "Spacer plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 71 8 202 799",
+      "quantity": 1,
+      "description": "Bulkhead engine compartment top left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 71 8 204 904",
+      "quantity": 2,
+      "description": "Lock",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 71 8 215 962",
+      "quantity": 2,
+      "description": "Lock",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "51 71 7 571 975",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "51 71 8 234 797",
+      "quantity": 1,
+      "description": "Left steering gear cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "51 71 8 234 798",
+      "quantity": 1,
+      "description": "Right steering gear cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "51 71 7 032 051",
+      "quantity": 1,
+      "description": "Stopper left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "51 71 7 032 052",
+      "quantity": 1,
+      "description": "Stopper left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "24",
+      "part_number": "51 71 8 203 397",
+      "quantity": 1,
+      "description": "Support left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "24",
+      "part_number": "51 71 8 203 398",
+      "quantity": 1,
+      "description": "Support left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "25",
+      "part_number": "51 11 1 964 186",
+      "quantity": 2,
+      "description": "Expanding rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "25",
+      "part_number": "51 24 7 035 332",
+      "quantity": 2,
+      "description": "Expanding rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "28",
+      "part_number": "51 11 8 128 363",
+      "quantity": 1,
+      "description": "Left protection foil",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "28",
+      "part_number": "52 10 8 128 364",
+      "quantity": 1,
+      "description": "Left protection foil",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "29",
+      "part_number": "51 71 7 036 781",
+      "quantity": 2,
+      "description": "Reinforcement, supporting bearing",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "30",
+      "part_number": "54 12 8 144 789",
+      "quantity": 2,
+      "description": "Blind rivet",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": 2404,
+  "diagram_title": "Rack support",
+  "image_url": "http://ills.bmwfans.info/e2j.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 12 9 401 163",
+      "quantity": 1,
+      "description": "Rack support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 71 9 402 819",
+      "quantity": 1,
+      "description": "Rack support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 79 9 404 131",
+      "quantity": 1,
+      "description": "Rack support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 79 9 404 133",
+      "quantity": 1,
+      "description": "Cover front left and rear right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 79 9 404 136",
+      "quantity": 1,
+      "description": "Cover front right and rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "82 79 9 404 137",
+      "quantity": 1,
+      "description": "Rack support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "82 79 9 404 128",
+      "quantity": 2,
+      "description": "Cover, top",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "82 79 9 404 129",
+      "quantity": 1,
+      "description": "Catch incl. key",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "82 79 9 404 130",
+      "quantity": 1,
+      "description": "Key (Code)",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

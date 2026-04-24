@@ -1,0 +1,101 @@
+{
+  "id": 3419,
+  "diagram_title": "M cover for rocker panel / wheel arch",
+  "image_url": "http://ills.bmwfans.info/3hqj.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 71 2 693 225",
+      "quantity": 1,
+      "description": "Primed left outer kick panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 71 2 693 226",
+      "quantity": 1,
+      "description": "Primed left outer kick panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 71 0 002 126",
+      "quantity": 1,
+      "description": "Primed left outer kick panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 71 0 002 127",
+      "quantity": 1,
+      "description": "Primed left outer kick panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 71 1 932 996",
+      "quantity": 1,
+      "description": "Grommet, green",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 11 8 174 184",
+      "quantity": 2,
+      "description": "Expanding rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 11 8 174 185",
+      "quantity": 1,
+      "description": "Expanding rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 71 8 184 574",
+      "quantity": 12,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 71 1 927 439",
+      "quantity": 4,
+      "description": "Plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 71 8 219 167",
+      "quantity": 1,
+      "description": "Covering left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 71 8 219 168",
+      "quantity": 1,
+      "description": "Covering left",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": 4052,
+  "diagram_title": "Side airbag",
+  "image_url": "http://ills.bmwfans.info/yjb.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1646,
+  "category_name": "Restraint system and Accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "72 12 7 037 229",
+      "quantity": 1,
+      "description": "Left front door air bag module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "72 12 7 037 230",
+      "quantity": 1,
+      "description": "Left front door air bag module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "72 12 7 072 625",
+      "quantity": 1,
+      "description": "Left rear door airbag module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "72 12 7 072 626",
+      "quantity": 1,
+      "description": "Left rear door airbag module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "72 12 8 233 294",
+      "quantity": 12,
+      "description": "Clip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 14 6 987 781",
+      "quantity": 12,
+      "description": "Clip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 901 523",
+      "quantity": 12,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 904 058",
+      "quantity": 12,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "72 12 8 244 969",
+      "quantity": 12,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

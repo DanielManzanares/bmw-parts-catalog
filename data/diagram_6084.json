@@ -1,0 +1,117 @@
+{
+  "id": 6084,
+  "diagram_title": "Cavity shielding, side frame",
+  "image_url": "http://ills.bmwfans.info/kkl.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "41 21 8 222 435",
+      "quantity": 1,
+      "description": "Molded part column A left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "41 21 8 222 436",
+      "quantity": 1,
+      "description": "Molded part column A left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "41 21 8 208 271",
+      "quantity": 1,
+      "description": "Molded part windshield panel lateral",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "41 21 8 216 586",
+      "quantity": 1,
+      "description": "Molded part f roof frame interior front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "41 21 8 202 920",
+      "quantity": 1,
+      "description": "Molded part f roof frame exterior front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "41 21 8 202 923",
+      "quantity": 2,
+      "description": "Molded part f roof frame center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "41 21 8 204 993",
+      "quantity": 1,
+      "description": "Molded part column C, interior",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "41 21 8 216 587",
+      "quantity": 1,
+      "description": "Molded part f column C, exterior left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "41 21 8 216 588",
+      "quantity": 1,
+      "description": "Molded part f column C, exterior left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "41 21 8 247 805",
+      "quantity": 2,
+      "description": "Molded part f entrance rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "41 21 8 208 264",
+      "quantity": 1,
+      "description": "Molded part f entrance center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "41 21 8 204 995",
+      "quantity": 1,
+      "description": "Moulded part column B",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "41 21 8 202 906",
+      "quantity": 1,
+      "description": "Molded part f entrance front",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

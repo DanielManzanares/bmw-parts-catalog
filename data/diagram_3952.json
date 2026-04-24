@@ -1,0 +1,349 @@
+{
+  "id": 3952,
+  "diagram_title": "Individual wood storing partition",
+  "image_url": "http://ills.bmwfans.info/ex2.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 25 9 402 669",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 2 261 099",
+      "quantity": 1,
+      "description": "Storing partition cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 2 256 423",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 2 261 185",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 2 261 186",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 2 261 187",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 2 261 188",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 2 261 218",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 2 261 228",
+      "quantity": 1,
+      "description": "Storing partition cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 2 423 551",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 2 423 700",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 2 423 781",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 2 424 268",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 2 493 339",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 25 9 402 670",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 2 261 103",
+      "quantity": 1,
+      "description": "Storing partition cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 2 256 424",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 2 261 180",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 2 261 181",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 2 261 182",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 2 261 183",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 2 261 217",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 2 261 227",
+      "quantity": 1,
+      "description": "Storing partition cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 2 423 552",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 2 423 701",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 2 423 782",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 2 424 269",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 2 493 341",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 25 9 402 672",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 2 261 105",
+      "quantity": 1,
+      "description": "Storing partition cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 2 256 426",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 2 261 244",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 2 261 245",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 2 261 246",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 2 261 247",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 2 261 290",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 2 261 305",
+      "quantity": 1,
+      "description": "Storing partition cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 2 423 554",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 2 423 703",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 2 423 784",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 2 424 271",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 2 493 343",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

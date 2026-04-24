@@ -1,0 +1,29 @@
+{
+  "id": 5604,
+  "diagram_title": "A5S325Z control unit",
+  "image_url": "http://ills.bmwfans.info/5fz.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 456,
+  "category_name": "Automatic Transmission",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "24 34 7 518 770",
+      "quantity": 1,
+      "description": "AT-Control unit set",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, E85"
+    },
+    {
+      "position_number": "1",
+      "part_number": "24 34 7 518 770",
+      "quantity": 1,
+      "description": "AT-Control unit set",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, E85"
+    }
+  ]
+}

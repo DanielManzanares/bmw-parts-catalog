@@ -1,0 +1,205 @@
+{
+  "id": 1459,
+  "diagram_title": "Front seat-vertical seat adjuster",
+  "image_url": "http://ills.bmwfans.info/b5u.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "5",
+      "part_number": "52 10 1 873 544",
+      "quantity": 1,
+      "description": "Clip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 1 873 544",
+      "quantity": 1,
+      "description": "Clip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 11 9 913 834",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E32, E34, E36, E9"
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 11 9 914 114",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, E53, Z1, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 11 9 913 834",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E32, E34, E36, E9"
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 11 9 914 114",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, E53, Z1, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 932 112",
+      "quantity": 1,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E46, E52, E53, E63, E63 Facelift, E83, E83 Facelift, E85, E86, E9, ISE, NK, V8, Z1, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 932 122",
+      "quantity": 1,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E63, E63 Facelift, E83, E83 Facelift, E85, E86, E9, ISE, NK, V8, Z1, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 932 112",
+      "quantity": 1,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E46, E52, E53, E63, E63 Facelift, E83, E83 Facelift, E85, E86, E9, ISE, NK, V8, Z1, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 932 122",
+      "quantity": 1,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E63, E63 Facelift, E83, E83 Facelift, E85, E86, E9, ISE, NK, V8, Z1, Z3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 1 881 770",
+      "quantity": 2,
+      "description": "Covering lower outer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 1 881 770",
+      "quantity": 2,
+      "description": "Covering lower outer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "52 10 1 873 545",
+      "quantity": 4,
+      "description": "Push-button",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "52 10 1 873 545",
+      "quantity": 4,
+      "description": "Push-button",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "52 10 1 873 447",
+      "quantity": 1,
+      "description": "Handle left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "52 10 1 873 448",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "52 10 1 873 447",
+      "quantity": 1,
+      "description": "Handle left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "52 10 1 873 448",
+      "quantity": 1,
+      "description": "Handle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "52 10 1 903 872",
+      "quantity": 2,
+      "description": "Grommet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "52 10 1 903 872",
+      "quantity": 2,
+      "description": "Grommet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "52 10 1 903 871",
+      "quantity": 2,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "52 10 1 903 871",
+      "quantity": 2,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "52 10 1 903 010",
+      "quantity": 2,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "52 10 1 903 010",
+      "quantity": 2,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

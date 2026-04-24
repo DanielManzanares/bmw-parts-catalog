@@ -1,0 +1,101 @@
+{
+  "id": 7053,
+  "diagram_title": "Parts, lat.trim panel rear, HiFi/Top-HiFi",
+  "image_url": "http://ills.bmwfans.info/uyz.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 13 8 368 239",
+      "quantity": 2,
+      "description": "Medium-treble loudspeaker hifi",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 13 8 368 245",
+      "quantity": 2,
+      "description": "Top-hifi mid-range loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 13 8 376 198",
+      "quantity": 1,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 13 6 911 463",
+      "quantity": 1,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 13 8 376 199",
+      "quantity": 1,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 13 8 376 200",
+      "quantity": 1,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 13 8 376 201",
+      "quantity": 1,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 13 8 376 202",
+      "quantity": 1,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 13 8 376 203",
+      "quantity": 1,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 13 8 376 204",
+      "quantity": 1,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 13 8 376 208",
+      "quantity": 1,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

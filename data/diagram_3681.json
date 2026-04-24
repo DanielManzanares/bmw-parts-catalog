@@ -1,0 +1,69 @@
+{
+  "id": 3681,
+  "diagram_title": "Microfiltre/microfiltrecover",
+  "image_url": "http://ills.bmwfans.info/cou.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 11 9 404 386",
+      "quantity": 1,
+      "description": "Supplementary set microfilter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 11 8 390 831",
+      "quantity": 1,
+      "description": "Covering cap left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 11 8 390 832",
+      "quantity": 1,
+      "description": "Covering cap left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 11 8 390 831",
+      "quantity": 1,
+      "description": "Covering cap left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 11 8 390 832",
+      "quantity": 1,
+      "description": "Covering cap left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 11 8 390 833",
+      "quantity": 1,
+      "description": "Covering cap left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 11 8 390 834",
+      "quantity": 1,
+      "description": "Covering cap left",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

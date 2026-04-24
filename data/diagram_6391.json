@@ -1,0 +1,29 @@
+{
+  "id": 6391,
+  "diagram_title": "Single components f rain sensor",
+  "image_url": "http://ills.bmwfans.info/3v6k.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "6",
+      "part_number": "61 35 8 376 254",
+      "quantity": 2,
+      "description": "Fixing clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "61 35 6 923 954",
+      "quantity": 1,
+      "description": "Rain and light sensor",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

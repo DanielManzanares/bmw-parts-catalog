@@ -1,0 +1,133 @@
+{
+  "id": 2338,
+  "diagram_title": "Retrofit, multifunctional armrest rear",
+  "image_url": "http://ills.bmwfans.info/1h7b.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 257 752",
+      "quantity": 1,
+      "description": "Armrest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 270 096",
+      "quantity": 1,
+      "description": "Armrest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 270 097",
+      "quantity": 1,
+      "description": "Armrest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 270 098",
+      "quantity": 1,
+      "description": "Armrest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 890 273",
+      "quantity": 1,
+      "description": "Armrest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 257 744",
+      "quantity": 1,
+      "description": "Armrest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 257 745",
+      "quantity": 1,
+      "description": "Armrest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 257 746",
+      "quantity": 1,
+      "description": "Armrest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 257 747",
+      "quantity": 1,
+      "description": "Armrest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 257 749",
+      "quantity": 1,
+      "description": "Armrest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 257 750",
+      "quantity": 1,
+      "description": "Armrest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 257 756",
+      "quantity": 1,
+      "description": "Armrest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 257 757",
+      "quantity": 1,
+      "description": "Armrest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 257 758",
+      "quantity": 1,
+      "description": "Armrest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 257 759",
+      "quantity": 1,
+      "description": "Armrest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

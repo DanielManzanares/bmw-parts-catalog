@@ -1,0 +1,21 @@
+{
+  "id": 5331,
+  "diagram_title": "Air pump f vacuum control",
+  "image_url": "http://ills.bmwfans.info/13e5.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1,
+  "category_name": "Engine",
+  "parts": [
+    {
+      "position_number": "3",
+      "part_number": "11 72 7 574 490",
+      "quantity": 1,
+      "description": "Vacuum pipe",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, E53, Z3"
+    }
+  ]
+}

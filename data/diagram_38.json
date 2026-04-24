@@ -1,0 +1,93 @@
+{
+  "id": 38,
+  "diagram_title": "Tubing support",
+  "image_url": "http://ills.bmwfans.info/pam.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 31,
+  "category_name": "Fuel Supply",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "16 12 1 178 832",
+      "quantity": 4,
+      "description": "Rubber buffer",
+      "price_eur": null,
+      "compatible_models": "E30, E31, E32, E34, E36, E38, E39, E65, E66, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "16 12 1 178 832",
+      "quantity": 4,
+      "description": "Rubber buffer",
+      "price_eur": null,
+      "compatible_models": "E30, E31, E32, E34, E36, E38, E39, E65, E66, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "16 12 1 180 378",
+      "quantity": 4,
+      "description": "Tubing support",
+      "price_eur": null,
+      "compatible_models": "E31, E36, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "16 12 1 180 378",
+      "quantity": 4,
+      "description": "Tubing support",
+      "price_eur": null,
+      "compatible_models": "E31, E36, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "16 12 1 180 416",
+      "quantity": 4,
+      "description": "Fuel pipe bracket",
+      "price_eur": null,
+      "compatible_models": "E31, E36, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "16 12 1 180 416",
+      "quantity": 4,
+      "description": "Fuel pipe bracket",
+      "price_eur": null,
+      "compatible_models": "E31, E36, Z3"
+    },
+    {
+      "position_number": "14",
+      "part_number": "16 13 1 181 031",
+      "quantity": 1,
+      "description": "Clip",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, Z3"
+    },
+    {
+      "position_number": "14",
+      "part_number": "16 13 1 181 031",
+      "quantity": 1,
+      "description": "Clip",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, Z3"
+    },
+    {
+      "position_number": "15",
+      "part_number": "16 12 1 179 396",
+      "quantity": 1,
+      "description": "Pipe clip",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E46, Z3"
+    },
+    {
+      "position_number": "15",
+      "part_number": "16 12 1 179 396",
+      "quantity": 1,
+      "description": "Pipe clip",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E46, Z3"
+    }
+  ]
+}

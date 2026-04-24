@@ -1,0 +1,117 @@
+{
+  "id": 3157,
+  "diagram_title": "Sticker Police, Fire-brigade, Paramedic",
+  "image_url": "http://ills.bmwfans.info/aqk.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 14 8 122 781",
+      "quantity": 1,
+      "description": "Adhesive film, side panel, front left fr",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 8 122 782",
+      "quantity": 1,
+      "description": "Adhesive film, side panel, front left fr",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 14 8 122 783",
+      "quantity": 1,
+      "description": "Adhesive film, side panel, front left rea",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 14 8 122 784",
+      "quantity": 1,
+      "description": "Adhesive film, side panel, front left rea",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 14 8 122 785",
+      "quantity": 1,
+      "description": "Adhesive film, door, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 14 8 122 786",
+      "quantity": 1,
+      "description": "Adhesive film, door, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 14 8 122 787",
+      "quantity": 1,
+      "description": "Foil left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 14 8 122 788",
+      "quantity": 1,
+      "description": "Foil left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 14 8 122 789",
+      "quantity": 1,
+      "description": "Foil left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 14 8 122 790",
+      "quantity": 1,
+      "description": "Foil left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 14 8 122 791",
+      "quantity": 1,
+      "description": "Foil",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 14 8 122 835",
+      "quantity": 1,
+      "description": "Adhesive film, hood",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 14 8 230 782",
+      "quantity": 1,
+      "description": "Adhesive film, front panel",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

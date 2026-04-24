@@ -1,0 +1,237 @@
+{
+  "id": 3641,
+  "diagram_title": "Single parts for head lamp cleaning",
+  "image_url": "http://ills.bmwfans.info/c37.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 66 1 387 415",
+      "quantity": 1,
+      "description": "Fluid container",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 67 8 354 625",
+      "quantity": 1,
+      "description": "Pump headlight",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 67 1 378 631",
+      "quantity": 1,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 31 1 388 578",
+      "quantity": 1,
+      "description": "Levelling switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 31 1 388 548",
+      "quantity": 1,
+      "description": "Levelling switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 31 1 369 343",
+      "quantity": 1,
+      "description": "Rubber grommet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 66 7 264 145",
+      "quantity": 1,
+      "description": "Cover f windshield cleaning container",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "61 66 1 365 848",
+      "quantity": 1,
+      "description": "Strainer f water container",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "16 11 1 180 163",
+      "quantity": 1,
+      "description": "Base",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 67 1 379 530",
+      "quantity": 1,
+      "description": "Hose line",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "61 66 1 393 863",
+      "quantity": 1,
+      "description": "Distribution piece",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "16 13 1 179 065",
+      "quantity": 1,
+      "description": "Hose clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "61 67 1 393 991",
+      "quantity": 1,
+      "description": "Bracket left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "61 67 1 393 992",
+      "quantity": 1,
+      "description": "Bracket left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 11 9 915 002",
+      "quantity": 4,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 11 9 905 138",
+      "quantity": 4,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "61 67 8 360 101",
+      "quantity": 1,
+      "description": "Telescope left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "61 67 8 360 102",
+      "quantity": 1,
+      "description": "Telescope left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "61 67 8 353 211",
+      "quantity": 1,
+      "description": "Bush left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "61 67 8 353 212",
+      "quantity": 1,
+      "description": "Bush left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "61 67 1 393 993",
+      "quantity": 1,
+      "description": "Spray nozzle left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "61 67 1 393 994",
+      "quantity": 1,
+      "description": "Spray nozzle left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "61 67 1 393 838",
+      "quantity": 1,
+      "description": "Hose clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "61 13 1 367 599",
+      "quantity": 1,
+      "description": "Cable tie",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "61 13 1 381 436",
+      "quantity": 6,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "61 13 1 379 073",
+      "quantity": 5,
+      "description": "Cable holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "63 17 1 367 868",
+      "quantity": 1,
+      "description": "Expanding nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "07 11 9 904 285",
+      "quantity": 1,
+      "description": "Hex head screw",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

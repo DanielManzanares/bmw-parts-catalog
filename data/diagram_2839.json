@@ -1,0 +1,21 @@
+{
+  "id": 2839,
+  "diagram_title": "Ski bag",
+  "image_url": "http://ills.bmwfans.info/dgp.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1646,
+  "category_name": "Restraint system and Accessories",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "72 60 1 949 536",
+      "quantity": 1,
+      "description": "Ski bag",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

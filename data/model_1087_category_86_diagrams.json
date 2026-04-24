@@ -1,0 +1,470 @@
+[
+  {
+    "id": 5936,
+    "diagram_title": "BMW Composite wheel, cross spoke 78",
+    "image_url": "http://ills.bmwfans.info/1jb6.png",
+    "parts_count": 14
+  },
+  {
+    "id": 5988,
+    "diagram_title": "BMW LA Individual wheel V-spoke 152",
+    "image_url": "http://ills.bmwfans.info/2ukh.png",
+    "parts_count": 11
+  },
+  {
+    "id": 5924,
+    "diagram_title": "BMW LA wheel, V spoke 72",
+    "image_url": "http://ills.bmwfans.info/12l0.png",
+    "parts_count": 12
+  },
+  {
+    "id": 5939,
+    "diagram_title": "BMW LA wheel, double spoke 79",
+    "image_url": "http://ills.bmwfans.info/1neg.png",
+    "parts_count": 9
+  },
+  {
+    "id": 5962,
+    "diagram_title": "BMW LA wheel, double spoke 98",
+    "image_url": "http://ills.bmwfans.info/1y5v.png",
+    "parts_count": 9
+  },
+  {
+    "id": 5943,
+    "diagram_title": "BMW LA wheel, parallel spoke 85",
+    "image_url": "http://ills.bmwfans.info/18fm.png",
+    "parts_count": 11
+  },
+  {
+    "id": 5928,
+    "diagram_title": "BMW LA wheel, radial spoke 73",
+    "image_url": "http://ills.bmwfans.info/12un.png",
+    "parts_count": 9
+  },
+  {
+    "id": 5969,
+    "diagram_title": "BMW LA wheel, star spoke 119",
+    "image_url": "http://ills.bmwfans.info/2nh2.png",
+    "parts_count": 9
+  },
+  {
+    "id": 5951,
+    "diagram_title": "BMW LA wheel, star spoke 89",
+    "image_url": "http://ills.bmwfans.info/1syn.png",
+    "parts_count": 10
+  },
+  {
+    "id": 5954,
+    "diagram_title": "BMW LA wheel, star spoke 96",
+    "image_url": "http://ills.bmwfans.info/1u0r.png",
+    "parts_count": 10
+  },
+  {
+    "id": 5972,
+    "diagram_title": "BMW LA wheel/double spoke 125",
+    "image_url": "http://ills.bmwfans.info/2dwl.png",
+    "parts_count": 10
+  },
+  {
+    "id": 6000,
+    "diagram_title": "BMW Performance LA wheel/double spoke269",
+    "image_url": "http://ills.bmwfans.info/35yc.png",
+    "parts_count": 11
+  },
+  {
+    "id": 5980,
+    "diagram_title": "BMW alloy wheel, M double spoke 135",
+    "image_url": "http://ills.bmwfans.info/2nha.png",
+    "parts_count": 13
+  },
+  {
+    "id": 5916,
+    "diagram_title": "BMW alloy wheel, M double spoke 68",
+    "image_url": "http://ills.bmwfans.info/12jb.png",
+    "parts_count": 12
+  },
+  {
+    "id": 5958,
+    "diagram_title": "BMW alloy wheel, M double spoke 97",
+    "image_url": "http://ills.bmwfans.info/22b8.png",
+    "parts_count": 12
+  },
+  {
+    "id": 5920,
+    "diagram_title": "BMW composite wheel, double spoke 71",
+    "image_url": "http://ills.bmwfans.info/u5f.png",
+    "parts_count": 21
+  },
+  {
+    "id": 5947,
+    "diagram_title": "BMW composite wheel, radial spoke 86",
+    "image_url": "http://ills.bmwfans.info/1s4x.png",
+    "parts_count": 10
+  },
+  {
+    "id": 5965,
+    "diagram_title": "BMW compound wheel M cross spoke 101",
+    "image_url": "http://ills.bmwfans.info/224d.png",
+    "parts_count": 14
+  },
+  {
+    "id": 5897,
+    "diagram_title": "BMW l-alloy wheel, cross spoke comp.II 42",
+    "image_url": "http://ills.bmwfans.info/3te.png",
+    "parts_count": 14
+  },
+  {
+    "id": 5976,
+    "diagram_title": "BMW light alloy wheel, cross spoke 133",
+    "image_url": "http://ills.bmwfans.info/2dwz.png",
+    "parts_count": 13
+  },
+  {
+    "id": 5932,
+    "diagram_title": "BMW light alloy wheel, cross spoke 78",
+    "image_url": "http://ills.bmwfans.info/1jb7.png",
+    "parts_count": 9
+  },
+  {
+    "id": 5905,
+    "diagram_title": "BMW light alloy wheel, double spoke 47",
+    "image_url": "http://ills.bmwfans.info/el2.png",
+    "parts_count": 11
+  },
+  {
+    "id": 5912,
+    "diagram_title": "BMW light alloy wheel, double spoke 51",
+    "image_url": "http://ills.bmwfans.info/hww.png",
+    "parts_count": 10
+  },
+  {
+    "id": 5908,
+    "diagram_title": "BMW light alloy wheel, radial spoke 50",
+    "image_url": "http://ills.bmwfans.info/hwv.png",
+    "parts_count": 14
+  },
+  {
+    "id": 5984,
+    "diagram_title": "BMW light alloy wheel, spider spoke 137",
+    "image_url": "http://ills.bmwfans.info/2nh3.png",
+    "parts_count": 9
+  },
+  {
+    "id": 5990,
+    "diagram_title": "BMW light alloy wheel, star spoke 170",
+    "image_url": "http://ills.bmwfans.info/2vrh.png",
+    "parts_count": 7
+  },
+  {
+    "id": 5993,
+    "diagram_title": "BMW light alloy wheel, star spoke 171",
+    "image_url": "http://ills.bmwfans.info/2vri.png",
+    "parts_count": 7
+  },
+  {
+    "id": 5901,
+    "diagram_title": "BMW light-alloy wheel star spokes 44",
+    "image_url": "http://ills.bmwfans.info/f4l.png",
+    "parts_count": 10
+  },
+  {
+    "id": 6005,
+    "diagram_title": "Balance weight, lead",
+    "image_url": "http://ills.bmwfans.info/3rd.png",
+    "parts_count": 14
+  },
+  {
+    "id": 6008,
+    "diagram_title": "Balance weight, lead",
+    "image_url": "http://ills.bmwfans.info/19zv.png",
+    "parts_count": 14
+  },
+  {
+    "id": 6012,
+    "diagram_title": "Balance weight, zinc",
+    "image_url": "http://ills.bmwfans.info/2x25.png",
+    "parts_count": 32
+  },
+  {
+    "id": 5889,
+    "diagram_title": "Radial styling (styl.32)",
+    "image_url": "http://ills.bmwfans.info/3ue.png",
+    "parts_count": 15
+  },
+  {
+    "id": 6022,
+    "diagram_title": "Set wheel locks",
+    "image_url": "http://ills.bmwfans.info/3i97.png",
+    "parts_count": 1
+  },
+  {
+    "id": 6026,
+    "diagram_title": "Set wheel locks",
+    "image_url": "http://ills.bmwfans.info/3i97.png",
+    "parts_count": 1
+  },
+  {
+    "id": 5886,
+    "diagram_title": "Steel rim styl.12",
+    "image_url": "http://ills.bmwfans.info/1s55.png",
+    "parts_count": 10
+  },
+  {
+    "id": 5997,
+    "diagram_title": "Tire pressure control (RDC) — ctrl unit",
+    "image_url": "http://ills.bmwfans.info/1vrd.png",
+    "parts_count": 17
+  },
+  {
+    "id": 6015,
+    "diagram_title": "Wheel bolt lock with adaptor",
+    "image_url": "http://ills.bmwfans.info/3r5.png",
+    "parts_count": 41
+  },
+  {
+    "id": 6019,
+    "diagram_title": "Wheel bolt lock with adaptor",
+    "image_url": "http://ills.bmwfans.info/2rth.png",
+    "parts_count": 4
+  },
+  {
+    "id": 5893,
+    "diagram_title": "Z-star (styl.35)",
+    "image_url": "http://ills.bmwfans.info/3tx.png",
+    "parts_count": 1
+  },
+  {
+    "id": 1246,
+    "diagram_title": "balance_weight_lead",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_balance_weight_lead.png",
+    "parts_count": 14
+  },
+  {
+    "id": 1251,
+    "diagram_title": "balance_weight_lead_2",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_balance_weight_lead_2.png",
+    "parts_count": 14
+  },
+  {
+    "id": 1252,
+    "diagram_title": "balance_weight_zinc",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_balance_weight_zinc.png",
+    "parts_count": 32
+  },
+  {
+    "id": 1244,
+    "diagram_title": "bmw_alloy_wheel_m_double_spoke_135",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_bmw_alloy_wheel_m_double_spoke_135.png",
+    "parts_count": 13
+  },
+  {
+    "id": 1226,
+    "diagram_title": "bmw_alloy_wheel_m_double_spoke_68",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_bmw_alloy_wheel_m_double_spoke_68.png",
+    "parts_count": 12
+  },
+  {
+    "id": 1237,
+    "diagram_title": "bmw_alloy_wheel_m_double_spoke_97",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_bmw_alloy_wheel_m_double_spoke_97.png",
+    "parts_count": 12
+  },
+  {
+    "id": 1233,
+    "diagram_title": "bmw_composite_wheel_cross_spoke_78",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_bmw_composite_wheel_cross_spoke_78.png",
+    "parts_count": 14
+  },
+  {
+    "id": 1231,
+    "diagram_title": "bmw_composite_wheel_double_spoke_71",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_bmw_composite_wheel_double_spoke_71.png",
+    "parts_count": 21
+  },
+  {
+    "id": 1235,
+    "diagram_title": "bmw_composite_wheel_radial_spoke_86",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_bmw_composite_wheel_radial_spoke_86.png",
+    "parts_count": 10
+  },
+  {
+    "id": 1238,
+    "diagram_title": "bmw_compound_wheel_m_cross_spoke_101",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_bmw_compound_wheel_m_cross_spoke_101.png",
+    "parts_count": 14
+  },
+  {
+    "id": 1221,
+    "diagram_title": "bmw_l_alloy_wheel_cross_spoke_comp_ii_42",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_bmw_l_alloy_wheel_cross_spoke_comp_ii_42.png",
+    "parts_count": 14
+  },
+  {
+    "id": 1247,
+    "diagram_title": "bmw_la_individual_wheel_v_spoke_152",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_bmw_la_individual_wheel_v_spoke_152.png",
+    "parts_count": 11
+  },
+  {
+    "id": 1240,
+    "diagram_title": "bmw_la_wheel_double_spoke_125",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_bmw_la_wheel_double_spoke_125.png",
+    "parts_count": 10
+  },
+  {
+    "id": 1228,
+    "diagram_title": "bmw_la_wheel_double_spoke_79",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_bmw_la_wheel_double_spoke_79.png",
+    "parts_count": 9
+  },
+  {
+    "id": 1241,
+    "diagram_title": "bmw_la_wheel_double_spoke_98",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_bmw_la_wheel_double_spoke_98.png",
+    "parts_count": 9
+  },
+  {
+    "id": 1227,
+    "diagram_title": "bmw_la_wheel_parallel_spoke_85",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_bmw_la_wheel_parallel_spoke_85.png",
+    "parts_count": 11
+  },
+  {
+    "id": 1230,
+    "diagram_title": "bmw_la_wheel_radial_spoke_73",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_bmw_la_wheel_radial_spoke_73.png",
+    "parts_count": 9
+  },
+  {
+    "id": 1242,
+    "diagram_title": "bmw_la_wheel_star_spoke_119",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_bmw_la_wheel_star_spoke_119.png",
+    "parts_count": 9
+  },
+  {
+    "id": 1236,
+    "diagram_title": "bmw_la_wheel_star_spoke_89",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_bmw_la_wheel_star_spoke_89.png",
+    "parts_count": 10
+  },
+  {
+    "id": 1239,
+    "diagram_title": "bmw_la_wheel_star_spoke_96",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_bmw_la_wheel_star_spoke_96.png",
+    "parts_count": 10
+  },
+  {
+    "id": 1232,
+    "diagram_title": "bmw_la_wheel_v_spoke_72",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_bmw_la_wheel_v_spoke_72.png",
+    "parts_count": 12
+  },
+  {
+    "id": 1243,
+    "diagram_title": "bmw_light_alloy_wheel_cross_spoke_133",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_bmw_light_alloy_wheel_cross_spoke_133.png",
+    "parts_count": 13
+  },
+  {
+    "id": 1234,
+    "diagram_title": "bmw_light_alloy_wheel_cross_spoke_78",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_bmw_light_alloy_wheel_cross_spoke_78.png",
+    "parts_count": 9
+  },
+  {
+    "id": 1224,
+    "diagram_title": "bmw_light_alloy_wheel_double_spoke_47",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_bmw_light_alloy_wheel_double_spoke_47.png",
+    "parts_count": 11
+  },
+  {
+    "id": 1229,
+    "diagram_title": "bmw_light_alloy_wheel_double_spoke_51",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_bmw_light_alloy_wheel_double_spoke_51.png",
+    "parts_count": 10
+  },
+  {
+    "id": 1225,
+    "diagram_title": "bmw_light_alloy_wheel_radial_spoke_50",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_bmw_light_alloy_wheel_radial_spoke_50.png",
+    "parts_count": 14
+  },
+  {
+    "id": 1245,
+    "diagram_title": "bmw_light_alloy_wheel_spider_spoke_137",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_bmw_light_alloy_wheel_spider_spoke_137.png",
+    "parts_count": 9
+  },
+  {
+    "id": 1250,
+    "diagram_title": "bmw_light_alloy_wheel_star_spoke_170",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_bmw_light_alloy_wheel_star_spoke_170.png",
+    "parts_count": 7
+  },
+  {
+    "id": 1248,
+    "diagram_title": "bmw_light_alloy_wheel_star_spoke_171",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_bmw_light_alloy_wheel_star_spoke_171.png",
+    "parts_count": 7
+  },
+  {
+    "id": 1222,
+    "diagram_title": "bmw_light_alloy_wheel_star_spokes_44",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_bmw_light_alloy_wheel_star_spokes_44.png",
+    "parts_count": 10
+  },
+  {
+    "id": 1253,
+    "diagram_title": "bmw_performance_la_wheel_double_spoke269",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_bmw_performance_la_wheel_double_spoke269.png",
+    "parts_count": 11
+  },
+  {
+    "id": 1220,
+    "diagram_title": "radial_styling_styl_32",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_radial_styling_styl_32.png",
+    "parts_count": 15
+  },
+  {
+    "id": 1256,
+    "diagram_title": "set_wheel_locks",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_set_wheel_locks.png",
+    "parts_count": 1
+  },
+  {
+    "id": 1257,
+    "diagram_title": "set_wheel_locks_2",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_set_wheel_locks_2.png",
+    "parts_count": 1
+  },
+  {
+    "id": 1223,
+    "diagram_title": "steel_rim_styl_12",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_steel_rim_styl_12.png",
+    "parts_count": 10
+  },
+  {
+    "id": 1254,
+    "diagram_title": "tire_pressure_control_rdc_ctrl_unit",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_tire_pressure_control_rdc_ctrl_unit.png",
+    "parts_count": 18
+  },
+  {
+    "id": 1255,
+    "diagram_title": "wheel_bolt_lock_with_adaptor",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_wheel_bolt_lock_with_adaptor.png",
+    "parts_count": 41
+  },
+  {
+    "id": 1249,
+    "diagram_title": "wheel_bolt_lock_with_adaptor_2",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_wheel_bolt_lock_with_adaptor_2.png",
+    "parts_count": 4
+  },
+  {
+    "id": 1218,
+    "diagram_title": "z_star_styl_35",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_wheels_z_star_styl_35.png",
+    "parts_count": 1
+  }
+]

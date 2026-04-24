@@ -1,0 +1,61 @@
+{
+  "id": 843,
+  "diagram_title": "third_stoplamp",
+  "image_url": "/static/images/diagrams/E46_318i-N42_lighting_third_stoplamp.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 184,
+  "category_name": "Lighting",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "63 25 6 917 540",
+      "quantity": 1,
+      "description": "Third stoplamp white",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 25 8 368 764",
+      "quantity": 1,
+      "description": "Third stoplamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 907 657",
+      "quantity": 2,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E26, E28, E30, E46, E53, E60 Facelift, E61, E61 Facelift"
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 13 8 365 340",
+      "quantity": 1,
+      "description": "Universal socket housing uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 13 2 359 999",
+      "quantity": 1,
+      "description": "Rep. kit for socket housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 13 8 366 275",
+      "quantity": 1,
+      "description": "Universal pin terminal uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

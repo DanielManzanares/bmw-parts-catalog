@@ -1,0 +1,45 @@
+{
+  "id": 2275,
+  "diagram_title": "Retrofit kit, shift knob, leather illumi.",
+  "image_url": "http://ills.bmwfans.info/28y.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "25 11 2 231 551",
+      "quantity": 1,
+      "description": "Illuminated leather shifting knob",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "25 11 2 231 561",
+      "quantity": 1,
+      "description": "Retrofit kit, shift knob, leather illumi.",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "25 11 2 231 550",
+      "quantity": 1,
+      "description": "Illuminated leather shifting knob",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 12 2 231 560",
+      "quantity": 1,
+      "description": "Cable shifting knob illuminated",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

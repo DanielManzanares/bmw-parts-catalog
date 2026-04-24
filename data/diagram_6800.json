@@ -1,0 +1,21 @@
+{
+  "id": 6800,
+  "diagram_title": "Rod antenna SPORT",
+  "image_url": "http://ills.bmwfans.info/cr1b.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 20 2 296 761",
+      "quantity": 1,
+      "description": "BMW roof antenna, Sport",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

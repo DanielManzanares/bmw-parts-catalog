@@ -1,0 +1,837 @@
+{
+  "id": 7443,
+  "diagram_title": "Individual series ZD PA339",
+  "image_url": "http://ills.bmwfans.info/1s8z.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 016 116",
+      "quantity": 1,
+      "description": "Headrest leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 016 168",
+      "quantity": 1,
+      "description": "Headrest leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 7 890 418",
+      "quantity": 1,
+      "description": "Head rest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 016 120",
+      "quantity": 1,
+      "description": "Headrest leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 016 145",
+      "quantity": 1,
+      "description": "Headrest leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 016 172",
+      "quantity": 1,
+      "description": "Headrest leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 016 121",
+      "quantity": 1,
+      "description": "Sports seat cover, leather Nappa",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 016 146",
+      "quantity": 1,
+      "description": "Sports seat cover, leather Nappa",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 014 979",
+      "quantity": 1,
+      "description": "Cover, sports seat, Alcantara Online",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 016 163",
+      "quantity": 1,
+      "description": "Sports seat cover, leather Nappa",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 014 979",
+      "quantity": 1,
+      "description": "Cover, sports seat, Alcantara Online",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 016 173",
+      "quantity": 1,
+      "description": "Sports seat cover, leather Nappa",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 016 117",
+      "quantity": 1,
+      "description": "Sports seat cover, leather Nappa",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 016 169",
+      "quantity": 1,
+      "description": "Sports seat cover, leather Nappa",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 8 016 122",
+      "quantity": 1,
+      "description": "Sports seat backrest cover, leather Nappa",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 8 016 147",
+      "quantity": 1,
+      "description": "Sports seat backrest cover, leather Nappa",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 8 014 980",
+      "quantity": 1,
+      "description": "Cover, bckrst, sprts seat, Alcantara Online",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 8 016 164",
+      "quantity": 1,
+      "description": "Sports seat backrest cover, leather Nappa",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 8 014 980",
+      "quantity": 1,
+      "description": "Cover, bckrst, sprts seat, Alcantara Online",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 8 016 174",
+      "quantity": 1,
+      "description": "Sports seat backrest cover, leather Nappa",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 8 016 118",
+      "quantity": 1,
+      "description": "Sports seat backrest cover, leather Nappa",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 8 016 170",
+      "quantity": 1,
+      "description": "Sports seat backrest cover, leather Nappa",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 8 011 609",
+      "quantity": 1,
+      "description": "Cover backrest, leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 890 422",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 8 016 124",
+      "quantity": 1,
+      "description": "Head rest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 8 016 148",
+      "quantity": 1,
+      "description": "Head rest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 8 016 176",
+      "quantity": 1,
+      "description": "Head rest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 8 016 125",
+      "quantity": 1,
+      "description": "Leather seat cover, rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 8 016 149",
+      "quantity": 1,
+      "description": "Leather seat cover, rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 8 014 004",
+      "quantity": 1,
+      "description": "Leather seat cover, rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 8 016 167",
+      "quantity": 1,
+      "description": "Leather seat cover, rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 8 014 004",
+      "quantity": 1,
+      "description": "Leather seat cover, rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 8 016 177",
+      "quantity": 1,
+      "description": "Leather seat cover, rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 8 016 131",
+      "quantity": 1,
+      "description": "Leather seat cover, rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 8 016 183",
+      "quantity": 1,
+      "description": "Leather seat cover, rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 8 016 127",
+      "quantity": 1,
+      "description": "Cover, backrest, rear left leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 8 016 151",
+      "quantity": 1,
+      "description": "Cover, backrest, rear left leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 8 016 165",
+      "quantity": 1,
+      "description": "Cover, backrest, rear left leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 8 016 179",
+      "quantity": 1,
+      "description": "Cover, backrest, rear left leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 016 128",
+      "quantity": 1,
+      "description": "Cover, backrest, rear right leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 016 152",
+      "quantity": 1,
+      "description": "Cover, backrest, rear right leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 016 166",
+      "quantity": 1,
+      "description": "Cover, backrest, rear right leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 016 180",
+      "quantity": 1,
+      "description": "Cover, backrest, rear right leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 20 8 014 882",
+      "quantity": 1,
+      "description": "Side finisher, right, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 20 8 016 130",
+      "quantity": 1,
+      "description": "Side finisher, right, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 20 8 016 154",
+      "quantity": 1,
+      "description": "Side finisher, right, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 20 8 016 182",
+      "quantity": 1,
+      "description": "Side finisher, right, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 20 8 014 881",
+      "quantity": 1,
+      "description": "Side finisher, right, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 20 8 016 129",
+      "quantity": 1,
+      "description": "Side finisher, right, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 20 8 016 153",
+      "quantity": 1,
+      "description": "Side finisher, right, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 20 8 016 181",
+      "quantity": 1,
+      "description": "Side finisher, right, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "52 20 7 890 430",
+      "quantity": 1,
+      "description": "Armrest rear, Alcantara uni",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "52 20 8 016 126",
+      "quantity": 1,
+      "description": "Armrest rear, Alcantara uni",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "52 20 8 016 150",
+      "quantity": 1,
+      "description": "Armrest rear, Alcantara uni",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "52 20 8 016 178",
+      "quantity": 1,
+      "description": "Armrest rear, Alcantara uni",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "52 20 8 016 133",
+      "quantity": 1,
+      "description": "Armrest rear, Alcantara uni",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "52 20 8 016 185",
+      "quantity": 1,
+      "description": "Armrest rear, Alcantara uni",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 41 8 014 887",
+      "quantity": 1,
+      "description": "Door trim panel, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 41 8 014 888",
+      "quantity": 1,
+      "description": "Door trim panel, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 41 8 016 139",
+      "quantity": 1,
+      "description": "Door trim panel, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 41 8 016 140",
+      "quantity": 1,
+      "description": "Door trim panel, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 41 8 016 159",
+      "quantity": 1,
+      "description": "Door trim panel, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 41 8 016 160",
+      "quantity": 1,
+      "description": "Door trim panel, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 41 8 016 191",
+      "quantity": 1,
+      "description": "Door trim panel, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 41 8 016 192",
+      "quantity": 1,
+      "description": "Door trim panel, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 41 8 014 883",
+      "quantity": 1,
+      "description": "Door trim panel, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 41 8 014 884",
+      "quantity": 1,
+      "description": "Door trim panel, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 41 8 016 135",
+      "quantity": 1,
+      "description": "Door trim panel, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 41 8 016 136",
+      "quantity": 1,
+      "description": "Door trim panel, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 41 8 016 155",
+      "quantity": 1,
+      "description": "Door trim panel, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 41 8 016 156",
+      "quantity": 1,
+      "description": "Door trim panel, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 41 8 016 187",
+      "quantity": 1,
+      "description": "Door trim panel, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 41 8 016 188",
+      "quantity": 1,
+      "description": "Door trim panel, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 43 8 014 885",
+      "quantity": 1,
+      "description": "Lateral trim panel, left, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 43 8 014 886",
+      "quantity": 1,
+      "description": "Lateral trim panel, left, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 43 8 016 137",
+      "quantity": 1,
+      "description": "Lateral trim panel, left, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 43 8 016 138",
+      "quantity": 1,
+      "description": "Lateral trim panel, left, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 43 8 016 157",
+      "quantity": 1,
+      "description": "Lateral trim panel, left, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 43 8 016 158",
+      "quantity": 1,
+      "description": "Lateral trim panel, left, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 43 8 016 189",
+      "quantity": 1,
+      "description": "Lateral trim panel, left, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 43 8 016 190",
+      "quantity": 1,
+      "description": "Lateral trim panel, left, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 43 8 014 889",
+      "quantity": 1,
+      "description": "Lateral trim panel, left, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 43 8 014 890",
+      "quantity": 1,
+      "description": "Lateral trim panel, left, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 43 8 016 141",
+      "quantity": 1,
+      "description": "Lateral trim panel, left, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 43 8 016 142",
+      "quantity": 1,
+      "description": "Lateral trim panel, left, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 43 8 016 161",
+      "quantity": 1,
+      "description": "Lateral trim panel, left, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 43 8 016 162",
+      "quantity": 1,
+      "description": "Lateral trim panel, left, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 43 8 016 193",
+      "quantity": 1,
+      "description": "Lateral trim panel, left, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 43 8 016 194",
+      "quantity": 1,
+      "description": "Lateral trim panel, left, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "52 10 8 016 123",
+      "quantity": 1,
+      "description": "Rear panel with net bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "52 10 8 016 175",
+      "quantity": 1,
+      "description": "Rear panel with net bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "52 10 8 016 119",
+      "quantity": 1,
+      "description": "Rear panel with net bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "52 10 8 016 171",
+      "quantity": 1,
+      "description": "Rear panel with net bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 16 8 016 132",
+      "quantity": 1,
+      "description": "Armrest, front, leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 16 8 016 184",
+      "quantity": 1,
+      "description": "Armrest, front, leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 41 8 016 461",
+      "quantity": 1,
+      "description": "Armrest upper part front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 41 8 016 465",
+      "quantity": 1,
+      "description": "Armrest upper part front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 41 8 016 462",
+      "quantity": 1,
+      "description": "Armrest upper part front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 41 8 016 466",
+      "quantity": 1,
+      "description": "Armrest upper part front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 43 8 016 463",
+      "quantity": 1,
+      "description": "Armrest upper part rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 43 8 016 467",
+      "quantity": 1,
+      "description": "Armrest upper part rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 43 8 016 464",
+      "quantity": 1,
+      "description": "Armrest upper part rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 43 8 016 468",
+      "quantity": 1,
+      "description": "Armrest upper part rear left",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

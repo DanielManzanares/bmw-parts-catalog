@@ -1,0 +1,37 @@
+{
+  "id": 7178,
+  "diagram_title": "Enable code for Japanese navigation",
+  "image_url": "http://ills.bmwfans.info/35d2.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 90 2 350 330",
+      "quantity": 1,
+      "description": "Enable code JNav map 2013 initialization",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 90 2 350 330",
+      "quantity": 1,
+      "description": "Enable code JNav map 2013 initialization",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 90 2 358 462",
+      "quantity": 1,
+      "description": "Enable code JNav map 2013 initialization",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

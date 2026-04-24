@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1998,
+    "diagram_title": "Electric additional fan",
+    "image_url": "http://ills.bmwfans.info/1xa.png",
+    "parts_count": 45
+  },
+  {
+    "id": 1997,
+    "diagram_title": "Engine oil cooling",
+    "image_url": "http://ills.bmwfans.info/1x0.png",
+    "parts_count": 63
+  },
+  {
+    "id": 1995,
+    "diagram_title": "Expansion tank",
+    "image_url": "http://ills.bmwfans.info/1wj.png",
+    "parts_count": 33
+  },
+  {
+    "id": 1994,
+    "diagram_title": "Radiator/frame",
+    "image_url": "http://ills.bmwfans.info/1wk.png",
+    "parts_count": 54
+  },
+  {
+    "id": 1996,
+    "diagram_title": "Transmission oil cooling",
+    "image_url": "http://ills.bmwfans.info/1w8.png",
+    "parts_count": 51
+  }
+]

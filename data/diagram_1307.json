@@ -1,0 +1,45 @@
+{
+  "id": 1307,
+  "diagram_title": "single_components_f_headlight_xenon_alc",
+  "image_url": "/static/images/diagrams/E46_330Ci-M54_lighting_single_components_f_headlight_xenon_alc.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 184,
+  "category_name": "Lighting",
+  "parts": [
+    {
+      "position_number": "9",
+      "part_number": "07 11 9 904 790",
+      "quantity": 2,
+      "description": "Bulb Xenon light",
+      "price_eur": null,
+      "compatible_models": "E46, E60, E61"
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 21 7 160 806",
+      "quantity": 2,
+      "description": "Bulb Xenon light",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 11 9 905 328",
+      "quantity": 2,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": "E46, F20, F21, F25, F26"
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 11 9 905 329",
+      "quantity": 2,
+      "description": "Bulb yellow",
+      "price_eur": null,
+      "compatible_models": "E46, E63, E64"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1484,
+  "diagram_title": "Bmw sportseat headrest",
+  "image_url": "http://ills.bmwfans.info/bps.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 913 654",
+      "quantity": 2,
+      "description": "Headrest leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 913 655",
+      "quantity": 2,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 913 656",
+      "quantity": 2,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 913 657",
+      "quantity": 2,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 913 654",
+      "quantity": 2,
+      "description": "Headrest leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 913 655",
+      "quantity": 2,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 913 656",
+      "quantity": 2,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 913 657",
+      "quantity": 2,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

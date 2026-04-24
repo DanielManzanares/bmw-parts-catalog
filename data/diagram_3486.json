@@ -1,0 +1,173 @@
+{
+  "id": 3486,
+  "diagram_title": "Interior mirror",
+  "image_url": "http://ills.bmwfans.info/2sfz.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 1 928 939",
+      "quantity": 1,
+      "description": "Interior-mirror, manual",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 9 134 459",
+      "quantity": 1,
+      "description": "Rearview mirror EC / LED",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 1 932 854",
+      "quantity": 1,
+      "description": "Interior-mirror, manual",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 9 134 459",
+      "quantity": 1,
+      "description": "Rearview mirror EC / LED",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 9 218 046",
+      "quantity": 1,
+      "description": "Interior-mirror, manual",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 189 315",
+      "quantity": 1,
+      "description": "Interior-mirror, manual",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 9 218 046",
+      "quantity": 1,
+      "description": "Interior-mirror, manual",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 9 134 425",
+      "quantity": 1,
+      "description": "Interior-mirror, manual",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 9 134 416",
+      "quantity": 1,
+      "description": "Interior-mirror, manual",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 9 134 416",
+      "quantity": 1,
+      "description": "Interior-mirror, manual",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 9 134 416",
+      "quantity": 1,
+      "description": "Interior-mirror, manual",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 9 134 471",
+      "quantity": 1,
+      "description": "Rearview mirror EC / LED",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 1 954 117",
+      "quantity": 1,
+      "description": "Cover, base plate f interior mirror",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 31 8 145 530",
+      "quantity": 1,
+      "description": "Base plate, rear view mirror, interior",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 7 062 264",
+      "quantity": 1,
+      "description": "Set of covers mirror baseplate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 8 257 203",
+      "quantity": 1,
+      "description": "Set of covers mirror baseplate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 16 8 194 789",
+      "quantity": 1,
+      "description": "Set of end caps",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 16 8 107 578",
+      "quantity": 1,
+      "description": "Tandem interior mirror",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 16 8 131 939",
+      "quantity": 1,
+      "description": "Tandem interior mirror",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 16 8 262 432",
+      "quantity": 1,
+      "description": "Tandem interior mirror",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

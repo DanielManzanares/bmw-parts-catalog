@@ -1,0 +1,285 @@
+{
+  "id": 4272,
+  "diagram_title": "BMW Service booklet 1999 — 2001",
+  "image_url": "http://ills.bmwfans.info/cu85.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1531,
+  "category_name": "Technical Literature",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "01 40 0 155 619",
+      "quantity": 1,
+      "description": "Service booklet, German",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 40 0 156 101",
+      "quantity": 1,
+      "description": "Service booklet, German",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 40 0 155 619",
+      "quantity": 1,
+      "description": "Service booklet, German",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 40 0 156 101",
+      "quantity": 1,
+      "description": "Service booklet, German",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 41 0 155 620",
+      "quantity": 1,
+      "description": "Service booklet, English",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 41 0 156 102",
+      "quantity": 1,
+      "description": "Service booklet, English",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 41 0 155 620",
+      "quantity": 1,
+      "description": "Service booklet, English",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 41 0 156 102",
+      "quantity": 1,
+      "description": "Service booklet, English",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 42 0 155 621",
+      "quantity": 1,
+      "description": "Service booklet, French",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 42 0 156 103",
+      "quantity": 1,
+      "description": "Service booklet, French",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 42 0 155 621",
+      "quantity": 1,
+      "description": "Service booklet, French",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 42 0 156 103",
+      "quantity": 1,
+      "description": "Service booklet, French",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 43 0 155 622",
+      "quantity": 1,
+      "description": "Service booklet, Spanish",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 43 0 156 104",
+      "quantity": 1,
+      "description": "Service booklet, Spanish",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 43 0 155 622",
+      "quantity": 1,
+      "description": "Service booklet, Spanish",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 43 0 156 104",
+      "quantity": 1,
+      "description": "Service booklet, Spanish",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 44 0 155 623",
+      "quantity": 1,
+      "description": "Service booklet, Italian",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 44 0 156 105",
+      "quantity": 1,
+      "description": "Service booklet, Italian",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 44 0 155 623",
+      "quantity": 1,
+      "description": "Service booklet, Italian",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 44 0 156 105",
+      "quantity": 1,
+      "description": "Service booklet, Italian",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 45 0 155 624",
+      "quantity": 1,
+      "description": "Service booklet, Swedish",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 45 0 156 106",
+      "quantity": 1,
+      "description": "Service booklet, Swedish",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 45 0 155 624",
+      "quantity": 1,
+      "description": "Service booklet, Swedish",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 45 0 156 106",
+      "quantity": 1,
+      "description": "Service booklet, Swedish",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 46 0 155 625",
+      "quantity": 1,
+      "description": "Service booklet, Dutch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 46 0 156 107",
+      "quantity": 1,
+      "description": "Service booklet, Dutch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 46 0 155 625",
+      "quantity": 1,
+      "description": "Service booklet, Dutch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 46 0 156 107",
+      "quantity": 1,
+      "description": "Service booklet, Dutch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "01 48 0 155 627",
+      "quantity": 1,
+      "description": "Service booklet, Danish",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "01 48 0 156 109",
+      "quantity": 1,
+      "description": "Service booklet, Danish",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "01 48 0 155 627",
+      "quantity": 1,
+      "description": "Service booklet, Danish",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "01 48 0 156 109",
+      "quantity": 1,
+      "description": "Service booklet, Danish",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "01 49 0 155 628",
+      "quantity": 1,
+      "description": "Service booklet, Portuguese",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "01 49 0 155 628",
+      "quantity": 1,
+      "description": "Service booklet, Portuguese",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

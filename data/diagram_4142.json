@@ -1,0 +1,21 @@
+{
+  "id": 4142,
+  "diagram_title": "Individual leather boot",
+  "image_url": "http://ills.bmwfans.info/1m0y.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "25 11 8 014 118",
+      "quantity": 1,
+      "description": "Leather boot",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 4763,
+  "diagram_title": "Installing set cruise control",
+  "image_url": "http://ills.bmwfans.info/1quo.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 71 0 021 159",
+      "quantity": 1,
+      "description": "Retrofit kit, multi-funct.sport strng whl",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 71 0 021 159",
+      "quantity": 1,
+      "description": "Retrofit kit, multi-funct.sport strng whl",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 71 0 026 223",
+      "quantity": 1,
+      "description": "Retrofit kit, multi-funct.steering wheel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 71 0 026 223",
+      "quantity": 1,
+      "description": "Retrofit kit, multi-funct.steering wheel",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

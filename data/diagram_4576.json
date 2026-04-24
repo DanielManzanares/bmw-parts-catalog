@@ -1,0 +1,77 @@
+{
+  "id": 4576,
+  "diagram_title": "Retrofit kit, shift knob, leather illumi.",
+  "image_url": "http://ills.bmwfans.info/yxs.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 415 379",
+      "quantity": 1,
+      "description": "Retrofit kit, shift knob, leather illumi.",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 415 379",
+      "quantity": 1,
+      "description": "Retrofit kit, shift knob, leather illumi.",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 415 379",
+      "quantity": 1,
+      "description": "Retrofit kit, shift knob, leather illumi.",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 415 379",
+      "quantity": 1,
+      "description": "Retrofit kit, shift knob, leather illumi.",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "25 11 2 231 554",
+      "quantity": 1,
+      "description": "Emblem adhered (transparent)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "25 11 2 231 554",
+      "quantity": 1,
+      "description": "Emblem adhered (transparent)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 12 9 413 960",
+      "quantity": 1,
+      "description": "Wiring set f illuminat. shift lever knob",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 12 9 413 960",
+      "quantity": 1,
+      "description": "Wiring set f illuminat. shift lever knob",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

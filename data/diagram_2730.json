@@ -1,0 +1,29 @@
+{
+  "id": 2730,
+  "diagram_title": "Exterior mirror for towing",
+  "image_url": "http://ills.bmwfans.info/d6f.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 9 415 860",
+      "quantity": 1,
+      "description": "Exterior mirror for camper-trailer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 11 9 413 835",
+      "quantity": 1,
+      "description": "Mirror head",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

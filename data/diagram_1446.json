@@ -1,0 +1,229 @@
+{
+  "id": 1446,
+  "diagram_title": "Sports steering wheel m-technik",
+  "image_url": "http://ills.bmwfans.info/2z4.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 137,
+  "category_name": "Steering",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "32 33 9 058 695",
+      "quantity": 1,
+      "description": "Sports steering wheel m-technik",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 33 9 058 695",
+      "quantity": 1,
+      "description": "Sports steering wheel m-technik",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 33 9 058 695",
+      "quantity": 1,
+      "description": "Sports steering wheel m-technik",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 33 1 151 607",
+      "quantity": 1,
+      "description": "Slip ring",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 33 1 151 607",
+      "quantity": 1,
+      "description": "Slip ring",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 33 1 151 607",
+      "quantity": 1,
+      "description": "Slip ring",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "32 33 1 117 126",
+      "quantity": 2,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E9, Z1"
+    },
+    {
+      "position_number": "3",
+      "part_number": "32 33 1 117 126",
+      "quantity": 2,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E9, Z1"
+    },
+    {
+      "position_number": "3",
+      "part_number": "32 33 1 117 126",
+      "quantity": 2,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E9, Z1"
+    },
+    {
+      "position_number": "4",
+      "part_number": "32 33 1 155 953",
+      "quantity": 1,
+      "description": "Horn pad, left",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "4",
+      "part_number": "32 33 1 155 953",
+      "quantity": 1,
+      "description": "Horn pad, left",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "4",
+      "part_number": "32 33 1 155 953",
+      "quantity": 1,
+      "description": "Horn pad, left",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "5",
+      "part_number": "32 33 1 155 954",
+      "quantity": 1,
+      "description": "Horn pad, right",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "5",
+      "part_number": "32 33 1 155 954",
+      "quantity": 1,
+      "description": "Horn pad, right",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "5",
+      "part_number": "32 33 1 155 954",
+      "quantity": 1,
+      "description": "Horn pad, right",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "6",
+      "part_number": "32 33 1 155 955",
+      "quantity": 1,
+      "description": "Horn pad",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "6",
+      "part_number": "32 33 1 155 955",
+      "quantity": 1,
+      "description": "Horn pad",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "6",
+      "part_number": "32 33 1 155 955",
+      "quantity": 1,
+      "description": "Horn pad",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "7",
+      "part_number": "32 33 1 155 956",
+      "quantity": 1,
+      "description": "Contact spring",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "7",
+      "part_number": "32 33 1 155 956",
+      "quantity": 1,
+      "description": "Contact spring",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "7",
+      "part_number": "32 33 1 155 956",
+      "quantity": 1,
+      "description": "Contact spring",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "8",
+      "part_number": "32 33 1 117 279",
+      "quantity": 1,
+      "description": "Badge",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E31, E32, E34, E36"
+    },
+    {
+      "position_number": "8",
+      "part_number": "32 33 1 117 279",
+      "quantity": 1,
+      "description": "Badge",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E31, E32, E34, E36"
+    },
+    {
+      "position_number": "8",
+      "part_number": "32 33 1 117 279",
+      "quantity": 1,
+      "description": "Badge",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E31, E32, E34, E36"
+    },
+    {
+      "position_number": "9",
+      "part_number": "32 33 1 155 957",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "9",
+      "part_number": "32 33 1 155 957",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "9",
+      "part_number": "32 33 1 155 957",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E32, E34"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 5211,
+  "diagram_title": "Control unit box",
+  "image_url": "http://ills.bmwfans.info/e5tm.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "11",
+      "part_number": "61 13 8 372 286",
+      "quantity": 1,
+      "description": "Grommet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "61 13 8 372 286",
+      "quantity": 1,
+      "description": "Grommet",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 2973,
+  "diagram_title": "Drive shaft (swivel joint)",
+  "image_url": "http://ills.bmwfans.info/2ng.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1636,
+  "category_name": "Drive Shaft",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "26 11 1 227 773",
+      "quantity": 1,
+      "description": "Drive shaft assy five speed gearbox",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "26 11 1 227 827",
+      "quantity": 1,
+      "description": "Drive shaft assy five speed gearbox",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "26 11 1 434 254",
+      "quantity": 1,
+      "description": "Torsional vibration absorber",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

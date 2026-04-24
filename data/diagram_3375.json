@@ -1,0 +1,165 @@
+{
+  "id": 3375,
+  "diagram_title": "Outside mirror",
+  "image_url": "http://ills.bmwfans.info/12up.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 003 423",
+      "quantity": 1,
+      "description": "Outside mirror heated with memory, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 003 426",
+      "quantity": 1,
+      "description": "Outside mirror heated with memory, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 892 025",
+      "quantity": 1,
+      "description": "Outside mirror heated with memory, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 892 028",
+      "quantity": 1,
+      "description": "Outside mirror heated with memory, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 7 003 437",
+      "quantity": 1,
+      "description": "Outside mirror heated with memory, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 7 003 440",
+      "quantity": 1,
+      "description": "Outside mirror heated with memory, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 7 892 039",
+      "quantity": 1,
+      "description": "Outside mirror heated with memory, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 7 892 042",
+      "quantity": 1,
+      "description": "Outside mirror heated with memory, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 14 7 196 375",
+      "quantity": 8,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 8 238 375",
+      "quantity": 1,
+      "description": "Covering primend left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 8 238 376",
+      "quantity": 1,
+      "description": "Covering primend left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 9 071 286",
+      "quantity": 1,
+      "description": "Covering primend left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 9 071 287",
+      "quantity": 1,
+      "description": "Covering primend left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "67 13 8 375 457",
+      "quantity": 1,
+      "description": "Left memory drive repair kit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "67 13 8 375 458",
+      "quantity": 1,
+      "description": "Left memory drive repair kit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 16 8 269 025",
+      "quantity": 1,
+      "description": "Rep.set f left exterior mirror frame",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 16 8 269 026",
+      "quantity": 1,
+      "description": "Rep.set f left exterior mirror frame",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 16 7 001 035",
+      "quantity": 1,
+      "description": "Cover cap bottem left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 16 7 001 036",
+      "quantity": 1,
+      "description": "Cover cap bottem left",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

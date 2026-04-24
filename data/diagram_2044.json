@@ -1,0 +1,197 @@
+{
+  "id": 2044,
+  "diagram_title": "Central locking system",
+  "image_url": "http://ills.bmwfans.info/a30.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 26 1 373 003",
+      "quantity": 2,
+      "description": "Actuator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 26 1 373 004",
+      "quantity": 2,
+      "description": "Actuator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 26 1 373 006",
+      "quantity": 1,
+      "description": "Actuator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 26 1 373 005",
+      "quantity": 1,
+      "description": "Actuator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 26 1 373 005",
+      "quantity": 1,
+      "description": "Actuator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 26 1 372 068",
+      "quantity": 1,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 11 9 936 412",
+      "quantity": 1,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 21 1 868 623",
+      "quantity": 1,
+      "description": "Connection piece left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 21 1 868 624",
+      "quantity": 1,
+      "description": "Connection piece right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 22 1 868 601",
+      "quantity": 1,
+      "description": "Connection rod",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 22 1 868 602",
+      "quantity": 1,
+      "description": "Connection rod",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "52 20 8 238 999",
+      "quantity": 2,
+      "description": "Grommet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 24 1 876 059",
+      "quantity": 1,
+      "description": "Connection rod",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 22 1 817 032",
+      "quantity": 1,
+      "description": "Circlip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 25 1 858 098",
+      "quantity": 1,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 25 1 852 771",
+      "quantity": 1,
+      "description": "Rubber boot",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 25 8 116 266",
+      "quantity": 1,
+      "description": "Sleeve",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "51 47 1 852 859",
+      "quantity": 1,
+      "description": "Base",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "61 31 1 381 788",
+      "quantity": 1,
+      "description": "Emergency switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "61 31 1 375 137",
+      "quantity": 1,
+      "description": "Microswitch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "61 13 1 368 986",
+      "quantity": 2,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "61 31 1 368 987",
+      "quantity": 1,
+      "description": "Lever left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "61 31 1 372 660",
+      "quantity": 1,
+      "description": "Lever left",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

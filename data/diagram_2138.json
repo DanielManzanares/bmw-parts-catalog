@@ -1,0 +1,53 @@
+{
+  "id": 2138,
+  "diagram_title": "Manufacturer certification BMW",
+  "image_url": "http://ills.bmwfans.info/3iqh.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1531,
+  "category_name": "Technical Literature",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "01 20 0 006 655",
+      "quantity": 1,
+      "description": "Manufacturer certification",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 0 017 317",
+      "quantity": 1,
+      "description": "Manufacturer certification",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 0 018 248",
+      "quantity": 1,
+      "description": "Manufacturer certification",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 0 008 902",
+      "quantity": 1,
+      "description": "Manufacturer certification",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 0 006 538",
+      "quantity": 1,
+      "description": "Manufacturer certification",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

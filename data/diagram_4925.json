@@ -1,0 +1,189 @@
+{
+  "id": 4925,
+  "diagram_title": "Trailer transport module",
+  "image_url": "http://ills.bmwfans.info/5as.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "86 23 9 410 985",
+      "quantity": 1,
+      "description": "Transport module 1",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "86 23 9 410 985",
+      "quantity": 1,
+      "description": "Transport module 1",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "86 23 9 410 986",
+      "quantity": 1,
+      "description": "Transport module 2",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "86 23 9 410 986",
+      "quantity": 1,
+      "description": "Transport module 2",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "86 23 9 415 851",
+      "quantity": 1,
+      "description": "Aluminium rail \"Profil 2000",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "86 23 9 415 851",
+      "quantity": 1,
+      "description": "Aluminium rail \"Profil 2000",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "86 29 9 415 495",
+      "quantity": 4,
+      "description": "Installation kit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "86 29 9 415 495",
+      "quantity": 4,
+      "description": "Installation kit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "71 11 1 237 849",
+      "quantity": 1,
+      "description": "Inner hex spanner",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "71 11 1 237 850",
+      "quantity": 1,
+      "description": "Inner hex spanner",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "71 11 1 237 849",
+      "quantity": 1,
+      "description": "Inner hex spanner",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "71 11 1 237 850",
+      "quantity": 1,
+      "description": "Inner hex spanner",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "82 71 9 402 947",
+      "quantity": 4,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "82 71 9 402 947",
+      "quantity": 4,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "82 12 9 413 122",
+      "quantity": 2,
+      "description": "Profile cover, top",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "82 12 9 413 122",
+      "quantity": 2,
+      "description": "Profile cover, top",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "82 79 0 004 335",
+      "quantity": 4,
+      "description": "Clamp with screw (Code)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "82 79 0 004 335",
+      "quantity": 4,
+      "description": "Clamp with screw (Code)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "82 79 9 405 049",
+      "quantity": 1,
+      "description": "Set of keys with screws",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "82 79 9 405 049",
+      "quantity": 1,
+      "description": "Set of keys with screws",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "82 79 9 405 012",
+      "quantity": 1,
+      "description": "Key (Code)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "82 79 9 405 012",
+      "quantity": 1,
+      "description": "Key (Code)",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

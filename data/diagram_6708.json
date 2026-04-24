@@ -1,0 +1,21 @@
+{
+  "id": 6708,
+  "diagram_title": "Relay for backup light K6325",
+  "image_url": "http://ills.bmwfans.info/dj7a.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 36 8 364 582",
+      "quantity": 1,
+      "description": "Relay, make contact, ultra navy blue",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

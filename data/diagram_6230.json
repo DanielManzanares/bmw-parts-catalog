@@ -1,0 +1,53 @@
+{
+  "id": 6230,
+  "diagram_title": "Repair cable main cable harness",
+  "image_url": "http://ills.bmwfans.info/2s1n.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 950 719",
+      "quantity": 1,
+      "description": "Front left repair wiring set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 11 6 951 101",
+      "quantity": 1,
+      "description": "Front right repair wiring set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 11 6 951 103",
+      "quantity": 1,
+      "description": "Repair wiring set rear right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 12 6 936 974",
+      "quantity": 1,
+      "description": "Repair cable set, headlight",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 12 6 939 279",
+      "quantity": 1,
+      "description": "Repair cable set, headlight",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

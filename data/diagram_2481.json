@@ -1,0 +1,221 @@
+{
+  "id": 2481,
+  "diagram_title": "3-point seat belt, rear",
+  "image_url": "http://ills.bmwfans.info/p7z.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "71 11 9 415 195",
+      "quantity": 1,
+      "description": "Inst. kit, rear 3-point seat belt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 46 8 213 970",
+      "quantity": 1,
+      "description": "Cover, belt outlet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 46 8 226 502",
+      "quantity": 1,
+      "description": "Cover, belt outlet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 46 8 226 504",
+      "quantity": 1,
+      "description": "Cover, belt outlet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 46 8 226 505",
+      "quantity": 1,
+      "description": "Cover, belt outlet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "72 11 8 250 088",
+      "quantity": 1,
+      "description": "Belt tongue housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "72 11 8 250 089",
+      "quantity": 1,
+      "description": "Belt tongue housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "72 11 8 250 090",
+      "quantity": 1,
+      "description": "Belt tongue housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "72 11 8 250 091",
+      "quantity": 1,
+      "description": "Belt tongue housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 012 123",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 012 125",
+      "quantity": 1,
+      "description": "3rd head restraint, rear seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 012 126",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 012 131",
+      "quantity": 1,
+      "description": "3rd head restraint, rear seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 012 132",
+      "quantity": 1,
+      "description": "3rd head restraint, rear seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 012 133",
+      "quantity": 1,
+      "description": "3rd head restraint, rear seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 012 128",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 012 129",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 012 111",
+      "quantity": 1,
+      "description": "3rd head restraint, rear seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 012 112",
+      "quantity": 1,
+      "description": "3rd head restraint, rear seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 012 113",
+      "quantity": 1,
+      "description": "3rd head restraint, rear seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 012 114",
+      "quantity": 1,
+      "description": "3rd head restraint, rear seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 012 116",
+      "quantity": 1,
+      "description": "3rd head restraint, rear seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 012 117",
+      "quantity": 1,
+      "description": "3rd head restraint, rear seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 012 119",
+      "quantity": 1,
+      "description": "3rd head restraint, rear seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 012 124",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "72 60 9 416 220",
+      "quantity": 1,
+      "description": "Inst. kit, rear 3rd head restraint",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

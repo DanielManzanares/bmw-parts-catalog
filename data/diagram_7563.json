@@ -1,0 +1,93 @@
+{
+  "id": 7563,
+  "diagram_title": "Indiv.backrest, through-load., Alcantara",
+  "image_url": "http://ills.bmwfans.info/1m6q.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 016 151",
+      "quantity": 1,
+      "description": "Cover, backrest, rear left leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 016 165",
+      "quantity": 1,
+      "description": "Cover, backrest, rear left leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 014 877",
+      "quantity": 1,
+      "description": "Cover backrest, rear, left, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 8 016 152",
+      "quantity": 1,
+      "description": "Cover, backrest, rear right leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 8 016 166",
+      "quantity": 1,
+      "description": "Cover, backrest, rear right leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 8 014 878",
+      "quantity": 1,
+      "description": "Cover backrest, rear, right, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 8 014 881",
+      "quantity": 1,
+      "description": "Side finisher, right, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 8 016 153",
+      "quantity": 1,
+      "description": "Side finisher, right, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 8 014 882",
+      "quantity": 1,
+      "description": "Side finisher, right, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 8 016 154",
+      "quantity": 1,
+      "description": "Side finisher, right, Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

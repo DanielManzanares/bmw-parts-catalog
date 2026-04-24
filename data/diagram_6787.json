@@ -1,0 +1,29 @@
+{
+  "id": 6787,
+  "diagram_title": "Set, wiper blades flat/articulated blade",
+  "image_url": "http://ills.bmwfans.info/aoby.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 61 0 037 009",
+      "quantity": 1,
+      "description": "Set of wiper blades",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 61 9 071 613",
+      "quantity": 1,
+      "description": "Set of wiper blades",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": 3557,
+  "diagram_title": "Reinforcement, body",
+  "image_url": "http://ills.bmwfans.info/2qat.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "31 10 6 772 199",
+      "quantity": 8,
+      "description": "Hexagon screw with flange",
+      "price_eur": null,
+      "compatible_models": "E46, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E85, E86"
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 14 6 981 767",
+      "quantity": 1,
+      "description": "C-clip nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 71 8 212 163",
+      "quantity": 1,
+      "description": "Circlip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 14 7 177 492",
+      "quantity": 1,
+      "description": "Quick-release screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "61 13 8 372 309",
+      "quantity": 4,
+      "description": "Grommet",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

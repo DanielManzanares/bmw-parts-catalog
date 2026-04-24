@@ -1,0 +1,77 @@
+{
+  "id": 7544,
+  "diagram_title": "Individual floor covering",
+  "image_url": "http://ills.bmwfans.info/14n3.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 47 8 009 213",
+      "quantity": 1,
+      "description": "Floor covering front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 8 009 229",
+      "quantity": 1,
+      "description": "Floor covering front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 8 009 245",
+      "quantity": 1,
+      "description": "Floor covering front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 8 009 261",
+      "quantity": 1,
+      "description": "Floor covering front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 47 8 009 217",
+      "quantity": 1,
+      "description": "Floor covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 47 8 009 233",
+      "quantity": 1,
+      "description": "Floor covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 47 8 009 249",
+      "quantity": 1,
+      "description": "Floor covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 47 8 009 265",
+      "quantity": 1,
+      "description": "Floor covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

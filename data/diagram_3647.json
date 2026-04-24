@@ -1,0 +1,189 @@
+{
+  "id": 3647,
+  "diagram_title": "Additional information instruments",
+  "image_url": "http://ills.bmwfans.info/3ojl.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1641,
+  "category_name": "Instruments, Measuring systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "62 13 1 387 414",
+      "quantity": 1,
+      "description": "Clock",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "62 13 1 383 311",
+      "quantity": 1,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "62 13 8 363 579",
+      "quantity": 1,
+      "description": "Outdoor temperature indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "62 13 8 363 580",
+      "quantity": 1,
+      "description": "Outdoor temperature indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "62 13 8 363 581",
+      "quantity": 1,
+      "description": "Outdoor temperature indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "62 13 8 363 582",
+      "quantity": 1,
+      "description": "Outdoor temperature indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "62 13 8 363 583",
+      "quantity": 1,
+      "description": "Outdoor temperature indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "62 13 6 913 864",
+      "quantity": 1,
+      "description": "Check-control/outdoor temperat.indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "62 13 6 913 865",
+      "quantity": 1,
+      "description": "Check-control/outdoor temperat.indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "62 13 6 913 866",
+      "quantity": 1,
+      "description": "Check-control/outdoor temperat.indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "62 13 6 913 867",
+      "quantity": 1,
+      "description": "Check-control/outdoor temperat.indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "62 13 6 913 868",
+      "quantity": 1,
+      "description": "Check-control/outdoor temperat.indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "62 13 6 913 859",
+      "quantity": 1,
+      "description": "Check Control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "62 13 6 913 860",
+      "quantity": 1,
+      "description": "Check Control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "62 13 6 913 861",
+      "quantity": 1,
+      "description": "Check Control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "62 13 6 913 862",
+      "quantity": 1,
+      "description": "Check Control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "62 13 6 913 863",
+      "quantity": 1,
+      "description": "Check Control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "62 11 1 391 260",
+      "quantity": 4,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "65 81 1 383 204",
+      "quantity": 1,
+      "description": "Sensor outdoor temperatur",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "65 81 9 155 105",
+      "quantity": 1,
+      "description": "Gong with holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "65 81 9 155 105",
+      "quantity": 1,
+      "description": "Gong with holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "61 13 8 352 304",
+      "quantity": 1,
+      "description": "Universal socket housing, uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

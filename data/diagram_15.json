@@ -1,0 +1,77 @@
+{
+  "id": 15,
+  "diagram_title": "Belt Drive Climate Compressor",
+  "image_url": "http://ills.bmwfans.info/2ru7.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1,
+  "category_name": "Engine",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "11 28 1 743 193",
+      "quantity": 1,
+      "description": "Ribbed v-belt",
+      "price_eur": null,
+      "compatible_models": "E34, E36, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 28 1 743 193",
+      "quantity": 1,
+      "description": "Ribbed v-belt",
+      "price_eur": null,
+      "compatible_models": "E34, E36, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 28 2 245 087",
+      "quantity": 1,
+      "description": "Adjusting pulley",
+      "price_eur": null,
+      "compatible_models": "E34, E36, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 28 2 245 087",
+      "quantity": 1,
+      "description": "Adjusting pulley",
+      "price_eur": null,
+      "compatible_models": "E34, E36, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 55 1 748 384",
+      "quantity": 1,
+      "description": "Protection cap adjusting pulley",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 55 1 748 384",
+      "quantity": 1,
+      "description": "Protection cap adjusting pulley",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 913 676",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 913 676",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E9, NK, Z1, Z3"
+    }
+  ]
+}

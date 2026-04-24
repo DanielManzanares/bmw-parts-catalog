@@ -1,0 +1,45 @@
+{
+  "id": 4475,
+  "diagram_title": "Modificat. strng whl Sport => M Sport",
+  "image_url": "http://ills.bmwfans.info/2dy3.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "32 34 2 282 021",
+      "quantity": 1,
+      "description": "M sports steer.-wheel, airbag, leather",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 34 7 919 217",
+      "quantity": 1,
+      "description": "M sports steer.-wheel, airbag, leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 34 2 282 021",
+      "quantity": 1,
+      "description": "M sports steer.-wheel, airbag, leather",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 34 7 919 217",
+      "quantity": 1,
+      "description": "M sports steer.-wheel, airbag, leather",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

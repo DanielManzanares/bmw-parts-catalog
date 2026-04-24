@@ -1,0 +1,149 @@
+{
+  "id": 2725,
+  "diagram_title": "Single components f independent heater",
+  "image_url": "http://ills.bmwfans.info/cv1.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 12 1 373 362",
+      "quantity": 1,
+      "description": "Heater",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 12 1 365 148",
+      "quantity": 1,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 12 1 373 443",
+      "quantity": 1,
+      "description": "Glow plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "64 12 1 375 256",
+      "quantity": 1,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "64 12 1 365 587",
+      "quantity": 1,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "64 12 1 371 349",
+      "quantity": 1,
+      "description": "Air outlet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "64 12 1 371 360",
+      "quantity": 1,
+      "description": "Base plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "64 12 1 373 994",
+      "quantity": 1,
+      "description": "Protection grid f additional fan",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "64 12 1 371 020",
+      "quantity": 1,
+      "description": "Repair kit circuit breaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "64 12 1 371 019",
+      "quantity": 1,
+      "description": "Repair kit temperature sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 45 1 868 108",
+      "quantity": 4,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E31, E32, E34, Z1"
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 14 7 134 319",
+      "quantity": 4,
+      "description": "Hex nut with plate",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, F25, F26, Z1"
+    },
+    {
+      "position_number": "12",
+      "part_number": "64 12 1 371 021",
+      "quantity": 1,
+      "description": "Repair kit blower",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "64 12 1 371 018",
+      "quantity": 1,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "64 12 1 372 963",
+      "quantity": 1,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "64 12 1 373 066",
+      "quantity": 1,
+      "description": "Housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "64 12 1 373 062",
+      "quantity": 1,
+      "description": "Repair kit resistor",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

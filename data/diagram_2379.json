@@ -1,0 +1,37 @@
+{
+  "id": 2379,
+  "diagram_title": "Roller sun shield",
+  "image_url": "http://ills.bmwfans.info/dmj.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 24 9 401 620",
+      "quantity": 1,
+      "description": "Supplementary set sun blind",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 1 977 027",
+      "quantity": 1,
+      "description": "Hook left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 1 977 028",
+      "quantity": 1,
+      "description": "Hook left",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

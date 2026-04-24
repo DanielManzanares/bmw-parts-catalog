@@ -1,0 +1,77 @@
+{
+  "id": 4795,
+  "diagram_title": "Retrofit kit solar-powered ventilation",
+  "image_url": "http://ills.bmwfans.info/2rvz.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "54 13 0 302 925",
+      "quantity": 1,
+      "description": "Solar glass cover sliding/tilting roof",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "54 13 0 302 925",
+      "quantity": 1,
+      "description": "Solar glass cover sliding/tilting roof",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "54 13 0 302 928",
+      "quantity": 1,
+      "description": "Headlining frame w. velour cover and fan",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "54 13 0 302 929",
+      "quantity": 1,
+      "description": "Headlining frame w. velour cover and fan",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "54 13 0 302 930",
+      "quantity": 1,
+      "description": "Headlining frame w. velour cover and fan",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "54 13 0 302 928",
+      "quantity": 1,
+      "description": "Headlining frame w. velour cover and fan",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "54 13 0 302 929",
+      "quantity": 1,
+      "description": "Headlining frame w. velour cover and fan",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "54 13 0 302 930",
+      "quantity": 1,
+      "description": "Headlining frame w. velour cover and fan",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

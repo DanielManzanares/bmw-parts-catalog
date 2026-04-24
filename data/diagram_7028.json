@@ -1,0 +1,45 @@
+{
+  "id": 7028,
+  "diagram_title": "Auxiliary connection cable",
+  "image_url": "http://ills.bmwfans.info/34b5.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 12 2 153 330",
+      "quantity": 1,
+      "description": "Auxiliary connection cable",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 12 2 336 509",
+      "quantity": 1,
+      "description": "Auxiliary connection cable",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 12 2 153 331",
+      "quantity": 1,
+      "description": "Auxiliary connection cable",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 12 2 336 510",
+      "quantity": 1,
+      "description": "Auxiliary connection cable",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

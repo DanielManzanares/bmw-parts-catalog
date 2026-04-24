@@ -1,0 +1,85 @@
+{
+  "id": 2667,
+  "diagram_title": "Water hose inlet/outlet",
+  "image_url": "http://ills.bmwfans.info/cmr.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 21 1 372 457",
+      "quantity": 1,
+      "description": "Water hose inlet 1",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "64 21 1 376 201",
+      "quantity": 1,
+      "description": "Water hose inlet 1",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "64 21 1 372 457",
+      "quantity": 1,
+      "description": "Water hose inlet 1",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "64 21 1 372 457",
+      "quantity": 1,
+      "description": "Water hose inlet 1",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 21 1 363 470",
+      "quantity": 1,
+      "description": "Water hose inlet 1",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 21 1 370 259",
+      "quantity": 1,
+      "description": "Water hose inlet 1",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 21 1 370 259",
+      "quantity": 1,
+      "description": "Water hose inlet 1",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 21 1 370 259",
+      "quantity": 1,
+      "description": "Water hose inlet 1",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 21 1 373 181",
+      "quantity": 1,
+      "description": "Return hose",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

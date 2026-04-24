@@ -1,0 +1,21 @@
+{
+  "id": 7615,
+  "diagram_title": "Indiv. headrest, sports seat, Alcantara",
+  "image_url": "http://ills.bmwfans.info/2a2y.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 021 938",
+      "quantity": 1,
+      "description": "Head rest, front Alcantara",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

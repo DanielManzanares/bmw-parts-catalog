@@ -1,0 +1,29 @@
+{
+  "id": 4418,
+  "diagram_title": "Cover, windshield/side window",
+  "image_url": "http://ills.bmwfans.info/3ep6.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 15 0 418 577",
+      "quantity": 1,
+      "description": "Cover Outdoor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 15 0 418 577",
+      "quantity": 1,
+      "description": "Cover Outdoor",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

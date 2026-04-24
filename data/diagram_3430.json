@@ -1,0 +1,45 @@
+{
+  "id": 3430,
+  "diagram_title": "M Trim, rear",
+  "image_url": "http://ills.bmwfans.info/doh6.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "18",
+      "part_number": "51 12 7 895 234",
+      "quantity": 1,
+      "description": "Water deflector",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "07 11 9 902 267",
+      "quantity": 5,
+      "description": "Hex head screw with washer",
+      "price_eur": null,
+      "compatible_models": "E46, E53, E83, E83 Facelift"
+    },
+    {
+      "position_number": "20",
+      "part_number": "07 12 9 901 662",
+      "quantity": 5,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "51 71 1 958 025",
+      "quantity": 2,
+      "description": "Plastic nut",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E46, E53, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F15, F16, F25, F26, F85, F86, Z3"
+    }
+  ]
+}

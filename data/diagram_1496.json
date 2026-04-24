@@ -1,0 +1,29 @@
+{
+  "id": 1496,
+  "diagram_title": "Seat cover rear",
+  "image_url": "http://ills.bmwfans.info/bqg.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "52 20 1 888 758",
+      "quantity": 1,
+      "description": "Cover backrest, imitation leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 1 888 758",
+      "quantity": 1,
+      "description": "Cover backrest, imitation leather",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

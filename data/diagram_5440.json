@@ -1,0 +1,29 @@
+{
+  "id": 5440,
+  "diagram_title": "Wiring harness, engine ignition module",
+  "image_url": "http://ills.bmwfans.info/lws.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 51 7 506 030",
+      "quantity": 1,
+      "description": "Wiring harness, engine ignition module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 51 7 515 716",
+      "quantity": 1,
+      "description": "Wiring harness, engine ignition module",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

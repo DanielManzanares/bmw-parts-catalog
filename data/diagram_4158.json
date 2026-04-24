@@ -1,0 +1,125 @@
+{
+  "id": 4158,
+  "diagram_title": "Individual wood, storing partition bottom",
+  "image_url": "http://ills.bmwfans.info/vss.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 008 978",
+      "quantity": 1,
+      "description": "Depositing box bottom panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 008 999",
+      "quantity": 1,
+      "description": "Depositing box bottom panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 010 985",
+      "quantity": 1,
+      "description": "Depositing box bottom panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 010 997",
+      "quantity": 1,
+      "description": "Depositing box bottom panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 011 009",
+      "quantity": 1,
+      "description": "Depositing box bottom panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 904 021",
+      "quantity": 1,
+      "description": "Depositing box bottom panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 0 139 219",
+      "quantity": 1,
+      "description": "Depositing box bottom panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 8 008 979",
+      "quantity": 1,
+      "description": "Depositing box bottom panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 8 009 012",
+      "quantity": 1,
+      "description": "Depositing box bottom panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 8 010 986",
+      "quantity": 1,
+      "description": "Depositing box bottom panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 8 010 998",
+      "quantity": 1,
+      "description": "Depositing box bottom panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 8 011 010",
+      "quantity": 1,
+      "description": "Depositing box bottom panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 8 020 153",
+      "quantity": 1,
+      "description": "Depositing box bottom panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 0 151 655",
+      "quantity": 1,
+      "description": "Depositing box bottom panel",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

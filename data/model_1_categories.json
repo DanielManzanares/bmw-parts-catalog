@@ -1,0 +1,247 @@
+[
+  {
+    "id": 1643,
+    "name": "Audio, Navigation, Electronic Systems",
+    "slug": "audio_navigation_electronic_systems",
+    "diagram_count": 21,
+    "representative_image": "http://ills.bmwfans.info/1f81.png"
+  },
+  {
+    "id": 1637,
+    "name": "Bodywork",
+    "slug": "bodywork",
+    "diagram_count": 26,
+    "representative_image": "http://ills.bmwfans.info/aca.png"
+  },
+  {
+    "id": 68,
+    "name": "Brakes",
+    "slug": "brakes",
+    "diagram_count": 12,
+    "representative_image": "http://ills.bmwfans.info/3jm.png"
+  },
+  {
+    "id": 39,
+    "name": "Clutch",
+    "slug": "clutch",
+    "diagram_count": 1,
+    "representative_image": "http://ills.bmwfans.info/2bw.png"
+  },
+  {
+    "id": 1648,
+    "name": "Communication systems",
+    "slug": "communication_systems",
+    "diagram_count": 5,
+    "representative_image": "http://ills.bmwfans.info/d2z.png"
+  },
+  {
+    "id": 1649,
+    "name": "Complete wheel and tyre sets",
+    "slug": "complete_wheel_and_tyre_sets",
+    "diagram_count": 2,
+    "representative_image": "http://ills.bmwfans.info/38kn.png"
+  },
+  {
+    "id": 1644,
+    "name": "Distance Systems, Cruise Control",
+    "slug": "distance_systems_cruise_control",
+    "diagram_count": 2,
+    "representative_image": "http://ills.bmwfans.info/ci9.png"
+  },
+  {
+    "id": 1636,
+    "name": "Drive Shaft",
+    "slug": "drive_shaft",
+    "diagram_count": 2,
+    "representative_image": "http://ills.bmwfans.info/2ng.png"
+  },
+  {
+    "id": 1,
+    "name": "Engine",
+    "slug": "engine",
+    "diagram_count": 30,
+    "representative_image": "http://ills.bmwfans.info/8h.png"
+  },
+  {
+    "id": 1534,
+    "name": "Engine Electrical System",
+    "slug": "engine_electrical_system",
+    "diagram_count": 29,
+    "representative_image": "http://ills.bmwfans.info/ypd.png"
+  },
+  {
+    "id": 1645,
+    "name": "Equipment Parts",
+    "slug": "equipment_parts",
+    "diagram_count": 8,
+    "representative_image": "http://ills.bmwfans.info/bi99.png"
+  },
+  {
+    "id": 40,
+    "name": "Exhaust System",
+    "slug": "exhaust_system",
+    "diagram_count": 2,
+    "representative_image": "http://ills.bmwfans.info/232.png"
+  },
+  {
+    "id": 49,
+    "name": "Front Axle",
+    "slug": "front_axle",
+    "diagram_count": 7,
+    "representative_image": "http://ills.bmwfans.info/ctve.png"
+  },
+  {
+    "id": 1535,
+    "name": "Fuel Preparation System",
+    "slug": "fuel_preparation_system",
+    "diagram_count": 7,
+    "representative_image": "http://ills.bmwfans.info/19z.png"
+  },
+  {
+    "id": 31,
+    "name": "Fuel Supply",
+    "slug": "fuel_supply",
+    "diagram_count": 8,
+    "representative_image": "http://ills.bmwfans.info/1s5.png"
+  },
+  {
+    "id": 1635,
+    "name": "Gearshift",
+    "slug": "gearshift",
+    "diagram_count": 3,
+    "representative_image": "http://ills.bmwfans.info/3evk.png"
+  },
+  {
+    "id": 1642,
+    "name": "Heater and Air Conditioning",
+    "slug": "heater_and_air_conditioning",
+    "diagram_count": 32,
+    "representative_image": "http://ills.bmwfans.info/_con.png"
+  },
+  {
+    "id": 1651,
+    "name": "Individual equipment",
+    "slug": "individual_equipment",
+    "diagram_count": 14,
+    "representative_image": "http://ills.bmwfans.info/jbh.png"
+  },
+  {
+    "id": 1650,
+    "name": "Inspection kits",
+    "slug": "inspection_kits",
+    "diagram_count": 4,
+    "representative_image": "http://ills.bmwfans.info/ctve.png"
+  },
+  {
+    "id": 1641,
+    "name": "Instruments, Measuring systems",
+    "slug": "instruments_measuring_systems",
+    "diagram_count": 3,
+    "representative_image": "http://ills.bmwfans.info/afce.png"
+  },
+  {
+    "id": 184,
+    "name": "Lighting",
+    "slug": "lighting",
+    "diagram_count": 15,
+    "representative_image": "http://ills.bmwfans.info/c6d.png"
+  },
+  {
+    "id": 42,
+    "name": "Manual Transmission",
+    "slug": "manual_transmission",
+    "diagram_count": 9,
+    "representative_image": "http://ills.bmwfans.info/dr13.png"
+  },
+  {
+    "id": 83,
+    "name": "Pedals",
+    "slug": "pedals",
+    "diagram_count": 4,
+    "representative_image": "http://ills.bmwfans.info/12gu.png"
+  },
+  {
+    "id": 1536,
+    "name": "Radiator",
+    "slug": "radiator",
+    "diagram_count": 1,
+    "representative_image": "http://ills.bmwfans.info/1xh.png"
+  },
+  {
+    "id": 58,
+    "name": "Rear Axle",
+    "slug": "rear_axle",
+    "diagram_count": 12,
+    "representative_image": "http://ills.bmwfans.info/dr6v.png"
+  },
+  {
+    "id": 1646,
+    "name": "Restraint system and Accessories",
+    "slug": "restraint_system_and_accessories",
+    "diagram_count": 6,
+    "representative_image": "http://ills.bmwfans.info/69z.png"
+  },
+  {
+    "id": 1533,
+    "name": "Retrofitting, conversion, accessories",
+    "slug": "retrofitting_conversion_accessories",
+    "diagram_count": 185,
+    "representative_image": "http://ills.bmwfans.info/2y01.png"
+  },
+  {
+    "id": 152,
+    "name": "Seats",
+    "slug": "seats",
+    "diagram_count": 33,
+    "representative_image": "http://ills.bmwfans.info/bms.png"
+  },
+  {
+    "id": 1639,
+    "name": "Sliding Roof / Folding Top",
+    "slug": "sliding_roof___folding_top",
+    "diagram_count": 3,
+    "representative_image": "http://ills.bmwfans.info/btq.png"
+  },
+  {
+    "id": 137,
+    "name": "Steering",
+    "slug": "steering",
+    "diagram_count": 15,
+    "representative_image": "http://ills.bmwfans.info/ediy.png"
+  },
+  {
+    "id": 1531,
+    "name": "Technical Literature",
+    "slug": "technical_literature",
+    "diagram_count": 12,
+    "representative_image": "http://ills.bmwfans.info/culf.png"
+  },
+  {
+    "id": 1640,
+    "name": "Vehicle electrical system",
+    "slug": "vehicle_electrical_system",
+    "diagram_count": 117,
+    "representative_image": "http://ills.bmwfans.info/c3q.png"
+  },
+  {
+    "id": 1638,
+    "name": "Vehicle trim",
+    "slug": "vehicle_trim",
+    "diagram_count": 49,
+    "representative_image": "http://ills.bmwfans.info/b38.png"
+  },
+  {
+    "id": 86,
+    "name": "Wheels",
+    "slug": "wheels",
+    "diagram_count": 50,
+    "representative_image": "http://ills.bmwfans.info/8wf.png"
+  },
+  {
+    "id": 1647,
+    "name": "Workshop consumables",
+    "slug": "workshop_consumables",
+    "diagram_count": 2,
+    "representative_image": "http://ills.bmwfans.info/cydi.png"
+  }
+]

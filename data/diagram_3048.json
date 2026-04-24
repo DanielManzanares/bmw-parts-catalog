@@ -1,0 +1,37 @@
+{
+  "id": 3048,
+  "diagram_title": "Front body bracket right",
+  "image_url": "http://ills.bmwfans.info/5g0.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "4",
+      "part_number": "41 14 8 151 466",
+      "quantity": 1,
+      "description": "Bracket, impact sensor, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "41 11 8 151 501",
+      "quantity": 1,
+      "description": "Bracket pressure pipe airconditioner",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "41 14 8 122 540",
+      "quantity": 1,
+      "description": "Support fluid container windshield wash",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

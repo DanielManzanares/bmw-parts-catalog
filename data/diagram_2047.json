@@ -1,0 +1,205 @@
+{
+  "id": 2047,
+  "diagram_title": "Glazing",
+  "image_url": "http://ills.bmwfans.info/a7b.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 31 1 820 502",
+      "quantity": 1,
+      "description": "Front windshield clear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 31 1 820 978",
+      "quantity": 1,
+      "description": "Front windshield clear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 31 1 863 187",
+      "quantity": 1,
+      "description": "Front windshield clear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 32 1 868 809",
+      "quantity": 1,
+      "description": "Door window clear front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 32 1 868 810",
+      "quantity": 1,
+      "description": "Door window clear front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 32 1 868 811",
+      "quantity": 1,
+      "description": "Door window clear front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 32 1 868 812",
+      "quantity": 1,
+      "description": "Door window clear front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 32 1 868 825",
+      "quantity": 1,
+      "description": "Door window clear front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 32 1 868 826",
+      "quantity": 1,
+      "description": "Door window clear front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 34 1 809 905",
+      "quantity": 1,
+      "description": "Door window clear rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 34 1 809 906",
+      "quantity": 1,
+      "description": "Door window clear rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 34 1 819 475",
+      "quantity": 1,
+      "description": "Door window clear rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 34 1 819 476",
+      "quantity": 1,
+      "description": "Door window clear rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 34 1 863 193",
+      "quantity": 1,
+      "description": "Door window clear rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 34 1 863 194",
+      "quantity": 1,
+      "description": "Door window clear rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 34 1 808 947",
+      "quantity": 1,
+      "description": "Fixed door window, transp. left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 34 1 808 948",
+      "quantity": 1,
+      "description": "Fixed door window, transp. left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 34 1 809 721",
+      "quantity": 1,
+      "description": "Fixed door window, transp. left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 34 1 809 722",
+      "quantity": 1,
+      "description": "Fixed door window, transp. left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 34 1 863 197",
+      "quantity": 1,
+      "description": "Fixed door window, transp. left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 34 1 863 198",
+      "quantity": 1,
+      "description": "Fixed door window, transp. left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 31 1 354 794",
+      "quantity": 1,
+      "description": "Rear window clear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 31 1 354 795",
+      "quantity": 1,
+      "description": "Rear window clear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 31 1 863 188",
+      "quantity": 1,
+      "description": "Rear window clear",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

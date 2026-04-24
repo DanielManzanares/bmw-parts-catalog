@@ -1,0 +1,365 @@
+{
+  "id": 6098,
+  "diagram_title": "Door mechanism front (up to 09/00)",
+  "image_url": "http://ills.bmwfans.info/3971.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 21 8 208 711",
+      "quantity": 1,
+      "description": "Door lock with motor actuator, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 21 8 208 716",
+      "quantity": 1,
+      "description": "Door lock with motor actuator, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 21 9 130 334",
+      "quantity": 6,
+      "description": "Torx-bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 21 8 235 768",
+      "quantity": 2,
+      "description": "Plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 21 8 254 087",
+      "quantity": 1,
+      "description": "Left operating rod",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 21 8 254 088",
+      "quantity": 1,
+      "description": "Left operating rod",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 21 8 221 519",
+      "quantity": 2,
+      "description": "Bowden cable, door opener",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 21 1 928 850",
+      "quantity": 4,
+      "description": "Torx-countersunk head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 21 8 226 591",
+      "quantity": 2,
+      "description": "Cover, catch bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 21 8 221 484",
+      "quantity": 2,
+      "description": "Catch bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 21 8 229 623",
+      "quantity": 1,
+      "description": "Covering left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 21 8 241 405",
+      "quantity": 1,
+      "description": "Covering left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 21 9 071 091",
+      "quantity": 1,
+      "description": "Covering left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 21 8 229 621",
+      "quantity": 1,
+      "description": "Handle bracket left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 21 8 229 622",
+      "quantity": 1,
+      "description": "Handle bracket left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 21 8 241 397",
+      "quantity": 1,
+      "description": "Handle bracket left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 21 8 241 398",
+      "quantity": 1,
+      "description": "Handle bracket left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 21 9 071 232",
+      "quantity": 1,
+      "description": "Handle bracket left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 21 9 071 234",
+      "quantity": 1,
+      "description": "Handle bracket left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 21 8 244 049",
+      "quantity": 1,
+      "description": "Lock with code, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 21 8 244 050",
+      "quantity": 1,
+      "description": "Lock with code, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 21 8 244 051",
+      "quantity": 1,
+      "description": "Lock with code, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 21 8 244 052",
+      "quantity": 1,
+      "description": "Lock with code, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 21 8 216 127",
+      "quantity": 1,
+      "description": "Handle bracket base, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 21 8 216 128",
+      "quantity": 1,
+      "description": "Handle bracket base, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 21 8 216 129",
+      "quantity": 1,
+      "description": "Lock cylinder base left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 21 8 216 130",
+      "quantity": 1,
+      "description": "Lock cylinder base left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 21 8 216 121",
+      "quantity": 1,
+      "description": "Carrier, outside door handle, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 21 8 216 122",
+      "quantity": 1,
+      "description": "Carrier, outside door handle, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "07 11 9 903 989",
+      "quantity": 2,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 14 7 209 542",
+      "quantity": 2,
+      "description": "Torx Bolt for aluminium",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "41 21 8 235 745",
+      "quantity": 2,
+      "description": "Lock plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "51 41 8 222 705",
+      "quantity": 1,
+      "description": "Door handle, inside left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "51 41 8 222 706",
+      "quantity": 1,
+      "description": "Door handle, inside left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "51 41 8 237 587",
+      "quantity": 1,
+      "description": "Door handle, inside left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "51 41 8 237 588",
+      "quantity": 1,
+      "description": "Door handle, inside left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "51 21 8 255 231",
+      "quantity": 1,
+      "description": "Gasket left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "51 21 8 255 232",
+      "quantity": 1,
+      "description": "Gasket left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "51 21 8 255 233",
+      "quantity": 1,
+      "description": "Gasket left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "51 21 8 255 234",
+      "quantity": 1,
+      "description": "Gasket left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "51 21 8 229 628",
+      "quantity": 1,
+      "description": "Covering right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "51 21 8 241 402",
+      "quantity": 1,
+      "description": "Covering right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "51 21 9 071 090",
+      "quantity": 1,
+      "description": "Covering right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "51 22 1 817 032",
+      "quantity": 2,
+      "description": "Circlip",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

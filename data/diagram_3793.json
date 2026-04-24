@@ -1,0 +1,37 @@
+{
+  "id": 3793,
+  "diagram_title": "Radio adapter wiring",
+  "image_url": "http://ills.bmwfans.info/d20.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 12 8 350 192",
+      "quantity": 1,
+      "description": "Adapter tubing f stereo and hifi system",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 12 9 410 558",
+      "quantity": 1,
+      "description": "Adapter tubing f stereo and hifi system",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 12 1 388 950",
+      "quantity": 1,
+      "description": "Antenna adapter tubing",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

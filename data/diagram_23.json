@@ -1,0 +1,61 @@
+{
+  "id": 23,
+  "diagram_title": "Lubrication system-Oil filter",
+  "image_url": "http://ills.bmwfans.info/rp.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1,
+  "category_name": "Engine",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "11 42 1 715 878",
+      "quantity": 1,
+      "description": "Oil filter with plastic cover",
+      "price_eur": null,
+      "compatible_models": "E30, E34, E36, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 42 1 715 878",
+      "quantity": 1,
+      "description": "Oil filter with plastic cover",
+      "price_eur": null,
+      "compatible_models": "E30, E34, E36, E46, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 42 1 716 192",
+      "quantity": 1,
+      "description": "95",
+      "price_eur": null,
+      "compatible_models": "E30, E34, E36, E46, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 42 1 716 192",
+      "quantity": 1,
+      "description": "95",
+      "price_eur": null,
+      "compatible_models": "E30, E34, E36, E46, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 42 1 715 960",
+      "quantity": 1,
+      "description": "95",
+      "price_eur": null,
+      "compatible_models": "E30, E34, E36, E46, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 42 1 715 960",
+      "quantity": 1,
+      "description": "95",
+      "price_eur": null,
+      "compatible_models": "E30, E34, E36, E46, Z3"
+    }
+  ]
+}

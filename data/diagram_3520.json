@@ -1,0 +1,21 @@
+{
+  "id": 3520,
+  "diagram_title": "Relay for high beam K46",
+  "image_url": "http://ills.bmwfans.info/e5a1.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 36 8 364 582",
+      "quantity": 1,
+      "description": "Relay, make contact, ultra navy blue",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

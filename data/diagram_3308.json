@@ -1,0 +1,77 @@
+{
+  "id": 3308,
+  "diagram_title": "Wiring harness information",
+  "image_url": "http://ills.bmwfans.info/2vsb.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 35 1 387 458",
+      "quantity": 1,
+      "description": "Wiper-wash-control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 35 8 350 566",
+      "quantity": 1,
+      "description": "Relay, change-over contact, pine green",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 35 8 364 690",
+      "quantity": 1,
+      "description": "Relay for n/o contact violettblau",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 35 8 364 692",
+      "quantity": 1,
+      "description": "Crash alarm relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 36 8 366 282",
+      "quantity": 1,
+      "description": "Connection plug, golden brown",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 31 1 368 430",
+      "quantity": 1,
+      "description": "Switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "61 12 1 385 400",
+      "quantity": 1,
+      "description": "Bridging cable f clutch switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 21 8 105 511",
+      "quantity": 1,
+      "description": "Latch Striker",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

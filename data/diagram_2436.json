@@ -1,0 +1,61 @@
+{
+  "id": 2436,
+  "diagram_title": "Remote control/compass interior mirror",
+  "image_url": "http://ills.bmwfans.info/2yp9.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 0 304 487",
+      "quantity": 1,
+      "description": "Interior mirror EC/DWA/GTO/Kompass",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 0 304 487",
+      "quantity": 1,
+      "description": "Interior mirror EC/DWA/GTO/Kompass",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 0 304 487",
+      "quantity": 1,
+      "description": "Interior mirror EC/DWA/GTO/Kompass",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 0 304 487",
+      "quantity": 1,
+      "description": "Interior mirror EC/DWA/GTO/Kompass",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 29 0 139 119",
+      "quantity": 1,
+      "description": "Operating instructions",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 29 0 415 578",
+      "quantity": 1,
+      "description": "Operating instructions",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2182,
+  "diagram_title": "Headlight aim control",
+  "image_url": "http://ills.bmwfans.info/d6x.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "67 16 9 402 052",
+      "quantity": 1,
+      "description": "Retrofit kit, headlight range control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 12 9 410 627",
+      "quantity": 1,
+      "description": "Wiring light regulator",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

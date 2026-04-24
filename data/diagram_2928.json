@@ -1,0 +1,29 @@
+{
+  "id": 2928,
+  "diagram_title": "Retrofit kit, teleph. antenna Singleband",
+  "image_url": "http://ills.bmwfans.info/22ni.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "3",
+      "part_number": "84 53 0 009 364",
+      "quantity": 1,
+      "description": "Install.kit, telephone roof antenna",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "84 53 0 029 400",
+      "quantity": 1,
+      "description": "Install.kit, telephone roof antenna",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

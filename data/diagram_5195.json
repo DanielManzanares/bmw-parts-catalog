@@ -1,0 +1,189 @@
+{
+  "id": 5195,
+  "diagram_title": "Cable holder",
+  "image_url": "http://ills.bmwfans.info/3n62.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "12 52 7 509 070",
+      "quantity": 1,
+      "description": "Grommet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "12 52 7 509 070",
+      "quantity": 1,
+      "description": "Grommet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "65 11 1 364 507",
+      "quantity": 1,
+      "description": "Cable clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 78 7 547 213",
+      "quantity": 1,
+      "description": "06",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E52, E60 Facelift, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E90 Facelift, E92, E92 Facelift, E93, E93 Facelift, F10, F11, F15, F16"
+    },
+    {
+      "position_number": "5",
+      "part_number": "65 11 1 364 507",
+      "quantity": 1,
+      "description": "Cable clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 78 7 547 213",
+      "quantity": 1,
+      "description": "06",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E52, E60 Facelift, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E90 Facelift, E92, E92 Facelift, E93, E93 Facelift, F10, F11, F15, F16"
+    },
+    {
+      "position_number": "6",
+      "part_number": "12 51 7 785 263",
+      "quantity": 1,
+      "description": "Hose clamp",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "6",
+      "part_number": "12 51 7 785 263",
+      "quantity": 1,
+      "description": "Hose clamp",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "8",
+      "part_number": "61 13 1 351 045",
+      "quantity": 2,
+      "description": "Cable clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "61 13 1 351 045",
+      "quantity": 2,
+      "description": "Cable clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "61 13 1 389 898",
+      "quantity": 1,
+      "description": "Cable holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "61 13 1 389 898",
+      "quantity": 1,
+      "description": "Cable holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "12 52 1 284 441",
+      "quantity": 1,
+      "description": "Cable holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "12 52 1 284 441",
+      "quantity": 1,
+      "description": "Cable holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "12 52 7 506 718",
+      "quantity": 7,
+      "description": "Cable clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "12 52 7 506 718",
+      "quantity": 7,
+      "description": "Cable clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "61 13 1 367 599",
+      "quantity": 1,
+      "description": "Cable tie",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "61 13 1 377 134",
+      "quantity": 1,
+      "description": "Cable tie",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "61 13 1 367 599",
+      "quantity": 1,
+      "description": "Cable tie",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "61 13 1 377 134",
+      "quantity": 1,
+      "description": "Cable tie",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "12 52 7 513 286",
+      "quantity": 1,
+      "description": "Cable holder",
+      "price_eur": null,
+      "compatible_models": "E46, E85"
+    },
+    {
+      "position_number": "18",
+      "part_number": "12 52 7 513 286",
+      "quantity": 1,
+      "description": "Cable holder",
+      "price_eur": null,
+      "compatible_models": "E46, E85"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 3107,
+  "diagram_title": "Master key locking",
+  "image_url": "http://ills.bmwfans.info/t90.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 21 8 194 537",
+      "quantity": 1,
+      "description": "Repair kit one-key locking system",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 21 8 194 531",
+      "quantity": 1,
+      "description": "Repair kit one-key locking system",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 21 9 068 945",
+      "quantity": 1,
+      "description": "Set unif.lock.syst.w/ews ctrl unit(code)",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

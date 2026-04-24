@@ -1,0 +1,45 @@
+{
+  "id": 4057,
+  "diagram_title": "Bracket, child seat fastening",
+  "image_url": "http://ills.bmwfans.info/1dkt.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1646,
+  "category_name": "Restraint system and Accessories",
+  "parts": [
+    {
+      "position_number": "11",
+      "part_number": "72 14 8 255 714",
+      "quantity": 1,
+      "description": "Holder Isofix, exterior",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "72 14 8 255 713",
+      "quantity": 1,
+      "description": "Holder Isofix, exterior",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "72 11 8 215 816",
+      "quantity": 1,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 14 6 962 565",
+      "quantity": 1,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

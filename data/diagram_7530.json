@@ -1,0 +1,21 @@
+{
+  "id": 7530,
+  "diagram_title": "Individual instrument panel, leather",
+  "image_url": "http://ills.bmwfans.info/3ekm.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 45 8 020 327",
+      "quantity": 1,
+      "description": "Trim panel dashboard, leather",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

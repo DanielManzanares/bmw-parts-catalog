@@ -1,0 +1,77 @@
+{
+  "id": 4741,
+  "diagram_title": "Railing carrier",
+  "image_url": "http://ills.bmwfans.info/3gia.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "82 72 0 144 049",
+      "quantity": 2,
+      "description": "Key (Code)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 72 0 144 049",
+      "quantity": 2,
+      "description": "Key (Code)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 72 0 303 536",
+      "quantity": 4,
+      "description": "Lock cylinder with key",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 72 0 303 536",
+      "quantity": 4,
+      "description": "Lock cylinder with key",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 72 0 144 051",
+      "quantity": 1,
+      "description": "Torque wrench",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 72 0 144 051",
+      "quantity": 1,
+      "description": "Torque wrench",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "82 72 0 144 045",
+      "quantity": 2,
+      "description": "Cover strip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "82 72 0 144 045",
+      "quantity": 2,
+      "description": "Cover strip",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

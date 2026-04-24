@@ -1,0 +1,77 @@
+{
+  "id": 2323,
+  "diagram_title": "Rubber mat",
+  "image_url": "http://ills.bmwfans.info/ewz.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 47 0 153 240",
+      "quantity": 1,
+      "description": "Rubber floor mats",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 0 153 242",
+      "quantity": 1,
+      "description": "Rubber floor mats",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 55 9 408 540",
+      "quantity": 1,
+      "description": "Rubber floor mats",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 0 153 241",
+      "quantity": 1,
+      "description": "Rubber floor mats",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 0 153 243",
+      "quantity": 1,
+      "description": "Rubber floor mats",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 55 9 408 541",
+      "quantity": 1,
+      "description": "Rubber floor mats",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 47 8 243 734",
+      "quantity": 1,
+      "description": "Lock 22, 5mm",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 47 1 881 521",
+      "quantity": 1,
+      "description": "Circlip",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

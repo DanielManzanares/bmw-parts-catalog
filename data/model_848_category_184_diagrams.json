@@ -1,0 +1,272 @@
+[
+  {
+    "id": 6827,
+    "diagram_title": "BMW Blue Lamps",
+    "image_url": "http://ills.bmwfans.info/elq1.png",
+    "parts_count": 5
+  },
+  {
+    "id": 6817,
+    "diagram_title": "BMW Performance Light",
+    "image_url": "http://ills.bmwfans.info/c1as.png",
+    "parts_count": 2
+  },
+  {
+    "id": 6831,
+    "diagram_title": "BMW Power Lamps",
+    "image_url": "http://ills.bmwfans.info/c98j.png",
+    "parts_count": 3
+  },
+  {
+    "id": 6835,
+    "diagram_title": "BMW chrome lamps",
+    "image_url": "http://ills.bmwfans.info/da69.png",
+    "parts_count": 2
+  },
+  {
+    "id": 6849,
+    "diagram_title": "Fog lamp M-Technik",
+    "image_url": "http://ills.bmwfans.info/27ds.png",
+    "parts_count": 9
+  },
+  {
+    "id": 6843,
+    "diagram_title": "Fog lights",
+    "image_url": "http://ills.bmwfans.info/2nma.png",
+    "parts_count": 1
+  },
+  {
+    "id": 6846,
+    "diagram_title": "Fog lights",
+    "image_url": "http://ills.bmwfans.info/2o79.png",
+    "parts_count": 12
+  },
+  {
+    "id": 6839,
+    "diagram_title": "Front/front lateral turn indicator",
+    "image_url": "http://ills.bmwfans.info/2c5v.png",
+    "parts_count": 22
+  },
+  {
+    "id": 6799,
+    "diagram_title": "Headlight",
+    "image_url": "http://ills.bmwfans.info/8is.png",
+    "parts_count": 5
+  },
+  {
+    "id": 6875,
+    "diagram_title": "Interior lights",
+    "image_url": "http://ills.bmwfans.info/3hiv.png",
+    "parts_count": 1
+  },
+  {
+    "id": 6871,
+    "diagram_title": "Overhead interior light",
+    "image_url": "http://ills.bmwfans.info/12s5.png",
+    "parts_count": 19
+  },
+  {
+    "id": 6853,
+    "diagram_title": "Rear light in the side panel",
+    "image_url": "http://ills.bmwfans.info/1pse.png",
+    "parts_count": 22
+  },
+  {
+    "id": 6857,
+    "diagram_title": "Rear light in trunk lid",
+    "image_url": "http://ills.bmwfans.info/q73.png",
+    "parts_count": 13
+  },
+  {
+    "id": 6863,
+    "diagram_title": "Reflector",
+    "image_url": "http://ills.bmwfans.info/q5h.png",
+    "parts_count": 2
+  },
+  {
+    "id": 6814,
+    "diagram_title": "Single components f headlight Xenon/ALC",
+    "image_url": "http://ills.bmwfans.info/a746.png",
+    "parts_count": 4
+  },
+  {
+    "id": 6805,
+    "diagram_title": "Single components for headlight",
+    "image_url": "http://ills.bmwfans.info/3g10.png",
+    "parts_count": 25
+  },
+  {
+    "id": 6810,
+    "diagram_title": "Single parts, xenon headlight",
+    "image_url": "http://ills.bmwfans.info/3g11.png",
+    "parts_count": 31
+  },
+  {
+    "id": 6820,
+    "diagram_title": "Spare bulbs box",
+    "image_url": "http://ills.bmwfans.info/3mzd.png",
+    "parts_count": 2
+  },
+  {
+    "id": 6824,
+    "diagram_title": "Spare bulbs box",
+    "image_url": "http://ills.bmwfans.info/c9sr.png",
+    "parts_count": 1
+  },
+  {
+    "id": 6860,
+    "diagram_title": "Third stoplamp",
+    "image_url": "http://ills.bmwfans.info/q6l.png",
+    "parts_count": 1
+  },
+  {
+    "id": 6878,
+    "diagram_title": "Various lamps",
+    "image_url": "http://ills.bmwfans.info/2n4y.png",
+    "parts_count": 1
+  },
+  {
+    "id": 6867,
+    "diagram_title": "Various lamps/spare bulbs box",
+    "image_url": "http://ills.bmwfans.info/3e4j.png",
+    "parts_count": 19
+  },
+  {
+    "id": 1076,
+    "diagram_title": "additional_turn_indicator_lamp",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_lighting_additional_turn_indicator_lamp.png",
+    "parts_count": 4
+  },
+  {
+    "id": 1073,
+    "diagram_title": "bmw_blue_lamps",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_lighting_bmw_blue_lamps.png",
+    "parts_count": 5
+  },
+  {
+    "id": 1074,
+    "diagram_title": "bmw_chrome_lamps",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_lighting_bmw_chrome_lamps.png",
+    "parts_count": 2
+  },
+  {
+    "id": 1069,
+    "diagram_title": "bmw_performance_light",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_lighting_bmw_performance_light.png",
+    "parts_count": 2
+  },
+  {
+    "id": 1072,
+    "diagram_title": "bmw_power_lamps",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_lighting_bmw_power_lamps.png",
+    "parts_count": 3
+  },
+  {
+    "id": 1078,
+    "diagram_title": "fog_lamp_m_technik",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_lighting_fog_lamp_m_technik.png",
+    "parts_count": 12
+  },
+  {
+    "id": 1077,
+    "diagram_title": "fog_lights",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_lighting_fog_lights.png",
+    "parts_count": 5
+  },
+  {
+    "id": 1075,
+    "diagram_title": "front_front_lateral_turn_indicator",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_lighting_front_front_lateral_turn_indicator.png",
+    "parts_count": 13
+  },
+  {
+    "id": 1064,
+    "diagram_title": "headlight",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_lighting_headlight.png",
+    "parts_count": 20
+  },
+  {
+    "id": 1083,
+    "diagram_title": "interior_lights",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_lighting_interior_lights.png",
+    "parts_count": 1
+  },
+  {
+    "id": 1085,
+    "diagram_title": "overhead_interior_light",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_lighting_overhead_interior_light.png",
+    "parts_count": 19
+  },
+  {
+    "id": 1079,
+    "diagram_title": "rear_light_in_the_side_panel",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_lighting_rear_light_in_the_side_panel.png",
+    "parts_count": 16
+  },
+  {
+    "id": 1080,
+    "diagram_title": "rear_light_in_trunk_lid",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_lighting_rear_light_in_trunk_lid.png",
+    "parts_count": 13
+  },
+  {
+    "id": 1082,
+    "diagram_title": "reflector",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_lighting_reflector.png",
+    "parts_count": 2
+  },
+  {
+    "id": 1068,
+    "diagram_title": "single_components_f_headlight_xenon_alc",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_lighting_single_components_f_headlight_xenon_alc.png",
+    "parts_count": 27
+  },
+  {
+    "id": 1067,
+    "diagram_title": "single_components_for_headlight",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_lighting_single_components_for_headlight.png",
+    "parts_count": 21
+  },
+  {
+    "id": 1063,
+    "diagram_title": "single_components_for_headlight_2",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_lighting_single_components_for_headlight_2.png",
+    "parts_count": 3
+  },
+  {
+    "id": 1065,
+    "diagram_title": "single_parts_xenon_headlight",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_lighting_single_parts_xenon_headlight.png",
+    "parts_count": 3
+  },
+  {
+    "id": 1070,
+    "diagram_title": "spare_bulbs_box",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_lighting_spare_bulbs_box.png",
+    "parts_count": 2
+  },
+  {
+    "id": 1071,
+    "diagram_title": "spare_bulbs_box_2",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_lighting_spare_bulbs_box_2.png",
+    "parts_count": 1
+  },
+  {
+    "id": 1081,
+    "diagram_title": "third_stoplamp",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_lighting_third_stoplamp.png",
+    "parts_count": 1
+  },
+  {
+    "id": 1084,
+    "diagram_title": "various_lamps",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_lighting_various_lamps.png",
+    "parts_count": 1
+  },
+  {
+    "id": 1086,
+    "diagram_title": "various_lamps_spare_bulbs_box",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_lighting_various_lamps_spare_bulbs_box.png",
+    "parts_count": 21
+  }
+]

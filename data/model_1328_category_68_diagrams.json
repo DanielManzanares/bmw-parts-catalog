@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1411,
+    "diagram_title": "Anti block system-control unit",
+    "image_url": "http://ills.bmwfans.info/3lh.png",
+    "parts_count": 26
+  },
+  {
+    "id": 1413,
+    "diagram_title": "Brake master cylinder",
+    "image_url": "http://ills.bmwfans.info/3ln.png",
+    "parts_count": 20
+  },
+  {
+    "id": 1417,
+    "diagram_title": "Brake pipe front abs",
+    "image_url": "http://ills.bmwfans.info/3li.png",
+    "parts_count": 50
+  },
+  {
+    "id": 1409,
+    "diagram_title": "Brake pipe rear",
+    "image_url": "http://ills.bmwfans.info/3ky.png",
+    "parts_count": 48
+  },
+  {
+    "id": 1408,
+    "diagram_title": "Brake pipe, front",
+    "image_url": "http://ills.bmwfans.info/3kx.png",
+    "parts_count": 52
+  },
+  {
+    "id": 1410,
+    "diagram_title": "Drum brake-brake drum/wheel brake cyl.",
+    "image_url": "http://ills.bmwfans.info/3ka.png",
+    "parts_count": 18
+  },
+  {
+    "id": 1406,
+    "diagram_title": "Drum brake-brake shoes/brake carrier",
+    "image_url": "http://ills.bmwfans.info/3k3.png",
+    "parts_count": 40
+  },
+  {
+    "id": 1415,
+    "diagram_title": "Expansion tank",
+    "image_url": "http://ills.bmwfans.info/3lt.png",
+    "parts_count": 14
+  },
+  {
+    "id": 1404,
+    "diagram_title": "Front brake / brake disc",
+    "image_url": "http://ills.bmwfans.info/3jm.png",
+    "parts_count": 20
+  },
+  {
+    "id": 1403,
+    "diagram_title": "Front brake pad wear sensor",
+    "image_url": "http://ills.bmwfans.info/36i.png",
+    "parts_count": 28
+  },
+  {
+    "id": 1405,
+    "diagram_title": "Front brake pad wear sensor",
+    "image_url": "http://ills.bmwfans.info/36i.png",
+    "parts_count": 30
+  },
+  {
+    "id": 1418,
+    "diagram_title": "Parking brake/brake shoes",
+    "image_url": "http://ills.bmwfans.info/351.png",
+    "parts_count": 24
+  },
+  {
+    "id": 1419,
+    "diagram_title": "Parking brake/control",
+    "image_url": "http://ills.bmwfans.info/350.png",
+    "parts_count": 46
+  },
+  {
+    "id": 1412,
+    "diagram_title": "Power brake unit depression",
+    "image_url": "http://ills.bmwfans.info/34q.png",
+    "parts_count": 28
+  },
+  {
+    "id": 1414,
+    "diagram_title": "Power brake unit depression",
+    "image_url": "http://ills.bmwfans.info/34q.png",
+    "parts_count": 24
+  },
+  {
+    "id": 1407,
+    "diagram_title": "Rear brake / brake pad / wear sensor",
+    "image_url": "http://ills.bmwfans.info/10hb.png",
+    "parts_count": 66
+  }
+]

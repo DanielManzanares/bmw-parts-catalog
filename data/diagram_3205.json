@@ -1,0 +1,501 @@
+{
+  "id": 3205,
+  "diagram_title": "Lateral trim panel rear",
+  "image_url": "http://ills.bmwfans.info/b3g.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 168 001",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 168 002",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 168 003",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 168 004",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 168 005",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 168 006",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 168 007",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 168 008",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 174 965",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 174 966",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 174 969",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 174 970",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 174 971",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 174 972",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 174 973",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 174 974",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 174 975",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 174 976",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 2 259 555",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 2 259 556",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 203 497",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 203 498",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 203 499",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 203 500",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 203 501",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 203 502",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 203 503",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 203 504",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 2 251 791",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 2 251 792",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 2 260 297",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 2 260 298",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 2 260 601",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 2 260 602",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 2 260 603",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 2 260 604",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 168 009",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 168 011",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 168 013",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 168 014",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 168 015",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 168 016",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 174 957",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 174 958",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 174 959",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 174 960",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 174 961",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 174 962",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 174 963",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 174 964",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 2 251 847",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 2 251 848",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 2 260 599",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 2 260 600",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 167 999",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 168 000",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 167 999",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 168 000",
+      "quantity": 1,
+      "description": "Lateral trim panel rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 1 973 500",
+      "quantity": 1,
+      "description": "Clip Natur",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 36 8 151 845",
+      "quantity": 1,
+      "description": "Covering, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 36 8 151 846",
+      "quantity": 1,
+      "description": "Covering, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 6868,
+  "diagram_title": "Fog lights",
+  "image_url": "http://ills.bmwfans.info/2nma.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 184,
+  "category_name": "Lighting",
+  "parts": [
+    {
+      "position_number": "3",
+      "part_number": "07 14 9 156 623",
+      "quantity": 4,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": "E31, E46, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, Z3"
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "id": 2431,
+  "diagram_title": "Single parts for sliding lifting roof",
+  "image_url": "http://ills.bmwfans.info/bt3.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1639,
+  "category_name": "Sliding Roof / Folding Top",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "54 12 1 857 967",
+      "quantity": 1,
+      "description": "Mounting plate manual control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "54 12 1 860 187",
+      "quantity": 1,
+      "description": "Mounting plate manual control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 906 762",
+      "quantity": 2,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "54 12 1 966 865",
+      "quantity": 2,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 12 9 925 735",
+      "quantity": 2,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 901 554",
+      "quantity": 2,
+      "description": "Hex head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 12 9 925 709",
+      "quantity": 2,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 12 9 901 644",
+      "quantity": 2,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 12 9 904 220",
+      "quantity": 2,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 11 9 906 717",
+      "quantity": 2,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, Z1"
+    },
+    {
+      "position_number": "7",
+      "part_number": "54 12 1 909 074",
+      "quantity": 1,
+      "description": "Cover rail front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "54 12 1 932 543",
+      "quantity": 1,
+      "description": "Recessed oval head sheet-metal screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "54 12 1 933 213",
+      "quantity": 1,
+      "description": "Slide rail left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "54 12 1 933 214",
+      "quantity": 1,
+      "description": "Slide rail left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "54 12 1 907 251",
+      "quantity": 1,
+      "description": "Slide rail left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "54 12 1 907 252",
+      "quantity": 1,
+      "description": "Slide rail left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 907 663",
+      "quantity": 4,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 900 692",
+      "quantity": 4,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "54 12 1 843 485",
+      "quantity": 1,
+      "description": "Guide rail left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "54 12 1 843 486",
+      "quantity": 1,
+      "description": "Guide rail left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "54 12 1 932 543",
+      "quantity": 8,
+      "description": "Recessed oval head sheet-metal screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "54 12 1 843 479",
+      "quantity": 1,
+      "description": "Slide rail left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "54 12 1 843 480",
+      "quantity": 1,
+      "description": "Slide rail left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "54 12 1 852 708",
+      "quantity": 1,
+      "description": "Terminal strip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "54 12 1 914 335",
+      "quantity": 1,
+      "description": "Drive cable left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "54 12 1 914 336",
+      "quantity": 1,
+      "description": "Drive cable left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "54 12 1 907 257",
+      "quantity": 1,
+      "description": "Drive cable left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "54 12 1 907 258",
+      "quantity": 1,
+      "description": "Drive cable left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "54 12 1 902 725",
+      "quantity": 4,
+      "description": "Pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "54 12 1 843 424",
+      "quantity": 2,
+      "description": "Sliding piece",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "54 12 1 849 774",
+      "quantity": 2,
+      "description": "Roll pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "54 12 1 843 484",
+      "quantity": 2,
+      "description": "Bush",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "54 12 1 843 493",
+      "quantity": 2,
+      "description": "Roller",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "54 12 1 907 253",
+      "quantity": 1,
+      "description": "Pilot left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "54 12 1 907 254",
+      "quantity": 1,
+      "description": "Pilot left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "25",
+      "part_number": "54 12 1 933 091",
+      "quantity": 1,
+      "description": "Left gate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "25",
+      "part_number": "54 12 1 933 092",
+      "quantity": 1,
+      "description": "Left gate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "25",
+      "part_number": "54 12 1 941 321",
+      "quantity": 1,
+      "description": "Left gate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "25",
+      "part_number": "54 12 1 941 322",
+      "quantity": 1,
+      "description": "Left gate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "26",
+      "part_number": "54 12 1 907 282",
+      "quantity": 6,
+      "description": "Torx-bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "27",
+      "part_number": "54 12 1 904 824",
+      "quantity": 1,
+      "description": "Hose",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "28",
+      "part_number": "54 12 1 917 722",
+      "quantity": 2,
+      "description": "Spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "29",
+      "part_number": "54 12 1 926 664",
+      "quantity": 2,
+      "description": "Rubber buffer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "30",
+      "part_number": "54 12 1 933 550",
+      "quantity": 2,
+      "description": "Sliding jaw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "31",
+      "part_number": "54 12 1 933 211",
+      "quantity": 2,
+      "description": "Rubber buffer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "32",
+      "part_number": "54 12 1 959 856",
+      "quantity": 2,
+      "description": "Intermediate piece",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

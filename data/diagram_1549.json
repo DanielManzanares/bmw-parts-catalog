@@ -1,0 +1,45 @@
+{
+  "id": 1549,
+  "diagram_title": "Service Kit for brake pads / Value Line",
+  "image_url": "http://ills.bmwfans.info/av2v.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 68,
+  "category_name": "Brakes",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "34 11 2 157 570",
+      "quantity": 1,
+      "description": "Set of brake pads with wear sensors",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 11 2 157 570",
+      "quantity": 1,
+      "description": "Set of brake pads with wear sensors",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 21 2 157 574",
+      "quantity": 1,
+      "description": "Set of brake pads with wear sensors",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 21 2 157 574",
+      "quantity": 1,
+      "description": "Set of brake pads with wear sensors",
+      "price_eur": null,
+      "compatible_models": "E46"
+    }
+  ]
+}

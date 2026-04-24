@@ -1,0 +1,92 @@
+[
+  {
+    "id": 191,
+    "diagram_title": "BMW Blue Lamps",
+    "image_url": "http://ills.bmwfans.info/elq1.png",
+    "parts_count": 6
+  },
+  {
+    "id": 186,
+    "diagram_title": "BMW Performance Light",
+    "image_url": "http://ills.bmwfans.info/c1as.png",
+    "parts_count": 2
+  },
+  {
+    "id": 192,
+    "diagram_title": "BMW Power Lamps",
+    "image_url": "http://ills.bmwfans.info/c98j.png",
+    "parts_count": 2
+  },
+  {
+    "id": 193,
+    "diagram_title": "BMW chrome lamps",
+    "image_url": "http://ills.bmwfans.info/da69.png",
+    "parts_count": 4
+  },
+  {
+    "id": 184,
+    "diagram_title": "Headlight",
+    "image_url": "http://ills.bmwfans.info/c6d.png",
+    "parts_count": 16
+  },
+  {
+    "id": 198,
+    "diagram_title": "Rear light",
+    "image_url": "http://ills.bmwfans.info/c6h.png",
+    "parts_count": 40
+  },
+  {
+    "id": 189,
+    "diagram_title": "Single components for headlight Bosch",
+    "image_url": "http://ills.bmwfans.info/c6j.png",
+    "parts_count": 56
+  },
+  {
+    "id": 187,
+    "diagram_title": "Single components for headlight ZKW",
+    "image_url": "http://ills.bmwfans.info/c6k.png",
+    "parts_count": 42
+  },
+  {
+    "id": 197,
+    "diagram_title": "Single parts, fog lights",
+    "image_url": "http://ills.bmwfans.info/3hj2.png",
+    "parts_count": 42
+  },
+  {
+    "id": 185,
+    "diagram_title": "Spare bulbs box",
+    "image_url": "http://ills.bmwfans.info/3mzd.png",
+    "parts_count": 2
+  },
+  {
+    "id": 190,
+    "diagram_title": "Spare bulbs box",
+    "image_url": "http://ills.bmwfans.info/c9sr.png",
+    "parts_count": 2
+  },
+  {
+    "id": 195,
+    "diagram_title": "Third stoplamp",
+    "image_url": "http://ills.bmwfans.info/c64.png",
+    "parts_count": 14
+  },
+  {
+    "id": 194,
+    "diagram_title": "Turn indicator",
+    "image_url": "http://ills.bmwfans.info/11ao.png",
+    "parts_count": 48
+  },
+  {
+    "id": 196,
+    "diagram_title": "Various lamps",
+    "image_url": "http://ills.bmwfans.info/2n4y.png",
+    "parts_count": 2
+  },
+  {
+    "id": 199,
+    "diagram_title": "Various lamps",
+    "image_url": "http://ills.bmwfans.info/50f.png",
+    "parts_count": 110
+  }
+]

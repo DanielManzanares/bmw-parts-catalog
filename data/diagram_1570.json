@@ -1,0 +1,61 @@
+{
+  "id": 1570,
+  "diagram_title": "Short Engine",
+  "image_url": "http://ills.bmwfans.info/gn8.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1,
+  "category_name": "Engine",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "11 00 0 007 953",
+      "quantity": 1,
+      "description": "Short Engine",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 00 0 007 954",
+      "quantity": 1,
+      "description": "Rmfd short engine",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 00 0 007 953",
+      "quantity": 1,
+      "description": "Short Engine",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 00 0 007 954",
+      "quantity": 1,
+      "description": "Rmfd short engine",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 00 9 071 219",
+      "quantity": 1,
+      "description": "Set Mounting Parts Short Engine",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 00 9 071 219",
+      "quantity": 1,
+      "description": "Set Mounting Parts Short Engine",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, Z3"
+    }
+  ]
+}

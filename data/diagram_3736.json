@@ -1,0 +1,77 @@
+{
+  "id": 3736,
+  "diagram_title": "Air cond.compressor-supporting bracket",
+  "image_url": "http://ills.bmwfans.info/ct9.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 55 1 739 627",
+      "quantity": 1,
+      "description": "Climate compressor supporting bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 28 2 245 087",
+      "quantity": 1,
+      "description": "Adjusting pulley",
+      "price_eur": null,
+      "compatible_models": "E34, E36, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 55 1 748 384",
+      "quantity": 1,
+      "description": "Protection cap adjusting pulley",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 28 1 743 193",
+      "quantity": 1,
+      "description": "Ribbed v-belt",
+      "price_eur": null,
+      "compatible_models": "E34, E36, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 11 9 904 533",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, E9, NK, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 912 570",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 11 9 913 700",
+      "quantity": 1,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E39, E46, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "07 11 9 913 676",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E9, NK, Z1, Z3"
+    }
+  ]
+}

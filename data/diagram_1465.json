@@ -1,0 +1,157 @@
+{
+  "id": 1465,
+  "diagram_title": "Cover f reclining front seat fitting",
+  "image_url": "http://ills.bmwfans.info/b5n.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 853 353",
+      "quantity": 2,
+      "description": "Covering upper left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 853 354",
+      "quantity": 2,
+      "description": "Covering upper right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 912 397",
+      "quantity": 2,
+      "description": "Covering upper left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 912 398",
+      "quantity": 2,
+      "description": "Covering upper right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 912 399",
+      "quantity": 2,
+      "description": "Covering upper left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 912 400",
+      "quantity": 2,
+      "description": "Covering upper right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 853 353",
+      "quantity": 2,
+      "description": "Covering upper left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 853 354",
+      "quantity": 2,
+      "description": "Covering upper right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 912 397",
+      "quantity": 2,
+      "description": "Covering upper left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 912 398",
+      "quantity": 2,
+      "description": "Covering upper right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 912 399",
+      "quantity": 2,
+      "description": "Covering upper left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 912 400",
+      "quantity": 2,
+      "description": "Covering upper right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 852 833",
+      "quantity": 1,
+      "description": "Covering lower outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 912 401",
+      "quantity": 1,
+      "description": "Covering lower outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 912 403",
+      "quantity": 1,
+      "description": "82",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 852 833",
+      "quantity": 1,
+      "description": "Covering lower outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 912 401",
+      "quantity": 1,
+      "description": "Covering lower outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 912 403",
+      "quantity": 1,
+      "description": "82",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

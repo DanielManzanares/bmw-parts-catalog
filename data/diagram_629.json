@@ -1,0 +1,77 @@
+{
+  "id": 629,
+  "diagram_title": "crankshaft_connecting_rod",
+  "image_url": "/static/images/diagrams/E46_318i-N42_engine_crankshaft_connecting_rod.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1,
+  "category_name": "Engine",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "11 24 7 589 533",
+      "quantity": 1,
+      "description": "Set connecting rod",
+      "price_eur": null,
+      "compatible_models": "E46, E60 Facelift, E61 Facelift, E81, E82, E83, E83 Facelift, E84, E85, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 24 7 504 429",
+      "quantity": 8,
+      "description": "Connecting rod bolt",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 24 7 504 427",
+      "quantity": 4,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 24 7 506 276",
+      "quantity": 4,
+      "description": "Bearing shell",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 24 7 506 277",
+      "quantity": 4,
+      "description": "04",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 24 7 504 426",
+      "quantity": 4,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 24 7 506 276",
+      "quantity": 4,
+      "description": "Bearing shell",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 24 7 506 277",
+      "quantity": 4,
+      "description": "04",
+      "price_eur": null,
+      "compatible_models": "E46"
+    }
+  ]
+}

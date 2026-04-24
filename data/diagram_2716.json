@@ -1,0 +1,53 @@
+{
+  "id": 2716,
+  "diagram_title": "Luggage compartment, folding",
+  "image_url": "http://ills.bmwfans.info/32je.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 47 2 153 669",
+      "quantity": 1,
+      "description": "Folding container",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 2 303 796",
+      "quantity": 1,
+      "description": "Folding container",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 2 303 797",
+      "quantity": 1,
+      "description": "Folding container",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 2 303 798",
+      "quantity": 1,
+      "description": "Folding container",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 2 153 676",
+      "quantity": 1,
+      "description": "Folding container",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": 3609,
+  "diagram_title": "Single parts of front seat controls",
+  "image_url": "http://ills.bmwfans.info/ihh.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 251 625",
+      "quantity": 1,
+      "description": "Actuation unit left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 251 626",
+      "quantity": 1,
+      "description": "Actuation unit right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 240 055",
+      "quantity": 1,
+      "description": "Covering outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 240 056",
+      "quantity": 1,
+      "description": "Covering outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 240 057",
+      "quantity": 1,
+      "description": "Covering outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 240 058",
+      "quantity": 1,
+      "description": "Covering outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 240 059",
+      "quantity": 1,
+      "description": "Covering outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 240 060",
+      "quantity": 1,
+      "description": "Covering outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 8 240 107",
+      "quantity": 1,
+      "description": "Support f left seat adjustment",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 8 240 108",
+      "quantity": 1,
+      "description": "Support f right seat adjustment",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 30 8 099 071",
+      "quantity": 1,
+      "description": "Actuation unit left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 30 8 099 072",
+      "quantity": 1,
+      "description": "Actuation unit right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 10 8 263 133",
+      "quantity": 1,
+      "description": "Actuation unit left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 8 240 091",
+      "quantity": 1,
+      "description": "Covering outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 8 240 092",
+      "quantity": 1,
+      "description": "Covering outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 8 240 093",
+      "quantity": 1,
+      "description": "Covering outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 8 240 094",
+      "quantity": 1,
+      "description": "Covering outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 8 240 095",
+      "quantity": 1,
+      "description": "Covering outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 8 240 096",
+      "quantity": 1,
+      "description": "Covering outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 240 494",
+      "quantity": 1,
+      "description": "Set of fittings for seat actuator unit",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

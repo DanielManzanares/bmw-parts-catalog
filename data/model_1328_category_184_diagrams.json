@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1521,
+    "diagram_title": "Fog lights",
+    "image_url": "http://ills.bmwfans.info/c43.png",
+    "parts_count": 38
+  },
+  {
+    "id": 1522,
+    "diagram_title": "Headlight",
+    "image_url": "http://ills.bmwfans.info/cl4.png",
+    "parts_count": 30
+  },
+  {
+    "id": 1525,
+    "diagram_title": "Headlight aim control",
+    "image_url": "http://ills.bmwfans.info/cli.png",
+    "parts_count": 32
+  },
+  {
+    "id": 1529,
+    "diagram_title": "Priority vehicle light",
+    "image_url": "http://ills.bmwfans.info/c5z.png",
+    "parts_count": 66
+  },
+  {
+    "id": 1526,
+    "diagram_title": "Rear light",
+    "image_url": "http://ills.bmwfans.info/c53.png",
+    "parts_count": 40
+  },
+  {
+    "id": 1524,
+    "diagram_title": "Single components for headlight",
+    "image_url": "http://ills.bmwfans.info/clh.png",
+    "parts_count": 70
+  },
+  {
+    "id": 1528,
+    "diagram_title": "Turn indicator",
+    "image_url": "http://ills.bmwfans.info/c46.png",
+    "parts_count": 50
+  },
+  {
+    "id": 1523,
+    "diagram_title": "Various lamps",
+    "image_url": "http://ills.bmwfans.info/2n4y.png",
+    "parts_count": 2
+  },
+  {
+    "id": 1527,
+    "diagram_title": "Various lamps",
+    "image_url": "http://ills.bmwfans.info/c5t.png",
+    "parts_count": 42
+  }
+]

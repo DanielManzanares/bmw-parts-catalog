@@ -1,0 +1,157 @@
+{
+  "id": 1991,
+  "diagram_title": "Cable covering",
+  "image_url": "http://ills.bmwfans.info/13k.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 52 1 277 205",
+      "quantity": 1,
+      "description": "Protection cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 1 277 205",
+      "quantity": 1,
+      "description": "Protection cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 1 277 205",
+      "quantity": 1,
+      "description": "Protection cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "12 51 1 268 110",
+      "quantity": 1,
+      "description": "Protection cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "12 51 1 268 110",
+      "quantity": 1,
+      "description": "Protection cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "12 51 1 268 110",
+      "quantity": 1,
+      "description": "Protection cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "12 52 1 286 052",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "12 52 1 286 052",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "12 52 1 286 052",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "12 52 2 240 621",
+      "quantity": 1,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "12 52 2 240 621",
+      "quantity": 1,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "12 52 2 240 621",
+      "quantity": 1,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "12 51 1 286 146",
+      "quantity": 1,
+      "description": "Plug housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "12 51 1 286 146",
+      "quantity": 1,
+      "description": "Plug housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "12 51 1 286 146",
+      "quantity": 1,
+      "description": "Plug housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "12 42 1 286 147",
+      "quantity": 1,
+      "description": "Earth strap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "12 42 1 286 147",
+      "quantity": 1,
+      "description": "Earth strap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "12 42 1 286 147",
+      "quantity": 1,
+      "description": "Earth strap",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 6390,
+  "diagram_title": "Front aggregate protective plate",
+  "image_url": "http://ills.bmwfans.info/3ass.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 71 7 028 893",
+      "quantity": 1,
+      "description": "Front aggregate protective plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 71 1 909 942",
+      "quantity": 2,
+      "description": "Blind rivet nut, flat headed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "31 10 1 096 987",
+      "quantity": 2,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

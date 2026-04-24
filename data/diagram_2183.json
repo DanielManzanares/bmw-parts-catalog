@@ -1,0 +1,173 @@
+{
+  "id": 2183,
+  "diagram_title": "Rear window shelf/sun blind",
+  "image_url": "http://ills.bmwfans.info/azj.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 46 1 920 522",
+      "quantity": 1,
+      "description": "Rear window shelf with sun blind",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 1 920 523",
+      "quantity": 1,
+      "description": "Rear window shelf with sun blind",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 1 920 526",
+      "quantity": 1,
+      "description": "Rear window shelf with sun blind",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 1 920 524",
+      "quantity": 1,
+      "description": "Rear window shelf with sun blind",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 1 920 525",
+      "quantity": 1,
+      "description": "Rear window shelf with sun blind",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 1 920 528",
+      "quantity": 1,
+      "description": "Rear window shelf with sun blind",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 1 920 529",
+      "quantity": 1,
+      "description": "Rear window shelf with sun blind",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 1 920 531",
+      "quantity": 1,
+      "description": "Rear window shelf with sun blind",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 1 920 528",
+      "quantity": 1,
+      "description": "Rear window shelf with sun blind",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 1 920 529",
+      "quantity": 1,
+      "description": "Rear window shelf with sun blind",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 1 920 530",
+      "quantity": 1,
+      "description": "Rear window shelf with sun blind",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 1 920 531",
+      "quantity": 1,
+      "description": "Rear window shelf with sun blind",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 46 1 920 532",
+      "quantity": 1,
+      "description": "Rear window shelf with sun blind",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 46 1 886 665",
+      "quantity": 1,
+      "description": "Roller sun shield",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 46 1 917 381",
+      "quantity": 1,
+      "description": "Hook left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 46 1 917 382",
+      "quantity": 1,
+      "description": "Hook right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 11 9 907 604",
+      "quantity": 4,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 922 016",
+      "quantity": 4,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 11 9 931 015",
+      "quantity": 4,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 46 1 905 393",
+      "quantity": 2,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

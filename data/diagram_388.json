@@ -1,0 +1,285 @@
+{
+  "id": 388,
+  "diagram_title": "Boa-Boa individual fabric meterware",
+  "image_url": "http://ills.bmwfans.info/gu0.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 492 943",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, patterned",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 493 751",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, patterned",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 493 752",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, patterned",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 493 753",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, patterned",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 493 754",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, patterned",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 492 943",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, patterned",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 493 751",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, patterned",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 493 752",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, patterned",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 493 753",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, patterned",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 493 754",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, patterned",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 492 944",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, unicolored",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 493 756",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, unicolored",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 493 757",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, unicolored",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 493 758",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, unicolored",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 492 946",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, unicolored",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 493 765",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, unicolored",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 493 766",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, unicolored",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 493 767",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, unicolored",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 492 944",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, unicolored",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 493 756",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, unicolored",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 493 757",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, unicolored",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 493 758",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, unicolored",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 492 946",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, unicolored",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 493 765",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, unicolored",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 493 766",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, unicolored",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 493 767",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, unicolored",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 2 494 078",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, unicolored",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 2 494 079",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, unicolored",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 2 494 080",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, unicolored",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 2 494 081",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, unicolored",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 2 494 078",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, unicolored",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 2 494 079",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, unicolored",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 2 494 080",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, unicolored",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 2 494 081",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, unicolored",
+      "price_eur": null,
+      "compatible_models": "E36"
+    }
+  ]
+}

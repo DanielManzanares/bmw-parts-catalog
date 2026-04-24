@@ -1,0 +1,53 @@
+{
+  "id": 3041,
+  "diagram_title": "Front body bracket left",
+  "image_url": "http://ills.bmwfans.info/5fs.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "41 14 8 151 439",
+      "quantity": 1,
+      "description": "Bracket, impact sensor, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "41 14 8 144 392",
+      "quantity": 2,
+      "description": "Brake pipe bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "41 14 8 119 795",
+      "quantity": 1,
+      "description": "Air cleaner bracket front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "41 11 8 151 070",
+      "quantity": 1,
+      "description": "Bracket horn",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "41 14 8 119 796",
+      "quantity": 1,
+      "description": "Air cleaner bracket rear",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

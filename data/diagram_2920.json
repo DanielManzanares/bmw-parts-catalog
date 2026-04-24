@@ -1,0 +1,37 @@
+{
+  "id": 2920,
+  "diagram_title": "Installation kit alarm system",
+  "image_url": "http://ills.bmwfans.info/1wm1.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "51 44 2 699 064",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 44 8 243 732",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 44 8 243 733",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

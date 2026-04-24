@@ -1,0 +1,21 @@
+{
+  "id": 2746,
+  "diagram_title": "Installing set additional heater",
+  "image_url": "http://ills.bmwfans.info/cv3.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 12 1 373 445",
+      "quantity": 1,
+      "description": "Installing set additional heater",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

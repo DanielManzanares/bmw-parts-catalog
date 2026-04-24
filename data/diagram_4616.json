@@ -1,0 +1,285 @@
+{
+  "id": 4616,
+  "diagram_title": "Retrof., alumin. decor strips, titanium II",
+  "image_url": "http://ills.bmwfans.info/228e.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 45 7 046 965",
+      "quantity": 1,
+      "description": "Decor strip, titanium II, instr. panel lft",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 45 7 046 965",
+      "quantity": 1,
+      "description": "Decor strip, titanium II, instr. panel lft",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 45 7 046 969",
+      "quantity": 1,
+      "description": "Decor strip, titan. II, instr.panel center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 45 7 046 969",
+      "quantity": 1,
+      "description": "Decor strip, titan. II, instr.panel center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 45 7 046 967",
+      "quantity": 1,
+      "description": "Decor strip, titan. II, instr. panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 45 7 046 967",
+      "quantity": 1,
+      "description": "Decor strip, titan. II, instr. panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 7 052 067",
+      "quantity": 1,
+      "description": "Depositing box bottom panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 7 052 067",
+      "quantity": 1,
+      "description": "Depositing box bottom panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 41 7 049 681",
+      "quantity": 1,
+      "description": "Armrest, titanium II, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 41 7 049 682",
+      "quantity": 1,
+      "description": "Armrest, titanium II, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 41 7 049 683",
+      "quantity": 1,
+      "description": "Armrest, titanium II, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 41 7 049 684",
+      "quantity": 1,
+      "description": "Armrest, titanium II, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 41 7 049 685",
+      "quantity": 1,
+      "description": "Armrest, titanium II, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 41 7 049 686",
+      "quantity": 1,
+      "description": "Armrest, titanium II, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 41 7 049 681",
+      "quantity": 1,
+      "description": "Armrest, titanium II, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 41 7 049 682",
+      "quantity": 1,
+      "description": "Armrest, titanium II, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 41 7 049 683",
+      "quantity": 1,
+      "description": "Armrest, titanium II, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 41 7 049 684",
+      "quantity": 1,
+      "description": "Armrest, titanium II, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 41 7 049 685",
+      "quantity": 1,
+      "description": "Armrest, titanium II, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 41 7 049 686",
+      "quantity": 1,
+      "description": "Armrest, titanium II, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 43 7 053 015",
+      "quantity": 1,
+      "description": "Armrest, titanium II, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 43 7 053 016",
+      "quantity": 1,
+      "description": "Armrest, titanium II, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 43 7 053 017",
+      "quantity": 1,
+      "description": "Armrest, titanium II, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 43 7 053 018",
+      "quantity": 1,
+      "description": "Armrest, titanium II, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 43 7 053 019",
+      "quantity": 1,
+      "description": "Armrest, titanium II, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 43 7 053 020",
+      "quantity": 1,
+      "description": "Armrest, titanium II, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 43 7 053 015",
+      "quantity": 1,
+      "description": "Armrest, titanium II, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 43 7 053 016",
+      "quantity": 1,
+      "description": "Armrest, titanium II, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 43 7 053 017",
+      "quantity": 1,
+      "description": "Armrest, titanium II, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 43 7 053 018",
+      "quantity": 1,
+      "description": "Armrest, titanium II, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 43 7 053 019",
+      "quantity": 1,
+      "description": "Armrest, titanium II, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 43 7 053 020",
+      "quantity": 1,
+      "description": "Armrest, titanium II, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 41 7 053 473",
+      "quantity": 1,
+      "description": "Cover titanium II",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 41 7 053 473",
+      "quantity": 1,
+      "description": "Cover titanium II",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

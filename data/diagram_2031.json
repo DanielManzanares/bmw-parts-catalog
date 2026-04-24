@@ -1,0 +1,237 @@
+{
+  "id": 2031,
+  "diagram_title": "Hood",
+  "image_url": "http://ills.bmwfans.info/a17.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "41 61 1 955 456",
+      "quantity": 1,
+      "description": "Hood",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 23 1 917 747",
+      "quantity": 1,
+      "description": "Gasket left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 23 1 917 748",
+      "quantity": 1,
+      "description": "Gasket right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 24 8 254 063",
+      "quantity": 2,
+      "description": "Stop buffer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 11 9 915 071",
+      "quantity": 8,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 23 1 876 997",
+      "quantity": 1,
+      "description": "Catch front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 23 1 876 998",
+      "quantity": 1,
+      "description": "Catch front right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 23 1 902 611",
+      "quantity": 6,
+      "description": "Rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 23 1 876 995",
+      "quantity": 1,
+      "description": "Catch front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 23 1 876 996",
+      "quantity": 1,
+      "description": "Catch front right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 11 9 915 022",
+      "quantity": 4,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 11 9 913 212",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 23 1 877 089",
+      "quantity": 1,
+      "description": "Bump stop",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 23 1 927 129",
+      "quantity": 2,
+      "description": "Gas pressurized spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 23 1 864 963",
+      "quantity": 4,
+      "description": "Securing plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 23 1 943 279",
+      "quantity": 4,
+      "description": "Securing plate",
+      "price_eur": null,
+      "compatible_models": "CMSP, E23, E24, E28, E30, Z1"
+    },
+    {
+      "position_number": "19",
+      "part_number": "51 71 1 921 220",
+      "quantity": 1,
+      "description": "Sealing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "41 61 1 900 683",
+      "quantity": 1,
+      "description": "Hinge left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "41 61 1 900 684",
+      "quantity": 1,
+      "description": "Hinge left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "07 11 9 933 096",
+      "quantity": 2,
+      "description": "Spring washer",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E9, NK, Z1"
+    },
+    {
+      "position_number": "22",
+      "part_number": "07 11 9 922 856",
+      "quantity": 2,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "114, 700, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E53, E9, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "22",
+      "part_number": "07 11 9 904 032",
+      "quantity": 2,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E53, E61, E61 Facelift, E70, E70 Facelift, E71, E81, E83, E83 Facelift, E84, E87, E87 Facelift, E9, E91, E91 Facelift, F11, F11 Facelift, F25, F31, F31 Facelift, G11, G12, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "23",
+      "part_number": "51 23 1 881 906",
+      "quantity": 2,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "24",
+      "part_number": "51 23 1 889 011",
+      "quantity": 1,
+      "description": "Sealing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "25",
+      "part_number": "51 41 1 870 718",
+      "quantity": 3,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E32, E46, E9, NK, Z1"
+    },
+    {
+      "position_number": "26",
+      "part_number": "51 48 1 935 410",
+      "quantity": 1,
+      "description": "Sound absorber",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "27",
+      "part_number": "51 48 1 915 964",
+      "quantity": 1,
+      "description": "Expanding rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "28",
+      "part_number": "51 48 1 924 909",
+      "quantity": 5,
+      "description": "Clip",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

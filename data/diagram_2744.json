@@ -1,0 +1,61 @@
+{
+  "id": 2744,
+  "diagram_title": "Side wall aerial retrofit kit",
+  "image_url": "http://ills.bmwfans.info/dow.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "84 51 9 404 711",
+      "quantity": 1,
+      "description": "Retrofit kit, rear antenna",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 13 1 377 134",
+      "quantity": 3,
+      "description": "Cable tie",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "84 51 8 360 970",
+      "quantity": 1,
+      "description": "Antenna radiator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "84 51 9 405 015",
+      "quantity": 1,
+      "description": "Antenna base",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "84 54 8 362 165",
+      "quantity": 1,
+      "description": "Antenna cable",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "84 54 9 404 727",
+      "quantity": 1,
+      "description": "Antenna key",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

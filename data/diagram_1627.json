@@ -1,0 +1,29 @@
+{
+  "id": 1627,
+  "diagram_title": "Kit, wheel bearing, front / Value Line",
+  "image_url": "http://ills.bmwfans.info/cjsj.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 49,
+  "category_name": "Front Axle",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "31 22 2 299 192",
+      "quantity": 2,
+      "description": "Service kit for wheel bearing, front",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 22 2 299 192",
+      "quantity": 1,
+      "description": "Service kit for wheel bearing, front",
+      "price_eur": null,
+      "compatible_models": "E46"
+    }
+  ]
+}

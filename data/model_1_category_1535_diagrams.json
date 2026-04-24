@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2942,
+    "diagram_title": "Fuel injection system/Injection valve",
+    "image_url": "http://ills.bmwfans.info/3khe.png",
+    "parts_count": 13
+  },
+  {
+    "id": 2939,
+    "diagram_title": "Fuel pipe",
+    "image_url": "http://ills.bmwfans.info/19x.png",
+    "parts_count": 8
+  },
+  {
+    "id": 2936,
+    "diagram_title": "Fuel pipe bracket",
+    "image_url": "http://ills.bmwfans.info/19z.png",
+    "parts_count": 6
+  },
+  {
+    "id": 2948,
+    "diagram_title": "Fuel tank breath.valve/disturb.air valve",
+    "image_url": "http://ills.bmwfans.info/fd5.png",
+    "parts_count": 6
+  },
+  {
+    "id": 2955,
+    "diagram_title": "Suction silencer/Filter cartridge",
+    "image_url": "http://ills.bmwfans.info/18n.png",
+    "parts_count": 17
+  },
+  {
+    "id": 2945,
+    "diagram_title": "Throttle housing assy/heating element",
+    "image_url": "http://ills.bmwfans.info/19d.png",
+    "parts_count": 12
+  },
+  {
+    "id": 2952,
+    "diagram_title": "Volume air flow sensor",
+    "image_url": "http://ills.bmwfans.info/187.png",
+    "parts_count": 16
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": 5587,
+  "diagram_title": "Fluid-change kit, autom. transmission",
+  "image_url": "http://ills.bmwfans.info/c4tx.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 456,
+  "category_name": "Automatic Transmission",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "24 15 2 333 824",
+      "quantity": 1,
+      "description": "Fluid filter kit, autom. transmission",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E83, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "83 22 0 403 248",
+      "quantity": 1,
+      "description": "Automatic transmission fluid ETL 7045 E",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "83 22 2 344 588",
+      "quantity": 1,
+      "description": "Atf 1",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "83 22 2 305 395",
+      "quantity": 1,
+      "description": "Atf 1",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

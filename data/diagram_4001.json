@@ -1,0 +1,69 @@
+{
+  "id": 4001,
+  "diagram_title": "On board monitor radio",
+  "image_url": "http://ills.bmwfans.info/3guc.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 907 131",
+      "quantity": 1,
+      "description": "Rmfd radio BMW Professional",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 8 385 457",
+      "quantity": 1,
+      "description": "Rmfd radio BMW Professional",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 185 185",
+      "quantity": 1,
+      "description": "Rmfd radio BMW Professional",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 906 738",
+      "quantity": 1,
+      "description": "Rmfd radio BMW Professional",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 933 455",
+      "quantity": 1,
+      "description": "Rmfd radio BMW Professional",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 8 382 368",
+      "quantity": 1,
+      "description": "Rmfd radio BMW Professional",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 8 385 446",
+      "quantity": 1,
+      "description": "Rmfd radio BMW Professional",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

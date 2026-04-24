@@ -1,0 +1,125 @@
+{
+  "id": 6947,
+  "diagram_title": "Electric parts for ac unit",
+  "image_url": "http://ills.bmwfans.info/3ciz.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 11 8 372 797",
+      "quantity": 1,
+      "description": "Blower unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "64 11 9 204 154",
+      "quantity": 1,
+      "description": "Blower unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 11 8 390 874",
+      "quantity": 1,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 11 6 923 204",
+      "quantity": 1,
+      "description": "Final Stage Unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "64 11 6 930 015",
+      "quantity": 2,
+      "description": "Temperature sensor, heater/evaporator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "64 11 6 934 823",
+      "quantity": 1,
+      "description": "Positng. drive, fresh air/recirc. left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "64 11 6 934 824",
+      "quantity": 1,
+      "description": "Positng. drive, fresh air/recirc. left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "64 11 6 934 822",
+      "quantity": 1,
+      "description": "Positng. drive, fresh air/recirc. left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "64 11 6 934 821",
+      "quantity": 1,
+      "description": "Positng. drive, fresh air/recirc. left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "64 11 6 934 825",
+      "quantity": 1,
+      "description": "Positng. drive, fresh air/recirc. left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "64 11 6 934 822",
+      "quantity": 1,
+      "description": "Positng. drive, fresh air/recirc. left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 12 6 910 086",
+      "quantity": 1,
+      "description": "Heater/air conditioning wiring set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 12 6 910 085",
+      "quantity": 1,
+      "description": "Heater/air conditioning wiring set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "64 11 6 979 467",
+      "quantity": 1,
+      "description": "Bracket for control motor",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

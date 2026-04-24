@@ -1,0 +1,69 @@
+{
+  "id": 2640,
+  "diagram_title": "Air channel",
+  "image_url": "http://ills.bmwfans.info/cmf.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 22 1 873 371",
+      "quantity": 1,
+      "description": "Heater duct rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "64 22 1 915 014",
+      "quantity": 1,
+      "description": "Heater duct rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 22 1 888 069",
+      "quantity": 1,
+      "description": "Intermediate piece, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 22 1 888 070",
+      "quantity": 1,
+      "description": "Intermediate piece, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 45 1 868 108",
+      "quantity": 4,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E31, E32, E34, Z1"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 14 7 134 319",
+      "quantity": 4,
+      "description": "Hex nut with plate",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, F25, F26, Z1"
+    },
+    {
+      "position_number": "4",
+      "part_number": "64 22 1 356 171",
+      "quantity": 2,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

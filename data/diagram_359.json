@@ -1,0 +1,301 @@
+{
+  "id": 359,
+  "diagram_title": "Pad/seat pan of bmw sports seat",
+  "image_url": "http://ills.bmwfans.info/bmu.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 122 078",
+      "quantity": 2,
+      "description": "Thigh support upholstery",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 122 078",
+      "quantity": 2,
+      "description": "Thigh support upholstery",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 2 276 391",
+      "quantity": 2,
+      "description": "Pad, lower seat, front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 122 076",
+      "quantity": 2,
+      "description": "Pad seat front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 2 276 391",
+      "quantity": 2,
+      "description": "Pad, lower seat, front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 122 076",
+      "quantity": 1,
+      "description": "Pad seat front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 8 122 113",
+      "quantity": 2,
+      "description": "Pad seat backrest front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 8 122 113",
+      "quantity": 2,
+      "description": "Pad seat backrest front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 10 8 122 077",
+      "quantity": 2,
+      "description": "Supporting plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 10 8 122 077",
+      "quantity": 2,
+      "description": "Supporting plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 8 122 075",
+      "quantity": 2,
+      "description": "Holder for thigh support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 8 122 075",
+      "quantity": 2,
+      "description": "Holder for thigh support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 130 669",
+      "quantity": 1,
+      "description": "Seat pan left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 130 670",
+      "quantity": 1,
+      "description": "Seat pan, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 130 671",
+      "quantity": 1,
+      "description": "Seat pan left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 130 672",
+      "quantity": 1,
+      "description": "Seat pan, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 130 673",
+      "quantity": 1,
+      "description": "Seat pan left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 130 674",
+      "quantity": 1,
+      "description": "Seat pan, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 130 667",
+      "quantity": 1,
+      "description": "Seat pan left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 130 668",
+      "quantity": 1,
+      "description": "Seat pan, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 130 669",
+      "quantity": 1,
+      "description": "Seat pan left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 130 670",
+      "quantity": 1,
+      "description": "Seat pan, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 130 671",
+      "quantity": 1,
+      "description": "Seat pan left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 130 672",
+      "quantity": 1,
+      "description": "Seat pan, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 130 673",
+      "quantity": 1,
+      "description": "Seat pan left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 130 674",
+      "quantity": 1,
+      "description": "Seat pan, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 130 667",
+      "quantity": 1,
+      "description": "Seat pan left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 130 668",
+      "quantity": 1,
+      "description": "Seat pan, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 8 166 277",
+      "quantity": 2,
+      "description": "Backrest-cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 8 166 278",
+      "quantity": 2,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 8 166 279",
+      "quantity": 2,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 8 166 276",
+      "quantity": 2,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 8 166 277",
+      "quantity": 2,
+      "description": "Backrest-cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 8 166 278",
+      "quantity": 2,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 8 166 279",
+      "quantity": 2,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 8 166 276",
+      "quantity": 2,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

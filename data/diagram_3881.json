@@ -1,0 +1,325 @@
+{
+  "id": 3881,
+  "diagram_title": "Rear safety belt mounting parts",
+  "image_url": "http://ills.bmwfans.info/dhf.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1646,
+  "category_name": "Restraint system and Accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "72 11 8 119 229",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "72 11 1 808 673",
+      "quantity": 4,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "72 11 1 969 175",
+      "quantity": 4,
+      "description": "Circlip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "72 11 1 970 620",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "72 11 1 950 829",
+      "quantity": 2,
+      "description": "Button",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "72 11 1 917 406",
+      "quantity": 2,
+      "description": "Button",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "72 11 8 157 617",
+      "quantity": 2,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "72 11 8 153 217",
+      "quantity": 2,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "72 11 8 117 299",
+      "quantity": 2,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "72 11 2 256 196",
+      "quantity": 2,
+      "description": "Covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "72 11 2 258 424",
+      "quantity": 2,
+      "description": "Covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "72 11 2 265 628",
+      "quantity": 2,
+      "description": "Covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "72 11 2 265 629",
+      "quantity": 2,
+      "description": "Covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "72 11 2 267 059",
+      "quantity": 2,
+      "description": "Covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "72 11 2 489 321",
+      "quantity": 2,
+      "description": "Covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "72 11 2 489 322",
+      "quantity": 2,
+      "description": "Covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "72 11 8 135 381",
+      "quantity": 2,
+      "description": "Covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "72 11 8 135 382",
+      "quantity": 2,
+      "description": "Covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "72 11 8 135 383",
+      "quantity": 2,
+      "description": "Covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "72 11 8 135 384",
+      "quantity": 2,
+      "description": "Covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "72 11 8 179 976",
+      "quantity": 2,
+      "description": "Covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "72 11 8 179 977",
+      "quantity": 2,
+      "description": "Covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "72 11 8 179 978",
+      "quantity": 2,
+      "description": "Covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "72 11 8 179 979",
+      "quantity": 2,
+      "description": "Covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "72 11 8 179 980",
+      "quantity": 2,
+      "description": "Covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "72 11 8 179 981",
+      "quantity": 2,
+      "description": "Covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "72 11 8 179 982",
+      "quantity": 2,
+      "description": "Covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "72 11 8 179 984",
+      "quantity": 2,
+      "description": "Covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "72 11 1 808 673",
+      "quantity": 2,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "72 11 8 119 228",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "72 11 8 102 279",
+      "quantity": 2,
+      "description": "Button",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "72 11 8 110 198",
+      "quantity": 2,
+      "description": "Button",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 71 1 852 586",
+      "quantity": 1,
+      "description": "Blind plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "72 11 8 187 598",
+      "quantity": 1,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "72 11 1 922 499",
+      "quantity": 1,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "72 11 8 191 870",
+      "quantity": 1,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "07 11 9 900 052",
+      "quantity": 1,
+      "description": "Washer",
+      "price_eur": 245.0,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E53, E85, E86, E9, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "20",
+      "part_number": "72 11 8 187 599",
+      "quantity": 1,
+      "description": "Support, child seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "72 11 7 119 896",
+      "quantity": 1,
+      "description": "Bush",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

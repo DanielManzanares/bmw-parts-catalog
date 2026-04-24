@@ -1,0 +1,93 @@
+{
+  "id": 6120,
+  "diagram_title": "Mirror glass",
+  "image_url": "http://ills.bmwfans.info/wza.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 247 129",
+      "quantity": 1,
+      "description": "Mirror glas, wide-angle, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 247 130",
+      "quantity": 1,
+      "description": "Mirror glas, wide-angle, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 247 131",
+      "quantity": 1,
+      "description": "Mirror glas, wide-angle, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 247 132",
+      "quantity": 1,
+      "description": "Mirror glas, wide-angle, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 247 135",
+      "quantity": 1,
+      "description": "Mirror glas heated convex left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 247 136",
+      "quantity": 1,
+      "description": "Mirror glas heated convex left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 247 135",
+      "quantity": 1,
+      "description": "Mirror glas heated convex left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 8 247 133",
+      "quantity": 1,
+      "description": "Mirror glas heated plane left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 8 247 128",
+      "quantity": 1,
+      "description": "Mirror glas heated plane left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 16 8 247 122",
+      "quantity": 1,
+      "description": "Mirror glas heated convex right",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

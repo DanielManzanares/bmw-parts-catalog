@@ -1,0 +1,45 @@
+{
+  "id": 6620,
+  "diagram_title": "Heater radiator air conditioning",
+  "image_url": "http://ills.bmwfans.info/6x3.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 11 8 372 783",
+      "quantity": 1,
+      "description": "Heater radiator air conditioning",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 11 8 372 784",
+      "quantity": 1,
+      "description": "Aluminium double pipe",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 11 8 377 824",
+      "quantity": 2,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "64 11 8 368 531",
+      "quantity": 1,
+      "description": "Grommet for water pipe",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

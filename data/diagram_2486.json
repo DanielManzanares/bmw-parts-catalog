@@ -1,0 +1,45 @@
+{
+  "id": 2486,
+  "diagram_title": "Various additional wiring sets",
+  "image_url": "http://ills.bmwfans.info/bwe.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 12 1 367 674",
+      "quantity": 2,
+      "description": "Wiring brake wear warning indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 12 1 373 378",
+      "quantity": 1,
+      "description": "Wiring \"continious dim light\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 12 1 377 467",
+      "quantity": 1,
+      "description": "Wiring \"continious dim light\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "61 31 1 358 268",
+      "quantity": 1,
+      "description": "Diode",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

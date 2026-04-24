@@ -1,0 +1,29 @@
+{
+  "id": 858,
+  "diagram_title": "service_kit_for_belt_drives",
+  "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_service_kit_for_belt_drives.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1,
+  "category_name": "Engine",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "11 28 2 250 244",
+      "quantity": 1,
+      "description": "Set, belts for water pump, alternator",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E53"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 28 2 250 245",
+      "quantity": 1,
+      "description": "Set, drive belt, a/c compressor",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E53, E83"
+    }
+  ]
+}

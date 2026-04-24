@@ -1,0 +1,61 @@
+{
+  "id": 2092,
+  "diagram_title": "Sun visor",
+  "image_url": "http://ills.bmwfans.info/au6.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 1 917 897",
+      "quantity": 1,
+      "description": "Left sun visor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 1 917 900",
+      "quantity": 1,
+      "description": "Left sun visor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 1 927 473",
+      "quantity": 2,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 219 040",
+      "quantity": 2,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 243 576",
+      "quantity": 2,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 904 431",
+      "quantity": 8,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

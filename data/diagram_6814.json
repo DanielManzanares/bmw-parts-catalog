@@ -1,0 +1,45 @@
+{
+  "id": 6814,
+  "diagram_title": "Single components f headlight Xenon/ALC",
+  "image_url": "http://ills.bmwfans.info/a746.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 184,
+  "category_name": "Lighting",
+  "parts": [
+    {
+      "position_number": "9",
+      "part_number": "07 11 9 904 790",
+      "quantity": 2,
+      "description": "Bulb Xenon light",
+      "price_eur": null,
+      "compatible_models": "E46, E60, E61"
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 21 7 160 806",
+      "quantity": 1,
+      "description": "Bulb Xenon light",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 11 9 905 328",
+      "quantity": 2,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": "E46, F20, F21, F25, F26"
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 11 9 905 329",
+      "quantity": 1,
+      "description": "Bulb yellow",
+      "price_eur": null,
+      "compatible_models": "E46, E63, E64"
+    }
+  ]
+}

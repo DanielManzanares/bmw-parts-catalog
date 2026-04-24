@@ -1,0 +1,69 @@
+{
+  "id": 2760,
+  "diagram_title": "Radio Mexico Electronic Cr Safety",
+  "image_url": "http://ills.bmwfans.info/cye.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 058 376",
+      "quantity": 1,
+      "description": "Radio Mexico Electronic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 058 613",
+      "quantity": 1,
+      "description": "Radio Mexico Electronic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 061 103",
+      "quantity": 1,
+      "description": "Radio Mexico Electronic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 11 1 369 830",
+      "quantity": 1,
+      "description": "Radio Mexico Electronic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 056 529",
+      "quantity": 1,
+      "description": "Radio Mexico Electronic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 057 174",
+      "quantity": 1,
+      "description": "Radio Mexico Electronic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 058 514",
+      "quantity": 1,
+      "description": "Radio Mexico Electronic",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

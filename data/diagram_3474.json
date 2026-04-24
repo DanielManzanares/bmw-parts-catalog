@@ -1,0 +1,437 @@
+{
+  "id": 3474,
+  "diagram_title": "Center console cubbies",
+  "image_url": "http://ills.bmwfans.info/2q1t.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 234 154",
+      "quantity": 1,
+      "description": "CONSOLE, short",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 234 155",
+      "quantity": 1,
+      "description": "CONSOLE, short",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 248 507",
+      "quantity": 1,
+      "description": "CONSOLE, short",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 217 927",
+      "quantity": 1,
+      "description": "Console insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 217 929",
+      "quantity": 1,
+      "description": "Console insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 248 498",
+      "quantity": 1,
+      "description": "Console insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 8 242 843",
+      "quantity": 1,
+      "description": "Front tray",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 8 242 844",
+      "quantity": 1,
+      "description": "Front tray",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 8 242 846",
+      "quantity": 1,
+      "description": "Rear tray",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 8 242 847",
+      "quantity": 1,
+      "description": "Rear tray",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 16 8 217 953",
+      "quantity": 1,
+      "description": "Cup holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 16 8 217 955",
+      "quantity": 1,
+      "description": "Cup holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 16 8 248 504",
+      "quantity": 1,
+      "description": "Cup holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 16 8 217 957",
+      "quantity": 1,
+      "description": "Oddments tray with coinbox",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 16 8 217 959",
+      "quantity": 1,
+      "description": "Oddments tray with coinbox",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 16 8 248 505",
+      "quantity": 1,
+      "description": "Oddments tray with coinbox",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 16 8 242 859",
+      "quantity": 1,
+      "description": "Cup",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 16 8 242 860",
+      "quantity": 1,
+      "description": "Cup",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 16 8 242 861",
+      "quantity": 1,
+      "description": "Tension spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 16 8 225 986",
+      "quantity": 1,
+      "description": "Storing partition rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 16 8 242 733",
+      "quantity": 1,
+      "description": "Storing partition rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 16 8 248 525",
+      "quantity": 1,
+      "description": "Storing partition rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 16 8 258 276",
+      "quantity": 1,
+      "description": "Storing partition rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 16 8 258 277",
+      "quantity": 1,
+      "description": "Storing partition rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 16 8 258 278",
+      "quantity": 1,
+      "description": "Storing partition rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 16 8 225 988",
+      "quantity": 1,
+      "description": "Ashtray rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 16 8 242 739",
+      "quantity": 1,
+      "description": "Ashtray rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 16 8 248 527",
+      "quantity": 1,
+      "description": "Ashtray rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 16 8 258 280",
+      "quantity": 1,
+      "description": "Ashtray rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 16 8 258 281",
+      "quantity": 1,
+      "description": "Ashtray rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 16 8 258 282",
+      "quantity": 1,
+      "description": "Ashtray rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 16 8 268 340",
+      "quantity": 1,
+      "description": "Ashtray rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 16 8 268 341",
+      "quantity": 1,
+      "description": "Ashtray rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 16 8 268 342",
+      "quantity": 1,
+      "description": "Ashtray rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 16 8 225 529",
+      "quantity": 1,
+      "description": "Insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 16 8 258 283",
+      "quantity": 1,
+      "description": "Insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 16 8 197 908",
+      "quantity": 2,
+      "description": "Expanding rivet",
+      "price_eur": null,
+      "compatible_models": "E36, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F04, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F23, I12"
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 16 8 235 570",
+      "quantity": 1,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "07 12 9 904 220",
+      "quantity": 4,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "07 14 9 156 627",
+      "quantity": 4,
+      "description": "Sheet metal screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 16 7 000 476",
+      "quantity": 1,
+      "description": "Bottom part of cable guide",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "51 16 7 000 469",
+      "quantity": 1,
+      "description": "Upper part of cable guide",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "51 16 7 000 481",
+      "quantity": 1,
+      "description": "Insert for telephone console",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "51 16 7 000 482",
+      "quantity": 1,
+      "description": "Insert for telephone console",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "51 16 7 110 646",
+      "quantity": 1,
+      "description": "Insert for telephone console",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "51 16 7 025 295",
+      "quantity": 1,
+      "description": "Insert for telephone console",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "51 16 7 025 296",
+      "quantity": 1,
+      "description": "Insert for telephone console",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "51 16 7 025 297",
+      "quantity": 1,
+      "description": "Insert for telephone console",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "51 16 7 000 483",
+      "quantity": 1,
+      "description": "Holder, interface",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "51 41 1 970 578",
+      "quantity": 5,
+      "description": "Sealing strip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "51 16 8 269 444",
+      "quantity": 1,
+      "description": "Module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "51 16 8 269 445",
+      "quantity": 1,
+      "description": "Module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "51 16 8 269 446",
+      "quantity": 1,
+      "description": "Module",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

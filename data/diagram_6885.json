@@ -1,0 +1,93 @@
+{
+  "id": 6885,
+  "diagram_title": "Air duct",
+  "image_url": "http://ills.bmwfans.info/iv0.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 22 8 196 096",
+      "quantity": 1,
+      "description": "Warm air duct",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 22 8 196 097",
+      "quantity": 1,
+      "description": "Cold air duct left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 22 8 196 098",
+      "quantity": 1,
+      "description": "Cold air duct left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 22 8 203 881",
+      "quantity": 1,
+      "description": "Left floor heater duct",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 22 8 203 882",
+      "quantity": 1,
+      "description": "Left floor heater duct",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "64 22 8 207 901",
+      "quantity": 1,
+      "description": "Defroster nozzle left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "64 22 8 207 902",
+      "quantity": 1,
+      "description": "Defroster nozzle left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 45 8 268 560",
+      "quantity": 1,
+      "description": "Repair kit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 11 9 904 175",
+      "quantity": 1,
+      "description": "Sheet metal screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 14 6 988 451",
+      "quantity": 1,
+      "description": "C-clip nut",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

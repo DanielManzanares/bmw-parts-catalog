@@ -1,0 +1,37 @@
+{
+  "id": 3802,
+  "diagram_title": "Single components f rain sensor",
+  "image_url": "http://ills.bmwfans.info/3v6k.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 35 6 904 012",
+      "quantity": 1,
+      "description": "Rain sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 35 8 376 254",
+      "quantity": 2,
+      "description": "Fixing clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 13 8 380 696",
+      "quantity": 1,
+      "description": "Universal socket housing uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

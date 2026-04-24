@@ -1,0 +1,413 @@
+{
+  "id": 154,
+  "diagram_title": "Seat, front, complete seat",
+  "image_url": "http://ills.bmwfans.info/b9w.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 247",
+      "quantity": 1,
+      "description": "Leather sport seat, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 248",
+      "quantity": 1,
+      "description": "Leather sport seat, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 249",
+      "quantity": 1,
+      "description": "Leather sport seat, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 250",
+      "quantity": 1,
+      "description": "Leather sport seat, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 251",
+      "quantity": 1,
+      "description": "Leather sport seat, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 252",
+      "quantity": 1,
+      "description": "Leather sport seat, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 253",
+      "quantity": 1,
+      "description": "Leather sport seat, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 254",
+      "quantity": 1,
+      "description": "Leather sport seat, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 255",
+      "quantity": 1,
+      "description": "Leather sport seat, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 256",
+      "quantity": 1,
+      "description": "Leather sport seat, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 257",
+      "quantity": 1,
+      "description": "Leather sport seat, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 233",
+      "quantity": 1,
+      "description": "Cloth sport seat, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 234",
+      "quantity": 1,
+      "description": "Cloth sport seat, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 235",
+      "quantity": 1,
+      "description": "Cloth sport seat, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 236",
+      "quantity": 1,
+      "description": "Cloth sport seat, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 237",
+      "quantity": 1,
+      "description": "Cloth sport seat, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 238",
+      "quantity": 1,
+      "description": "Cloth sport seat, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 239",
+      "quantity": 1,
+      "description": "Cloth sport seat, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 240",
+      "quantity": 1,
+      "description": "Cloth sport seat, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 241",
+      "quantity": 1,
+      "description": "Cloth sport seat, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 242",
+      "quantity": 1,
+      "description": "Cloth sport seat, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 243",
+      "quantity": 1,
+      "description": "Cloth sport seat, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 244",
+      "quantity": 1,
+      "description": "Cloth sport seat, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 245",
+      "quantity": 1,
+      "description": "Cloth sport seat, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 246",
+      "quantity": 1,
+      "description": "Cloth sport seat, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 247",
+      "quantity": 1,
+      "description": "Leather sport seat, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 248",
+      "quantity": 1,
+      "description": "Leather sport seat, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 249",
+      "quantity": 1,
+      "description": "Leather sport seat, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 250",
+      "quantity": 1,
+      "description": "Leather sport seat, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 251",
+      "quantity": 1,
+      "description": "Leather sport seat, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 252",
+      "quantity": 1,
+      "description": "Leather sport seat, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 253",
+      "quantity": 1,
+      "description": "Leather sport seat, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 254",
+      "quantity": 1,
+      "description": "Leather sport seat, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 255",
+      "quantity": 1,
+      "description": "Leather sport seat, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 256",
+      "quantity": 1,
+      "description": "Leather sport seat, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 257",
+      "quantity": 1,
+      "description": "Leather sport seat, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 233",
+      "quantity": 1,
+      "description": "Cloth sport seat, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 234",
+      "quantity": 1,
+      "description": "Cloth sport seat, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 235",
+      "quantity": 1,
+      "description": "Cloth sport seat, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 236",
+      "quantity": 1,
+      "description": "Cloth sport seat, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 237",
+      "quantity": 1,
+      "description": "Cloth sport seat, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 238",
+      "quantity": 1,
+      "description": "Cloth sport seat, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 239",
+      "quantity": 1,
+      "description": "Cloth sport seat, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 240",
+      "quantity": 1,
+      "description": "Cloth sport seat, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 241",
+      "quantity": 1,
+      "description": "Cloth sport seat, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 242",
+      "quantity": 1,
+      "description": "Cloth sport seat, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 243",
+      "quantity": 1,
+      "description": "Cloth sport seat, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 244",
+      "quantity": 1,
+      "description": "Cloth sport seat, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 245",
+      "quantity": 1,
+      "description": "Cloth sport seat, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 246",
+      "quantity": 1,
+      "description": "Cloth sport seat, right",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

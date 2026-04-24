@@ -1,0 +1,45 @@
+{
+  "id": 2540,
+  "diagram_title": "Sun visor rear door",
+  "image_url": "http://ills.bmwfans.info/2rg0.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 46 0 004 485",
+      "quantity": 1,
+      "description": "Set sun visor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 46 0 004 486",
+      "quantity": 1,
+      "description": "Rear left sun visor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 46 0 004 487",
+      "quantity": 1,
+      "description": "Rear left sun visor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 46 0 303 334",
+      "quantity": 1,
+      "description": "Holder kit for sun visor",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4059,
+  "diagram_title": "Rugzak",
+  "image_url": "http://ills.bmwfans.info/cydi.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1647,
+  "category_name": "Workshop consumables",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "99 99 2 208 339",
+      "quantity": 1,
+      "description": "Rugzak type B (BMW 3)",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

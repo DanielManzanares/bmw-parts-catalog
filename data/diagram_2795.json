@@ -1,0 +1,61 @@
+{
+  "id": 2795,
+  "diagram_title": "Trailer, individual parts, ram guard",
+  "image_url": "http://ills.bmwfans.info/m89.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "86 19 9 416 879",
+      "quantity": 1,
+      "description": "Ram guard left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "86 19 9 416 880",
+      "quantity": 1,
+      "description": "Ram guard left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "86 19 9 416 914",
+      "quantity": 2,
+      "description": "Self-locking hexagon screx",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 902 192",
+      "quantity": 2,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 931 019",
+      "quantity": 2,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 12 9 964 675",
+      "quantity": 2,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, 700, CMSP, E12, E21, E24, E26, E28, E3, E30, E32, E34, E36, E38, E39, E46, E52, E53, E60, E9, NK, Z1, Z3"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": 7065,
+  "diagram_title": "On board monitor radio",
+  "image_url": "http://ills.bmwfans.info/3guc.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 10 6 933 092",
+      "quantity": 1,
+      "description": "Rmfd radio BMW Professional",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 934 650",
+      "quantity": 1,
+      "description": "Rmfd radio BMW Professional",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 941 691",
+      "quantity": 1,
+      "description": "Rmfd radio BMW Professional",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 943 452",
+      "quantity": 1,
+      "description": "Rmfd radio BMW Professional",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 964 401",
+      "quantity": 1,
+      "description": "Rmfd radio BMW Professional",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 972 667",
+      "quantity": 1,
+      "description": "Rmfd radio BMW Professional",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 976 964",
+      "quantity": 1,
+      "description": "Rmfd radio BMW Professional",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "61 13 8 384 580",
+      "quantity": 1,
+      "description": "Plug housing",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 5482,
+    "diagram_title": "Catalytic converter/front silencer",
+    "image_url": "http://ills.bmwfans.info/brby.png",
+    "parts_count": 9
+  },
+  {
+    "id": 5490,
+    "diagram_title": "Center and rear muffler",
+    "image_url": "http://ills.bmwfans.info/326s.png",
+    "parts_count": 23
+  },
+  {
+    "id": 5487,
+    "diagram_title": "Exhaust system, rear",
+    "image_url": "http://ills.bmwfans.info/1zjm.png",
+    "parts_count": 5
+  },
+  {
+    "id": 5485,
+    "diagram_title": "Front muffler",
+    "image_url": "http://ills.bmwfans.info/1qn7.png",
+    "parts_count": 8
+  },
+  {
+    "id": 5495,
+    "diagram_title": "Suspension parts exhaust",
+    "image_url": "http://ills.bmwfans.info/1rtm.png",
+    "parts_count": 9
+  },
+  {
+    "id": 5498,
+    "diagram_title": "Suspension parts exhaust",
+    "image_url": "http://ills.bmwfans.info/1pvp.png",
+    "parts_count": 11
+  },
+  {
+    "id": 5492,
+    "diagram_title": "Vacuum control, exhaust flap",
+    "image_url": "http://ills.bmwfans.info/1uip.png",
+    "parts_count": 20
+  },
+  {
+    "id": 1131,
+    "diagram_title": "catalytic_converter_front_silencer",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_exhaust_system_catalytic_converter_front_silencer.png",
+    "parts_count": 9
+  },
+  {
+    "id": 1135,
+    "diagram_title": "center_and_rear_muffler",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_exhaust_system_center_and_rear_muffler.png",
+    "parts_count": 21
+  },
+  {
+    "id": 1128,
+    "diagram_title": "exhaust_system_rear",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_exhaust_system_exhaust_system_rear.png",
+    "parts_count": 5
+  },
+  {
+    "id": 1129,
+    "diagram_title": "front_muffler",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_exhaust_system_front_muffler.png",
+    "parts_count": 8
+  },
+  {
+    "id": 1134,
+    "diagram_title": "suspension_parts_exhaust",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_exhaust_system_suspension_parts_exhaust.png",
+    "parts_count": 9
+  },
+  {
+    "id": 1137,
+    "diagram_title": "suspension_parts_exhaust_2",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_exhaust_system_suspension_parts_exhaust_2.png",
+    "parts_count": 9
+  },
+  {
+    "id": 1136,
+    "diagram_title": "vacuum_control_exhaust_flap",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_exhaust_system_vacuum_control_exhaust_flap.png",
+    "parts_count": 17
+  }
+]

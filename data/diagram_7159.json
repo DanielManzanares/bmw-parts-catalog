@@ -1,0 +1,37 @@
+{
+  "id": 7159,
+  "diagram_title": "Notice label for fuel",
+  "image_url": "http://ills.bmwfans.info/atwp.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1645,
+  "category_name": "Equipment Parts",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "71 21 2 122 599",
+      "quantity": 1,
+      "description": "Label \"premium fuel unleaded\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 22 1 407 706",
+      "quantity": 1,
+      "description": "Label \"premium fuel unleaded\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 22 7 509 290",
+      "quantity": 1,
+      "description": "Label \"premium fuel unleaded\"",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

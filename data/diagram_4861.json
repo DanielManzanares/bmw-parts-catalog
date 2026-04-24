@@ -1,0 +1,61 @@
+{
+  "id": 4861,
+  "diagram_title": "Upgrade navigation system (SZ)",
+  "image_url": "http://ills.bmwfans.info/22jj.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 90 0 136 831",
+      "quantity": 1,
+      "description": "Navigation installation set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 90 0 136 831",
+      "quantity": 1,
+      "description": "Navigation installation set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 90 0 028 275",
+      "quantity": 1,
+      "description": "Navigation CD computer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 90 0 028 275",
+      "quantity": 1,
+      "description": "Navigation CD computer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "84 43 0 141 487",
+      "quantity": 1,
+      "description": "Software-CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "84 43 0 141 487",
+      "quantity": 1,
+      "description": "Software-CD",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

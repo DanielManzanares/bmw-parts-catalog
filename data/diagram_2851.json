@@ -1,0 +1,29 @@
+{
+  "id": 2851,
+  "diagram_title": "Ignition coil",
+  "image_url": "http://ills.bmwfans.info/1bp.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 13 9 066 468",
+      "quantity": 4,
+      "description": "Ignition coil",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 13 7 599 218",
+      "quantity": 4,
+      "description": "Ignition coil",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

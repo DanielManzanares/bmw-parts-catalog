@@ -1,0 +1,61 @@
+{
+  "id": 6978,
+  "diagram_title": "Diverse small parts",
+  "image_url": "http://ills.bmwfans.info/1w6q.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 11 8 373 060",
+      "quantity": 1,
+      "description": "Blind plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 53 8 380 986",
+      "quantity": 1,
+      "description": "Plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 11 6 906 545",
+      "quantity": 1,
+      "description": "Condensation water outlet hose",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "64 11 8 368 531",
+      "quantity": 1,
+      "description": "Grommet for water pipe",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "64 50 8 380 053",
+      "quantity": 1,
+      "description": "Label, coolant",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "64 53 8 385 710",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

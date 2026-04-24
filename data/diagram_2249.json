@@ -1,0 +1,21 @@
+{
+  "id": 2249,
+  "diagram_title": "Foot mats for used cars",
+  "image_url": "http://ills.bmwfans.info/dq1.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 51 9 404 955",
+      "quantity": 1,
+      "description": "Set of foot mats for used cars",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

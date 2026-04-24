@@ -1,0 +1,45 @@
+{
+  "id": 4361,
+  "diagram_title": "Retrofit, M rear spoiler",
+  "image_url": "http://ills.bmwfans.info/1rqg.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 71 7 893 671",
+      "quantity": 1,
+      "description": "M spoiler rear, primed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 71 0 018 269",
+      "quantity": 1,
+      "description": "M spoiler rear, primed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 71 7 893 671",
+      "quantity": 1,
+      "description": "M spoiler rear, primed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 71 0 018 269",
+      "quantity": 1,
+      "description": "M spoiler rear, primed",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

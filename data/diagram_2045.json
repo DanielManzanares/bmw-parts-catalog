@@ -1,0 +1,237 @@
+{
+  "id": 2045,
+  "diagram_title": "Trunk lid/closing system",
+  "image_url": "http://ills.bmwfans.info/aat.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "41 62 1 921 543",
+      "quantity": 1,
+      "description": "Trunk lid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "41 62 1 959 569",
+      "quantity": 1,
+      "description": "Trunk lid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 71 1 889 473",
+      "quantity": 1,
+      "description": "Sealing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 23 1 852 347",
+      "quantity": 2,
+      "description": "Stop buffer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 915 069",
+      "quantity": 6,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "41 62 1 870 627",
+      "quantity": 1,
+      "description": "Hinge left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "41 62 1 870 628",
+      "quantity": 1,
+      "description": "Hinge left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "41 62 1 809 647",
+      "quantity": 1,
+      "description": "Torsion spring left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 24 1 919 481",
+      "quantity": 1,
+      "description": "Torsion spring left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "41 62 1 809 648",
+      "quantity": 1,
+      "description": "Torsion spring right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 24 1 919 482",
+      "quantity": 1,
+      "description": "Torsion spring right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 24 1 804 080",
+      "quantity": 2,
+      "description": "Suspension",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "41 62 5 676 221",
+      "quantity": 1,
+      "description": "Suspension",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 24 1 860 011",
+      "quantity": 1,
+      "description": "Catch upper part",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 24 1 860 014",
+      "quantity": 1,
+      "description": "Catch lower part",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 11 9 915 024",
+      "quantity": 5,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 24 1 862 344",
+      "quantity": 1,
+      "description": "Intermediate plate assy",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 24 1 862 345",
+      "quantity": 1,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 24 1 929 928",
+      "quantity": 1,
+      "description": "Trunk lid lock with key",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 24 1 876 056",
+      "quantity": 1,
+      "description": "Trunk lid lock with key",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 24 1 929 929",
+      "quantity": 1,
+      "description": "Catch with code",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 24 1 902 930",
+      "quantity": 1,
+      "description": "Catch with code",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 24 1 876 057",
+      "quantity": 1,
+      "description": "Catch with code",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 24 9 069 303",
+      "quantity": 1,
+      "description": "Catch with code",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "41 62 1 906 193",
+      "quantity": 1,
+      "description": "Foil left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "41 62 1 906 194",
+      "quantity": 1,
+      "description": "Foil left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "51 24 1 932 923",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "07 11 9 906 822",
+      "quantity": 1,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

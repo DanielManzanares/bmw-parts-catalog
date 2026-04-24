@@ -1,0 +1,53 @@
+{
+  "id": 6738,
+  "diagram_title": "Secondary air injection pump relay K6304",
+  "image_url": "http://ills.bmwfans.info/g3gj.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 63 1 742 690",
+      "quantity": 1,
+      "description": "Relay changer salmon red",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 13 1 389 111",
+      "quantity": 1,
+      "description": "Relay holder, black white",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 13 8 377 730",
+      "quantity": 1,
+      "description": "Double leaf spring contact",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 13 8 377 732",
+      "quantity": 1,
+      "description": "Double leaf spring contact",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 13 8 377 734",
+      "quantity": 1,
+      "description": "Double leaf spring contact",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

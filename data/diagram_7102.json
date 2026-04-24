@@ -1,0 +1,141 @@
+{
+  "id": 7102,
+  "diagram_title": "On board monitor / TV amplifier",
+  "image_url": "http://ills.bmwfans.info/2o4q.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 52 8 375 869",
+      "quantity": 1,
+      "description": "Display",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 52 8 380 951",
+      "quantity": 1,
+      "description": "Display",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 52 8 383 337",
+      "quantity": 1,
+      "description": "On board monitor cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 52 8 383 341",
+      "quantity": 1,
+      "description": "On board monitor cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 52 8 383 343",
+      "quantity": 1,
+      "description": "On board monitor cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 52 8 383 345",
+      "quantity": 1,
+      "description": "Housing with cassette drive",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 907 809",
+      "quantity": 2,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 45 1 949 950",
+      "quantity": 2,
+      "description": "C-clip nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 14 6 988 451",
+      "quantity": 2,
+      "description": "C-clip nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "65 25 8 368 210",
+      "quantity": 1,
+      "description": "TV amplifier",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "65 25 8 375 416",
+      "quantity": 1,
+      "description": "Sheet metal screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 14 6 961 863",
+      "quantity": 1,
+      "description": "Sheet metal screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 14 9 158 177",
+      "quantity": 1,
+      "description": "Sheet metal screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "65 52 8 384 681",
+      "quantity": 1,
+      "description": "Rotary knob on-board monitor, menu",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "65 52 8 384 682",
+      "quantity": 1,
+      "description": "Rotary knob on-board monitor, radio",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 904 046",
+      "quantity": 4,
+      "description": "Countersunk screw",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

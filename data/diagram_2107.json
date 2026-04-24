@@ -1,0 +1,133 @@
+{
+  "id": 2107,
+  "diagram_title": "Mobile phone, Nokia 3110, SA627",
+  "image_url": "http://ills.bmwfans.info/dlfu.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1531,
+  "category_name": "Technical Literature",
+  "parts": [
+    {
+      "position_number": "--",
+      "part_number": "84 61 9 410 939",
+      "quantity": 1,
+      "description": "Expans. kit for phone GSM Phase V",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 9 791 320",
+      "quantity": 1,
+      "description": "Suppl. Owner's Handbook German",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 21 9 791 321",
+      "quantity": 1,
+      "description": "Suppl. Owner's Handbook English",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 23 9 791 323",
+      "quantity": 1,
+      "description": "Suppl. Owner's Handbook Spanish",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 23 0 002 068",
+      "quantity": 1,
+      "description": "Suppl. Owner's Handbook Spanish",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 24 9 791 324",
+      "quantity": 1,
+      "description": "Suppl. Owner's Handbook Italian",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 24 0 002 069",
+      "quantity": 1,
+      "description": "Suppl. Owner's Handbook Italian",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 25 9 791 325",
+      "quantity": 1,
+      "description": "Suppl. Owner's Handbook Swedish",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 25 0 002 070",
+      "quantity": 1,
+      "description": "Suppl. Owner's Handbook Swedish",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 26 9 791 326",
+      "quantity": 1,
+      "description": "Suppl. Owner's Handbook Dutch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 26 0 002 071",
+      "quantity": 1,
+      "description": "Suppl. Owner's Handbook Dutch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 27 9 791 327",
+      "quantity": 1,
+      "description": "Suppl. Owner's Handbook Arabic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 27 0 002 072",
+      "quantity": 1,
+      "description": "Suppl. Owner's Handbook Arabic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "01 28 0 002 073",
+      "quantity": 1,
+      "description": "Owner's handbook, telephone \"da\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "01 29 0 002 074",
+      "quantity": 1,
+      "description": "Owner's handbook, telephone \"pt\"",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 5615,
+  "diagram_title": "Performance shift knob",
+  "image_url": "http://ills.bmwfans.info/34n6.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1635,
+  "category_name": "Gearshift",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "25 11 0 429 267",
+      "quantity": 1,
+      "description": "Performance shift knob",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "25 11 7 919 219",
+      "quantity": 1,
+      "description": "Gear lever cover",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": 6204,
+  "diagram_title": "Storing partition cover",
+  "image_url": "http://ills.bmwfans.info/3hzq.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "5",
+      "part_number": "51 16 8 196 118",
+      "quantity": 1,
+      "description": "Preselect.lever cover f steptronic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 16 8 171 666",
+      "quantity": 1,
+      "description": "Steptronic switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 910 393",
+      "quantity": 2,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 16 8 238 583",
+      "quantity": 1,
+      "description": "Protection cap, gear shift lug steptronic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 16 8 214 764",
+      "quantity": 1,
+      "description": "Depositing box bottom panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 16 8 234 271",
+      "quantity": 1,
+      "description": "Depositing box bottom panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 16 8 234 716",
+      "quantity": 1,
+      "description": "Depositing box bottom panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 16 8 234 718",
+      "quantity": 1,
+      "description": "Depositing box bottom panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 16 8 234 720",
+      "quantity": 1,
+      "description": "Depositing box bottom panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 16 8 239 119",
+      "quantity": 1,
+      "description": "Depositing box bottom panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 16 8 209 568",
+      "quantity": 1,
+      "description": "Bottom panel depositing box wood",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 16 7 902 429",
+      "quantity": 1,
+      "description": "Bottom panel, storage partition, alumin.",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

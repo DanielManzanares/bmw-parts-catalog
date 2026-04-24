@@ -1,0 +1,61 @@
+{
+  "id": 1476,
+  "diagram_title": "Bmw sports seat coverings",
+  "image_url": "http://ills.bmwfans.info/b6v.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "6",
+      "part_number": "52 10 1 927 049",
+      "quantity": 2,
+      "description": "Covering lower outer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 1 927 050",
+      "quantity": 2,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 1 927 051",
+      "quantity": 2,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 1 927 049",
+      "quantity": 2,
+      "description": "Covering lower outer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 1 927 050",
+      "quantity": 2,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 1 927 051",
+      "quantity": 2,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

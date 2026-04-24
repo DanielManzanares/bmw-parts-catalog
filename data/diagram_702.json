@@ -1,0 +1,37 @@
+{
+  "id": 702,
+  "diagram_title": "repair_kits_shock_absorber_rear",
+  "image_url": "/static/images/diagrams/E46_318i-N42_rear_axle_repair_kits_shock_absorber_rear.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 58,
+  "category_name": "Rear Axle",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "33 50 2 290 317",
+      "quantity": 2,
+      "description": "Repair kit, additional damper guard tube",
+      "price_eur": null,
+      "compatible_models": "E36, E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 50 2 290 348",
+      "quantity": 2,
+      "description": "Repair kit, additional damper guard tube",
+      "price_eur": null,
+      "compatible_models": "E36, E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "33 52 2 241 450",
+      "quantity": 2,
+      "description": "Repair kit for support bearing",
+      "price_eur": null,
+      "compatible_models": "E46"
+    }
+  ]
+}

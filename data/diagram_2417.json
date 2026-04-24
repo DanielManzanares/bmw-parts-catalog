@@ -1,0 +1,37 @@
+{
+  "id": 2417,
+  "diagram_title": "BMW Junior Seat 1",
+  "image_url": "http://ills.bmwfans.info/dyvo.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 22 2 348 234",
+      "quantity": 1,
+      "description": "BMW Junior Seat 1",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 2 348 236",
+      "quantity": 1,
+      "description": "BMW Junior Seat 1",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 22 2 348 233",
+      "quantity": 1,
+      "description": "Isofix Base 0+/1",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

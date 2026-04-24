@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1634,
+    "diagram_title": "Fuel filter",
+    "image_url": "http://ills.bmwfans.info/dy9.png",
+    "parts_count": 10
+  },
+  {
+    "id": 1635,
+    "diagram_title": "Fuel filter cover",
+    "image_url": "http://ills.bmwfans.info/k7v.png",
+    "parts_count": 8
+  },
+  {
+    "id": 1638,
+    "diagram_title": "Fuel tank breather valve",
+    "image_url": "http://ills.bmwfans.info/3g88.png",
+    "parts_count": 12
+  },
+  {
+    "id": 1639,
+    "diagram_title": "Mass air flow sensor",
+    "image_url": "http://ills.bmwfans.info/k6b.png",
+    "parts_count": 12
+  },
+  {
+    "id": 1640,
+    "diagram_title": "Suction silencer/Filter cartridge",
+    "image_url": "http://ills.bmwfans.info/4hg.png",
+    "parts_count": 42
+  },
+  {
+    "id": 1637,
+    "diagram_title": "Throttle Housing Assy",
+    "image_url": "http://ills.bmwfans.info/ab4h.png",
+    "parts_count": 8
+  },
+  {
+    "id": 1636,
+    "diagram_title": "Valves/Pipes of fuel injection system",
+    "image_url": "http://ills.bmwfans.info/k7h.png",
+    "parts_count": 38
+  }
+]

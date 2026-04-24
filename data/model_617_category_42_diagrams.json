@@ -1,0 +1,98 @@
+[
+  {
+    "id": 5561,
+    "diagram_title": "Gearbox mounting parts",
+    "image_url": "http://ills.bmwfans.info/2y1c.png",
+    "parts_count": 6
+  },
+  {
+    "id": 5564,
+    "diagram_title": "Gearbox parts — oxygen sensor holder",
+    "image_url": "http://ills.bmwfans.info/exz.png",
+    "parts_count": 4
+  },
+  {
+    "id": 5559,
+    "diagram_title": "Manual Transmission S5D...G",
+    "image_url": "http://ills.bmwfans.info/dr13.png",
+    "parts_count": 3
+  },
+  {
+    "id": 5573,
+    "diagram_title": "S5D...G countershaft/reverse gear",
+    "image_url": "http://ills.bmwfans.info/2i4.png",
+    "parts_count": 29
+  },
+  {
+    "id": 5570,
+    "diagram_title": "S5D...G drive shaft/output shaft",
+    "image_url": "http://ills.bmwfans.info/2h5.png",
+    "parts_count": 34
+  },
+  {
+    "id": 5567,
+    "diagram_title": "S5D...G housing + mounting parts",
+    "image_url": "http://ills.bmwfans.info/2iq.png",
+    "parts_count": 25
+  },
+  {
+    "id": 5575,
+    "diagram_title": "S5D...G inner gear shifting parts",
+    "image_url": "http://ills.bmwfans.info/2h6.png",
+    "parts_count": 16
+  },
+  {
+    "id": 5577,
+    "diagram_title": "S5D...G inner gear shifting parts",
+    "image_url": "http://ills.bmwfans.info/fck.png",
+    "parts_count": 22
+  },
+  {
+    "id": 666,
+    "diagram_title": "gearbox_mounting_parts",
+    "image_url": "/static/images/diagrams/E46_318i-N42_manual_transmission_gearbox_mounting_parts.png",
+    "parts_count": 6
+  },
+  {
+    "id": 664,
+    "diagram_title": "gearbox_parts_oxygen_sensor_holder",
+    "image_url": "/static/images/diagrams/E46_318i-N42_manual_transmission_gearbox_parts_oxygen_sensor_holder.png",
+    "parts_count": 4
+  },
+  {
+    "id": 662,
+    "diagram_title": "manual_transmission_s5d_g",
+    "image_url": "/static/images/diagrams/E46_318i-N42_manual_transmission_manual_transmission_s5d_g.png",
+    "parts_count": 3
+  },
+  {
+    "id": 677,
+    "diagram_title": "s5d_g_countershaft_reverse_gear",
+    "image_url": "/static/images/diagrams/E46_318i-N42_manual_transmission_s5d_g_countershaft_reverse_gear.png",
+    "parts_count": 29
+  },
+  {
+    "id": 671,
+    "diagram_title": "s5d_g_drive_shaft_output_shaft",
+    "image_url": "/static/images/diagrams/E46_318i-N42_manual_transmission_s5d_g_drive_shaft_output_shaft.png",
+    "parts_count": 34
+  },
+  {
+    "id": 667,
+    "diagram_title": "s5d_g_housing_mounting_parts",
+    "image_url": "/static/images/diagrams/E46_318i-N42_manual_transmission_s5d_g_housing_mounting_parts.png",
+    "parts_count": 25
+  },
+  {
+    "id": 668,
+    "diagram_title": "s5d_g_inner_gear_shifting_parts",
+    "image_url": "/static/images/diagrams/E46_318i-N42_manual_transmission_s5d_g_inner_gear_shifting_parts.png",
+    "parts_count": 16
+  },
+  {
+    "id": 670,
+    "diagram_title": "s5d_g_inner_gear_shifting_parts_2",
+    "image_url": "/static/images/diagrams/E46_318i-N42_manual_transmission_s5d_g_inner_gear_shifting_parts_2.png",
+    "parts_count": 22
+  }
+]

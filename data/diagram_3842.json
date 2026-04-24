@@ -1,0 +1,29 @@
+{
+  "id": 3842,
+  "diagram_title": "Relay, bridge — connection plug",
+  "image_url": "http://ills.bmwfans.info/emhh.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 31 1 379 817",
+      "quantity": 1,
+      "description": "Connection plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 36 8 366 282",
+      "quantity": 1,
+      "description": "Connection plug, golden brown",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

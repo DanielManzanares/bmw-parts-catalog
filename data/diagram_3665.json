@@ -1,0 +1,53 @@
+{
+  "id": 3665,
+  "diagram_title": "Air channel",
+  "image_url": "http://ills.bmwfans.info/_con.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 22 1 977 097",
+      "quantity": 1,
+      "description": "Cold air duct left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 22 1 977 098",
+      "quantity": 1,
+      "description": "Cold air duct right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 22 1 977 626",
+      "quantity": 1,
+      "description": "Cold air duct right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 12 9 901 645",
+      "quantity": 4,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 907 948",
+      "quantity": 4,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E85, E86, Z3"
+    }
+  ]
+}

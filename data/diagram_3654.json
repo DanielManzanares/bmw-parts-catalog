@@ -1,0 +1,445 @@
+{
+  "id": 3654,
+  "diagram_title": "Rear seat center armrest",
+  "image_url": "http://ills.bmwfans.info/1zrj.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 254 987",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 254 985",
+      "quantity": 1,
+      "description": "Armrest leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 055 132",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 254 990",
+      "quantity": 1,
+      "description": "Armrest leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 254 988",
+      "quantity": 1,
+      "description": "Armrest leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 254 999",
+      "quantity": 1,
+      "description": "Armrest vinyl",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 255 000",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 254 982",
+      "quantity": 1,
+      "description": "Armrest leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 254 983",
+      "quantity": 1,
+      "description": "Armrest leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 254 984",
+      "quantity": 1,
+      "description": "Armrest leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 254 997",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 026 246",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 254 996",
+      "quantity": 1,
+      "description": "Armrest leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 045 644",
+      "quantity": 1,
+      "description": "Armrest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 267 719",
+      "quantity": 1,
+      "description": "Armrest leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 890 430",
+      "quantity": 1,
+      "description": "Armrest rear, Alcantara uni",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 267 714",
+      "quantity": 1,
+      "description": "Armrest leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 047 374",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 047 375",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 045 645",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 257 769",
+      "quantity": 1,
+      "description": "Armrest leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 257 767",
+      "quantity": 1,
+      "description": "Armrest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 257 770",
+      "quantity": 1,
+      "description": "Armrest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 257 772",
+      "quantity": 1,
+      "description": "Armrest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 267 718",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 254 995",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 254 994",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 257 766",
+      "quantity": 1,
+      "description": "Armrest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 257 765",
+      "quantity": 1,
+      "description": "Armrest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 267 720",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 026 242",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 027 546",
+      "quantity": 1,
+      "description": "Armrest leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 902 483",
+      "quantity": 1,
+      "description": "Armrest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 045 651",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 045 650",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 257 781",
+      "quantity": 1,
+      "description": "Armrest vinyl",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 257 779",
+      "quantity": 1,
+      "description": "Armrest leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 257 778",
+      "quantity": 1,
+      "description": "Armrest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 257 764",
+      "quantity": 1,
+      "description": "Armrest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 270 103",
+      "quantity": 1,
+      "description": "Armrest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 257 782",
+      "quantity": 1,
+      "description": "Armrest vinyl",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 055 136",
+      "quantity": 1,
+      "description": "Armrest leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 047 391",
+      "quantity": 1,
+      "description": "Armrest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 047 390",
+      "quantity": 1,
+      "description": "Armrest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 257 776",
+      "quantity": 1,
+      "description": "Armrest leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 257 777",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 270 104",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 270 102",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 8 176 213",
+      "quantity": 1,
+      "description": "Bracket armrest",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 8 204 865",
+      "quantity": 1,
+      "description": "Left center mounting cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 8 204 630",
+      "quantity": 1,
+      "description": "Right center mounting cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 8 176 214",
+      "quantity": 1,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 11 9 907 596",
+      "quantity": 1,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E39, E46, Z1"
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 7 041 830",
+      "quantity": 1,
+      "description": "Cup holder",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

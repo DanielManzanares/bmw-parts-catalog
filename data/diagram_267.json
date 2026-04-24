@@ -1,0 +1,221 @@
+{
+  "id": 267,
+  "diagram_title": "Set coil springs",
+  "image_url": "http://ills.bmwfans.info/3e3.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 58,
+  "category_name": "Rear Axle",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "33 53 9 059 276",
+      "quantity": 1,
+      "description": "Set coil springs",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 53 9 059 276",
+      "quantity": 1,
+      "description": "Set coil springs",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 53 9 059 277",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 53 9 059 277",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 53 9 059 277",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 53 9 059 278",
+      "quantity": 1,
+      "description": "91",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 53 9 059 281",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 53 9 059 277",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 53 9 059 282",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 53 9 059 281",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 53 9 059 282",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 53 9 059 282",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 53 9 059 403",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 53 9 059 276",
+      "quantity": 1,
+      "description": "Set coil springs",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 53 9 059 276",
+      "quantity": 1,
+      "description": "Set coil springs",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 53 9 059 277",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 53 9 059 277",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 53 9 059 277",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 53 9 059 278",
+      "quantity": 1,
+      "description": "91",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 53 9 059 281",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 53 9 059 277",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 53 9 059 282",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 53 9 059 281",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 53 9 059 282",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 53 9 059 282",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 53 9 059 403",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": 3697,
+  "diagram_title": "Heater control siemens",
+  "image_url": "http://ills.bmwfans.info/3o7g.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 11 8 368 041",
+      "quantity": 1,
+      "description": "Heater control panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 11 1 393 873",
+      "quantity": 3,
+      "description": "Knob temperature",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 11 0 007 073",
+      "quantity": 1,
+      "description": "Push button heated rear window",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 14 9 154 942",
+      "quantity": 2,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 13 1 389 045",
+      "quantity": 2,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 14 9 154 942",
+      "quantity": 2,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "64 11 1 393 878",
+      "quantity": 1,
+      "description": "Switch blower",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "64 11 8 390 933",
+      "quantity": 1,
+      "description": "Bulb socket with bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "63 21 7 167 000",
+      "quantity": 1,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "64 11 8 368 295",
+      "quantity": 1,
+      "description": "Heater control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "64 11 8 368 297",
+      "quantity": 1,
+      "description": "Base plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "64 11 1 391 719",
+      "quantity": 6,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "64 11 1 387 944",
+      "quantity": 1,
+      "description": "Bowden cable air refreshing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "61 13 1 382 147",
+      "quantity": 1,
+      "description": "Plug housing",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

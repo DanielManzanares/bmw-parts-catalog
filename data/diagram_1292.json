@@ -1,0 +1,189 @@
+{
+  "id": 1292,
+  "diagram_title": "rear_seat_head_restraint",
+  "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_rear_seat_head_restraint.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 236 154",
+      "quantity": 2,
+      "description": "Headrest imitation leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 214 721",
+      "quantity": 2,
+      "description": "Head rest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 236 153",
+      "quantity": 2,
+      "description": "Headrest imitation leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 047 358",
+      "quantity": 2,
+      "description": "Head rest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 047 357",
+      "quantity": 2,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 045 636",
+      "quantity": 2,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 047 359",
+      "quantity": 2,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 043 141",
+      "quantity": 2,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 890 422",
+      "quantity": 2,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 026 240",
+      "quantity": 2,
+      "description": "Headrest leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 045 635",
+      "quantity": 2,
+      "description": "Head rest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 895 600",
+      "quantity": 2,
+      "description": "Headrest leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 048 492",
+      "quantity": 2,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 043 149",
+      "quantity": 2,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 048 491",
+      "quantity": 2,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 048 490",
+      "quantity": 2,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 225 847",
+      "quantity": 2,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 225 848",
+      "quantity": 2,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 225 850",
+      "quantity": 2,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 928 809",
+      "quantity": 4,
+      "description": "Spring washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 8 236 224",
+      "quantity": 4,
+      "description": "Guide",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 8 208 877",
+      "quantity": 4,
+      "description": "Guide bush",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

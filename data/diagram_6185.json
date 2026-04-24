@@ -1,0 +1,325 @@
+{
+  "id": 6185,
+  "diagram_title": "Verkleidung vorn II",
+  "image_url": "http://ills.bmwfans.info/dog7.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 11 0 030 351",
+      "quantity": 1,
+      "description": "Painted front bumper trim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 11 7 044 116",
+      "quantity": 1,
+      "description": "Painted front bumper trim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 11 0 030 352",
+      "quantity": 1,
+      "description": "Flap, towing eye, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 11 7 044 125",
+      "quantity": 1,
+      "description": "Flap, towing eye, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 11 7 030 594",
+      "quantity": 1,
+      "description": "Grid, bumper front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 11 7 030 595",
+      "quantity": 1,
+      "description": "Grid, bumper front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 11 7 043 496",
+      "quantity": 1,
+      "description": "Partially open grid, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 11 7 054 635",
+      "quantity": 1,
+      "description": "Partially open grid, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 11 7 032 613",
+      "quantity": 1,
+      "description": "Partially open grid, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 11 7 032 614",
+      "quantity": 1,
+      "description": "Partially open grid, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 11 7 032 615",
+      "quantity": 1,
+      "description": "Partially open grid, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 11 7 032 616",
+      "quantity": 1,
+      "description": "Partially open grid, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 11 7 032 613",
+      "quantity": 1,
+      "description": "Partially open grid, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 11 7 032 614",
+      "quantity": 1,
+      "description": "Partially open grid, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 11 7 030 607",
+      "quantity": 1,
+      "description": "Protective rubber strip, lft frnt bumper",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 11 7 030 608",
+      "quantity": 1,
+      "description": "Protective rubber strip, lft frnt bumper",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 11 7 030 592",
+      "quantity": 1,
+      "description": "Base",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 11 7 030 593",
+      "quantity": 1,
+      "description": "Base",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 11 7 030 609",
+      "quantity": 1,
+      "description": "Left fog lamp cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 11 7 030 610",
+      "quantity": 1,
+      "description": "Left fog lamp cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 11 8 191 149",
+      "quantity": 1,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 11 7 030 617",
+      "quantity": 1,
+      "description": "Guide left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 11 7 030 618",
+      "quantity": 1,
+      "description": "Guide left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 11 7 030 619",
+      "quantity": 1,
+      "description": "Support fender left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 11 7 030 620",
+      "quantity": 1,
+      "description": "Support fender left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 11 7 117 325",
+      "quantity": 1,
+      "description": "Support fender left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 11 7 117 326",
+      "quantity": 1,
+      "description": "Support fender left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "07 11 9 902 933",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 11 7 068 126",
+      "quantity": 1,
+      "description": "Expanding rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "51 11 8 174 185",
+      "quantity": 1,
+      "description": "Expanding rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "07 14 6 959 925",
+      "quantity": 1,
+      "description": "Phillips screw f plastic material",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "54 21 8 251 229",
+      "quantity": 3,
+      "description": "Fastener",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "07 11 9 905 543",
+      "quantity": 3,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E83, E83 Facelift, E84, E85, E86, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02 Facelift, F03, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F36, F46, F48, F85, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "21",
+      "part_number": "07 14 6 959 925",
+      "quantity": 2,
+      "description": "Phillips screw f plastic material",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "07 14 6 959 895",
+      "quantity": 1,
+      "description": "Phillips screw f plastic material",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "07 11 9 904 208",
+      "quantity": 1,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "24",
+      "part_number": "51 18 1 813 017",
+      "quantity": 1,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "24",
+      "part_number": "51 18 1 823 474",
+      "quantity": 1,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "25",
+      "part_number": "51 11 2 293 997",
+      "quantity": 1,
+      "description": "Set of mounted parts, bumper, front",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

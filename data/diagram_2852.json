@@ -1,0 +1,45 @@
+{
+  "id": 2852,
+  "diagram_title": "Retrofit kit for UNI hands-free system",
+  "image_url": "http://ills.bmwfans.info/3g3x.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "61 12 0 412 802",
+      "quantity": 1,
+      "description": "Hands-free electronics Universal",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 12 0 412 561",
+      "quantity": 1,
+      "description": "Retrofit wiring harness",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 12 0 412 563",
+      "quantity": 1,
+      "description": "Stick-on window antenna",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 11 2 159 621",
+      "quantity": 1,
+      "description": "Stick-on window antenna",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

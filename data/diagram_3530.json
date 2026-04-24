@@ -1,0 +1,245 @@
+{
+  "id": 3530,
+  "diagram_title": "Trunk trim panel",
+  "image_url": "http://ills.bmwfans.info/a40b.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 47 8 193 790",
+      "quantity": 1,
+      "description": "Trunk mat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 8 232 347",
+      "quantity": 1,
+      "description": "Trunk mat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 193 798",
+      "quantity": 1,
+      "description": "Trunk partition trim panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 47 8 206 645",
+      "quantity": 1,
+      "description": "Battery wiring cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 47 8 189 959",
+      "quantity": 4,
+      "description": "Spacer bush",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 47 8 189 958",
+      "quantity": 4,
+      "description": "Push-button",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 1 964 201",
+      "quantity": 4,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 13 1 840 154",
+      "quantity": 4,
+      "description": "Grommet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 47 1 944 899",
+      "quantity": 1,
+      "description": "Pad",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 71 8 170 298",
+      "quantity": 2,
+      "description": "Blind plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 71 8 208 355",
+      "quantity": 2,
+      "description": "Blind plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 47 8 184 135",
+      "quantity": 8,
+      "description": "Expanding rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 49 8 166 702",
+      "quantity": 8,
+      "description": "Expanding rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 47 8 110 000",
+      "quantity": 2,
+      "description": "Mounting ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 47 8 193 800",
+      "quantity": 1,
+      "description": "Covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 47 8 213 602",
+      "quantity": 2,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 14 9 156 627",
+      "quantity": 4,
+      "description": "Sheet metal screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 16 1 949 793",
+      "quantity": 4,
+      "description": "Cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 47 8 256 162",
+      "quantity": 1,
+      "description": "Holding strap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 47 8 245 099",
+      "quantity": 1,
+      "description": "Left base",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 47 8 245 100",
+      "quantity": 1,
+      "description": "Left base",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "51 47 8 245 101",
+      "quantity": 2,
+      "description": "Pad, sill cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "51 47 8 245 102",
+      "quantity": 1,
+      "description": "Cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "51 47 8 225 327",
+      "quantity": 1,
+      "description": "Removable panel for luggage compartment",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "51 47 8 266 559",
+      "quantity": 1,
+      "description": "Removable panel for luggage compartment",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "51 46 8 204 266",
+      "quantity": 1,
+      "description": "Through-loading cross member trim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "52 20 7 276 398",
+      "quantity": 3,
+      "description": "Felt strip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "51 45 2 353 024",
+      "quantity": 3,
+      "description": "Felt strip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "51 46 7 002 606",
+      "quantity": 4,
+      "description": "Expanding rivet",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

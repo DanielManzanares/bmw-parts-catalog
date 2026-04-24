@@ -1,0 +1,173 @@
+{
+  "id": 3063,
+  "diagram_title": "Floor panel trunk/wheel housing rear",
+  "image_url": "http://ills.bmwfans.info/2o80.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "41 12 8 122 351",
+      "quantity": 1,
+      "description": "Trunk floor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 71 8 108 473",
+      "quantity": 1,
+      "description": "Bracket for spare wheel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "41 12 8 197 890",
+      "quantity": 1,
+      "description": "Battery tray",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "41 12 8 122 352",
+      "quantity": 1,
+      "description": "Battery tray",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "41 11 8 122 353",
+      "quantity": 1,
+      "description": "Rear left side member",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "41 11 8 122 354",
+      "quantity": 1,
+      "description": "Right rear side member",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "41 11 8 122 355",
+      "quantity": 1,
+      "description": "Bracket exhaust, rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "41 14 8 122 359",
+      "quantity": 1,
+      "description": "Bracket expansion tank",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "41 14 8 135 355",
+      "quantity": 2,
+      "description": "Bracket f rear lateral bumper",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "41 14 8 151 005",
+      "quantity": 1,
+      "description": "Rear left wheelhouse",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "41 14 8 151 006",
+      "quantity": 1,
+      "description": "Rear right wheelhouse",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "41 14 8 151 003",
+      "quantity": 1,
+      "description": "Rear left wheelhouse",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "41 14 8 151 004",
+      "quantity": 1,
+      "description": "Rear right wheelhouse",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "41 14 8 122 343",
+      "quantity": 1,
+      "description": "Wheelhouse extension, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "41 14 8 122 344",
+      "quantity": 1,
+      "description": "Wheelhouse extension, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "41 14 8 169 027",
+      "quantity": 1,
+      "description": "Support for shock absorber left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "41 14 8 169 028",
+      "quantity": 1,
+      "description": "Support for shock absorber right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "07 14 7 182 215",
+      "quantity": 1,
+      "description": "Earth pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "41 11 8 367 249",
+      "quantity": 1,
+      "description": "Earth pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "41 11 8 209 460",
+      "quantity": 1,
+      "description": "Threaded rod",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

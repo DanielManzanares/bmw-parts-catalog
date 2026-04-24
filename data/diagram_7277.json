@@ -1,0 +1,21 @@
+{
+  "id": 7277,
+  "diagram_title": "Single parts SiemensS10 centre console",
+  "image_url": "http://ills.bmwfans.info/22mf.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1648,
+  "category_name": "Communication systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "84 21 8 387 643",
+      "quantity": 1,
+      "description": "Eject box, mobile telephone, network GSM",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

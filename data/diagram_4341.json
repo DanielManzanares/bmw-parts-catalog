@@ -1,0 +1,93 @@
+{
+  "id": 4341,
+  "diagram_title": "Retrofit kit M aerodyn. package",
+  "image_url": "http://ills.bmwfans.info/328e.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 71 0 302 082",
+      "quantity": 1,
+      "description": "Retrofit kit M aerodyn. package",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 71 0 302 083",
+      "quantity": 1,
+      "description": "Retrofit kit M aerodyn. package",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 71 0 302 082",
+      "quantity": 1,
+      "description": "Retrofit kit M aerodyn. package",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 71 0 302 083",
+      "quantity": 1,
+      "description": "Retrofit kit M aerodyn. package",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 12 7 891 916",
+      "quantity": 1,
+      "description": "Cover, lower part center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 12 7 893 073",
+      "quantity": 1,
+      "description": "Cover, lower part center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 12 7 891 916",
+      "quantity": 1,
+      "description": "Cover, lower part center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 12 7 893 073",
+      "quantity": 1,
+      "description": "Cover, lower part center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 12 7 893 074",
+      "quantity": 1,
+      "description": "Trailer hitch flap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 12 7 893 074",
+      "quantity": 1,
+      "description": "Trailer hitch flap",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

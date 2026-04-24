@@ -1,0 +1,133 @@
+{
+  "id": 2062,
+  "diagram_title": "Wheel opening cover m technic",
+  "image_url": "http://ills.bmwfans.info/aqb.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 71 1 932 954",
+      "quantity": 1,
+      "description": "Wheel opening panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 71 1 929 327",
+      "quantity": 1,
+      "description": "Covering front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 71 1 929 328",
+      "quantity": 1,
+      "description": "Covering front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 71 1 933 175",
+      "quantity": 1,
+      "description": "Covering rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 71 1 933 176",
+      "quantity": 1,
+      "description": "Covering rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 71 1 976 999",
+      "quantity": 2,
+      "description": "Adhesive tape",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 71 1 922 599",
+      "quantity": 8,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 13 5 770 165",
+      "quantity": 8,
+      "description": "Nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 71 1 932 020",
+      "quantity": 8,
+      "description": "Base",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 71 1 929 320",
+      "quantity": 8,
+      "description": "Plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 71 1 932 996",
+      "quantity": 8,
+      "description": "Grommet, green",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 71 1 941 265",
+      "quantity": 1,
+      "description": "Template front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 71 1 941 266",
+      "quantity": 1,
+      "description": "Template front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 71 1 941 267",
+      "quantity": 1,
+      "description": "Template front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 71 1 941 268",
+      "quantity": 1,
+      "description": "Template front left",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

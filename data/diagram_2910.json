@@ -1,0 +1,117 @@
+{
+  "id": 2910,
+  "diagram_title": "Battery cable(battery rear)",
+  "image_url": "http://ills.bmwfans.info/1a9a.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 42 2 245 473",
+      "quantity": 1,
+      "description": "Battery cable negative",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 42 1 732 227",
+      "quantity": 1,
+      "description": "Battery cable negative",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "12 42 1 744 229",
+      "quantity": 1,
+      "description": "Battery cable (plus pole)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "12 42 1 435 684",
+      "quantity": 1,
+      "description": "Battery cable (plus pole)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "12 42 1 744 229",
+      "quantity": 1,
+      "description": "Battery cable (plus pole)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "12 42 1 435 684",
+      "quantity": 1,
+      "description": "Battery cable (plus pole)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "12 42 1 744 230",
+      "quantity": 1,
+      "description": "Battery cable (plus pole)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "12 42 1 737 755",
+      "quantity": 1,
+      "description": "Ground cable",
+      "price_eur": null,
+      "compatible_models": "E30, E31, E32, E34, E36, E38, E39, E46, E85, E86, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 903 039",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E83, E83 Facelift, E85, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F10, F11, NK, Z1, Z3"
+    },
+    {
+      "position_number": "14",
+      "part_number": "12 42 1 433 232",
+      "quantity": 1,
+      "description": "Base B+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "12 42 2 246 442",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "12 42 1 730 712",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "12 52 1 724 197",
+      "quantity": 1,
+      "description": "Shackle",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

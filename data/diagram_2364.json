@@ -1,0 +1,29 @@
+{
+  "id": 2364,
+  "diagram_title": "Cruise control",
+  "image_url": "http://ills.bmwfans.info/fa0.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 71 9 401 631",
+      "quantity": 1,
+      "description": "Installing set cruise control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 71 9 401 624",
+      "quantity": 1,
+      "description": "Wiring set",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "id": 5432,
+    "diagram_title": "Alternator parts 120/140A Valeo",
+    "image_url": "http://ills.bmwfans.info/1wll.png",
+    "parts_count": 4
+  },
+  {
+    "id": 5414,
+    "diagram_title": "Base control unit DME / EK924",
+    "image_url": "http://ills.bmwfans.info/21np.png",
+    "parts_count": 17
+  },
+  {
+    "id": 5450,
+    "diagram_title": "Cable holder",
+    "image_url": "http://ills.bmwfans.info/3n62.png",
+    "parts_count": 5
+  },
+  {
+    "id": 5443,
+    "diagram_title": "Cable starter",
+    "image_url": "http://ills.bmwfans.info/1wjp.png",
+    "parts_count": 8
+  },
+  {
+    "id": 5420,
+    "diagram_title": "Compact alternator",
+    "image_url": "http://ills.bmwfans.info/236y.png",
+    "parts_count": 2
+  },
+  {
+    "id": 5456,
+    "diagram_title": "Contact system MLK",
+    "image_url": "http://ills.bmwfans.info/a2mg.png",
+    "parts_count": 17
+  },
+  {
+    "id": 5458,
+    "diagram_title": "Control unit box",
+    "image_url": "http://ills.bmwfans.info/e5tm.png",
+    "parts_count": 2
+  },
+  {
+    "id": 5462,
+    "diagram_title": "Control unit box",
+    "image_url": "http://ills.bmwfans.info/2cwy.png",
+    "parts_count": 11
+  },
+  {
+    "id": 5446,
+    "diagram_title": "Diverse small parts",
+    "image_url": "http://ills.bmwfans.info/fwio.png",
+    "parts_count": 19
+  },
+  {
+    "id": 5437,
+    "diagram_title": "Engine wiring harness, engine module",
+    "image_url": "http://ills.bmwfans.info/k4b.png",
+    "parts_count": 1
+  },
+  {
+    "id": 5418,
+    "diagram_title": "Exch. ECU for DME, programmed / EK924",
+    "image_url": "http://ills.bmwfans.info/21np.png",
+    "parts_count": 14
+  },
+  {
+    "id": 5426,
+    "diagram_title": "Generator single parts 120/140A Bosch",
+    "image_url": "http://ills.bmwfans.info/1wll.png",
+    "parts_count": 5
+  },
+  {
+    "id": 5425,
+    "diagram_title": "Generator single parts 90/110A Bosch",
+    "image_url": "http://ills.bmwfans.info/1wll.png",
+    "parts_count": 4
+  },
+  {
+    "id": 5429,
+    "diagram_title": "Generator single parts 90/110A Valeo",
+    "image_url": "http://ills.bmwfans.info/fp2f.png",
+    "parts_count": 5
+  },
+  {
+    "id": 5409,
+    "diagram_title": "Ignition coil/spark plug",
+    "image_url": "http://ills.bmwfans.info/21nt.png",
+    "parts_count": 9
+  },
+  {
+    "id": 5455,
+    "diagram_title": "Laminated contacts/spring contacts",
+    "image_url": "http://ills.bmwfans.info/10zo.png",
+    "parts_count": 12
+  },
+  {
+    "id": 5413,
+    "diagram_title": "Sensors",
+    "image_url": "http://ills.bmwfans.info/21nr.png",
+    "parts_count": 21
+  },
+  {
+    "id": 5435,
+    "diagram_title": "Starter",
+    "image_url": "http://ills.bmwfans.info/16va.png",
+    "parts_count": 4
+  },
+  {
+    "id": 5453,
+    "diagram_title": "Various parts, wiring harness repair",
+    "image_url": "http://ills.bmwfans.info/3xcy.png",
+    "parts_count": 1
+  },
+  {
+    "id": 5440,
+    "diagram_title": "Wiring harness, engine ignition module",
+    "image_url": "http://ills.bmwfans.info/lws.png",
+    "parts_count": 2
+  },
+  {
+    "id": 5436,
+    "diagram_title": "Wiring harness, engine trans. module",
+    "image_url": "http://ills.bmwfans.info/36jn.png",
+    "parts_count": 7
+  }
+]

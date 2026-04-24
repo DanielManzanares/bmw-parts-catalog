@@ -1,0 +1,101 @@
+{
+  "id": 5348,
+  "diagram_title": "Crankshaft-Pistons",
+  "image_url": "http://ills.bmwfans.info/1hq4.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1,
+  "category_name": "Engine",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "11 25 7 506 024",
+      "quantity": 4,
+      "description": "Piston",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 25 7 506 025",
+      "quantity": 4,
+      "description": "04",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 25 7 562 453",
+      "quantity": 1,
+      "description": "Piston",
+      "price_eur": null,
+      "compatible_models": "E46, E81, E87, E87 Facelift, E90, E90 Facelift"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 25 7 518 635",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 903 463",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E46, E83, E85, E87, E90, E91, F20, F20 Facelift, F21, F21 Facelift, F30, F30 Facelift, F31, F35, F35 Facelift"
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 903 463",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E46, E83, E85, E87, E90, E91, F20, F20 Facelift, F21, F21 Facelift, F30, F30 Facelift, F31, F35, F35 Facelift"
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 903 463",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E46, E83, E85, E87, E90, E91, F20, F20 Facelift, F21, F21 Facelift, F30, F30 Facelift, F31, F35, F35 Facelift"
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 903 463",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E46, E83, E85, E87, E90, E91, F20, F20 Facelift, F21, F21 Facelift, F30, F30 Facelift, F31, F35, F35 Facelift"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 25 7 506 409",
+      "quantity": 4,
+      "description": "Repair kit piston rings",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 25 7 506 410",
+      "quantity": 4,
+      "description": "04",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 25 7 506 411",
+      "quantity": 4,
+      "description": "04",
+      "price_eur": null,
+      "compatible_models": "E46"
+    }
+  ]
+}

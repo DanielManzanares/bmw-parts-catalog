@@ -1,0 +1,37 @@
+{
+  "id": 3007,
+  "diagram_title": "Fluid-change kit, autom. transmission",
+  "image_url": "http://ills.bmwfans.info/c5cr.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 456,
+  "category_name": "Automatic Transmission",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "24 15 2 333 915",
+      "quantity": 1,
+      "description": "Fluid filter kit, autom. transmission",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, E85"
+    },
+    {
+      "position_number": "2",
+      "part_number": "83 22 9 407 807",
+      "quantity": 1,
+      "description": "Automatic Transmission Fluid ATF 4",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "83 22 2 344 206",
+      "quantity": 1,
+      "description": "Atf 4",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

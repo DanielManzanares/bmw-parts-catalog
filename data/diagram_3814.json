@@ -1,0 +1,125 @@
+{
+  "id": 3814,
+  "diagram_title": "Battery holder and mounting parts",
+  "image_url": "http://ills.bmwfans.info/1wrr.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "3",
+      "part_number": "61 21 8 370 984",
+      "quantity": 1,
+      "description": "Battery hold down",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 913 102",
+      "quantity": 2,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E30, E31, E32, E34, E36, E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 21 8 372 437",
+      "quantity": 1,
+      "description": "Impact protection",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 61 1 708 413",
+      "quantity": 1,
+      "description": "Hex nut with plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 14 9 156 628",
+      "quantity": 1,
+      "description": "Hex nut with plate",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E85, E86, F06, F10, F10 Facelift, F11, F12, F13, F25, F26, Z1, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 48 1 924 909",
+      "quantity": 1,
+      "description": "Clip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "61 21 8 375 653",
+      "quantity": 1,
+      "description": "Cover positive battery terminal",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 21 8 375 655",
+      "quantity": 1,
+      "description": "Spacer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "61 21 1 350 825",
+      "quantity": 1,
+      "description": "Spacer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "61 21 1 377 835",
+      "quantity": 1,
+      "description": "Connection elbow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "61 21 1 377 745",
+      "quantity": 1,
+      "description": "Hose running meter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "61 21 8 050 550",
+      "quantity": 1,
+      "description": "Grommet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "61 21 8 370 981",
+      "quantity": 1,
+      "description": "Battery protective cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "61 21 8 381 015",
+      "quantity": 1,
+      "description": "Battery protective cover",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2820,
+  "diagram_title": "Tailpipe tip",
+  "image_url": "http://ills.bmwfans.info/uru.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "82 12 9 410 926",
+      "quantity": 2,
+      "description": "Tailpipe tip, chrome",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 12 9 410 927",
+      "quantity": 2,
+      "description": "Tailpipe tip, chrome",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

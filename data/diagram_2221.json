@@ -1,0 +1,21 @@
+{
+  "id": 2221,
+  "diagram_title": "M leather-cov. sport steering wheel I",
+  "image_url": "http://ills.bmwfans.info/d5y.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "32 33 2 226 860",
+      "quantity": 1,
+      "description": "Sports steering wheel m-technik schwarz",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

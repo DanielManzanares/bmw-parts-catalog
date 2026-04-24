@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1363,
+    "diagram_title": "Automatic transmission 4HP22",
+    "image_url": "http://ills.bmwfans.info/12m2.png",
+    "parts_count": 28
+  },
+  {
+    "id": 1362,
+    "diagram_title": "Gearbox mounting parts",
+    "image_url": "http://ills.bmwfans.info/24g.png",
+    "parts_count": 52
+  },
+  {
+    "id": 1367,
+    "diagram_title": "Gearbox suspension",
+    "image_url": "http://ills.bmwfans.info/24h.png",
+    "parts_count": 56
+  },
+  {
+    "id": 1364,
+    "diagram_title": "Zf 4hp22/24 ax-bearing single parts",
+    "image_url": "http://ills.bmwfans.info/24l.png",
+    "parts_count": 76
+  },
+  {
+    "id": 1372,
+    "diagram_title": "Zf 4hp22/24 brake clutch c/c'",
+    "image_url": "http://ills.bmwfans.info/249.png",
+    "parts_count": 56
+  },
+  {
+    "id": 1371,
+    "diagram_title": "Zf 4hp22/24 brake clutch d",
+    "image_url": "http://ills.bmwfans.info/24m.png",
+    "parts_count": 60
+  },
+  {
+    "id": 1376,
+    "diagram_title": "Zf 4hp22/24 brake clutch f",
+    "image_url": "http://ills.bmwfans.info/24p.png",
+    "parts_count": 48
+  },
+  {
+    "id": 1369,
+    "diagram_title": "Zf 4hp22/24 drive clutch a",
+    "image_url": "http://ills.bmwfans.info/247.png",
+    "parts_count": 116
+  },
+  {
+    "id": 1370,
+    "diagram_title": "Zf 4hp22/24 drive clutch b",
+    "image_url": "http://ills.bmwfans.info/248.png",
+    "parts_count": 60
+  },
+  {
+    "id": 1377,
+    "diagram_title": "Zf 4hp22/24 drive clutch e",
+    "image_url": "http://ills.bmwfans.info/1cug.png",
+    "parts_count": 56
+  },
+  {
+    "id": 1374,
+    "diagram_title": "Zf 4hp22/24 gear shift/parking lock",
+    "image_url": "http://ills.bmwfans.info/24s.png",
+    "parts_count": 64
+  },
+  {
+    "id": 1368,
+    "diagram_title": "Zf 4hp22/24 housing parts/lubric.system",
+    "image_url": "http://ills.bmwfans.info/245.png",
+    "parts_count": 84
+  },
+  {
+    "id": 1366,
+    "diagram_title": "Zf 4hp22/24 housing parts/oil pan",
+    "image_url": "http://ills.bmwfans.info/246.png",
+    "parts_count": 88
+  },
+  {
+    "id": 1375,
+    "diagram_title": "Zf 4hp22/24 output",
+    "image_url": "http://ills.bmwfans.info/24r.png",
+    "parts_count": 72
+  },
+  {
+    "id": 1373,
+    "diagram_title": "Zf 4hp22/24 planet wheel sets",
+    "image_url": "http://ills.bmwfans.info/24n.png",
+    "parts_count": 64
+  },
+  {
+    "id": 1365,
+    "diagram_title": "Zf 4hp22/24-h control unit+attach.parts",
+    "image_url": "http://ills.bmwfans.info/27s.png",
+    "parts_count": 32
+  }
+]

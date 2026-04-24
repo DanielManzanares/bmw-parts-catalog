@@ -1,0 +1,21 @@
+{
+  "id": 3601,
+  "diagram_title": "Relay, delay",
+  "image_url": "http://ills.bmwfans.info/fi7r.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 63 1 740 280",
+      "quantity": 1,
+      "description": "Retarding relay",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

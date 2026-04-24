@@ -1,0 +1,29 @@
+{
+  "id": 7135,
+  "diagram_title": "Antenna cable GPS",
+  "image_url": "http://ills.bmwfans.info/2sdt.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 12 8 374 688",
+      "quantity": 1,
+      "description": "Antenna cable GPS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 12 8 374 688",
+      "quantity": 1,
+      "description": "Antenna cable GPS",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

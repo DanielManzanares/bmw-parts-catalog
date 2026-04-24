@@ -1,0 +1,301 @@
+{
+  "id": 5991,
+  "diagram_title": "Trim panel A- / B- / C-Column",
+  "image_url": "http://ills.bmwfans.info/194k.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 238 963",
+      "quantity": 1,
+      "description": "Left column A cover ITS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 238 964",
+      "quantity": 1,
+      "description": "Left column A cover ITS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 2 699 053",
+      "quantity": 1,
+      "description": "Left column A cover ITS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 2 699 054",
+      "quantity": 1,
+      "description": "Left column A cover ITS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 222 623",
+      "quantity": 1,
+      "description": "Left column A cover ITS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 222 624",
+      "quantity": 1,
+      "description": "Left column A cover ITS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "17 11 1 712 963",
+      "quantity": 8,
+      "description": "Expanding rivet",
+      "price_eur": null,
+      "compatible_models": "E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E83, E83 Facelift, E85, E86, E87, E87 Facelift, E89, F07, F07 Facelift, F25, I12, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 43 8 229 754",
+      "quantity": 4,
+      "description": "Expanding nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 14 9 112 637",
+      "quantity": 6,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 43 2 699 055",
+      "quantity": 2,
+      "description": "Covering f A column cover ITS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 43 8 228 691",
+      "quantity": 2,
+      "description": "Covering f A column cover ITS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 43 8 228 709",
+      "quantity": 2,
+      "description": "Covering f A column cover ITS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 43 2 699 056",
+      "quantity": 2,
+      "description": "Covering f upper A column cover ITS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 43 8 238 581",
+      "quantity": 2,
+      "description": "Covering f upper A column cover ITS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 43 8 238 582",
+      "quantity": 2,
+      "description": "Covering f upper A column cover ITS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 43 7 065 361",
+      "quantity": 1,
+      "description": "Left upper column A cover ITS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 43 7 065 362",
+      "quantity": 1,
+      "description": "Left upper column A cover ITS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 43 7 065 363",
+      "quantity": 1,
+      "description": "Left upper column A cover ITS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 43 7 065 364",
+      "quantity": 1,
+      "description": "Left upper column A cover ITS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 43 7 065 365",
+      "quantity": 1,
+      "description": "Left upper column A cover ITS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 43 7 065 366",
+      "quantity": 1,
+      "description": "Left upper column A cover ITS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 16 8 238 971",
+      "quantity": 1,
+      "description": "Covering column rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 16 8 238 972",
+      "quantity": 1,
+      "description": "Covering column rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 43 2 699 059",
+      "quantity": 1,
+      "description": "Covering column rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 43 2 699 060",
+      "quantity": 1,
+      "description": "Covering column rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 43 8 222 627",
+      "quantity": 1,
+      "description": "Covering column rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 43 8 222 628",
+      "quantity": 1,
+      "description": "Covering column rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 41 1 973 500",
+      "quantity": 4,
+      "description": "Clip Natur",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 14 9 149 399",
+      "quantity": 2,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 43 8 222 917",
+      "quantity": 1,
+      "description": "Bracket left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 43 8 222 918",
+      "quantity": 1,
+      "description": "Bracket left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 45 8 222 707",
+      "quantity": 1,
+      "description": "Bracket left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 45 8 222 708",
+      "quantity": 1,
+      "description": "Bracket left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 16 8 238 815",
+      "quantity": 1,
+      "description": "Left deflection plate, ITS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 16 8 238 816",
+      "quantity": 1,
+      "description": "Left deflection plate, ITS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "07 11 9 906 128",
+      "quantity": 6,
+      "description": "Hex head screw",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

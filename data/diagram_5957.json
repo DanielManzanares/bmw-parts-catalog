@@ -1,0 +1,325 @@
+{
+  "id": 5957,
+  "diagram_title": "Center console/armrest, support, trim pan.",
+  "image_url": "http://ills.bmwfans.info/1ulp.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 248 546",
+      "quantity": 1,
+      "description": "Armrest vinyl",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 248 531",
+      "quantity": 1,
+      "description": "Armrest vinyl",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 238 224",
+      "quantity": 1,
+      "description": "Armrest vinyl",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 198 620",
+      "quantity": 1,
+      "description": "Armrest vinyl",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 6 950 337",
+      "quantity": 1,
+      "description": "Armrest vinyl",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 198 621",
+      "quantity": 1,
+      "description": "Armrest vinyl",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 238 223",
+      "quantity": 1,
+      "description": "Armrest vinyl",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 213 632",
+      "quantity": 1,
+      "description": "Armrest vinyl",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 213 628",
+      "quantity": 1,
+      "description": "Armrest vinyl",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 217 932",
+      "quantity": 1,
+      "description": "Console upper",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 218 307",
+      "quantity": 1,
+      "description": "Console upper",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 248 529",
+      "quantity": 1,
+      "description": "Console upper",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 14 9 156 627",
+      "quantity": 6,
+      "description": "Sheet metal screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 901 686",
+      "quantity": 3,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 12 9 904 220",
+      "quantity": 6,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 16 8 217 942",
+      "quantity": 1,
+      "description": "Console, center arm rest",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 16 8 218 305",
+      "quantity": 1,
+      "description": "Console, center arm rest",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 16 8 248 496",
+      "quantity": 1,
+      "description": "Console, center arm rest",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 16 8 258 969",
+      "quantity": 2,
+      "description": "Bump stop",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 16 8 231 317",
+      "quantity": 1,
+      "description": "Center armrest cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 16 8 231 319",
+      "quantity": 1,
+      "description": "Center armrest cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 16 8 248 539",
+      "quantity": 1,
+      "description": "Center armrest cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 16 8 228 810",
+      "quantity": 1,
+      "description": "Cup",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 16 8 228 811",
+      "quantity": 1,
+      "description": "Cup",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 16 8 248 541",
+      "quantity": 1,
+      "description": "Cup",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 16 8 135 597",
+      "quantity": 2,
+      "description": "Ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 16 8 228 760",
+      "quantity": 2,
+      "description": "Plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 16 8 238 230",
+      "quantity": 1,
+      "description": "Armrest upper leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 16 8 248 547",
+      "quantity": 1,
+      "description": "Armrest upper leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 16 8 229 233",
+      "quantity": 1,
+      "description": "Armrest upper leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 16 8 248 532",
+      "quantity": 1,
+      "description": "Armrest upper leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 16 8 238 229",
+      "quantity": 1,
+      "description": "Armrest upper leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 16 8 229 236",
+      "quantity": 1,
+      "description": "Armrest upper leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 16 8 229 232",
+      "quantity": 1,
+      "description": "Armrest upper leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 16 8 229 235",
+      "quantity": 1,
+      "description": "Armrest upper leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 16 8 228 808",
+      "quantity": 1,
+      "description": "Lock",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 16 8 228 809",
+      "quantity": 1,
+      "description": "Lock",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 16 8 242 858",
+      "quantity": 1,
+      "description": "Lock",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "07 12 9 925 827",
+      "quantity": 4,
+      "description": "Screw, thermoplastic plastics",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

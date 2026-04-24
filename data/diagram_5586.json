@@ -1,0 +1,29 @@
+{
+  "id": 5586,
+  "diagram_title": "Fluid-change kit, autom. transmission",
+  "image_url": "http://ills.bmwfans.info/c4tx.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 456,
+  "category_name": "Automatic Transmission",
+  "parts": [
+    {
+      "position_number": "3",
+      "part_number": "83 22 2 163 514",
+      "quantity": 1,
+      "description": "ATF Dexron VI",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "83 22 2 167 718",
+      "quantity": 1,
+      "description": "Automatic transmission oil Dexron VI",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

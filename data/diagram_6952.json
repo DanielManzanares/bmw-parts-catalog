@@ -1,0 +1,37 @@
+{
+  "id": 6952,
+  "diagram_title": "Single parts, SA 644 center console",
+  "image_url": "http://ills.bmwfans.info/2fxs.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1648,
+  "category_name": "Communication systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "84 21 6 933 415",
+      "quantity": 1,
+      "description": "Eject box, mobile telephone",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 10 9 168 940",
+      "quantity": 1,
+      "description": "Eject box, mobile telephone",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "84 21 6 924 064",
+      "quantity": 1,
+      "description": "Oddments tray, telephone",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

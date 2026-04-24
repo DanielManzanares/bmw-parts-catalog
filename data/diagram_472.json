@@ -1,0 +1,237 @@
+{
+  "id": 472,
+  "diagram_title": "Front spring strut/shock absorber",
+  "image_url": "http://ills.bmwfans.info/ff3.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 49,
+  "category_name": "Front Axle",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "31 31 1 096 851",
+      "quantity": 1,
+      "description": "Left front spring strut",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 31 1 096 852",
+      "quantity": 1,
+      "description": "Front right spring strut",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 30 6 757 043",
+      "quantity": 1,
+      "description": "Left front spring strut",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 30 6 757 044",
+      "quantity": 1,
+      "description": "Front right spring strut",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 31 2 282 097",
+      "quantity": 1,
+      "description": "Left front spring strut",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 31 2 282 098",
+      "quantity": 1,
+      "description": "Front right spring strut",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 31 1 096 851",
+      "quantity": 1,
+      "description": "Left front spring strut",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 31 1 096 852",
+      "quantity": 1,
+      "description": "Front right spring strut",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 30 6 757 043",
+      "quantity": 1,
+      "description": "Left front spring strut",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 30 6 757 044",
+      "quantity": 1,
+      "description": "Front right spring strut",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 31 2 282 097",
+      "quantity": 1,
+      "description": "Left front spring strut",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 31 2 282 098",
+      "quantity": 1,
+      "description": "Front right spring strut",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "31 21 1 096 429",
+      "quantity": 1,
+      "description": "King pin left",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "2",
+      "part_number": "31 21 1 096 430",
+      "quantity": 1,
+      "description": "King pin right",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "2",
+      "part_number": "31 21 1 096 429",
+      "quantity": 1,
+      "description": "King pin left",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "2",
+      "part_number": "31 21 1 096 430",
+      "quantity": 1,
+      "description": "King pin right",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "3",
+      "part_number": "34 52 6 780 591",
+      "quantity": 1,
+      "description": "Left ABS/BVA tube bracket",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "3",
+      "part_number": "34 52 6 780 592",
+      "quantity": 1,
+      "description": "Right ABS/BVA tube bracket",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "3",
+      "part_number": "34 52 6 780 591",
+      "quantity": 1,
+      "description": "Left ABS/BVA tube bracket",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "3",
+      "part_number": "34 52 6 780 592",
+      "quantity": 1,
+      "description": "Right ABS/BVA tube bracket",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "4",
+      "part_number": "31 30 6 779 487",
+      "quantity": 2,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E38, E46, E85, E86"
+    },
+    {
+      "position_number": "4",
+      "part_number": "31 30 6 779 487",
+      "quantity": 2,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E38, E46, E85, E86"
+    },
+    {
+      "position_number": "5",
+      "part_number": "34 52 6 792 896",
+      "quantity": 1,
+      "description": "Pulse generator, ABS front right",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "5",
+      "part_number": "34 52 6 792 897",
+      "quantity": 1,
+      "description": "Pulse generator, ABS front left",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "5",
+      "part_number": "34 52 6 792 896",
+      "quantity": 1,
+      "description": "Pulse generator, ABS front right",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "5",
+      "part_number": "34 52 6 792 897",
+      "quantity": 1,
+      "description": "Pulse generator, ABS front left",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 12 9 905 386",
+      "quantity": 2,
+      "description": "ISA screw",
+      "price_eur": null,
+      "compatible_models": "CMSP, E36, E38, E39, E46, E85, E86, F18 Facelift, I01, I12, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 12 9 905 386",
+      "quantity": 2,
+      "description": "ISA screw",
+      "price_eur": null,
+      "compatible_models": "CMSP, E36, E38, E39, E46, E85, E86, F18 Facelift, I01, I12, Z3"
+    }
+  ]
+}

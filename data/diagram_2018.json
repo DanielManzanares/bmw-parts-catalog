@@ -1,0 +1,157 @@
+{
+  "id": 2018,
+  "diagram_title": "Front body parts",
+  "image_url": "http://ills.bmwfans.info/3xa.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "41 13 1 930 989",
+      "quantity": 1,
+      "description": "Front panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "41 13 1 930 990",
+      "quantity": 1,
+      "description": "Front panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "41 13 1 930 991",
+      "quantity": 1,
+      "description": "Support left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "41 13 1 930 992",
+      "quantity": 1,
+      "description": "Support right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "41 13 1 930 986",
+      "quantity": 2,
+      "description": "Console",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "41 11 1 872 891",
+      "quantity": 2,
+      "description": "Towing hinge",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "41 13 1 930 994",
+      "quantity": 2,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "41 11 1 889 460",
+      "quantity": 1,
+      "description": "Cross member front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "41 11 1 900 681",
+      "quantity": 2,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "41 11 1 902 852",
+      "quantity": 1,
+      "description": "Covering plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "41 11 1 900 693",
+      "quantity": 1,
+      "description": "Bracket lower left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "41 11 1 900 694",
+      "quantity": 1,
+      "description": "Bracket lower right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 71 1 929 356",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "07 11 9 907 939",
+      "quantity": 2,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "07 12 9 901 644",
+      "quantity": 2,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "07 12 9 904 220",
+      "quantity": 2,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "51 71 1 929 355",
+      "quantity": 1,
+      "description": "Fan shroud",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "51 48 1 915 964",
+      "quantity": 2,
+      "description": "Expanding rivet",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "id": 1067,
+  "diagram_title": "single_components_for_headlight",
+  "image_url": "/static/images/diagrams/E46_320Ci-M54_lighting_single_components_for_headlight.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 184,
+  "category_name": "Lighting",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "63 12 6 934 747",
+      "quantity": 1,
+      "description": "Bracket headlight left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 6 934 748",
+      "quantity": 1,
+      "description": "Bracket headlight right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 12 6 934 749",
+      "quantity": 1,
+      "description": "Gasket for turn indicator, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 12 6 934 750",
+      "quantity": 1,
+      "description": "Gasket for turn indicator, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 12 6 934 751",
+      "quantity": 1,
+      "description": "Cover strip, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 12 6 934 752",
+      "quantity": 1,
+      "description": "Cover strip, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "63 12 6 934 754",
+      "quantity": 1,
+      "description": "Covering cap high beam",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "63 21 7 160 781",
+      "quantity": 4,
+      "description": "Longlife bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 12 8 380 205",
+      "quantity": 2,
+      "description": "Bulb socket, parking light",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "63 21 7 160 797",
+      "quantity": 2,
+      "description": "Longlife bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "63 12 6 934 753",
+      "quantity": 1,
+      "description": "High beam cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 12 6 934 757",
+      "quantity": 2,
+      "description": "Bulb socket, turn indicator, yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 12 6 934 758",
+      "quantity": 2,
+      "description": "Bulb socket, turn indicator, white",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "63 21 6 926 920",
+      "quantity": 2,
+      "description": "Longlife bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "63 21 7 160 790",
+      "quantity": 2,
+      "description": "04",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 905 328",
+      "quantity": 2,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": "E46, F20, F21, F25, F26"
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 905 329",
+      "quantity": 2,
+      "description": "Bulb yellow",
+      "price_eur": null,
+      "compatible_models": "E46, E63, E64"
+    },
+    {
+      "position_number": "12",
+      "part_number": "63 12 6 975 083",
+      "quantity": 8,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "63 12 8 374 670",
+      "quantity": 4,
+      "description": "Expanding nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "63 12 8 374 671",
+      "quantity": 4,
+      "description": "03",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "63 12 6 947 822",
+      "quantity": 2,
+      "description": "Repair kit headlight",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

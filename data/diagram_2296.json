@@ -1,0 +1,93 @@
+{
+  "id": 2296,
+  "diagram_title": "Wood/leather steering wheel rim",
+  "image_url": "http://ills.bmwfans.info/1gil.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 21 9 408 630",
+      "quantity": 1,
+      "description": "St.wheel rim, leather/wood, myrtle",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 21 9 408 630",
+      "quantity": 1,
+      "description": "St.wheel rim, leather/wood, myrtle",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 34 1 095 763",
+      "quantity": 1,
+      "description": "Hub cap, airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 30 6 783 783",
+      "quantity": 1,
+      "description": "Hub cap, airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 34 1 095 763",
+      "quantity": 1,
+      "description": "Hub cap, airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 30 6 783 783",
+      "quantity": 1,
+      "description": "Hub cap, airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 34 1 095 764",
+      "quantity": 1,
+      "description": "Hub cap, airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 30 6 783 784",
+      "quantity": 1,
+      "description": "Hub cap, airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 34 1 095 764",
+      "quantity": 1,
+      "description": "Hub cap, airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 30 6 783 784",
+      "quantity": 1,
+      "description": "Hub cap, airbag",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

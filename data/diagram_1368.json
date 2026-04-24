@@ -1,0 +1,685 @@
+{
+  "id": 1368,
+  "diagram_title": "Zf 4hp22/24 housing parts/lubric.system",
+  "image_url": "http://ills.bmwfans.info/245.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 456,
+  "category_name": "Automatic Transmission",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "24 41 1 215 732",
+      "quantity": 1,
+      "description": "Converter housing",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "24 41 1 215 732",
+      "quantity": 1,
+      "description": "Converter housing",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "24 41 1 215 732",
+      "quantity": 1,
+      "description": "Converter housing",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "24 41 1 215 732",
+      "quantity": 1,
+      "description": "Converter housing",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "24 40 1 215 401",
+      "quantity": 6,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "24 40 1 215 401",
+      "quantity": 6,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "24 40 1 215 401",
+      "quantity": 6,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "24 40 1 215 401",
+      "quantity": 6,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "24 40 1 215 402",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "24 40 1 215 402",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "24 40 1 215 402",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "24 40 1 215 402",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "4",
+      "part_number": "24 41 1 200 459",
+      "quantity": 2,
+      "description": "Dowel",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E9, NK"
+    },
+    {
+      "position_number": "4",
+      "part_number": "24 41 1 200 459",
+      "quantity": 2,
+      "description": "Dowel",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E9, NK"
+    },
+    {
+      "position_number": "4",
+      "part_number": "24 41 1 200 459",
+      "quantity": 2,
+      "description": "Dowel",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E9, NK"
+    },
+    {
+      "position_number": "4",
+      "part_number": "24 41 1 200 459",
+      "quantity": 2,
+      "description": "Dowel",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E9, NK"
+    },
+    {
+      "position_number": "5",
+      "part_number": "24 11 1 215 126",
+      "quantity": 1,
+      "description": "Protection grid f additional fan",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "5",
+      "part_number": "24 11 1 215 126",
+      "quantity": 1,
+      "description": "Protection grid f additional fan",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "5",
+      "part_number": "24 11 1 215 126",
+      "quantity": 1,
+      "description": "Protection grid f additional fan",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "5",
+      "part_number": "24 11 1 215 126",
+      "quantity": 1,
+      "description": "Protection grid f additional fan",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "6",
+      "part_number": "24 31 1 218 512",
+      "quantity": 1,
+      "description": "Oil pump",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "6",
+      "part_number": "24 31 1 218 512",
+      "quantity": 1,
+      "description": "Oil pump",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "6",
+      "part_number": "24 31 1 218 512",
+      "quantity": 1,
+      "description": "Oil pump",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "6",
+      "part_number": "24 31 1 218 512",
+      "quantity": 1,
+      "description": "Oil pump",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "7",
+      "part_number": "24 31 1 422 671",
+      "quantity": 1,
+      "description": "Shaft seal",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E52, E53"
+    },
+    {
+      "position_number": "7",
+      "part_number": "24 31 1 422 671",
+      "quantity": 1,
+      "description": "Shaft seal",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E52, E53"
+    },
+    {
+      "position_number": "7",
+      "part_number": "24 31 1 422 671",
+      "quantity": 1,
+      "description": "Shaft seal",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E52, E53"
+    },
+    {
+      "position_number": "7",
+      "part_number": "24 31 1 422 671",
+      "quantity": 1,
+      "description": "Shaft seal",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E52, E53"
+    },
+    {
+      "position_number": "8",
+      "part_number": "24 20 1 217 321",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F02, F03, F03 Facelift, NK"
+    },
+    {
+      "position_number": "8",
+      "part_number": "24 31 1 217 133",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "8",
+      "part_number": "24 20 1 217 321",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F02, F03, F03 Facelift, NK"
+    },
+    {
+      "position_number": "8",
+      "part_number": "24 31 1 217 133",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "8",
+      "part_number": "24 20 1 217 321",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F02, F03, F03 Facelift, NK"
+    },
+    {
+      "position_number": "8",
+      "part_number": "24 31 1 217 133",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "8",
+      "part_number": "24 20 1 217 321",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F02, F03, F03 Facelift, NK"
+    },
+    {
+      "position_number": "8",
+      "part_number": "24 31 1 217 133",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "9",
+      "part_number": "24 31 1 218 652",
+      "quantity": 1,
+      "description": "Sleeve",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "9",
+      "part_number": "24 31 1 218 652",
+      "quantity": 1,
+      "description": "Sleeve",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "9",
+      "part_number": "24 31 1 218 652",
+      "quantity": 1,
+      "description": "Sleeve",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "9",
+      "part_number": "24 31 1 218 652",
+      "quantity": 1,
+      "description": "Sleeve",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "10",
+      "part_number": "24 16 1 219 065",
+      "quantity": 1,
+      "description": "Intermediate plate assy",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30"
+    },
+    {
+      "position_number": "10",
+      "part_number": "24 16 1 219 065",
+      "quantity": 1,
+      "description": "Intermediate plate assy",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30"
+    },
+    {
+      "position_number": "10",
+      "part_number": "24 16 1 219 065",
+      "quantity": 1,
+      "description": "Intermediate plate assy",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30"
+    },
+    {
+      "position_number": "10",
+      "part_number": "24 16 1 219 065",
+      "quantity": 1,
+      "description": "Intermediate plate assy",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30"
+    },
+    {
+      "position_number": "11",
+      "part_number": "24 40 1 215 399",
+      "quantity": 2,
+      "description": "Screw plug",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "11",
+      "part_number": "24 40 1 215 399",
+      "quantity": 2,
+      "description": "Screw plug",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "11",
+      "part_number": "24 40 1 215 399",
+      "quantity": 2,
+      "description": "Screw plug",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "11",
+      "part_number": "24 40 1 215 399",
+      "quantity": 2,
+      "description": "Screw plug",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "12",
+      "part_number": "24 40 1 421 740",
+      "quantity": 2,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "12",
+      "part_number": "24 40 1 421 740",
+      "quantity": 2,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "12",
+      "part_number": "24 40 1 421 740",
+      "quantity": 2,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "12",
+      "part_number": "24 40 1 421 740",
+      "quantity": 2,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "13",
+      "part_number": "24 40 1 215 398",
+      "quantity": 2,
+      "description": "Screw plug",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "13",
+      "part_number": "24 40 1 215 398",
+      "quantity": 2,
+      "description": "Screw plug",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "13",
+      "part_number": "24 40 1 215 398",
+      "quantity": 2,
+      "description": "Screw plug",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "13",
+      "part_number": "24 40 1 215 398",
+      "quantity": 2,
+      "description": "Screw plug",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "14",
+      "part_number": "24 40 1 215 397",
+      "quantity": 2,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "14",
+      "part_number": "07 11 9 963 340",
+      "quantity": 2,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "14",
+      "part_number": "24 40 1 215 397",
+      "quantity": 2,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "14",
+      "part_number": "07 11 9 963 340",
+      "quantity": 2,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "14",
+      "part_number": "24 40 1 215 397",
+      "quantity": 2,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "14",
+      "part_number": "07 11 9 963 340",
+      "quantity": 2,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "14",
+      "part_number": "24 40 1 215 397",
+      "quantity": 2,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "14",
+      "part_number": "07 11 9 963 340",
+      "quantity": 2,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "15",
+      "part_number": "24 11 1 215 404",
+      "quantity": 1,
+      "description": "Gasket Asbestos Free",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "15",
+      "part_number": "24 11 1 215 404",
+      "quantity": 1,
+      "description": "Gasket Asbestos Free",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "15",
+      "part_number": "24 11 1 215 404",
+      "quantity": 1,
+      "description": "Gasket Asbestos Free",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "15",
+      "part_number": "24 11 1 215 404",
+      "quantity": 1,
+      "description": "Gasket Asbestos Free",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 11 9 915 183",
+      "quantity": 8,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 11 9 913 484",
+      "quantity": 8,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E38, E9, NK"
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 11 9 913 021",
+      "quantity": 8,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E38, E39, E9, NK"
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 11 9 915 183",
+      "quantity": 8,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 11 9 913 484",
+      "quantity": 8,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E38, E9, NK"
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 11 9 913 021",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E38, E39, E9, NK"
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 11 9 915 183",
+      "quantity": 8,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 11 9 913 484",
+      "quantity": 8,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E38, E9, NK"
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 11 9 913 021",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E38, E39, E9, NK"
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 11 9 915 183",
+      "quantity": 8,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 11 9 913 484",
+      "quantity": 8,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E38, E9, NK"
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 11 9 913 021",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E38, E39, E9, NK"
+    },
+    {
+      "position_number": "17",
+      "part_number": "21 11 1 225 047",
+      "quantity": 2,
+      "description": "Blind plug",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E32, E34, Z1"
+    },
+    {
+      "position_number": "17",
+      "part_number": "21 11 1 225 047",
+      "quantity": 2,
+      "description": "Blind plug",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E32, E34, Z1"
+    },
+    {
+      "position_number": "17",
+      "part_number": "21 11 1 225 047",
+      "quantity": 2,
+      "description": "Blind plug",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E32, E34, Z1"
+    },
+    {
+      "position_number": "17",
+      "part_number": "21 11 1 225 047",
+      "quantity": 2,
+      "description": "Blind plug",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E32, E34, Z1"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2754,
+  "diagram_title": "Rear window antenna",
+  "image_url": "http://ills.bmwfans.info/dni.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 24 9 433 040",
+      "quantity": 1,
+      "description": "Installing set amplifier windsh.antenna",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

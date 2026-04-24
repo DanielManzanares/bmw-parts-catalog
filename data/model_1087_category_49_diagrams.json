@@ -1,0 +1,128 @@
+[
+  {
+    "id": 5653,
+    "diagram_title": "Front axle support/wishbone",
+    "image_url": "http://ills.bmwfans.info/dnzh.png",
+    "parts_count": 13
+  },
+  {
+    "id": 5673,
+    "diagram_title": "Front coil spring",
+    "image_url": "http://ills.bmwfans.info/2rx.png",
+    "parts_count": 0
+  },
+  {
+    "id": 5666,
+    "diagram_title": "Front spring strut/shock absorber",
+    "image_url": "http://ills.bmwfans.info/ff3.png",
+    "parts_count": 12
+  },
+  {
+    "id": 5676,
+    "diagram_title": "Guide support/spring pad/attaching parts",
+    "image_url": "http://ills.bmwfans.info/cge2.png",
+    "parts_count": 18
+  },
+  {
+    "id": 5659,
+    "diagram_title": "Headlight vertical aim control sensor",
+    "image_url": "http://ills.bmwfans.info/flv.png",
+    "parts_count": 14
+  },
+  {
+    "id": 5661,
+    "diagram_title": "Kit, wheel bearing, front / Value Line",
+    "image_url": "http://ills.bmwfans.info/cjsj.png",
+    "parts_count": 1
+  },
+  {
+    "id": 5664,
+    "diagram_title": "Repair kit for anti-roll bar links",
+    "image_url": "http://ills.bmwfans.info/bx5o.png",
+    "parts_count": 1
+  },
+  {
+    "id": 5670,
+    "diagram_title": "Repair kits for shock absorbers, rear",
+    "image_url": "http://ills.bmwfans.info/cfrk.png",
+    "parts_count": 3
+  },
+  {
+    "id": 5656,
+    "diagram_title": "Service kit control arm / Value Line",
+    "image_url": "http://ills.bmwfans.info/dayb.png",
+    "parts_count": 4
+  },
+  {
+    "id": 5668,
+    "diagram_title": "Stabilizer, front",
+    "image_url": "http://ills.bmwfans.info/fey.png",
+    "parts_count": 6
+  },
+  {
+    "id": 5679,
+    "diagram_title": "Wheel bearing",
+    "image_url": "http://ills.bmwfans.info/2q6.png",
+    "parts_count": 4
+  },
+  {
+    "id": 1175,
+    "diagram_title": "front_axle_support_wishbone",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_front_axle_front_axle_support_wishbone.png",
+    "parts_count": 18
+  },
+  {
+    "id": 1181,
+    "diagram_title": "front_spring_strut_shock_absorber",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_front_axle_front_spring_strut_shock_absorber.png",
+    "parts_count": 18
+  },
+  {
+    "id": 1182,
+    "diagram_title": "guide_support_spring_pad_attaching_parts",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_front_axle_guide_support_spring_pad_attaching_parts.png",
+    "parts_count": 16
+  },
+  {
+    "id": 1177,
+    "diagram_title": "headlight_vertical_aim_control_sensor",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_front_axle_headlight_vertical_aim_control_sensor.png",
+    "parts_count": 14
+  },
+  {
+    "id": 1180,
+    "diagram_title": "kit_wheel_bearing_front_value_line",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_front_axle_kit_wheel_bearing_front_value_line.png",
+    "parts_count": 1
+  },
+  {
+    "id": 1176,
+    "diagram_title": "repair_kit_for_anti_roll_bar_links",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_front_axle_repair_kit_for_anti_roll_bar_links.png",
+    "parts_count": 1
+  },
+  {
+    "id": 1183,
+    "diagram_title": "repair_kits_for_shock_absorbers_rear",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_front_axle_repair_kits_for_shock_absorbers_rear.png",
+    "parts_count": 3
+  },
+  {
+    "id": 1179,
+    "diagram_title": "service_kit_control_arm_value_line",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_front_axle_service_kit_control_arm_value_line.png",
+    "parts_count": 7
+  },
+  {
+    "id": 1178,
+    "diagram_title": "stabilizer_front",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_front_axle_stabilizer_front.png",
+    "parts_count": 8
+  },
+  {
+    "id": 1184,
+    "diagram_title": "wheel_bearing",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_front_axle_wheel_bearing.png",
+    "parts_count": 4
+  }
+]

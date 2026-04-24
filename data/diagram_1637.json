@@ -1,0 +1,77 @@
+{
+  "id": 1637,
+  "diagram_title": "Throttle Housing Assy",
+  "image_url": "http://ills.bmwfans.info/ab4h.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1535,
+  "category_name": "Fuel Preparation System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "13 54 1 433 414",
+      "quantity": 1,
+      "description": "Throttle Housing Assy",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "13 54 1 433 414",
+      "quantity": 1,
+      "description": "Throttle Housing Assy",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 61 1 716 174",
+      "quantity": 1,
+      "description": "Profile-gasket",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 61 1 716 174",
+      "quantity": 1,
+      "description": "Profile-gasket",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 903 867",
+      "quantity": 4,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, E60, E60 Facelift, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F10, F11, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 903 867",
+      "quantity": 4,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, E60, E60 Facelift, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F10, F11, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "12 52 1 744 870",
+      "quantity": 1,
+      "description": "Plug housing",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "12 52 1 744 870",
+      "quantity": 1,
+      "description": "Plug housing",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, Z3"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "id": 5860,
+  "diagram_title": "Door window lifting mechanism rear",
+  "image_url": "http://ills.bmwfans.info/3jst.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 36 8 209 403",
+      "quantity": 1,
+      "description": "Vent window green left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 36 8 209 404",
+      "quantity": 1,
+      "description": "Vent window green left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 37 7 020 619",
+      "quantity": 1,
+      "description": "Set of fittings f side window",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 36 8 194 741",
+      "quantity": 1,
+      "description": "Gasket, railing left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 36 8 194 742",
+      "quantity": 1,
+      "description": "Gasket, railing left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 36 8 227 685",
+      "quantity": 1,
+      "description": "Gasket, railing left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 36 8 227 686",
+      "quantity": 1,
+      "description": "Gasket, railing left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 36 7 891 911",
+      "quantity": 1,
+      "description": "Gasket, railing left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 36 7 891 912",
+      "quantity": 1,
+      "description": "Gasket, railing left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "46 63 1 235 759",
+      "quantity": 4,
+      "description": "Grommet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 36 8 209 401",
+      "quantity": 1,
+      "description": "Cover column B left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 36 8 209 402",
+      "quantity": 1,
+      "description": "Cover column B left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 36 8 252 621",
+      "quantity": 2,
+      "description": "Gasket, vent window inner",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 36 8 252 623",
+      "quantity": 2,
+      "description": "Gasket, vent window inner",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 37 8 252 625",
+      "quantity": 2,
+      "description": "Gasket, vent window inner",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "67 15 8 238 743",
+      "quantity": 1,
+      "description": "Drive, vent window left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "67 15 8 238 744",
+      "quantity": 1,
+      "description": "Drive, vent window left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "67 15 7 006 323",
+      "quantity": 4,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "67 15 8 238 750",
+      "quantity": 1,
+      "description": "Inner covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "67 15 8 253 893",
+      "quantity": 2,
+      "description": "Inner covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 71 8 195 651",
+      "quantity": 4,
+      "description": "Plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "61 13 6 984 734",
+      "quantity": 2,
+      "description": "Socket housing, uncloded",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "61 13 8 364 838",
+      "quantity": 4,
+      "description": "Socket contact ELO-Power 2, 8x0, 63",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "61 13 8 364 836",
+      "quantity": 4,
+      "description": "Socket contact ELO-Power 2, 8x0, 63",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

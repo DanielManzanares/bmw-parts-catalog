@@ -1,0 +1,45 @@
+{
+  "id": 6743,
+  "diagram_title": "Switch unit, center console",
+  "image_url": "http://ills.bmwfans.info/1scy.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 31 6 925 498",
+      "quantity": 1,
+      "description": "Switch unit, center console",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 31 6 925 512",
+      "quantity": 1,
+      "description": "Switch unit, center console",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 31 6 905 175",
+      "quantity": 1,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 41 8 215 054",
+      "quantity": 2,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 3522,
+  "diagram_title": "Relay for trunk lock K117",
+  "image_url": "http://ills.bmwfans.info/e58b.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 35 8 350 566",
+      "quantity": 1,
+      "description": "Relay, change-over contact, pine green",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 36 1 384 364",
+      "quantity": 1,
+      "description": "Relay, change-over contact, pine green",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "id": 357,
+  "diagram_title": "Pad/seat pan of bmw sports seat",
+  "image_url": "http://ills.bmwfans.info/bmu.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 167 495",
+      "quantity": 2,
+      "description": "Luggage net",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 167 533",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 167 534",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 167 535",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 167 536",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 167 537",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 179 963",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 179 964",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 167 495",
+      "quantity": 2,
+      "description": "Luggage net",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 167 533",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 167 534",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 167 535",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 167 536",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 167 537",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 179 963",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 179 964",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "52 10 8 119 276",
+      "quantity": 4,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "52 10 8 119 276",
+      "quantity": 4,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "52 10 8 130 678",
+      "quantity": 4,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "52 10 8 130 678",
+      "quantity": 4,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "52 10 1 945 543",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "52 10 1 945 543",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "52 10 8 151 454",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "52 10 8 151 454",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "52 10 8 119 279",
+      "quantity": 1,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "52 10 8 119 279",
+      "quantity": 1,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "52 10 8 130 756",
+      "quantity": 2,
+      "description": "Backrest shell covering",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "52 10 8 130 757",
+      "quantity": 2,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "52 10 8 130 758",
+      "quantity": 2,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "52 10 8 130 755",
+      "quantity": 2,
+      "description": "Backrest shell covering",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "52 10 8 130 756",
+      "quantity": 2,
+      "description": "Backrest shell covering",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "52 10 8 130 757",
+      "quantity": 2,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "52 10 8 130 758",
+      "quantity": 2,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "52 10 8 130 755",
+      "quantity": 2,
+      "description": "Backrest shell covering",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "52 10 8 119 276",
+      "quantity": 1,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "52 10 8 119 276",
+      "quantity": 1,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "52 10 8 151 597",
+      "quantity": 8,
+      "description": "Clip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "52 10 8 151 597",
+      "quantity": 8,
+      "description": "Clip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "52 10 8 119 279",
+      "quantity": 4,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "52 10 8 119 279",
+      "quantity": 4,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

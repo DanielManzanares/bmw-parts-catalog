@@ -1,0 +1,29 @@
+{
+  "id": 3925,
+  "diagram_title": "Service Kit for brake pads / Value Line",
+  "image_url": "http://ills.bmwfans.info/av2h.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1650,
+  "category_name": "Inspection kits",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "34 11 2 157 616",
+      "quantity": 1,
+      "description": "Set of brake pads with wear sensors",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 21 2 157 620",
+      "quantity": 1,
+      "description": "Set of brake pads with wear sensors",
+      "price_eur": null,
+      "compatible_models": "E36"
+    }
+  ]
+}

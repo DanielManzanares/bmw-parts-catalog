@@ -1,0 +1,325 @@
+{
+  "id": 6330,
+  "diagram_title": "Edge protector / Trim for entry",
+  "image_url": "http://ills.bmwfans.info/1xak.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 47 8 219 185",
+      "quantity": 1,
+      "description": "Front left entrance cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 8 219 186",
+      "quantity": 1,
+      "description": "Front left entrance cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 8 219 189",
+      "quantity": 2,
+      "description": "Front left entrance cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 7 894 857",
+      "quantity": 2,
+      "description": "Front entrance cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 7 894 858",
+      "quantity": 1,
+      "description": "Front left entrance cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 7 891 987",
+      "quantity": 1,
+      "description": "Rear left entrance cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 7 891 988",
+      "quantity": 1,
+      "description": "Rear left entrance cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 219 191",
+      "quantity": 1,
+      "description": "Rear left entrance cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 219 192",
+      "quantity": 1,
+      "description": "Rear left entrance cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 233 473",
+      "quantity": 1,
+      "description": "Rear left entrance cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 233 474",
+      "quantity": 1,
+      "description": "Rear left entrance cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 7 893 997",
+      "quantity": 1,
+      "description": "Rear left entrance cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 7 893 998",
+      "quantity": 1,
+      "description": "Rear left entrance cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 47 8 201 218",
+      "quantity": 2,
+      "description": "Cover molding, sill, front inside",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 47 8 227 520",
+      "quantity": 2,
+      "description": "Cover molding, sill, front inside",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 47 8 227 521",
+      "quantity": 2,
+      "description": "Cover molding, sill, front inside",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 47 8 201 335",
+      "quantity": 1,
+      "description": "Cover molding, sill, rear inner left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 47 8 201 336",
+      "quantity": 1,
+      "description": "Cover molding, sill, rear inner left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 47 8 227 523",
+      "quantity": 1,
+      "description": "Cover molding, sill, rear inner left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 47 8 227 524",
+      "quantity": 1,
+      "description": "Cover molding, sill, rear inner left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 47 8 227 525",
+      "quantity": 1,
+      "description": "Cover molding, sill, rear inner left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 47 8 227 526",
+      "quantity": 1,
+      "description": "Cover molding, sill, rear inner left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 47 1 840 960",
+      "quantity": 14,
+      "description": "Clip Natur",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 47 8 234 047",
+      "quantity": 12,
+      "description": "Sill strip clip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 47 8 244 458",
+      "quantity": 6,
+      "description": "Clip, yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 71 8 211 943",
+      "quantity": 1,
+      "description": "Primed left outer kick panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 71 8 211 944",
+      "quantity": 1,
+      "description": "Primed left outer kick panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 71 9 071 632",
+      "quantity": 1,
+      "description": "Primed left outer kick panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 71 9 071 633",
+      "quantity": 1,
+      "description": "Primed left outer kick panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 71 1 932 996",
+      "quantity": 24,
+      "description": "Grommet, green",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 11 8 174 184",
+      "quantity": 2,
+      "description": "Expanding rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 11 8 174 185",
+      "quantity": 20,
+      "description": "Expanding rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 71 8 219 167",
+      "quantity": 1,
+      "description": "Covering left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 71 8 219 168",
+      "quantity": 1,
+      "description": "Covering left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 72 8 194 682",
+      "quantity": 2,
+      "description": "Edge protection front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 72 8 194 684",
+      "quantity": 2,
+      "description": "Edge protection rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 47 8 255 822",
+      "quantity": 2,
+      "description": "Cover cup, rim piece entry",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 71 8 216 117",
+      "quantity": 2,
+      "description": "Cover cup, hook",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 71 8 184 574",
+      "quantity": 12,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

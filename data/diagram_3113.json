@@ -1,0 +1,109 @@
+{
+  "id": 3113,
+  "diagram_title": "Glazing",
+  "image_url": "http://ills.bmwfans.info/b38.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 31 8 174 010",
+      "quantity": 1,
+      "description": "Windshield, clear with anti-glare strip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 31 8 174 011",
+      "quantity": 1,
+      "description": "Windshield, clear with anti-glare strip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 31 8 174 012",
+      "quantity": 1,
+      "description": "Windshield, clear with anti-glare strip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 32 8 201 041",
+      "quantity": 1,
+      "description": "Side window, green, door, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 32 8 201 042",
+      "quantity": 1,
+      "description": "Side window, green, door, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 32 8 201 043",
+      "quantity": 1,
+      "description": "Side window, green, door, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 32 8 201 044",
+      "quantity": 1,
+      "description": "Side window, green, door, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 36 8 119 077",
+      "quantity": 1,
+      "description": "Side window, green, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 36 8 119 078",
+      "quantity": 1,
+      "description": "Side window, green, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 31 8 173 662",
+      "quantity": 1,
+      "description": "Rear window green w. antenne",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 31 8 173 663",
+      "quantity": 1,
+      "description": "Rear window green w. antenne",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 31 8 173 663",
+      "quantity": 1,
+      "description": "Rear window green w. antenne",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

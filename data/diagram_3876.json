@@ -1,0 +1,21 @@
+{
+  "id": 3876,
+  "diagram_title": "Relay for windshield wiper K11",
+  "image_url": "http://ills.bmwfans.info/dg3o.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 36 8 384 505",
+      "quantity": 1,
+      "description": "Double relay, green-brown",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

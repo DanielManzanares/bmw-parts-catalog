@@ -1,0 +1,237 @@
+{
+  "id": 2501,
+  "diagram_title": "Wiring connections",
+  "image_url": "http://ills.bmwfans.info/bw8.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "07 11 9 975 531",
+      "quantity": 1,
+      "description": "Cable socket female",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 13 1 269 612",
+      "quantity": 1,
+      "description": "Cable socket female",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 13 1 357 090",
+      "quantity": 1,
+      "description": "Cable socket female",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 13 1 362 405",
+      "quantity": 1,
+      "description": "Cable socket female",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 13 8 061 769",
+      "quantity": 1,
+      "description": "Cable socket female",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 13 8 061 785",
+      "quantity": 1,
+      "description": "Cable socket female",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 13 8 608 021",
+      "quantity": 1,
+      "description": "Cable socket female",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 13 1 368 534",
+      "quantity": 1,
+      "description": "Cable socket female",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 13 1 352 577",
+      "quantity": 1,
+      "description": "Cable socket female",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 13 8 061 769",
+      "quantity": 1,
+      "description": "Cable socket female",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 13 8 061 781",
+      "quantity": 1,
+      "description": "Cable socket female",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 13 1 353 440",
+      "quantity": 1,
+      "description": "Cable socket female",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 13 1 350 848",
+      "quantity": 1,
+      "description": "Cable socket female",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "61 13 1 362 252",
+      "quantity": 1,
+      "description": "Cable socket female",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "61 13 1 361 178",
+      "quantity": 1,
+      "description": "Flat-type connector",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "61 13 1 376 755",
+      "quantity": 1,
+      "description": "Flat-type connector",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 13 1 351 675",
+      "quantity": 1,
+      "description": "Flat-type connector",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 13 1 357 921",
+      "quantity": 1,
+      "description": "Flat-type connector",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 13 1 359 932",
+      "quantity": 1,
+      "description": "Flat-type connector",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "61 13 1 362 955",
+      "quantity": 1,
+      "description": "Cable terminal",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "61 13 1 364 484",
+      "quantity": 1,
+      "description": "Cable terminal",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "61 13 8 061 786",
+      "quantity": 1,
+      "description": "Cable terminal",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 11 9 975 953",
+      "quantity": 1,
+      "description": "Cable terminal",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "61 13 1 352 614",
+      "quantity": 1,
+      "description": "Cable terminal",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "12 31 8 002 351",
+      "quantity": 1,
+      "description": "Cable terminal",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "61 13 8 061 788",
+      "quantity": 1,
+      "description": "Cable terminal",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "61 31 1 353 825",
+      "quantity": 1,
+      "description": "Twin plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "61 13 8 061 771",
+      "quantity": 1,
+      "description": "Twin plug",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

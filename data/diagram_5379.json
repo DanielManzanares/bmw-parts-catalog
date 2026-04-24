@@ -1,0 +1,149 @@
+{
+  "id": 5379,
+  "diagram_title": "Waterpump — Thermostat",
+  "image_url": "http://ills.bmwfans.info/ambq.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1,
+  "category_name": "Engine",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "11 51 7 511 221",
+      "quantity": 1,
+      "description": "Remanufactured coolant pump, mechanical",
+      "price_eur": null,
+      "compatible_models": "E46, E60 Facelift, E81, E82, E83, E83 Facelift, E84, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 51 7 515 778",
+      "quantity": 1,
+      "description": "Coolant pump, mechanical",
+      "price_eur": null,
+      "compatible_models": "E46, E60 Facelift, E81, E82, E83, E83 Facelift, E84, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 51 7 500 597",
+      "quantity": 1,
+      "description": "Thermostat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 51 7 514 943",
+      "quantity": 1,
+      "description": "Profile-gasket",
+      "price_eur": null,
+      "compatible_models": "E46, E60 Facelift, E81, E82, E83, E83 Facelift, E84, E85, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 51 7 572 859",
+      "quantity": 1,
+      "description": "Thermostat housing",
+      "price_eur": null,
+      "compatible_models": "E46, E60 Facelift, E81, E82, E83, E83 Facelift, E84, E85, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 51 7 514 941",
+      "quantity": 1,
+      "description": "Profile-gasket",
+      "price_eur": null,
+      "compatible_models": "E46, E60 Facelift, E81, E82, E83, E83 Facelift, E84, E85, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "6",
+      "part_number": "32 42 7 500 335",
+      "quantity": 1,
+      "description": "Pulley",
+      "price_eur": null,
+      "compatible_models": "E46, E60 Facelift, E81, E82, E83, E83 Facelift, E84, E85, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 51 7 542 128",
+      "quantity": 1,
+      "description": "Connector",
+      "price_eur": null,
+      "compatible_models": "E46, E60 Facelift, E81, E82, E83, E83 Facelift, E84, E85, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "8",
+      "part_number": "11 51 7 514 935",
+      "quantity": 3,
+      "description": "Torx screw",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E65, E81, E82, E83, E83 Facelift, E84, E85, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "9",
+      "part_number": "11 51 7 514 935",
+      "quantity": 11,
+      "description": "Torx screw",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E65, E81, E82, E83, E83 Facelift, E84, E85, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "10",
+      "part_number": "11 51 7 515 852",
+      "quantity": 2,
+      "description": "Torx screw",
+      "price_eur": null,
+      "compatible_models": "E46, E60 Facelift, E81, E82, E83, E83 Facelift, E84, E85, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 12 9 904 552",
+      "quantity": 4,
+      "description": "ISA screw",
+      "price_eur": null,
+      "compatible_models": "E46, E60 Facelift, E61 Facelift, E81, E82, E83, E83 Facelift, E84, E85, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "12",
+      "part_number": "11 51 7 559 979",
+      "quantity": 3,
+      "description": "Torx screw",
+      "price_eur": null,
+      "compatible_models": "E46, E60 Facelift, E81, E82, E83, E83 Facelift, E84, E85, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "13",
+      "part_number": "11 51 7 514 944",
+      "quantity": 1,
+      "description": "Rubber boot",
+      "price_eur": null,
+      "compatible_models": "E46, E60 Facelift, E81, E82, E83, E83 Facelift, E84, E85, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "14",
+      "part_number": "11 51 7 514 942",
+      "quantity": 2,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E46, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E70, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F10, F11, F18, F18 Facelift, F25"
+    },
+    {
+      "position_number": "15",
+      "part_number": "11 51 7 514 940",
+      "quantity": 1,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": "E46, E60 Facelift, E81, E82, E83, E83 Facelift, E84, E85, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "16",
+      "part_number": "11 51 7 574 119",
+      "quantity": 1,
+      "description": "Coolant pump, mechanical",
+      "price_eur": null,
+      "compatible_models": "E46, E60 Facelift, E81, E82, E83, E83 Facelift, E84, E85, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    }
+  ]
+}

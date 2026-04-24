@@ -1,0 +1,93 @@
+{
+  "id": 2111,
+  "diagram_title": "Classic telephone fixed installation",
+  "image_url": "http://ills.bmwfans.info/1upr.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1531,
+  "category_name": "Technical Literature",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "01 40 9 790 930",
+      "quantity": 1,
+      "description": "Owner's handbook, telephone \"de\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 41 9 790 931",
+      "quantity": 1,
+      "description": "Owner's handbook, telephone \"en\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 42 9 790 932",
+      "quantity": 1,
+      "description": "Owner's handbook, telephone \"fr\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 43 9 790 933",
+      "quantity": 1,
+      "description": "Owner's handbook, telephone \"es\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 44 9 790 934",
+      "quantity": 1,
+      "description": "Owner's handbook, telephone \"it\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 45 9 790 935",
+      "quantity": 1,
+      "description": "Owner's handbook, telephone \"sv\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 46 9 790 936",
+      "quantity": 1,
+      "description": "Owner's handbook, telephone \"nl\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "01 47 9 790 937",
+      "quantity": 1,
+      "description": "Owner's handbook, telephone \"ar\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "01 48 9 790 938",
+      "quantity": 1,
+      "description": "Owner's handbook, telephone \"da\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "01 49 9 790 939",
+      "quantity": 1,
+      "description": "Owner's handbook, telephone \"pt\"",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 7527,
+  "diagram_title": "Individual decor trim leather, SA 255",
+  "image_url": "http://ills.bmwfans.info/1yf6.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "32 30 8 022 545",
+      "quantity": 1,
+      "description": "Decor panel, leather",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

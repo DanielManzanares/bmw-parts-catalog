@@ -1,0 +1,213 @@
+{
+  "id": 2217,
+  "diagram_title": "Blind plug/plugs",
+  "image_url": "http://ills.bmwfans.info/az4.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 47 1 808 743",
+      "quantity": 1,
+      "description": "Cover for spare wheel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 1 917 679",
+      "quantity": 1,
+      "description": "Trunk mat w.cover for spare wheel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 71 1 801 066",
+      "quantity": 1,
+      "description": "Blind plug",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E9, F12, F12 Facelift, F34, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 71 1 816 654",
+      "quantity": 1,
+      "description": "Cover lid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 71 1 820 957",
+      "quantity": 1,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 11 9 907 812",
+      "quantity": 3,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 71 1 874 203",
+      "quantity": 3,
+      "description": "Expanding nut",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, Z1"
+    },
+    {
+      "position_number": "7",
+      "part_number": "41 12 1 907 234",
+      "quantity": 1,
+      "description": "Blind plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "41 00 7 140 847",
+      "quantity": 1,
+      "description": "Blind plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "41 12 8 200 462",
+      "quantity": 5,
+      "description": "Cover lid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 71 1 946 184",
+      "quantity": 5,
+      "description": "Cover lid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "41 12 1 907 233",
+      "quantity": 1,
+      "description": "Blind plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "41 00 7 140 848",
+      "quantity": 1,
+      "description": "Blind plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 71 1 850 078",
+      "quantity": 4,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 21 6 742 120",
+      "quantity": 2,
+      "description": "Distance rubber",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "61 13 8 560 584",
+      "quantity": 1,
+      "description": "Blind plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 21 1 838 473",
+      "quantity": 2,
+      "description": "Blind plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 71 8 110 127",
+      "quantity": 2,
+      "description": "Blind plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "07 14 7 140 849",
+      "quantity": 2,
+      "description": "Blind plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 71 1 852 763",
+      "quantity": 1,
+      "description": "Blind plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "41 12 5 503 104",
+      "quantity": 8,
+      "description": "Pushrod seal",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "51 71 1 872 829",
+      "quantity": 1,
+      "description": "Blind plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "51 71 1 816 805",
+      "quantity": 4,
+      "description": "Plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "51 71 1 952 009",
+      "quantity": 4,
+      "description": "Blind plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "51 71 1 974 209",
+      "quantity": 4,
+      "description": "Blind plug",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

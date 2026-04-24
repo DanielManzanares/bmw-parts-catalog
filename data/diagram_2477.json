@@ -1,0 +1,93 @@
+{
+  "id": 2477,
+  "diagram_title": "Decor trims, Bicolor leather",
+  "image_url": "http://ills.bmwfans.info/13fi.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 0 006 464",
+      "quantity": 1,
+      "description": "Decorative strip, leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 0 006 465",
+      "quantity": 1,
+      "description": "Decorative strip, leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 0 006 503",
+      "quantity": 1,
+      "description": "Decorative strip, leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 0 006 504",
+      "quantity": 1,
+      "description": "Decorative strip, leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 0 006 514",
+      "quantity": 1,
+      "description": "Leather cover, oddments tray",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 0 006 515",
+      "quantity": 1,
+      "description": "Leather cover, oddments tray",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 0 006 516",
+      "quantity": 1,
+      "description": "Leather cover, oddments tray",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 0 006 506",
+      "quantity": 1,
+      "description": "Leather cover, oddments tray",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 0 006 507",
+      "quantity": 1,
+      "description": "Leather cover, oddments tray",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 0 006 508",
+      "quantity": 1,
+      "description": "Leather cover, oddments tray",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

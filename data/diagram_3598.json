@@ -1,0 +1,37 @@
+{
+  "id": 3598,
+  "diagram_title": "Relay for door lock heater K54",
+  "image_url": "http://ills.bmwfans.info/e55y.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 36 4 107 225",
+      "quantity": 1,
+      "description": "Relay, make contact, sky-blue",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 36 6 915 327",
+      "quantity": 1,
+      "description": "Relay, make contact, sky-blue",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 36 8 364 581",
+      "quantity": 1,
+      "description": "Relay, make contact, sky-blue",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

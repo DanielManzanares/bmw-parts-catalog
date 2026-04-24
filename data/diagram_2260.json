@@ -1,0 +1,21 @@
+{
+  "id": 2260,
+  "diagram_title": "Floor Mat Locks",
+  "image_url": "http://ills.bmwfans.info/1fcc.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 11 1 466 958",
+      "quantity": 1,
+      "description": "Fastener mat set",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

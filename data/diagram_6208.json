@@ -1,0 +1,149 @@
+{
+  "id": 6208,
+  "diagram_title": "Sun visors",
+  "image_url": "http://ills.bmwfans.info/lz9.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 2 699 047",
+      "quantity": 1,
+      "description": "Sun visor, cloth, illuminated left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 2 699 048",
+      "quantity": 1,
+      "description": "Sun visor, cloth, illuminated left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 023 987",
+      "quantity": 1,
+      "description": "Sun visor, cloth, illuminated left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 023 988",
+      "quantity": 1,
+      "description": "Sun visor, cloth, illuminated left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 267 897",
+      "quantity": 1,
+      "description": "Sun visor, cloth, illuminated left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 267 898",
+      "quantity": 1,
+      "description": "Sun visor, cloth, illuminated left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 267 899",
+      "quantity": 1,
+      "description": "Sun visor, cloth, illuminated left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 267 900",
+      "quantity": 1,
+      "description": "Sun visor, cloth, illuminated left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 267 901",
+      "quantity": 1,
+      "description": "Sun visor, cloth, illuminated left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 267 902",
+      "quantity": 1,
+      "description": "Sun visor, cloth, illuminated left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 267 911",
+      "quantity": 1,
+      "description": "Sun visor, cloth, illuminated left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 267 912",
+      "quantity": 1,
+      "description": "Sun visor, cloth, illuminated left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 243 574",
+      "quantity": 2,
+      "description": "Sun visor bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 243 575",
+      "quantity": 2,
+      "description": "Sun visor bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 243 576",
+      "quantity": 2,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 904 183",
+      "quantity": 4,
+      "description": "Hex head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 904 255",
+      "quantity": 4,
+      "description": "Hex head screw",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

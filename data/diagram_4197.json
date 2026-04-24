@@ -1,0 +1,45 @@
+{
+  "id": 4197,
+  "diagram_title": "Suppl. Owner's Manual officials utility",
+  "image_url": "http://ills.bmwfans.info/dia4.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1531,
+  "category_name": "Technical Literature",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "01 40 0 155 729",
+      "quantity": 1,
+      "description": "Suppl. Owner's Manual officials utility",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 40 0 156 418",
+      "quantity": 1,
+      "description": "Suppl. Owner's Manual officials utility",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 40 0 155 729",
+      "quantity": 1,
+      "description": "Suppl. Owner's Manual officials utility",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 40 0 156 418",
+      "quantity": 1,
+      "description": "Suppl. Owner's Manual officials utility",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

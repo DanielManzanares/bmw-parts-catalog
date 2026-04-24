@@ -1,0 +1,53 @@
+{
+  "id": 7223,
+  "diagram_title": "Single parts, SA 638, center console",
+  "image_url": "http://ills.bmwfans.info/2fzl.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1648,
+  "category_name": "Communication systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "84 11 6 953 468",
+      "quantity": 1,
+      "description": "Handset",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "84 11 6 927 534",
+      "quantity": 1,
+      "description": "Accumulator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "84 11 6 927 533",
+      "quantity": 1,
+      "description": "Battery cover, keypad handset",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "84 11 6 936 695",
+      "quantity": 1,
+      "description": "Eject box with charging facility",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "84 11 6 928 068",
+      "quantity": 1,
+      "description": "SIM card holder",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

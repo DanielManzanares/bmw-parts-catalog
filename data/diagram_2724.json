@@ -1,0 +1,93 @@
+{
+  "id": 2724,
+  "diagram_title": "Alarm system",
+  "image_url": "http://ills.bmwfans.info/5dz.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 91 9 408 375",
+      "quantity": 1,
+      "description": "Installation kit alarm system",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 73 9 416 541",
+      "quantity": 1,
+      "description": "Installation kit alarm system",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 91 9 404 617",
+      "quantity": 1,
+      "description": "Inclination indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "82 92 9 404 776",
+      "quantity": 1,
+      "description": "Relay for horn connection",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "82 91 9 408 597",
+      "quantity": 1,
+      "description": "Control unit alarm system",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "82 92 9 402 827",
+      "quantity": 1,
+      "description": "Siren",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "82 92 9 408 606",
+      "quantity": 1,
+      "description": "Cable harness",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "82 92 9 401 797",
+      "quantity": 1,
+      "description": "LED indicator alarm system",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "82 92 9 401 798",
+      "quantity": 1,
+      "description": "Ultrasonic sensors",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "82 92 9 405 839",
+      "quantity": 1,
+      "description": "Siren lock with wire",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

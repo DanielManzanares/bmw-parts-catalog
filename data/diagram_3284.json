@@ -1,0 +1,69 @@
+{
+  "id": 3284,
+  "diagram_title": "Splash wall parts",
+  "image_url": "http://ills.bmwfans.info/1hpg.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "41 13 8 230 518",
+      "quantity": 1,
+      "description": "Splash wall",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "41 13 8 230 521",
+      "quantity": 1,
+      "description": "Steering column support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "41 11 8 239 197",
+      "quantity": 1,
+      "description": "Left splash wall reinforcement",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "41 11 8 239 198",
+      "quantity": 1,
+      "description": "Left splash wall reinforcement",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "41 11 7 028 595",
+      "quantity": 1,
+      "description": "Connection pcs, wheel house/entrance, lft",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "41 11 7 028 596",
+      "quantity": 1,
+      "description": "Connection pcs, wheel house/entrance, lft",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "41 11 8 230 553",
+      "quantity": 1,
+      "description": "Supporting strut, front wall center",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

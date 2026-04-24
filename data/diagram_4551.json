@@ -1,0 +1,125 @@
+{
+  "id": 4551,
+  "diagram_title": "BMW buggy chrome-marine with accessories",
+  "image_url": "http://ills.bmwfans.info/2m0w.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 22 0 148 989",
+      "quantity": 1,
+      "description": "Buggy frame",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 0 148 989",
+      "quantity": 1,
+      "description": "Buggy frame",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 22 0 147 470",
+      "quantity": 1,
+      "description": "Seat holder for buggy",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 22 0 147 470",
+      "quantity": 1,
+      "description": "Seat holder for buggy",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 22 0 147 475",
+      "quantity": 1,
+      "description": "Foot bag for buggy",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 22 0 147 475",
+      "quantity": 1,
+      "description": "Foot bag for buggy",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 22 0 147 476",
+      "quantity": 1,
+      "description": "Rain hood for buggy",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 22 0 147 476",
+      "quantity": 1,
+      "description": "Rain hood for buggy",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "82 22 0 147 477",
+      "quantity": 1,
+      "description": "Sunshade for buggy",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "82 22 0 147 477",
+      "quantity": 1,
+      "description": "Sunshade for buggy",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "82 22 0 148 994",
+      "quantity": 1,
+      "description": "Care bag for buggy",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "82 22 0 148 994",
+      "quantity": 1,
+      "description": "Care bag for buggy",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "82 12 9 408 960",
+      "quantity": 1,
+      "description": "Adapter for BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "82 12 9 408 960",
+      "quantity": 1,
+      "description": "Adapter for BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

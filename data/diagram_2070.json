@@ -1,0 +1,109 @@
+{
+  "id": 2070,
+  "diagram_title": "Trim panel dashboard LOWER",
+  "image_url": "http://ills.bmwfans.info/arx.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 45 1 900 643",
+      "quantity": 1,
+      "description": "Trim panel lower left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 45 1 912 209",
+      "quantity": 1,
+      "description": "Trim panel lower left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 45 1 912 211",
+      "quantity": 1,
+      "description": "Trim panel lower left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 45 1 875 862",
+      "quantity": 1,
+      "description": "Trim panel lower right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 45 1 888 064",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 45 1 912 217",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 45 1 912 218",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 45 1 874 939",
+      "quantity": 1,
+      "description": "Support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 43 1 874 616",
+      "quantity": 1,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 12 9 925 709",
+      "quantity": 1,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 12 9 901 644",
+      "quantity": 1,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 12 9 904 220",
+      "quantity": 1,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": 5042,
+  "diagram_title": "Tire Mobility Set",
+  "image_url": "http://ills.bmwfans.info/3hjg.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "71 10 0 415 035",
+      "quantity": 1,
+      "description": "Tire Mobility Set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 10 0 415 035",
+      "quantity": 1,
+      "description": "Tire Mobility Set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 29 0 413 435",
+      "quantity": 1,
+      "description": "Operating instructions",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 29 0 413 435",
+      "quantity": 1,
+      "description": "Operating instructions",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "71 10 6 777 047",
+      "quantity": 1,
+      "description": "Compressor for Tire Mobility Set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "71 10 6 777 047",
+      "quantity": 1,
+      "description": "Compressor for Tire Mobility Set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "71 10 0 415 040",
+      "quantity": 1,
+      "description": "Tire inflating bottle",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "71 10 0 415 040",
+      "quantity": 1,
+      "description": "Tire inflating bottle",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

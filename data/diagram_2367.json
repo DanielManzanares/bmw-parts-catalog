@@ -1,0 +1,29 @@
+{
+  "id": 2367,
+  "diagram_title": "Air conditioning system r134a",
+  "image_url": "http://ills.bmwfans.info/d96.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 50 9 405 472",
+      "quantity": 1,
+      "description": "Installing set automatic air conditioner",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "64 50 9 405 472",
+      "quantity": 1,
+      "description": "Installing set automatic air conditioner",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

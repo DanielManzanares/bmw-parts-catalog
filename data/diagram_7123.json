@@ -1,0 +1,45 @@
+{
+  "id": 7123,
+  "diagram_title": "Individual standard-seat cover leather",
+  "image_url": "http://ills.bmwfans.info/2au4.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 011 608",
+      "quantity": 1,
+      "description": "Seat cover leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 016 331",
+      "quantity": 1,
+      "description": "Seat cover leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 011 609",
+      "quantity": 1,
+      "description": "Cover backrest, leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 016 332",
+      "quantity": 1,
+      "description": "Cover backrest, leather",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

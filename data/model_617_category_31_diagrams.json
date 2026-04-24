@@ -1,0 +1,62 @@
+[
+  {
+    "id": 5493,
+    "diagram_title": "Exp.tank/activated carbon container",
+    "image_url": "http://ills.bmwfans.info/1zr7.png",
+    "parts_count": 15
+  },
+  {
+    "id": 5491,
+    "diagram_title": "Expansion tank",
+    "image_url": "http://ills.bmwfans.info/4pn.png",
+    "parts_count": 7
+  },
+  {
+    "id": 5499,
+    "diagram_title": "Fuel pipe and mounting parts",
+    "image_url": "http://ills.bmwfans.info/2zo0.png",
+    "parts_count": 17
+  },
+  {
+    "id": 5496,
+    "diagram_title": "Fuel pump and fuel level sensor",
+    "image_url": "http://ills.bmwfans.info/a4z3.png",
+    "parts_count": 7
+  },
+  {
+    "id": 5489,
+    "diagram_title": "Fuel tank/attaching parts",
+    "image_url": "http://ills.bmwfans.info/272s.png",
+    "parts_count": 24
+  },
+  {
+    "id": 655,
+    "diagram_title": "exp_tank_activated_carbon_container",
+    "image_url": "/static/images/diagrams/E46_318i-N42_fuel_supply_exp_tank_activated_carbon_container.png",
+    "parts_count": 15
+  },
+  {
+    "id": 651,
+    "diagram_title": "expansion_tank",
+    "image_url": "/static/images/diagrams/E46_318i-N42_fuel_supply_expansion_tank.png",
+    "parts_count": 7
+  },
+  {
+    "id": 656,
+    "diagram_title": "fuel_pipe_and_mounting_parts",
+    "image_url": "/static/images/diagrams/E46_318i-N42_fuel_supply_fuel_pipe_and_mounting_parts.png",
+    "parts_count": 14
+  },
+  {
+    "id": 652,
+    "diagram_title": "fuel_pump_and_fuel_level_sensor",
+    "image_url": "/static/images/diagrams/E46_318i-N42_fuel_supply_fuel_pump_and_fuel_level_sensor.png",
+    "parts_count": 7
+  },
+  {
+    "id": 653,
+    "diagram_title": "fuel_tank_attaching_parts",
+    "image_url": "/static/images/diagrams/E46_318i-N42_fuel_supply_fuel_tank_attaching_parts.png",
+    "parts_count": 24
+  }
+]

@@ -1,0 +1,237 @@
+{
+  "id": 5137,
+  "diagram_title": "DVD system Tablet",
+  "image_url": "http://ills.bmwfans.info/csme.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 12 2 209 346",
+      "quantity": 1,
+      "description": "DVD system Tablet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 2 209 346",
+      "quantity": 1,
+      "description": "DVD system Tablet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 12 2 160 230",
+      "quantity": 1,
+      "description": "DVD player tablet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 12 2 293 744",
+      "quantity": 1,
+      "description": "DVD player tablet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 12 2 160 230",
+      "quantity": 1,
+      "description": "DVD player tablet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 12 2 293 744",
+      "quantity": 1,
+      "description": "DVD player tablet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 12 2 160 231",
+      "quantity": 1,
+      "description": "Rear compartment monitor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 12 2 293 745",
+      "quantity": 1,
+      "description": "Rear compartment monitor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 12 2 160 231",
+      "quantity": 1,
+      "description": "Rear compartment monitor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 12 2 293 745",
+      "quantity": 1,
+      "description": "Rear compartment monitor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "65 12 2 166 594",
+      "quantity": 1,
+      "description": "Support left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "65 12 2 166 594",
+      "quantity": 1,
+      "description": "Support left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "65 12 2 166 597",
+      "quantity": 1,
+      "description": "Support right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "65 12 2 166 597",
+      "quantity": 1,
+      "description": "Support right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "65 12 2 166 593",
+      "quantity": 1,
+      "description": "Cable",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "65 12 2 166 593",
+      "quantity": 1,
+      "description": "Cable",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "65 12 2 167 835",
+      "quantity": 1,
+      "description": "IX cable",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "65 12 2 167 835",
+      "quantity": 1,
+      "description": "IX cable",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "65 12 2 166 599",
+      "quantity": 1,
+      "description": "Remote control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "65 12 2 166 599",
+      "quantity": 1,
+      "description": "Remote control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "65 12 2 160 479",
+      "quantity": 2,
+      "description": "Infrared headphones",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "65 12 2 310 487",
+      "quantity": 2,
+      "description": "Infrared headphones",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "65 12 2 160 479",
+      "quantity": 2,
+      "description": "Infrared headphones",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "65 12 2 310 487",
+      "quantity": 2,
+      "description": "Infrared headphones",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "65 12 2 147 946",
+      "quantity": 1,
+      "description": "Upholstery",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "65 12 2 147 946",
+      "quantity": 1,
+      "description": "Upholstery",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "65 12 2 160 482",
+      "quantity": 1,
+      "description": "Cover for battery case",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "65 12 2 160 482",
+      "quantity": 1,
+      "description": "Cover for battery case",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

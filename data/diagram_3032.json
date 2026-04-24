@@ -1,0 +1,29 @@
+{
+  "id": 3032,
+  "diagram_title": "Body skeleton",
+  "image_url": "http://ills.bmwfans.info/aca.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "41 00 8 205 087",
+      "quantity": 1,
+      "description": "Body skeleton",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "41 00 8 205 089",
+      "quantity": 1,
+      "description": "Body skeleton",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

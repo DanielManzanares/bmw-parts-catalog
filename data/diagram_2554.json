@@ -1,0 +1,53 @@
+{
+  "id": 2554,
+  "diagram_title": "Retrofit, lugg. compartm. emrgncy release",
+  "image_url": "http://ills.bmwfans.info/2au5.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 24 7 056 409",
+      "quantity": 1,
+      "description": "Bowden cable, emergency unlocking",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 24 7 056 414",
+      "quantity": 1,
+      "description": "Handle f emergency unlocking",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 24 7 056 413",
+      "quantity": 1,
+      "description": "Clip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 24 7 057 739",
+      "quantity": 1,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 24 7 069 904",
+      "quantity": 1,
+      "description": "Cover, emergency unlocking",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

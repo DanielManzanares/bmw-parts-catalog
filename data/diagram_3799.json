@@ -1,0 +1,53 @@
+{
+  "id": 3799,
+  "diagram_title": "Bracket f body control units and modules",
+  "image_url": "http://ills.bmwfans.info/d0qy.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 35 6 902 269",
+      "quantity": 1,
+      "description": "Bracket for module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 10 8 368 475",
+      "quantity": 1,
+      "description": "Relay bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "17 11 1 709 419",
+      "quantity": 1,
+      "description": "Push-button",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 35 8 363 113",
+      "quantity": 2,
+      "description": "Clip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 13 8 368 490",
+      "quantity": 1,
+      "description": "Relay bracket",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

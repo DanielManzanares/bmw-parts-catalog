@@ -1,0 +1,182 @@
+[
+  {
+    "id": 15,
+    "diagram_title": "Belt Drive Climate Compressor",
+    "image_url": "http://ills.bmwfans.info/2ru7.png",
+    "parts_count": 8
+  },
+  {
+    "id": 12,
+    "diagram_title": "Belt Drive Water Pump/Alternator",
+    "image_url": "http://ills.bmwfans.info/mt.png",
+    "parts_count": 36
+  },
+  {
+    "id": 13,
+    "diagram_title": "Belt Drive Water Pump/Alternator",
+    "image_url": "http://ills.bmwfans.info/ms.png",
+    "parts_count": 34
+  },
+  {
+    "id": 11,
+    "diagram_title": "Belt Drive-Vibration Damper",
+    "image_url": "http://ills.bmwfans.info/mr.png",
+    "parts_count": 18
+  },
+  {
+    "id": 27,
+    "diagram_title": "Cooling System Water Hoses",
+    "image_url": "http://ills.bmwfans.info/pu.png",
+    "parts_count": 42
+  },
+  {
+    "id": 24,
+    "diagram_title": "Cooling system-fan/fan coupling",
+    "image_url": "http://ills.bmwfans.info/ds.png",
+    "parts_count": 16
+  },
+  {
+    "id": 14,
+    "diagram_title": "Crankshaft Connecting Rod",
+    "image_url": "http://ills.bmwfans.info/lm.png",
+    "parts_count": 22
+  },
+  {
+    "id": 18,
+    "diagram_title": "Crankshaft with bearing shells",
+    "image_url": "http://ills.bmwfans.info/a0.png",
+    "parts_count": 92
+  },
+  {
+    "id": 16,
+    "diagram_title": "Crankshaft-Pistons",
+    "image_url": "http://ills.bmwfans.info/95.png",
+    "parts_count": 18
+  },
+  {
+    "id": 10,
+    "diagram_title": "Cylinder Head",
+    "image_url": "http://ills.bmwfans.info/px.png",
+    "parts_count": 42
+  },
+  {
+    "id": 6,
+    "diagram_title": "Cylinder Head Attached Parts",
+    "image_url": "http://ills.bmwfans.info/py.png",
+    "parts_count": 32
+  },
+  {
+    "id": 8,
+    "diagram_title": "Cylinder head cover",
+    "image_url": "http://ills.bmwfans.info/ng.png",
+    "parts_count": 28
+  },
+  {
+    "id": 4,
+    "diagram_title": "Engine Block Mounting Parts",
+    "image_url": "http://ills.bmwfans.info/4o.png",
+    "parts_count": 32
+  },
+  {
+    "id": 2,
+    "diagram_title": "Engine Suspension / Damper",
+    "image_url": "http://ills.bmwfans.info/8i.png",
+    "parts_count": 20
+  },
+  {
+    "id": 3,
+    "diagram_title": "Engine block",
+    "image_url": "http://ills.bmwfans.info/59.png",
+    "parts_count": 22
+  },
+  {
+    "id": 30,
+    "diagram_title": "Exhaust manifold",
+    "image_url": "http://ills.bmwfans.info/kr.png",
+    "parts_count": 14
+  },
+  {
+    "id": 17,
+    "diagram_title": "Flywheel / Twin Mass Flywheel",
+    "image_url": "http://ills.bmwfans.info/48.png",
+    "parts_count": 14
+  },
+  {
+    "id": 28,
+    "diagram_title": "Intake manifold system",
+    "image_url": "http://ills.bmwfans.info/nd.png",
+    "parts_count": 34
+  },
+  {
+    "id": 22,
+    "diagram_title": "Lubrication system-Oil filter",
+    "image_url": "http://ills.bmwfans.info/c4.png",
+    "parts_count": 36
+  },
+  {
+    "id": 23,
+    "diagram_title": "Lubrication system-Oil filter",
+    "image_url": "http://ills.bmwfans.info/rp.png",
+    "parts_count": 6
+  },
+  {
+    "id": 21,
+    "diagram_title": "Lubrication system/Oil pump with drive",
+    "image_url": "http://ills.bmwfans.info/ln.png",
+    "parts_count": 24
+  },
+  {
+    "id": 26,
+    "diagram_title": "Mounting parts f intake manifold system",
+    "image_url": "http://ills.bmwfans.info/nc.png",
+    "parts_count": 22
+  },
+  {
+    "id": 5,
+    "diagram_title": "Oil pan/oil level indicator",
+    "image_url": "http://ills.bmwfans.info/4h.png",
+    "parts_count": 36
+  },
+  {
+    "id": 1,
+    "diagram_title": "Short Engine",
+    "image_url": "http://ills.bmwfans.info/8h.png",
+    "parts_count": 6
+  },
+  {
+    "id": 20,
+    "diagram_title": "Timing and valve train-timing chain",
+    "image_url": "http://ills.bmwfans.info/mi.png",
+    "parts_count": 44
+  },
+  {
+    "id": 7,
+    "diagram_title": "Timing case",
+    "image_url": "http://ills.bmwfans.info/nke.png",
+    "parts_count": 32
+  },
+  {
+    "id": 9,
+    "diagram_title": "Timing case",
+    "image_url": "http://ills.bmwfans.info/nfr.png",
+    "parts_count": 38
+  },
+  {
+    "id": 29,
+    "diagram_title": "Vacuum control — vacuum tube",
+    "image_url": "http://ills.bmwfans.info/3e1a.png",
+    "parts_count": 24
+  },
+  {
+    "id": 19,
+    "diagram_title": "Valve Timing Gear — Cam Shaft",
+    "image_url": "http://ills.bmwfans.info/4g.png",
+    "parts_count": 32
+  },
+  {
+    "id": 25,
+    "diagram_title": "Waterpump — Thermostat",
+    "image_url": "http://ills.bmwfans.info/da.png",
+    "parts_count": 20
+  }
+]

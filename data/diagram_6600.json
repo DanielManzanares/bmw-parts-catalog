@@ -1,0 +1,53 @@
+{
+  "id": 6600,
+  "diagram_title": "Miscellaneous plugs and connectors",
+  "image_url": "http://ills.bmwfans.info/a2gx.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 13 6 905 999",
+      "quantity": 1,
+      "description": "Pin housing, uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 13 8 364 653",
+      "quantity": 1,
+      "description": "Pin terminal",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 13 6 920 056",
+      "quantity": 1,
+      "description": "Socket housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "12 52 1 740 555",
+      "quantity": 1,
+      "description": "Fuse carrier",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "12 52 1 437 020",
+      "quantity": 1,
+      "description": "Plug",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2439,
+    "diagram_title": "Electr.sliding lifting roof operation",
+    "image_url": "http://ills.bmwfans.info/bss.png",
+    "parts_count": 8
+  },
+  {
+    "id": 2435,
+    "diagram_title": "Glass cover",
+    "image_url": "http://ills.bmwfans.info/bso.png",
+    "parts_count": 7
+  },
+  {
+    "id": 2431,
+    "diagram_title": "Single parts for sliding lifting roof",
+    "image_url": "http://ills.bmwfans.info/bt3.png",
+    "parts_count": 46
+  },
+  {
+    "id": 2427,
+    "diagram_title": "Slid.lift. roof-cover/ceiling frame",
+    "image_url": "http://ills.bmwfans.info/bsk.png",
+    "parts_count": 29
+  },
+  {
+    "id": 2443,
+    "diagram_title": "Sliding lifting roof-manual operation",
+    "image_url": "http://ills.bmwfans.info/bs7.png",
+    "parts_count": 7
+  },
+  {
+    "id": 2448,
+    "diagram_title": "Slipstream deflector",
+    "image_url": "http://ills.bmwfans.info/bs4.png",
+    "parts_count": 16
+  },
+  {
+    "id": 2452,
+    "diagram_title": "Trim sliding lifting roof",
+    "image_url": "http://ills.bmwfans.info/bsw.png",
+    "parts_count": 9
+  }
+]

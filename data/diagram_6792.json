@@ -1,0 +1,93 @@
+{
+  "id": 6792,
+  "diagram_title": "Instrument cluster",
+  "image_url": "http://ills.bmwfans.info/35j2.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1641,
+  "category_name": "Instruments, Measuring systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "62 11 6 985 667",
+      "quantity": 1,
+      "description": "Instruments combination uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "62 11 6 985 671",
+      "quantity": 1,
+      "description": "Instruments combination uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "62 11 6 985 668",
+      "quantity": 1,
+      "description": "Instruments combination uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "62 11 6 985 672",
+      "quantity": 1,
+      "description": "Instruments combination uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "62 11 6 985 677",
+      "quantity": 1,
+      "description": "Instruments combination uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "62 11 6 985 678",
+      "quantity": 1,
+      "description": "Instruments combination uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "62 11 6 985 678",
+      "quantity": 1,
+      "description": "Instruments combination uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 14 6 977 362",
+      "quantity": 2,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": "E36, E46, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E91, E91 Facelift, F07, F07 Facelift, F11, F11 Facelift, F15, F16, F25, F26, F86, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 13 8 364 662",
+      "quantity": 1,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 13 6 913 644",
+      "quantity": 1,
+      "description": "Bushing contact",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

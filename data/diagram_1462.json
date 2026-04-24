@@ -1,0 +1,157 @@
+{
+  "id": 1462,
+  "diagram_title": "Cover f reclining front seat fitting",
+  "image_url": "http://ills.bmwfans.info/b5n.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 852 834",
+      "quantity": 1,
+      "description": "Covering lower outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 852 845",
+      "quantity": 1,
+      "description": "Covering lower inner left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 852 846",
+      "quantity": 1,
+      "description": "Covering lower inner right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 912 402",
+      "quantity": 1,
+      "description": "Covering lower outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 912 404",
+      "quantity": 1,
+      "description": "82",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 912 405",
+      "quantity": 1,
+      "description": "Covering lower inner left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 912 406",
+      "quantity": 1,
+      "description": "Covering lower inner right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 912 407",
+      "quantity": 1,
+      "description": "Covering lower inner left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 912 408",
+      "quantity": 1,
+      "description": "Covering lower inner right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 852 834",
+      "quantity": 1,
+      "description": "Covering lower outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 852 845",
+      "quantity": 1,
+      "description": "Covering lower inner left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 852 846",
+      "quantity": 1,
+      "description": "Covering lower inner right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 912 402",
+      "quantity": 1,
+      "description": "Covering lower outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 912 404",
+      "quantity": 1,
+      "description": "82",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 912 405",
+      "quantity": 1,
+      "description": "Covering lower inner left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 912 406",
+      "quantity": 1,
+      "description": "Covering lower inner right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 912 407",
+      "quantity": 1,
+      "description": "Covering lower inner left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 912 408",
+      "quantity": 1,
+      "description": "Covering lower inner right",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

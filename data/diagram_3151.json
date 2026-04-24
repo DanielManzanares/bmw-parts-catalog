@@ -1,0 +1,653 @@
+{
+  "id": 3151,
+  "diagram_title": "Exterior trim / grill",
+  "image_url": "http://ills.bmwfans.info/ejy.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 13 2 233 685",
+      "quantity": 1,
+      "description": "Moulding fender front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 13 2 233 686",
+      "quantity": 1,
+      "description": "Moulding fender front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 13 1 977 603",
+      "quantity": 1,
+      "description": "Moulding fender front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 13 1 977 604",
+      "quantity": 1,
+      "description": "Moulding fender front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 1 977 273",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 1 977 274",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 787",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 2 256 788",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 13 2 233 689",
+      "quantity": 1,
+      "description": "Moulding fender rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 13 2 233 690",
+      "quantity": 1,
+      "description": "Moulding fender rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 13 1 977 247",
+      "quantity": 1,
+      "description": "Moulding fender rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 13 1 977 248",
+      "quantity": 1,
+      "description": "Moulding fender rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 13 1 960 054",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 13 2 251 394",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 13 2 251 639",
+      "quantity": 1,
+      "description": "Circlip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 13 8 144 998",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 13 2 264 146",
+      "quantity": 2,
+      "description": "Badge",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 13 1 960 127",
+      "quantity": 1,
+      "description": "Grommet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 71 1 929 320",
+      "quantity": 2,
+      "description": "Plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 13 2 264 666",
+      "quantity": 2,
+      "description": "Badge",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,669 @@
+{
+  "id": 1304,
+  "diagram_title": "running_meter_leather_walknappa",
+  "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_running_meter_leather_walknappa.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 695 113",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 1 938 942",
+      "quantity": 1,
+      "description": "Upholstery leather, Walknappa",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E53, E60, E61, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 1 938 943",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 250 829",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E24, E30, E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 252 989",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 261 746",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 261 748",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 261 750",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 8 124 349",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 8 124 350",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 2 136 748",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 2 423 379",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 491 598",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 695 110",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 695 111",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 695 115",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 695 116",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 695 509",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 135 184",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 135 684",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 135 874",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 255 201",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E30, E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 255 202",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E30, E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 260 396",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 261 753",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 8 124 351",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 9 064 555",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 2 136 740",
+      "quantity": 1,
+      "description": "Upholstery leather, Walknappa",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, E60, E61, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 2 136 741",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 2 275 509",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 2 423 375",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 2 423 380",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 230 874",
+      "quantity": 1,
+      "description": "Upholstery leather, Walknappa",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 230 877",
+      "quantity": 1,
+      "description": "Upholstery leather, Walknappa",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 230 878",
+      "quantity": 1,
+      "description": "Upholstery leather, Walknappa",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 695 019",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 695 112",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 695 117",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 158 568",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 158 570",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 236 142",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 1 938 945",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 1 938 946",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 1 938 947",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 261 747",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 261 749",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 8 124 352",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 8 124 353",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 8 124 354",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 96 2 237 193",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 2 136 744",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 2 136 745",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 2 136 746",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 2 275 507",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 2 275 511",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 2 275 512",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 2 278 429",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 2 423 376",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 2 423 377",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 2 423 379",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 491 599",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 695 046",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 695 114",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 7 893 969",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 7 894 020",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 9 064 553",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 2 136 747",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 2 275 508",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 2 275 513",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 2 423 378",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 491 596",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 494 071",
+      "quantity": 1,
+      "description": "Leather upholstery, kyalamiorange dark",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 7 042 744",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 7 894 371",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 2 136 750",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 158 567",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 1 938 949",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 261 754",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 8 111 150",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 9 064 557",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 2 136 749",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 2 275 510",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

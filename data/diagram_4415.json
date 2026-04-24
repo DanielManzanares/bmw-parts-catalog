@@ -1,0 +1,61 @@
+{
+  "id": 4415,
+  "diagram_title": "Install.kit turn indicators, white",
+  "image_url": "http://ills.bmwfans.info/zb0.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "63 13 0 141 572",
+      "quantity": 1,
+      "description": "Retrof.kit, frnt direc.indicat. wht/titan",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 13 0 141 567",
+      "quantity": 1,
+      "description": "Retrof.kit, frnt direc.indicat. wht/titan",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 13 0 141 572",
+      "quantity": 1,
+      "description": "Retrof.kit, frnt direc.indicat. wht/titan",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 13 0 141 567",
+      "quantity": 1,
+      "description": "Retrof.kit, frnt direc.indicat. wht/titan",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 21 0 141 573",
+      "quantity": 1,
+      "description": "Install.kit turn indicators, rear, white",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 21 0 141 573",
+      "quantity": 1,
+      "description": "Install.kit turn indicators, rear, white",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

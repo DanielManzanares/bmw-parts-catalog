@@ -1,0 +1,45 @@
+{
+  "id": 2218,
+  "diagram_title": "M leather-covered steering wheel rim I",
+  "image_url": "http://ills.bmwfans.info/d5w.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "32 34 9 404 179",
+      "quantity": 1,
+      "description": "Steering-wheel rim leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 34 9 404 180",
+      "quantity": 1,
+      "description": "Steering-wheel rim leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 34 9 404 181",
+      "quantity": 1,
+      "description": "Steering-wheel rim leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 34 9 404 182",
+      "quantity": 1,
+      "description": "Steering-wheel rim leather",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

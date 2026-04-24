@@ -1,0 +1,85 @@
+{
+  "id": 2124,
+  "diagram_title": "Retrofit, M aerodynamic kit",
+  "image_url": "http://ills.bmwfans.info/2y01.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 11 9 403 142",
+      "quantity": 1,
+      "description": "Retrofit kit, M front spoiler, primed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 9 403 142",
+      "quantity": 1,
+      "description": "Retrofit kit, M front spoiler, primed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 11 9 403 144",
+      "quantity": 1,
+      "description": "Retrofit kit, M moldings",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 11 9 403 141",
+      "quantity": 1,
+      "description": "Retrofit kit, M door sill trim, primed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 11 9 403 143",
+      "quantity": 1,
+      "description": "Retrofit kit, M rear apron, primed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 11 9 403 143",
+      "quantity": 1,
+      "description": "Retrofit kit, M rear apron, primed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 71 2 260 318",
+      "quantity": 1,
+      "description": "Retrofit kit, M rear spoiler, primed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 71 2 260 319",
+      "quantity": 1,
+      "description": "Retrofit kit, M rear spoiler, primed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 25 2 489 862",
+      "quantity": 1,
+      "description": "Stoplamp rear spoiler",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

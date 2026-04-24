@@ -1,0 +1,125 @@
+{
+  "id": 195,
+  "diagram_title": "Third stoplamp",
+  "image_url": "http://ills.bmwfans.info/c64.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 184,
+  "category_name": "Lighting",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "63 25 8 363 491",
+      "quantity": 1,
+      "description": "Third stoplamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 25 8 363 491",
+      "quantity": 1,
+      "description": "Third stoplamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 21 1 379 399",
+      "quantity": 1,
+      "description": "Bulb socket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 21 1 379 399",
+      "quantity": 1,
+      "description": "Bulb socket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 21 7 160 789",
+      "quantity": 1,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 21 6 926 920",
+      "quantity": 1,
+      "description": "Longlife bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 21 7 160 790",
+      "quantity": 1,
+      "description": "04",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 21 7 160 789",
+      "quantity": 1,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 21 6 926 920",
+      "quantity": 1,
+      "description": "Longlife bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 21 7 160 790",
+      "quantity": 1,
+      "description": "04",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "63 25 9 128 043",
+      "quantity": 1,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "63 25 9 128 043",
+      "quantity": 1,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 25 8 360 221",
+      "quantity": 1,
+      "description": "Gasket stoplamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 25 8 360 221",
+      "quantity": 1,
+      "description": "Gasket stoplamp",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

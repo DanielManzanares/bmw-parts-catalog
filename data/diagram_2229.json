@@ -1,0 +1,29 @@
+{
+  "id": 2229,
+  "diagram_title": "\"Woodline\" woodrimmed sport steer. wheel",
+  "image_url": "http://ills.bmwfans.info/d60.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 21 9 401 639",
+      "quantity": 1,
+      "description": "Sports steering wheel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 21 9 401 640",
+      "quantity": 1,
+      "description": "Impact plate",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

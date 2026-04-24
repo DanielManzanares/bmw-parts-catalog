@@ -1,0 +1,21 @@
+{
+  "id": 6463,
+  "diagram_title": "Relay, pulse adapter, black",
+  "image_url": "http://ills.bmwfans.info/emdy.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 35 8 370 947",
+      "quantity": 1,
+      "description": "Pulse adapter",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

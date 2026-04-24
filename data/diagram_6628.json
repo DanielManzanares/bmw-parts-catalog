@@ -1,0 +1,37 @@
+{
+  "id": 6628,
+  "diagram_title": "Air Conditioning Control",
+  "image_url": "http://ills.bmwfans.info/1hhz.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 11 6 931 839",
+      "quantity": 1,
+      "description": "Air Conditioning Control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 11 6 904 311",
+      "quantity": 1,
+      "description": "Front plate of controls air conditioner",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 11 6 908 200",
+      "quantity": 1,
+      "description": "Rotary knob",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "id": 6778,
+  "diagram_title": "Audio wiring harness",
+  "image_url": "http://ills.bmwfans.info/73d.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 934 681",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 934 682",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 941 901",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 941 906",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 941 907",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 941 908",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 956 033",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 956 034",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 956 035",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 934 684",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 934 685",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 941 902",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 934 684",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 934 685",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 941 902",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 956 033",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 956 034",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 956 035",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 956 036",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 956 036",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 956 037",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 956 037",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 956 038",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 956 038",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 956 036",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 956 037",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 956 038",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 956 036",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 956 037",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 956 038",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

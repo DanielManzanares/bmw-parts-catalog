@@ -1,0 +1,173 @@
+{
+  "id": 1064,
+  "diagram_title": "headlight",
+  "image_url": "/static/images/diagrams/E46_320Ci-M54_lighting_headlight.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 184,
+  "category_name": "Lighting",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "63 12 6 920 575",
+      "quantity": 1,
+      "description": "Headlight left, turn indicator yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 6 920 576",
+      "quantity": 1,
+      "description": "Headlight right, turn indicator yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 6 920 617",
+      "quantity": 1,
+      "description": "Headlight left, turn indicator yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 6 920 618",
+      "quantity": 1,
+      "description": "Headlight right, turn indicator yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 7 165 889",
+      "quantity": 1,
+      "description": "Left headlight, white turn indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 7 165 890",
+      "quantity": 1,
+      "description": "Right headlight, white turn indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 7 165 919",
+      "quantity": 1,
+      "description": "Left headlight, white turn indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 7 165 920",
+      "quantity": 1,
+      "description": "Right headlight, white turn indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 6 935 715",
+      "quantity": 1,
+      "description": "Bi-xenon headlight, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 6 935 716",
+      "quantity": 1,
+      "description": "Bi-xenon headlight, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 6 935 731",
+      "quantity": 1,
+      "description": "Bi-xenon headlight, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 6 935 732",
+      "quantity": 1,
+      "description": "Bi-xenon headlight, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 7 165 939",
+      "quantity": 1,
+      "description": "Bi-xenon headlight, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 7 165 940",
+      "quantity": 1,
+      "description": "Bi-xenon headlight, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 7 165 957",
+      "quantity": 1,
+      "description": "Bi-xenon headlight, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 7 165 958",
+      "quantity": 1,
+      "description": "Bi-xenon headlight, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 6 935 733",
+      "quantity": 1,
+      "description": "Bi-xenon headlight AKL, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 6 935 734",
+      "quantity": 1,
+      "description": "Bi-xenon headlight AKL, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 7 165 959",
+      "quantity": 1,
+      "description": "Bi-xenon headlight AKL, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 7 165 960",
+      "quantity": 1,
+      "description": "Bi-xenon headlight AKL, right",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

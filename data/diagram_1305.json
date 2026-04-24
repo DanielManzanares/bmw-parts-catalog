@@ -1,0 +1,349 @@
+{
+  "id": 1305,
+  "diagram_title": "cover_material_running_meter",
+  "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_cover_material_running_meter.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 179 796",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39, E46, E53"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 248 028",
+      "quantity": 1,
+      "description": "Imitation leather",
+      "price_eur": null,
+      "compatible_models": "E46, E53"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 153 518",
+      "quantity": 1,
+      "description": "Upholstery imitation leathear",
+      "price_eur": null,
+      "compatible_models": "E36, E46, E53"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 174 044",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39, E46, E53"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 7 154 277",
+      "quantity": 1,
+      "description": "Leather upholstery, Oregon uni",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 7 000 050",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 171 304",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39, E46, E53"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 7 042 734",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 237 362",
+      "quantity": 1,
+      "description": "Leather upholstery, Oregon uni",
+      "price_eur": null,
+      "compatible_models": "E36, E46, E85, E86, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 7 154 278",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 218 034",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 218 308",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 7 019 771",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 7 894 864",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 7 894 863",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 7 000 842",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 158 676",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 7 049 458",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 7 041 504",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 7 042 750",
+      "quantity": 1,
+      "description": "Upholstery leather, Walknappa",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 7 042 749",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 7 042 748",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 7 041 480",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 7 041 479",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 7 894 865",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 7 041 502",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 7 041 503",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 7 154 558",
+      "quantity": 1,
+      "description": "Flat textile Finolino",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 7 154 557",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 7 113 418",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 7 113 417",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 174 058",
+      "quantity": 1,
+      "description": "Upholstery leather, Nappa Soft",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 158 566",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 7 014 834",
+      "quantity": 1,
+      "description": "Leather upholstery, Oregon uni",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 7 042 738",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 7 041 512",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 7 041 494",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 7 041 510",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 7 044 778",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 7 154 279",
+      "quantity": 1,
+      "description": "Leather upholstery, Oregon uni",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 237 362",
+      "quantity": 1,
+      "description": "Leather upholstery, Oregon uni",
+      "price_eur": null,
+      "compatible_models": "E36, E46, E85, E86, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 94 1 938 942",
+      "quantity": 1,
+      "description": "Upholstery leather, Walknappa",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E53, E60, E61, Z3"
+    }
+  ]
+}

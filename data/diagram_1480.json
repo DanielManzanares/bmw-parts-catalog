@@ -1,0 +1,205 @@
+{
+  "id": 1480,
+  "diagram_title": "Bmw sports seat coverings",
+  "image_url": "http://ills.bmwfans.info/b6v.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 904 819",
+      "quantity": 1,
+      "description": "Cover panel outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 904 820",
+      "quantity": 1,
+      "description": "Cover panel outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 904 821",
+      "quantity": 1,
+      "description": "Covering inner left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 904 822",
+      "quantity": 1,
+      "description": "Covering inner right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 926 791",
+      "quantity": 1,
+      "description": "Cover panel outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 926 792",
+      "quantity": 1,
+      "description": "Cover panel outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 926 793",
+      "quantity": 1,
+      "description": "Cover panel outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 926 794",
+      "quantity": 1,
+      "description": "Cover panel outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 926 795",
+      "quantity": 1,
+      "description": "Covering inner left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 926 796",
+      "quantity": 1,
+      "description": "Covering inner right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 926 797",
+      "quantity": 1,
+      "description": "Covering inner left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 926 798",
+      "quantity": 1,
+      "description": "Covering inner right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 904 819",
+      "quantity": 1,
+      "description": "Cover panel outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 904 820",
+      "quantity": 1,
+      "description": "Cover panel outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 904 821",
+      "quantity": 1,
+      "description": "Covering inner left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 904 822",
+      "quantity": 1,
+      "description": "Covering inner right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 926 791",
+      "quantity": 1,
+      "description": "Cover panel outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 926 792",
+      "quantity": 1,
+      "description": "Cover panel outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 926 793",
+      "quantity": 1,
+      "description": "Cover panel outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 926 794",
+      "quantity": 1,
+      "description": "Cover panel outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 926 795",
+      "quantity": 1,
+      "description": "Covering inner left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 926 796",
+      "quantity": 1,
+      "description": "Covering inner right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 926 797",
+      "quantity": 1,
+      "description": "Covering inner left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 926 798",
+      "quantity": 1,
+      "description": "Covering inner right",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

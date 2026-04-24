@@ -1,0 +1,29 @@
+{
+  "id": 7517,
+  "diagram_title": "Indiv.lateral trim panel, airbag",
+  "image_url": "http://ills.bmwfans.info/1mm2.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 011 565",
+      "quantity": 1,
+      "description": "Lateral trim panel, rear left, airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 011 566",
+      "quantity": 1,
+      "description": "Lateral trim panel, rear left, airbag",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

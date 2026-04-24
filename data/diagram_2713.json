@@ -1,0 +1,109 @@
+{
+  "id": 2713,
+  "diagram_title": "Alarm system",
+  "image_url": "http://ills.bmwfans.info/d7i.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "14",
+      "part_number": "82 92 9 404 903",
+      "quantity": 1,
+      "description": "Remote control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "82 92 9 402 530",
+      "quantity": 1,
+      "description": "Remote control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "82 92 9 402 875",
+      "quantity": 1,
+      "description": "Remote control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "82 92 9 404 800",
+      "quantity": 1,
+      "description": "Remote control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "82 92 9 404 902",
+      "quantity": 1,
+      "description": "Multiple start interruption",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "82 91 9 405 304",
+      "quantity": 1,
+      "description": "Multiple start interruption",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "82 91 9 402 871",
+      "quantity": 1,
+      "description": "Multiple start interruption",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "82 91 9 402 528",
+      "quantity": 1,
+      "description": "Multiple start interruption",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "82 92 9 404 322",
+      "quantity": 1,
+      "description": "Wiring set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "82 92 9 404 323",
+      "quantity": 1,
+      "description": "Wiring set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "82 91 9 404 769",
+      "quantity": 1,
+      "description": "Installation kit alarm system",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "82 91 9 405 301",
+      "quantity": 1,
+      "description": "Installation kit alarm system",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "id": 6246,
+  "diagram_title": "Interior trim finishers",
+  "image_url": "http://ills.bmwfans.info/ral.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 45 8 234 729",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 45 8 234 731",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 45 8 234 733",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 45 8 235 581",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 45 7 047 130",
+      "quantity": 1,
+      "description": "Decorative strip, alum., I-panel, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 45 8 234 743",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 45 8 234 744",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 45 8 234 745",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 45 8 235 574",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 45 7 047 131",
+      "quantity": 1,
+      "description": "Decorative strip, alum., I-panel, center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 45 8 234 730",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 45 8 234 732",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 45 8 234 734",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 45 8 235 582",
+      "quantity": 1,
+      "description": "Decorative strip, dashboard right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 45 7 047 132",
+      "quantity": 1,
+      "description": "Decorative strip, alum., I-panel, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 41 7 902 873",
+      "quantity": 1,
+      "description": "Set of decorative strips, aluminium",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 45 8 266 814",
+      "quantity": 7,
+      "description": "Insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 45 8 266 808",
+      "quantity": 1,
+      "description": "Pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 45 8 266 813",
+      "quantity": 1,
+      "description": "Threaded bolt",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

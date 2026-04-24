@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1558,
+    "diagram_title": "ASC hydro unit/control unit/support",
+    "image_url": "http://ills.bmwfans.info/3nyc.png",
+    "parts_count": 20
+  },
+  {
+    "id": 1563,
+    "diagram_title": "Brake master cylinder DSC",
+    "image_url": "http://ills.bmwfans.info/38qk.png",
+    "parts_count": 20
+  },
+  {
+    "id": 1562,
+    "diagram_title": "Brake master cylinder/expansion tank",
+    "image_url": "http://ills.bmwfans.info/cqxu.png",
+    "parts_count": 22
+  },
+  {
+    "id": 1554,
+    "diagram_title": "Brake pipe front abs/asc+t",
+    "image_url": "http://ills.bmwfans.info/1isc.png",
+    "parts_count": 24
+  },
+  {
+    "id": 1556,
+    "diagram_title": "Brake pipe rear abs/asc+t",
+    "image_url": "http://ills.bmwfans.info/kmn.png",
+    "parts_count": 30
+  },
+  {
+    "id": 1560,
+    "diagram_title": "DSC compressor/senors/mounting parts",
+    "image_url": "http://ills.bmwfans.info/2wjc.png",
+    "parts_count": 50
+  },
+  {
+    "id": 1561,
+    "diagram_title": "DSC compressor/senors/mounting parts",
+    "image_url": "http://ills.bmwfans.info/zht.png",
+    "parts_count": 42
+  },
+  {
+    "id": 1551,
+    "diagram_title": "Front brake / brake disc",
+    "image_url": "http://ills.bmwfans.info/3bnq.png",
+    "parts_count": 14
+  },
+  {
+    "id": 1550,
+    "diagram_title": "Front brake pad wear sensor",
+    "image_url": "http://ills.bmwfans.info/10cz.png",
+    "parts_count": 30
+  },
+  {
+    "id": 1555,
+    "diagram_title": "Front brake pipe, DSC",
+    "image_url": "http://ills.bmwfans.info/phb.png",
+    "parts_count": 36
+  },
+  {
+    "id": 1565,
+    "diagram_title": "Handbrake lever",
+    "image_url": "http://ills.bmwfans.info/1h8x.png",
+    "parts_count": 14
+  },
+  {
+    "id": 1559,
+    "diagram_title": "Hydro unit DSC/control unit/fastening",
+    "image_url": "http://ills.bmwfans.info/a3ex.png",
+    "parts_count": 22
+  },
+  {
+    "id": 1567,
+    "diagram_title": "Parking brake/brake shoes",
+    "image_url": "http://ills.bmwfans.info/bjfw.png",
+    "parts_count": 18
+  },
+  {
+    "id": 1564,
+    "diagram_title": "Power brake unit depression",
+    "image_url": "http://ills.bmwfans.info/1jfp.png",
+    "parts_count": 28
+  },
+  {
+    "id": 1552,
+    "diagram_title": "Rear brake / brake pad / wear sensor",
+    "image_url": "http://ills.bmwfans.info/13wa.png",
+    "parts_count": 30
+  },
+  {
+    "id": 1557,
+    "diagram_title": "Rear brake pipe DSC",
+    "image_url": "http://ills.bmwfans.info/x1s.png",
+    "parts_count": 40
+  },
+  {
+    "id": 1553,
+    "diagram_title": "Rear wheel brake / brake disc",
+    "image_url": "http://ills.bmwfans.info/13wb.png",
+    "parts_count": 14
+  },
+  {
+    "id": 1549,
+    "diagram_title": "Service Kit for brake pads / Value Line",
+    "image_url": "http://ills.bmwfans.info/av2v.png",
+    "parts_count": 4
+  },
+  {
+    "id": 1566,
+    "diagram_title": "Service Kit for brake shoes / Value Line",
+    "image_url": "http://ills.bmwfans.info/bj3e.png",
+    "parts_count": 2
+  }
+]

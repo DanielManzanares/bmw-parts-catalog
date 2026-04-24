@@ -1,0 +1,122 @@
+[
+  {
+    "id": 5595,
+    "diagram_title": "A5S360R/390R Output",
+    "image_url": "http://ills.bmwfans.info/1ymj.png",
+    "parts_count": 7
+  },
+  {
+    "id": 5600,
+    "diagram_title": "A5S360R/390R ctrl unit with mount.parts",
+    "image_url": "http://ills.bmwfans.info/36ju.png",
+    "parts_count": 11
+  },
+  {
+    "id": 5598,
+    "diagram_title": "A5S360R/390R gear shifting part",
+    "image_url": "http://ills.bmwfans.info/1ynj.png",
+    "parts_count": 3
+  },
+  {
+    "id": 5592,
+    "diagram_title": "A5S360R/390R oil pan/oil strainer",
+    "image_url": "http://ills.bmwfans.info/1yn5.png",
+    "parts_count": 8
+  },
+  {
+    "id": 5590,
+    "diagram_title": "A5S360R/390R seals/speed sensor",
+    "image_url": "http://ills.bmwfans.info/1ymn.png",
+    "parts_count": 7
+  },
+  {
+    "id": 5581,
+    "diagram_title": "Automatic transmission A5S360R / A5S390R",
+    "image_url": "http://ills.bmwfans.info/dqnu.png",
+    "parts_count": 5
+  },
+  {
+    "id": 5605,
+    "diagram_title": "Basic control unit egs",
+    "image_url": "http://ills.bmwfans.info/3htb.png",
+    "parts_count": 2
+  },
+  {
+    "id": 5602,
+    "diagram_title": "Control unit EGS, programmed",
+    "image_url": "http://ills.bmwfans.info/j5v.png",
+    "parts_count": 2
+  },
+  {
+    "id": 5587,
+    "diagram_title": "Fluid-change kit, autom. transmission",
+    "image_url": "http://ills.bmwfans.info/c4tx.png",
+    "parts_count": 4
+  },
+  {
+    "id": 5584,
+    "diagram_title": "Gearbox mounting",
+    "image_url": "http://ills.bmwfans.info/1ter.png",
+    "parts_count": 5
+  },
+  {
+    "id": 681,
+    "diagram_title": "a5s360r_390r_ctrl_unit_with_mount_parts",
+    "image_url": "/static/images/diagrams/E46_318i-N42_automatic_transmission_a5s360r_390r_ctrl_unit_with_mount_parts.png",
+    "parts_count": 11
+  },
+  {
+    "id": 678,
+    "diagram_title": "a5s360r_390r_gear_shifting_part",
+    "image_url": "/static/images/diagrams/E46_318i-N42_automatic_transmission_a5s360r_390r_gear_shifting_part.png",
+    "parts_count": 3
+  },
+  {
+    "id": 676,
+    "diagram_title": "a5s360r_390r_oil_pan_oil_strainer",
+    "image_url": "/static/images/diagrams/E46_318i-N42_automatic_transmission_a5s360r_390r_oil_pan_oil_strainer.png",
+    "parts_count": 8
+  },
+  {
+    "id": 674,
+    "diagram_title": "a5s360r_390r_output",
+    "image_url": "/static/images/diagrams/E46_318i-N42_automatic_transmission_a5s360r_390r_output.png",
+    "parts_count": 7
+  },
+  {
+    "id": 669,
+    "diagram_title": "a5s360r_390r_seals_speed_sensor",
+    "image_url": "/static/images/diagrams/E46_318i-N42_automatic_transmission_a5s360r_390r_seals_speed_sensor.png",
+    "parts_count": 6
+  },
+  {
+    "id": 673,
+    "diagram_title": "automatic_transmission_a5s360r_a5s390r",
+    "image_url": "/static/images/diagrams/E46_318i-N42_automatic_transmission_automatic_transmission_a5s360r_a5s390r.png",
+    "parts_count": 5
+  },
+  {
+    "id": 680,
+    "diagram_title": "basic_control_unit_egs",
+    "image_url": "/static/images/diagrams/E46_318i-N42_automatic_transmission_basic_control_unit_egs.png",
+    "parts_count": 2
+  },
+  {
+    "id": 679,
+    "diagram_title": "control_unit_egs_programmed",
+    "image_url": "/static/images/diagrams/E46_318i-N42_automatic_transmission_control_unit_egs_programmed.png",
+    "parts_count": 2
+  },
+  {
+    "id": 675,
+    "diagram_title": "fluid_change_kit_autom_transmission",
+    "image_url": "/static/images/diagrams/E46_318i-N42_automatic_transmission_fluid_change_kit_autom_transmission.png",
+    "parts_count": 4
+  },
+  {
+    "id": 672,
+    "diagram_title": "gearbox_mounting",
+    "image_url": "/static/images/diagrams/E46_318i-N42_automatic_transmission_gearbox_mounting.png",
+    "parts_count": 5
+  }
+]

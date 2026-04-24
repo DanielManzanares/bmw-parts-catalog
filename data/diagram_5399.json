@@ -1,0 +1,21 @@
+{
+  "id": 5399,
+  "diagram_title": "Various parts, wiring harness repair",
+  "image_url": "http://ills.bmwfans.info/3xcy.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "4",
+      "part_number": "12 52 7 506 431",
+      "quantity": 1,
+      "description": "Protection cap",
+      "price_eur": null,
+      "compatible_models": "E46"
+    }
+  ]
+}

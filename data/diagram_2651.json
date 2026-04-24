@@ -1,0 +1,237 @@
+{
+  "id": 2651,
+  "diagram_title": "Outflow nozzles/covers",
+  "image_url": "http://ills.bmwfans.info/cmp.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 45 1 874 471",
+      "quantity": 1,
+      "description": "Defroster nozzle left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 902 412",
+      "quantity": 8,
+      "description": "Recessed oval head sheet-metal screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 21 1 865 837",
+      "quantity": 8,
+      "description": "Recessed oval head sheet-metal screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 45 1 874 472",
+      "quantity": 1,
+      "description": "Defroster nozzle right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 45 1 874 470",
+      "quantity": 2,
+      "description": "Defroster nozzle",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 45 1 929 204",
+      "quantity": 2,
+      "description": "Defroster nozzle",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 45 1 929 205",
+      "quantity": 2,
+      "description": "Defroster nozzle",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 45 1 972 521",
+      "quantity": 2,
+      "description": "Defroster nozzle",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 45 1 972 523",
+      "quantity": 2,
+      "description": "Defroster nozzle",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 45 1 972 525",
+      "quantity": 2,
+      "description": "Defroster nozzle",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 11 9 907 963",
+      "quantity": 3,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 45 1 874 477",
+      "quantity": 1,
+      "description": "Hot air hose lateral",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 45 1 874 478",
+      "quantity": 1,
+      "description": "Hot air hose lateral",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 45 1 874 479",
+      "quantity": 1,
+      "description": "Cold air duct center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 45 1 874 489",
+      "quantity": 1,
+      "description": "Cold air duct left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 45 1 874 490",
+      "quantity": 1,
+      "description": "Cold air duct right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "64 21 1 367 459",
+      "quantity": 1,
+      "description": "Connection piece left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "64 21 1 367 460",
+      "quantity": 1,
+      "description": "Connection piece right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "64 11 1 355 863",
+      "quantity": 2,
+      "description": "Plastic rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "64 22 1 368 013",
+      "quantity": 1,
+      "description": "Covering piece",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "64 11 1 368 721",
+      "quantity": 1,
+      "description": "Air channel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "64 11 1 368 722",
+      "quantity": 1,
+      "description": "Air channel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "64 22 1 367 385",
+      "quantity": 1,
+      "description": "Fresh air grille, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "64 22 1 367 388",
+      "quantity": 1,
+      "description": "Fresh air grille, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "64 22 1 367 390",
+      "quantity": 1,
+      "description": "Fresh air grille center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "07 11 9 906 706",
+      "quantity": 4,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "51 45 1 854 011",
+      "quantity": 4,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "51 45 8 391 548",
+      "quantity": 4,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

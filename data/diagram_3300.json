@@ -1,0 +1,21 @@
+{
+  "id": 3300,
+  "diagram_title": "Wiring harness, front section",
+  "image_url": "http://ills.bmwfans.info/c3q.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 11 8 368 373",
+      "quantity": 1,
+      "description": "Wiring harness, front section",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

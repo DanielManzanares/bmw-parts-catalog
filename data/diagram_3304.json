@@ -1,0 +1,21 @@
+{
+  "id": 3304,
+  "diagram_title": "Repair wiring for trunk lid",
+  "image_url": "http://ills.bmwfans.info/ca8.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 12 8 391 788",
+      "quantity": 1,
+      "description": "Repair wiring set for trunk lid",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": 5107,
+  "diagram_title": "Snap-in adapter, SONY ERICSSON devices",
+  "image_url": "http://ills.bmwfans.info/bzo0.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "84 21 9 147 614",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 9 116 566",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 0 442 788",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 2 151 736",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 6 925 216",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 0 303 561",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 9 122 423",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 0 445 595",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 9 147 614",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 9 116 566",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 0 442 788",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 2 151 736",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 6 925 216",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 0 303 561",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 9 122 423",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 0 445 595",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

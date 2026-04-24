@@ -1,0 +1,2365 @@
+{
+  "id": 389,
+  "diagram_title": "Cover material, running meter",
+  "image_url": "http://ills.bmwfans.info/b9t.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 98 8 124 239",
+      "quantity": 1,
+      "description": "Upholstery leather, water buffalo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 171 304",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39, E46, E53"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 171 304",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39, E46, E53"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 171 305",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 171 306",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 1 930 092",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E3, E30, E32, E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 8 119 683",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 8 124 350",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 8 137 436",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 8 119 682",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 8 107 971",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E30, E32, E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 8 119 684",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 8 119 685",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 1 938 942",
+      "quantity": 1,
+      "description": "Upholstery leather, Walknappa",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E53, E60, E61, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 250 829",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E24, E30, E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 260 396",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 261 746",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 261 750",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 261 753",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 261 754",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 2 136 746",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 146 992",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 146 993",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 171 304",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39, E46, E53"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 146 990",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 146 991",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 171 304",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39, E46, E53"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 171 304",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39, E46, E53"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 171 305",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 171 306",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 171 307",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 171 308",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 171 309",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 171 310",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 8 124 239",
+      "quantity": 1,
+      "description": "Upholstery leather, water buffalo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 171 304",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39, E46, E53"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 171 304",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39, E46, E53"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 171 305",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 171 306",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 1 930 092",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E3, E30, E32, E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 8 119 683",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 8 124 350",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 8 137 436",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 8 119 682",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 8 107 971",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E30, E32, E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 8 119 684",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 8 119 685",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 1 938 942",
+      "quantity": 1,
+      "description": "Upholstery leather, Walknappa",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E53, E60, E61, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 250 829",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E24, E30, E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 260 396",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 261 746",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 261 750",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 261 753",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 94 2 261 754",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 2 136 746",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 146 992",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 146 993",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 171 304",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39, E46, E53"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 146 990",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 146 991",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 171 304",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39, E46, E53"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 171 304",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39, E46, E53"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 171 305",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 171 306",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 171 307",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 171 308",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 171 309",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 171 310",
+      "quantity": 1,
+      "description": "Upholstery leather, Montana",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 171 537",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 171 538",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 171 539",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 171 540",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 153 518",
+      "quantity": 1,
+      "description": "Upholstery imitation leathear",
+      "price_eur": null,
+      "compatible_models": "E36, E46, E53"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 153 520",
+      "quantity": 1,
+      "description": "Upholstery imitation leathear",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 153 522",
+      "quantity": 1,
+      "description": "Upholstery imitation leathear",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 171 375",
+      "quantity": 1,
+      "description": "Upholstery imitation leathear",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 171 343",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 171 344",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 171 345",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 179 756",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 202 978",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 251 804",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 251 809",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 261 655",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 151 776",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 151 777",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 151 778",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 151 779",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 170 284",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 170 285",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 170 286",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 167 767",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 179 957",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 179 959",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 179 966",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 259 559",
+      "quantity": 1,
+      "description": "Upholstery cloth, Millpoint",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 259 560",
+      "quantity": 1,
+      "description": "Upholstery cloth, Millpoint",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 259 561",
+      "quantity": 1,
+      "description": "Upholstery cloth, Millpoint",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 167 753",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 167 756",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 239 989",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 493 751",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, patterned",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 173 135",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 175 000",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 174 934",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 9 064 515",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 9 064 516",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 9 064 517",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 9 064 518",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 171 343",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 171 344",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 171 345",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 168 242",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 168 245",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 168 251",
+      "quantity": 1,
+      "description": "98",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 239 985",
+      "quantity": 1,
+      "description": "98",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 239 986",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 167 754",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 167 755",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 167 749",
+      "quantity": 1,
+      "description": "98",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 167 750",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 167 751",
+      "quantity": 1,
+      "description": "98",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 492 943",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, patterned",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 167 778",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 167 779",
+      "quantity": 1,
+      "description": "98",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 167 780",
+      "quantity": 1,
+      "description": "98",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 168 201",
+      "quantity": 1,
+      "description": "98",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 171 537",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 171 538",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 171 539",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 171 540",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 153 518",
+      "quantity": 1,
+      "description": "Upholstery imitation leathear",
+      "price_eur": null,
+      "compatible_models": "E36, E46, E53"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 153 520",
+      "quantity": 1,
+      "description": "Upholstery imitation leathear",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 153 522",
+      "quantity": 1,
+      "description": "Upholstery imitation leathear",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 171 375",
+      "quantity": 1,
+      "description": "Upholstery imitation leathear",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 171 343",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 171 344",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 171 345",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 179 756",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 202 978",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 251 804",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 251 809",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 261 655",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 151 776",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 151 777",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 151 778",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 151 779",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 170 284",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 170 285",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 170 286",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 167 767",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 179 957",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 179 959",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 179 966",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 259 559",
+      "quantity": 1,
+      "description": "Upholstery cloth, Millpoint",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 259 560",
+      "quantity": 1,
+      "description": "Upholstery cloth, Millpoint",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 259 561",
+      "quantity": 1,
+      "description": "Upholstery cloth, Millpoint",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 167 753",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 167 756",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 239 989",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 493 751",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, patterned",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 173 135",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 175 000",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 174 934",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 9 064 515",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 9 064 516",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 9 064 517",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 9 064 518",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 171 343",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 171 344",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 171 345",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 168 242",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 168 245",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 168 251",
+      "quantity": 1,
+      "description": "98",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 239 985",
+      "quantity": 1,
+      "description": "98",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 239 986",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 167 754",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 167 755",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 167 749",
+      "quantity": 1,
+      "description": "98",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 167 750",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 167 751",
+      "quantity": 1,
+      "description": "98",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 492 943",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, patterned",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 167 778",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 167 779",
+      "quantity": 1,
+      "description": "98",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 167 780",
+      "quantity": 1,
+      "description": "98",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 168 201",
+      "quantity": 1,
+      "description": "98",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 130 441",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 130 442",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 130 443",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 130 444",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 130 445",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 190 665",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 190 666",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 190 667",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 190 668",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 153 520",
+      "quantity": 1,
+      "description": "Upholstery imitation leathear",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 171 374",
+      "quantity": 1,
+      "description": "Upholstery imitation leathear",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 171 375",
+      "quantity": 1,
+      "description": "Upholstery imitation leathear",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 137 420",
+      "quantity": 1,
+      "description": "Upholstery imitation leathear",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 153 512",
+      "quantity": 1,
+      "description": "Upholstery imitation leathear",
+      "price_eur": null,
+      "compatible_models": "E12, E24, E30, E32, E34, E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 153 516",
+      "quantity": 1,
+      "description": "Upholstery imitation leathear",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 179 760",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 196 171",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 196 173",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 203 420",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 203 435",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 2 251 996",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 2 261 657",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 151 782",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 151 783",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 151 784",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 151 785",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 170 290",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 170 291",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 170 292",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 179 962",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 179 965",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 187 660",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 187 661",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 187 663",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 190 380",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 239 991",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 222 596",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 222 595",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 86 8 121 764",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E30, E32, E34, E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 119 990",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E30, E32, E34, E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 119 991",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E30, E32, E34, E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 152 963",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E30, E32, E34, E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 196 171",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 196 175",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 187 662",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 190 381",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 192 761",
+      "quantity": 1,
+      "description": "98",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 192 762",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 2 492 944",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, unicolored",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 167 778",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 167 779",
+      "quantity": 1,
+      "description": "98",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 167 780",
+      "quantity": 1,
+      "description": "98",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 168 201",
+      "quantity": 1,
+      "description": "98",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 2 251 995",
+      "quantity": 1,
+      "description": "Cloth \"Amaretta\"",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 130 441",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 130 442",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 130 443",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 130 444",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 130 445",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 190 665",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 190 666",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 190 667",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 190 668",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 153 520",
+      "quantity": 1,
+      "description": "Upholstery imitation leathear",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 171 374",
+      "quantity": 1,
+      "description": "Upholstery imitation leathear",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 171 375",
+      "quantity": 1,
+      "description": "Upholstery imitation leathear",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 137 420",
+      "quantity": 1,
+      "description": "Upholstery imitation leathear",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 153 512",
+      "quantity": 1,
+      "description": "Upholstery imitation leathear",
+      "price_eur": null,
+      "compatible_models": "E12, E24, E30, E32, E34, E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 153 516",
+      "quantity": 1,
+      "description": "Upholstery imitation leathear",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 179 760",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 196 171",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 196 173",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 203 420",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 203 435",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 2 251 996",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 2 261 657",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 151 782",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 151 783",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 151 784",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 151 785",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 170 290",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 170 291",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 170 292",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 179 962",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 179 965",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 187 660",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 187 661",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 187 663",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 190 380",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 239 991",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 222 596",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 222 595",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 86 8 121 764",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E30, E32, E34, E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 119 990",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E30, E32, E34, E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 119 991",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E30, E32, E34, E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 152 963",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E30, E32, E34, E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 196 171",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 196 175",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 187 662",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 190 381",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 192 761",
+      "quantity": 1,
+      "description": "98",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 192 762",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 2 492 944",
+      "quantity": 1,
+      "description": "Upholstery cloth Boa/Boa, unicolored",
+      "price_eur": null,
+      "compatible_models": "E36, E39"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 167 778",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 167 779",
+      "quantity": 1,
+      "description": "98",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 167 780",
+      "quantity": 1,
+      "description": "98",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 8 168 201",
+      "quantity": 1,
+      "description": "98",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 2 251 995",
+      "quantity": 1,
+      "description": "Cloth \"Amaretta\"",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    }
+  ]
+}

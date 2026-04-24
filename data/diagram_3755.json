@@ -1,0 +1,77 @@
+{
+  "id": 3755,
+  "diagram_title": "Repair parts, coaxial cable contacts",
+  "image_url": "http://ills.bmwfans.info/b5bk.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 13 6 918 332",
+      "quantity": 1,
+      "description": "HF socket terminal",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 13 6 918 294",
+      "quantity": 1,
+      "description": "HF socket contact, angular",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 13 6 918 333",
+      "quantity": 1,
+      "description": "HF pin terminal",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 13 6 931 431",
+      "quantity": 1,
+      "description": "HF contact pin, angular",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 13 6 931 461",
+      "quantity": 1,
+      "description": "SMB terminal pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 13 6 931 482",
+      "quantity": 1,
+      "description": "SMB socket contact",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "61 13 6 938 662",
+      "quantity": 1,
+      "description": "SMB socket contact, angular",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "61 12 9 233 701",
+      "quantity": 1,
+      "description": "Coaxial cable",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

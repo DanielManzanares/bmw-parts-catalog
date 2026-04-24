@@ -1,0 +1,61 @@
+{
+  "id": 4810,
+  "diagram_title": "Railing carrier",
+  "image_url": "http://ills.bmwfans.info/2u39.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "82 12 9 413 122",
+      "quantity": 2,
+      "description": "Profile cover, top",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 12 9 413 122",
+      "quantity": 2,
+      "description": "Profile cover, top",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 79 0 306 965",
+      "quantity": 4,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 79 0 306 965",
+      "quantity": 4,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 79 9 405 012",
+      "quantity": 1,
+      "description": "Key (Code)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 79 9 405 012",
+      "quantity": 1,
+      "description": "Key (Code)",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

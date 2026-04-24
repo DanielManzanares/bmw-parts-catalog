@@ -1,0 +1,157 @@
+{
+  "id": 1950,
+  "diagram_title": "Easy-on/Easy-off Seat Cover",
+  "image_url": "http://ills.bmwfans.info/mvh.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 11 1 467 706",
+      "quantity": 1,
+      "description": "Seat cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 1 467 708",
+      "quantity": 1,
+      "description": "Seat cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 1 467 710",
+      "quantity": 1,
+      "description": "Seat cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 1 467 705",
+      "quantity": 1,
+      "description": "Seat cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 1 467 707",
+      "quantity": 1,
+      "description": "Seat cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 1 467 709",
+      "quantity": 1,
+      "description": "Seat cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 1 467 706",
+      "quantity": 1,
+      "description": "Seat cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 1 467 708",
+      "quantity": 1,
+      "description": "Seat cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 1 467 710",
+      "quantity": 1,
+      "description": "Seat cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 1 467 705",
+      "quantity": 1,
+      "description": "Seat cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 1 467 707",
+      "quantity": 1,
+      "description": "Seat cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 1 467 709",
+      "quantity": 1,
+      "description": "Seat cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 1 467 706",
+      "quantity": 1,
+      "description": "Seat cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 1 467 708",
+      "quantity": 1,
+      "description": "Seat cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 1 467 710",
+      "quantity": 1,
+      "description": "Seat cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 1 467 705",
+      "quantity": 1,
+      "description": "Seat cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 1 467 707",
+      "quantity": 1,
+      "description": "Seat cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 1 467 709",
+      "quantity": 1,
+      "description": "Seat cover",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

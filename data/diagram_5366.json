@@ -1,0 +1,21 @@
+{
+  "id": 5366,
+  "diagram_title": "Valve timing gear, cntrl unit Valvetronic",
+  "image_url": "http://ills.bmwfans.info/1su4.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1,
+  "category_name": "Engine",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 527 313",
+      "quantity": 1,
+      "description": "AT-Valvetronic control unit",
+      "price_eur": null,
+      "compatible_models": "E46"
+    }
+  ]
+}

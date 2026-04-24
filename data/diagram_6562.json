@@ -1,0 +1,45 @@
+{
+  "id": 6562,
+  "diagram_title": "Various cable terminals",
+  "image_url": "http://ills.bmwfans.info/2sjx.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 13 1 382 548",
+      "quantity": 1,
+      "description": "Cable terminal",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 13 1 388 431",
+      "quantity": 1,
+      "description": "Cable terminal",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 13 1 388 865",
+      "quantity": 1,
+      "description": "Cable terminal",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 13 8 353 763",
+      "quantity": 1,
+      "description": "Cable terminal",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": 2983,
+  "diagram_title": "Oil cooling, automatic gearbox A5S325Z",
+  "image_url": "http://ills.bmwfans.info/ikd.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1536,
+  "category_name": "Radiator",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "17 22 7 505 826",
+      "quantity": 1,
+      "description": "Heat exchanger",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "17 22 1 707 786",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "17 11 1 711 987",
+      "quantity": 2,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "17 22 7 577 672",
+      "quantity": 1,
+      "description": "Oil cooling pipe outlet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "17 22 7 577 671",
+      "quantity": 1,
+      "description": "Oil cooling pipe inlet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "17 22 1 705 841",
+      "quantity": 1,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "17 20 1 712 210",
+      "quantity": 2,
+      "description": "Bracket oil pipe",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "17 22 7 798 686",
+      "quantity": 1,
+      "description": "Spacer sleeve",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "07 11 9 903 994",
+      "quantity": 1,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "17 22 7 555 715",
+      "quantity": 1,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "17 21 1 742 636",
+      "quantity": 2,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

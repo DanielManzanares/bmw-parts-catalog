@@ -1,0 +1,61 @@
+{
+  "id": 5692,
+  "diagram_title": "Steering wheel Airbag-Smart",
+  "image_url": "http://ills.bmwfans.info/zmt.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 137,
+  "category_name": "Steering",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "32 34 6 753 948",
+      "quantity": 1,
+      "description": "Steering wheel, foam plastic airbag",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 34 6 753 947",
+      "quantity": 1,
+      "description": "Leather steering wheel",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 30 6 757 892",
+      "quantity": 1,
+      "description": "Hub cap, airbag",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 30 6 783 781",
+      "quantity": 1,
+      "description": "07",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "3",
+      "part_number": "32 34 1 097 110",
+      "quantity": 2,
+      "description": "Torx screw",
+      "price_eur": null,
+      "compatible_models": "E31, E34, E36, E38, E39, E46, E53, E83, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "32 30 6 750 166",
+      "quantity": 1,
+      "description": "Connecting line, airbag / slip ring",
+      "price_eur": null,
+      "compatible_models": "E46"
+    }
+  ]
+}

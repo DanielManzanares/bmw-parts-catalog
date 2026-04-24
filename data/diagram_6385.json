@@ -1,0 +1,125 @@
+{
+  "id": 6385,
+  "diagram_title": "Body control units and moduls",
+  "image_url": "http://ills.bmwfans.info/3udw.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 35 3 454 607",
+      "quantity": 1,
+      "description": "Basic module 5 uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 35 6 955 253",
+      "quantity": 1,
+      "description": "Trailer towing modul",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 35 6 916 054",
+      "quantity": 1,
+      "description": "Control unit, mirror memory",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 12 9 904 381",
+      "quantity": 2,
+      "description": "Hex nut with plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "61 31 7 067 801",
+      "quantity": 1,
+      "description": "Control unit, seat memory",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "63 17 1 367 868",
+      "quantity": 1,
+      "description": "Expanding nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 41 9 143 799",
+      "quantity": 4,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "61 35 6 934 837",
+      "quantity": 1,
+      "description": "Control unit, adaptive head light",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "61 13 1 382 566",
+      "quantity": 1,
+      "description": "Socket housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "61 13 6 920 074",
+      "quantity": 1,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "61 13 6 913 644",
+      "quantity": 1,
+      "description": "Bushing contact",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "61 13 8 364 664",
+      "quantity": 1,
+      "description": "Bushing contact",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "61 13 8 364 666",
+      "quantity": 1,
+      "description": "Universal socket housing uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "25",
+      "part_number": "61 13 8 364 664",
+      "quantity": 1,
+      "description": "Bushing contact",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

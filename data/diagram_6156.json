@@ -1,0 +1,69 @@
+{
+  "id": 6156,
+  "diagram_title": "Window mounting parts",
+  "image_url": "http://ills.bmwfans.info/kbl.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 31 8 196 162",
+      "quantity": 1,
+      "description": "Covering Upper",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 31 8 196 166",
+      "quantity": 1,
+      "description": "Covering Upper",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 31 1 925 433",
+      "quantity": 2,
+      "description": "Rubber buffer",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E83, E83 Facelift, E84, E86, E87, E87 Facelift, E89, F10, F11, F15, F16, F18, F25, F26, F85, F86, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 1 954 117",
+      "quantity": 1,
+      "description": "Cover, base plate f interior mirror",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 31 8 145 530",
+      "quantity": 1,
+      "description": "Base plate, rear view mirror, interior",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 34 8 194 693",
+      "quantity": 1,
+      "description": "Seal, rear left side window",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 34 8 194 694",
+      "quantity": 1,
+      "description": "Seal, rear left side window",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

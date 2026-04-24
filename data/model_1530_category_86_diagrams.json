@@ -1,0 +1,374 @@
+[
+  {
+    "id": 3175,
+    "diagram_title": "Alloy rim styl.12",
+    "image_url": "http://ills.bmwfans.info/fiw.png",
+    "parts_count": 11
+  },
+  {
+    "id": 3250,
+    "diagram_title": "BMW Composite wheel, cross spoke 78",
+    "image_url": "http://ills.bmwfans.info/1jb6.png",
+    "parts_count": 14
+  },
+  {
+    "id": 3266,
+    "diagram_title": "BMW LA Individual wheel V-spoke 152",
+    "image_url": "http://ills.bmwfans.info/2ukh.png",
+    "parts_count": 11
+  },
+  {
+    "id": 3233,
+    "diagram_title": "BMW LA wheel, V spoke 54",
+    "image_url": "http://ills.bmwfans.info/syr.png",
+    "parts_count": 10
+  },
+  {
+    "id": 3247,
+    "diagram_title": "BMW LA wheel, V spoke 72",
+    "image_url": "http://ills.bmwfans.info/12l0.png",
+    "parts_count": 12
+  },
+  {
+    "id": 3251,
+    "diagram_title": "BMW LA wheel, double spoke 79",
+    "image_url": "http://ills.bmwfans.info/1neg.png",
+    "parts_count": 9
+  },
+  {
+    "id": 3254,
+    "diagram_title": "BMW LA wheel, double spoke 88",
+    "image_url": "http://ills.bmwfans.info/1su7.png",
+    "parts_count": 9
+  },
+  {
+    "id": 3258,
+    "diagram_title": "BMW LA wheel, double spoke 98",
+    "image_url": "http://ills.bmwfans.info/1y5v.png",
+    "parts_count": 9
+  },
+  {
+    "id": 3252,
+    "diagram_title": "BMW LA wheel, parallel spoke 85",
+    "image_url": "http://ills.bmwfans.info/18fm.png",
+    "parts_count": 11
+  },
+  {
+    "id": 3248,
+    "diagram_title": "BMW LA wheel, radial spoke 73",
+    "image_url": "http://ills.bmwfans.info/12un.png",
+    "parts_count": 9
+  },
+  {
+    "id": 3260,
+    "diagram_title": "BMW LA wheel, star spoke 119",
+    "image_url": "http://ills.bmwfans.info/2nh2.png",
+    "parts_count": 9
+  },
+  {
+    "id": 3255,
+    "diagram_title": "BMW LA wheel, star spoke 89",
+    "image_url": "http://ills.bmwfans.info/1syn.png",
+    "parts_count": 10
+  },
+  {
+    "id": 3256,
+    "diagram_title": "BMW LA wheel, star spoke 96",
+    "image_url": "http://ills.bmwfans.info/1u0r.png",
+    "parts_count": 10
+  },
+  {
+    "id": 3261,
+    "diagram_title": "BMW LA wheel/double spoke 125",
+    "image_url": "http://ills.bmwfans.info/2dwl.png",
+    "parts_count": 10
+  },
+  {
+    "id": 3271,
+    "diagram_title": "BMW Performance LA wheel/double spoke269",
+    "image_url": "http://ills.bmwfans.info/35yc.png",
+    "parts_count": 11
+  },
+  {
+    "id": 3263,
+    "diagram_title": "BMW alloy wheel, M double spoke 135",
+    "image_url": "http://ills.bmwfans.info/2nha.png",
+    "parts_count": 13
+  },
+  {
+    "id": 3241,
+    "diagram_title": "BMW alloy wheel, M double spoke 68",
+    "image_url": "http://ills.bmwfans.info/12jb.png",
+    "parts_count": 12
+  },
+  {
+    "id": 3257,
+    "diagram_title": "BMW alloy wheel, M double spoke 97",
+    "image_url": "http://ills.bmwfans.info/22b8.png",
+    "parts_count": 12
+  },
+  {
+    "id": 3244,
+    "diagram_title": "BMW composite wheel, double spoke 71",
+    "image_url": "http://ills.bmwfans.info/u5f.png",
+    "parts_count": 21
+  },
+  {
+    "id": 3253,
+    "diagram_title": "BMW composite wheel, radial spoke 86",
+    "image_url": "http://ills.bmwfans.info/1s4x.png",
+    "parts_count": 10
+  },
+  {
+    "id": 3259,
+    "diagram_title": "BMW compound wheel M cross spoke 101",
+    "image_url": "http://ills.bmwfans.info/224d.png",
+    "parts_count": 14
+  },
+  {
+    "id": 3208,
+    "diagram_title": "BMW l-alloy wheel, cross spoke comp.II 42",
+    "image_url": "http://ills.bmwfans.info/3te.png",
+    "parts_count": 14
+  },
+  {
+    "id": 3262,
+    "diagram_title": "BMW light alloy wheel, cross spoke 133",
+    "image_url": "http://ills.bmwfans.info/2dwz.png",
+    "parts_count": 13
+  },
+  {
+    "id": 3190,
+    "diagram_title": "BMW light alloy wheel, cross spoke 29",
+    "image_url": "http://ills.bmwfans.info/3ub.png",
+    "parts_count": 11
+  },
+  {
+    "id": 3206,
+    "diagram_title": "BMW light alloy wheel, cross spoke 42",
+    "image_url": "http://ills.bmwfans.info/el3.png",
+    "parts_count": 12
+  },
+  {
+    "id": 3249,
+    "diagram_title": "BMW light alloy wheel, cross spoke 78",
+    "image_url": "http://ills.bmwfans.info/1jb7.png",
+    "parts_count": 9
+  },
+  {
+    "id": 3222,
+    "diagram_title": "BMW light alloy wheel, double spoke 47",
+    "image_url": "http://ills.bmwfans.info/el2.png",
+    "parts_count": 13
+  },
+  {
+    "id": 3227,
+    "diagram_title": "BMW light alloy wheel, double spoke 51",
+    "image_url": "http://ills.bmwfans.info/hww.png",
+    "parts_count": 10
+  },
+  {
+    "id": 3230,
+    "diagram_title": "BMW light alloy wheel, double spoke 53",
+    "image_url": "http://ills.bmwfans.info/hxl.png",
+    "parts_count": 9
+  },
+  {
+    "id": 3219,
+    "diagram_title": "BMW light alloy wheel, ellips. styl. 46",
+    "image_url": "http://ills.bmwfans.info/hbn.png",
+    "parts_count": 10
+  },
+  {
+    "id": 3224,
+    "diagram_title": "BMW light alloy wheel, radial spoke 50",
+    "image_url": "http://ills.bmwfans.info/hwv.png",
+    "parts_count": 14
+  },
+  {
+    "id": 3264,
+    "diagram_title": "BMW light alloy wheel, spider spoke 136",
+    "image_url": "http://ills.bmwfans.info/2nhc.png",
+    "parts_count": 9
+  },
+  {
+    "id": 3265,
+    "diagram_title": "BMW light alloy wheel, spider spoke 137",
+    "image_url": "http://ills.bmwfans.info/2nh3.png",
+    "parts_count": 9
+  },
+  {
+    "id": 3267,
+    "diagram_title": "BMW light alloy wheel, star spoke 169",
+    "image_url": "http://ills.bmwfans.info/2vgs.png",
+    "parts_count": 7
+  },
+  {
+    "id": 3268,
+    "diagram_title": "BMW light alloy wheel, star spoke 170",
+    "image_url": "http://ills.bmwfans.info/2vrh.png",
+    "parts_count": 7
+  },
+  {
+    "id": 3269,
+    "diagram_title": "BMW light alloy wheel, star spoke 171",
+    "image_url": "http://ills.bmwfans.info/2vri.png",
+    "parts_count": 7
+  },
+  {
+    "id": 3236,
+    "diagram_title": "BMW light alloy wheel, star spoke 55",
+    "image_url": "http://ills.bmwfans.info/wz9.png",
+    "parts_count": 9
+  },
+  {
+    "id": 3238,
+    "diagram_title": "BMW light alloy wheel, star spoke 64",
+    "image_url": "http://ills.bmwfans.info/tv7.png",
+    "parts_count": 10
+  },
+  {
+    "id": 3210,
+    "diagram_title": "BMW light-alloy wheel star spokes 43",
+    "image_url": "http://ills.bmwfans.info/f4h.png",
+    "parts_count": 10
+  },
+  {
+    "id": 3213,
+    "diagram_title": "BMW light-alloy wheel star spokes 44",
+    "image_url": "http://ills.bmwfans.info/f4l.png",
+    "parts_count": 10
+  },
+  {
+    "id": 3216,
+    "diagram_title": "BMW light-alloy wheel star spokes 45",
+    "image_url": "http://ills.bmwfans.info/f44.png",
+    "parts_count": 9
+  },
+  {
+    "id": 3272,
+    "diagram_title": "Balance weight, lead",
+    "image_url": "http://ills.bmwfans.info/3rd.png",
+    "parts_count": 14
+  },
+  {
+    "id": 3273,
+    "diagram_title": "Balance weight, lead",
+    "image_url": "http://ills.bmwfans.info/19zv.png",
+    "parts_count": 14
+  },
+  {
+    "id": 3274,
+    "diagram_title": "Balance weight, zinc",
+    "image_url": "http://ills.bmwfans.info/2x25.png",
+    "parts_count": 32
+  },
+  {
+    "id": 3189,
+    "diagram_title": "Bmw-styling (styl.28)",
+    "image_url": "http://ills.bmwfans.info/3t8.png",
+    "parts_count": 11
+  },
+  {
+    "id": 3183,
+    "diagram_title": "Classic-styling (styl.25)",
+    "image_url": "http://ills.bmwfans.info/3tl.png",
+    "parts_count": 9
+  },
+  {
+    "id": 3193,
+    "diagram_title": "Double-spoke styling (styl.30)",
+    "image_url": "http://ills.bmwfans.info/3t6.png",
+    "parts_count": 10
+  },
+  {
+    "id": 3196,
+    "diagram_title": "Radial styling (styl.32)",
+    "image_url": "http://ills.bmwfans.info/3ue.png",
+    "parts_count": 19
+  },
+  {
+    "id": 3180,
+    "diagram_title": "Round-spoke styling (styl.18)",
+    "image_url": "http://ills.bmwfans.info/3u3.png",
+    "parts_count": 14
+  },
+  {
+    "id": 3277,
+    "diagram_title": "Set wheel locks",
+    "image_url": "http://ills.bmwfans.info/3i97.png",
+    "parts_count": 1
+  },
+  {
+    "id": 3278,
+    "diagram_title": "Set wheel locks",
+    "image_url": "http://ills.bmwfans.info/3i97.png",
+    "parts_count": 1
+  },
+  {
+    "id": 3185,
+    "diagram_title": "Sports-spoke styling ii (styl.27)",
+    "image_url": "http://ills.bmwfans.info/3tu.png",
+    "parts_count": 8
+  },
+  {
+    "id": 3178,
+    "diagram_title": "Star-spoke styling (styl.10)",
+    "image_url": "http://ills.bmwfans.info/3u0.png",
+    "parts_count": 9
+  },
+  {
+    "id": 3165,
+    "diagram_title": "Steel rim styl.12",
+    "image_url": "http://ills.bmwfans.info/1s55.png",
+    "parts_count": 10
+  },
+  {
+    "id": 3169,
+    "diagram_title": "Steel rim styl.12",
+    "image_url": "http://ills.bmwfans.info/1xiu.png",
+    "parts_count": 12
+  },
+  {
+    "id": 3172,
+    "diagram_title": "Steel rim styl.12",
+    "image_url": "http://ills.bmwfans.info/1s55.png",
+    "parts_count": 10
+  },
+  {
+    "id": 3203,
+    "diagram_title": "Streamline-styling (styl.41)",
+    "image_url": "http://ills.bmwfans.info/3ty.png",
+    "parts_count": 7
+  },
+  {
+    "id": 3270,
+    "diagram_title": "Tire pressure control (RDC) — ctrl unit",
+    "image_url": "http://ills.bmwfans.info/1vrd.png",
+    "parts_count": 18
+  },
+  {
+    "id": 3275,
+    "diagram_title": "Wheel bolt lock with adaptor",
+    "image_url": "http://ills.bmwfans.info/3r5.png",
+    "parts_count": 41
+  },
+  {
+    "id": 3276,
+    "diagram_title": "Wheel bolt lock with adaptor",
+    "image_url": "http://ills.bmwfans.info/2rth.png",
+    "parts_count": 4
+  },
+  {
+    "id": 3201,
+    "diagram_title": "Z-line (styl.36)",
+    "image_url": "http://ills.bmwfans.info/3tw.png",
+    "parts_count": 7
+  },
+  {
+    "id": 3199,
+    "diagram_title": "Z-star (styl.35)",
+    "image_url": "http://ills.bmwfans.info/3tx.png",
+    "parts_count": 7
+  }
+]

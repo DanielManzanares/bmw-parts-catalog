@@ -1,0 +1,109 @@
+{
+  "id": 1974,
+  "diagram_title": "Automatic antenna",
+  "image_url": "http://ills.bmwfans.info/d7w.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 11 9 416 726",
+      "quantity": 1,
+      "description": "Retrofit kit automatic antenna chrome",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 9 416 727",
+      "quantity": 1,
+      "description": "Retrofit kit automatic antenna chrome",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 9 416 726",
+      "quantity": 1,
+      "description": "Retrofit kit automatic antenna chrome",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 9 416 727",
+      "quantity": 1,
+      "description": "Retrofit kit automatic antenna chrome",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 9 416 726",
+      "quantity": 1,
+      "description": "Retrofit kit automatic antenna chrome",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 9 416 727",
+      "quantity": 1,
+      "description": "Retrofit kit automatic antenna chrome",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 11 9 416 721",
+      "quantity": 1,
+      "description": "Telescope chrom",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 11 9 416 729",
+      "quantity": 1,
+      "description": "Telescope chrom",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 11 9 416 721",
+      "quantity": 1,
+      "description": "Telescope chrom",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 11 9 416 729",
+      "quantity": 1,
+      "description": "Telescope chrom",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 11 9 416 721",
+      "quantity": 1,
+      "description": "Telescope chrom",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 11 9 416 729",
+      "quantity": 1,
+      "description": "Telescope chrom",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

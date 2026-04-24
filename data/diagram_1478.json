@@ -1,0 +1,109 @@
+{
+  "id": 1478,
+  "diagram_title": "Bmw sports seat coverings",
+  "image_url": "http://ills.bmwfans.info/b6v.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "5",
+      "part_number": "52 10 1 906 575",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 1 927 045",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 1 927 047",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 1 906 576",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 1 927 046",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 1 927 048",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 1 906 575",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 1 927 045",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 1 927 047",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 1 906 576",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 1 927 046",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 1 927 048",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

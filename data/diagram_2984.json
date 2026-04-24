@@ -1,0 +1,173 @@
+{
+  "id": 2984,
+  "diagram_title": "Mounting parts f radiator",
+  "image_url": "http://ills.bmwfans.info/rml.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1536,
+  "category_name": "Radiator",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "17 11 9 071 518",
+      "quantity": 1,
+      "description": "Radiator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "17 11 9 071 518",
+      "quantity": 1,
+      "description": "Radiator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "17 11 9 071 519",
+      "quantity": 1,
+      "description": "Radiator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "17 11 9 071 518",
+      "quantity": 1,
+      "description": "Radiator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "17 11 9 071 518",
+      "quantity": 1,
+      "description": "Radiator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "17 11 9 071 519",
+      "quantity": 1,
+      "description": "Radiator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "17 11 9 071 519",
+      "quantity": 1,
+      "description": "Radiator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "17 11 9 071 518",
+      "quantity": 1,
+      "description": "Radiator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "17 11 1 437 359",
+      "quantity": 1,
+      "description": "Radiator adjusting screw, manual gearbox",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "17 11 1 437 360",
+      "quantity": 1,
+      "description": "Radiator adjusting screw, automatic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "17 11 1 437 361",
+      "quantity": 1,
+      "description": "Drain plug radiator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "17 11 1 436 245",
+      "quantity": 1,
+      "description": "Sealing lower",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "17 11 1 178 412",
+      "quantity": 2,
+      "description": "Rubber buffer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "17 11 1 436 264",
+      "quantity": 2,
+      "description": "Bracket f.radiator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "17 11 1 436 247",
+      "quantity": 1,
+      "description": "Gasket left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "17 11 1 436 249",
+      "quantity": 1,
+      "description": "Gasket right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "17 11 7 530 254",
+      "quantity": 1,
+      "description": "Supporting part",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "17 11 7 530 252",
+      "quantity": 1,
+      "description": "Supporting part",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "17 11 7 514 402",
+      "quantity": 2,
+      "description": "Bracket f.radiator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "17 11 7 536 971",
+      "quantity": 1,
+      "description": "Screw self-tapping",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

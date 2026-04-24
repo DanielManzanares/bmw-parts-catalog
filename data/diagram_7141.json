@@ -1,0 +1,157 @@
+{
+  "id": 7141,
+  "diagram_title": "Audio wiring harness",
+  "image_url": "http://ills.bmwfans.info/1qby.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 918 136",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 918 137",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 918 138",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 918 139",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 918 140",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 918 141",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 918 145",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 918 146",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 918 147",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 918 142",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 918 143",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 918 144",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 918 142",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 918 143",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 918 144",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 11 6 918 157",
+      "quantity": 1,
+      "description": "Additional wiring harness, telephone",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 11 6 918 158",
+      "quantity": 1,
+      "description": "Additional wiring harness, telephone",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 11 6 918 159",
+      "quantity": 1,
+      "description": "Additional wiring harness, telephone",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

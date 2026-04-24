@@ -1,0 +1,77 @@
+{
+  "id": 2557,
+  "diagram_title": "Trailer motorcycle module",
+  "image_url": "http://ills.bmwfans.info/2u4t.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "86 22 9 410 983",
+      "quantity": 1,
+      "description": "Motorcycle module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "86 29 9 416 287",
+      "quantity": 1,
+      "description": "Bow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "86 29 9 416 293",
+      "quantity": 1,
+      "description": "Installation kit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "86 29 9 416 288",
+      "quantity": 1,
+      "description": "Spacer pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "86 30 9 416 266",
+      "quantity": 4,
+      "description": "Tension belt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "86 30 9 416 267",
+      "quantity": 4,
+      "description": "Anti-scuffing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "86 19 9 416 290",
+      "quantity": 4,
+      "description": "Tie-down ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "86 30 9 410 984",
+      "quantity": 1,
+      "description": "Loading ramp",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

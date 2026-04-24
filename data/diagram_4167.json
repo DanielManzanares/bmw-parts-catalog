@@ -1,0 +1,45 @@
+{
+  "id": 4167,
+  "diagram_title": "Individual rear door trim panel Q9",
+  "image_url": "http://ills.bmwfans.info/2291.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 009 075",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 009 076",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 42 8 009 079",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left, airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 42 8 009 080",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left, airbag",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

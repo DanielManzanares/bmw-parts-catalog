@@ -1,0 +1,653 @@
+{
+  "id": 1434,
+  "diagram_title": "Hydro steering-vane pump/bearing support",
+  "image_url": "http://ills.bmwfans.info/2wg.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 137,
+  "category_name": "Steering",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 31 1 288 673",
+      "quantity": 1,
+      "description": "Supporting bracket",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 31 2 242 230",
+      "quantity": 1,
+      "description": "83",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 31 1 288 673",
+      "quantity": 1,
+      "description": "Supporting bracket",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 31 2 242 230",
+      "quantity": 1,
+      "description": "83",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 31 1 288 673",
+      "quantity": 1,
+      "description": "Supporting bracket",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 31 2 242 230",
+      "quantity": 1,
+      "description": "83",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 31 1 288 673",
+      "quantity": 1,
+      "description": "Supporting bracket",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 31 2 242 230",
+      "quantity": 1,
+      "description": "83",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 912 529",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, E12, E23, E24, E28, E3, E9"
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 912 529",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, E12, E23, E24, E28, E3, E9"
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 912 529",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, E12, E23, E24, E28, E3, E9"
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 912 529",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, E12, E23, E24, E28, E3, E9"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 932 095",
+      "quantity": 1,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E53, E9, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 932 095",
+      "quantity": 1,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E53, E9, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 932 095",
+      "quantity": 1,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E53, E9, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 932 095",
+      "quantity": 1,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E53, E9, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 913 664",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E9, Z1"
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 913 664",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E9, Z1"
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 913 664",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E9, Z1"
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 913 664",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E9, Z1"
+    },
+    {
+      "position_number": "5",
+      "part_number": "32 41 1 285 941",
+      "quantity": 1,
+      "description": "Supporting plate",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "5",
+      "part_number": "32 41 1 285 941",
+      "quantity": 1,
+      "description": "Supporting plate",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "5",
+      "part_number": "32 41 1 285 941",
+      "quantity": 1,
+      "description": "Supporting plate",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "5",
+      "part_number": "32 41 1 285 941",
+      "quantity": 1,
+      "description": "Supporting plate",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "6",
+      "part_number": "32 41 1 285 942",
+      "quantity": 1,
+      "description": "Supporting plate",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "6",
+      "part_number": "32 41 1 285 942",
+      "quantity": 1,
+      "description": "Supporting plate",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "6",
+      "part_number": "32 41 1 285 942",
+      "quantity": 1,
+      "description": "Supporting plate",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "6",
+      "part_number": "32 41 1 285 942",
+      "quantity": 1,
+      "description": "Supporting plate",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 913 652",
+      "quantity": 5,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E3, E30, E32, E34, E36, E52, E9, NK, Z1"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 913 652",
+      "quantity": 5,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E3, E30, E32, E34, E36, E52, E9, NK, Z1"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 913 652",
+      "quantity": 5,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E3, E30, E32, E34, E36, E52, E9, NK, Z1"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 913 652",
+      "quantity": 5,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E3, E30, E32, E34, E36, E52, E9, NK, Z1"
+    },
+    {
+      "position_number": "8",
+      "part_number": "32 41 1 128 080",
+      "quantity": 1,
+      "description": "Supporting plate",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E34"
+    },
+    {
+      "position_number": "8",
+      "part_number": "32 41 1 132 164",
+      "quantity": 1,
+      "description": "Supporting plate",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "8",
+      "part_number": "32 41 1 128 080",
+      "quantity": 1,
+      "description": "Supporting plate",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E34"
+    },
+    {
+      "position_number": "8",
+      "part_number": "32 41 1 132 164",
+      "quantity": 1,
+      "description": "Supporting plate",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "8",
+      "part_number": "32 41 1 128 080",
+      "quantity": 1,
+      "description": "Supporting plate",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E34"
+    },
+    {
+      "position_number": "8",
+      "part_number": "32 41 1 132 164",
+      "quantity": 1,
+      "description": "Supporting plate",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "8",
+      "part_number": "32 41 1 128 080",
+      "quantity": 1,
+      "description": "Supporting plate",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E34"
+    },
+    {
+      "position_number": "8",
+      "part_number": "32 41 1 132 164",
+      "quantity": 1,
+      "description": "Supporting plate",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "9",
+      "part_number": "32 41 1 132 166",
+      "quantity": 1,
+      "description": "Supporting plate",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "9",
+      "part_number": "32 41 1 288 597",
+      "quantity": 1,
+      "description": "Supporting plate",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "9",
+      "part_number": "32 41 1 132 166",
+      "quantity": 1,
+      "description": "Supporting plate",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "9",
+      "part_number": "32 41 1 288 597",
+      "quantity": 1,
+      "description": "Supporting plate",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "9",
+      "part_number": "32 41 1 132 166",
+      "quantity": 1,
+      "description": "Supporting plate",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "9",
+      "part_number": "32 41 1 288 597",
+      "quantity": 1,
+      "description": "Supporting plate",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "9",
+      "part_number": "32 41 1 132 166",
+      "quantity": 1,
+      "description": "Supporting plate",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "9",
+      "part_number": "32 41 1 288 597",
+      "quantity": 1,
+      "description": "Supporting plate",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 913 644",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, E28, E3, E32, E34, E36, E38, E39, E46, E53, E9, NK, Z3"
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 913 644",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, E28, E3, E32, E34, E36, E38, E39, E46, E53, E9, NK, Z3"
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 913 644",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, E28, E3, E32, E34, E36, E38, E39, E46, E53, E9, NK, Z3"
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 913 644",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, E28, E3, E32, E34, E36, E38, E39, E46, E53, E9, NK, Z3"
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 11 9 912 558",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E34, E36, E9, NK, Z3"
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 11 9 913 676",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 11 9 912 558",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E34, E36, E9, NK, Z3"
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 11 9 913 676",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 11 9 912 558",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E34, E36, E9, NK, Z3"
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 11 9 913 676",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 11 9 912 558",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E34, E36, E9, NK, Z3"
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 11 9 913 676",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "12",
+      "part_number": "32 41 1 285 927",
+      "quantity": 1,
+      "description": "Adjusting bar",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "12",
+      "part_number": "32 41 1 285 927",
+      "quantity": 1,
+      "description": "Adjusting bar",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "12",
+      "part_number": "32 41 1 285 927",
+      "quantity": 1,
+      "description": "Adjusting bar",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "12",
+      "part_number": "32 41 1 285 927",
+      "quantity": 1,
+      "description": "Adjusting bar",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "13",
+      "part_number": "32 41 1 277 375",
+      "quantity": 1,
+      "description": "Saucer-head screw",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E32, E34, Z1"
+    },
+    {
+      "position_number": "13",
+      "part_number": "32 41 1 277 375",
+      "quantity": 1,
+      "description": "Saucer-head screw",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E32, E34, Z1"
+    },
+    {
+      "position_number": "13",
+      "part_number": "32 41 1 277 375",
+      "quantity": 1,
+      "description": "Saucer-head screw",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E32, E34, Z1"
+    },
+    {
+      "position_number": "13",
+      "part_number": "32 41 1 277 375",
+      "quantity": 1,
+      "description": "Saucer-head screw",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E32, E34, Z1"
+    },
+    {
+      "position_number": "14",
+      "part_number": "12 31 1 273 639",
+      "quantity": 1,
+      "description": "Idler",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E28, E30, E32, E34, Z1"
+    },
+    {
+      "position_number": "14",
+      "part_number": "12 31 1 273 639",
+      "quantity": 1,
+      "description": "Idler",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E28, E30, E32, E34, Z1"
+    },
+    {
+      "position_number": "14",
+      "part_number": "12 31 1 273 639",
+      "quantity": 1,
+      "description": "Idler",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E28, E30, E32, E34, Z1"
+    },
+    {
+      "position_number": "14",
+      "part_number": "12 31 1 273 639",
+      "quantity": 1,
+      "description": "Idler",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E28, E30, E32, E34, Z1"
+    },
+    {
+      "position_number": "15",
+      "part_number": "07 12 9 946 400",
+      "quantity": 1,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E9, NK, Z1"
+    },
+    {
+      "position_number": "15",
+      "part_number": "07 12 9 905 767",
+      "quantity": 1,
+      "description": "87",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E9, NK, Z1"
+    },
+    {
+      "position_number": "15",
+      "part_number": "07 12 9 946 400",
+      "quantity": 1,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E9, NK, Z1"
+    },
+    {
+      "position_number": "15",
+      "part_number": "07 12 9 905 767",
+      "quantity": 1,
+      "description": "87",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E9, NK, Z1"
+    },
+    {
+      "position_number": "15",
+      "part_number": "07 12 9 946 400",
+      "quantity": 1,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E9, NK, Z1"
+    },
+    {
+      "position_number": "15",
+      "part_number": "07 12 9 905 767",
+      "quantity": 1,
+      "description": "87",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E9, NK, Z1"
+    },
+    {
+      "position_number": "15",
+      "part_number": "07 12 9 946 400",
+      "quantity": 1,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E9, NK, Z1"
+    },
+    {
+      "position_number": "15",
+      "part_number": "07 12 9 905 767",
+      "quantity": 1,
+      "description": "87",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E9, NK, Z1"
+    }
+  ]
+}

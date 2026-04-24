@@ -1,0 +1,53 @@
+{
+  "id": 2659,
+  "diagram_title": "Heater/air conditioning unit",
+  "image_url": "http://ills.bmwfans.info/ctb.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "51 45 1 868 108",
+      "quantity": 4,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E31, E32, E34, Z1"
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 14 7 134 319",
+      "quantity": 4,
+      "description": "Hex nut with plate",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, F25, F26, Z1"
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 11 1 360 925",
+      "quantity": 1,
+      "description": "Bracket left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 11 1 360 926",
+      "quantity": 1,
+      "description": "Bracket left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "64 11 1 371 203",
+      "quantity": 2,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2293,
+  "diagram_title": "Airbag sports steering wheel",
+  "image_url": "http://ills.bmwfans.info/kaw.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "32 34 6 753 944",
+      "quantity": 1,
+      "description": "Airbag sports steering wheel, leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 34 6 753 943",
+      "quantity": 1,
+      "description": "Airbag sport st. whl. lthr multifunction",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

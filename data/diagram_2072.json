@@ -1,0 +1,117 @@
+{
+  "id": 2072,
+  "diagram_title": "Storing partition cover",
+  "image_url": "http://ills.bmwfans.info/atd.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 1 920 194",
+      "quantity": 1,
+      "description": "Storing partition",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 1 920 195",
+      "quantity": 1,
+      "description": "Storing partition",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 1 920 196",
+      "quantity": 1,
+      "description": "Storing partition",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 1 920 197",
+      "quantity": 1,
+      "description": "Storing partition",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 1 920 198",
+      "quantity": 1,
+      "description": "Storing partition",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 1 920 182",
+      "quantity": 1,
+      "description": "Storing partition",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 1 920 183",
+      "quantity": 1,
+      "description": "Storing partition",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 1 920 184",
+      "quantity": 1,
+      "description": "Storing partition",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 1 920 185",
+      "quantity": 1,
+      "description": "Storing partition",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 1 920 186",
+      "quantity": 1,
+      "description": "Storing partition",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 1 884 561",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 1 912 065",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 1 912 066",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

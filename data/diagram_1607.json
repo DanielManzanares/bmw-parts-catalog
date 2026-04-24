@@ -1,0 +1,253 @@
+{
+  "id": 1607,
+  "diagram_title": "Programmed DME control unit",
+  "image_url": "http://ills.bmwfans.info/jed.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 513 692",
+      "quantity": 1,
+      "description": "RMFD control unit DME programmed",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 528 656",
+      "quantity": 1,
+      "description": "99",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 513 584",
+      "quantity": 1,
+      "description": "99",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 528 752",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 513 688",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 528 660",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 1 430 440",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 513 600",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 528 736",
+      "quantity": 1,
+      "description": "03",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 513 644",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 528 692",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 513 598",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 528 738",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 513 598",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 528 738",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 513 692",
+      "quantity": 1,
+      "description": "RMFD control unit DME programmed",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 528 656",
+      "quantity": 1,
+      "description": "99",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 513 584",
+      "quantity": 1,
+      "description": "99",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 528 752",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 513 688",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 528 660",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 1 430 440",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 513 600",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 528 736",
+      "quantity": 1,
+      "description": "03",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 513 644",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 528 692",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 513 598",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 528 738",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 513 598",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 528 738",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    }
+  ]
+}

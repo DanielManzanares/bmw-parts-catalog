@@ -1,0 +1,125 @@
+{
+  "id": 471,
+  "diagram_title": "Service kit control arm / Value Line",
+  "image_url": "http://ills.bmwfans.info/dayb.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 49,
+  "category_name": "Front Axle",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "31 12 2 158 880",
+      "quantity": 1,
+      "description": "Wishbone set",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 12 2 158 894",
+      "quantity": 1,
+      "description": "99",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 12 2 158 880",
+      "quantity": 1,
+      "description": "Wishbone set",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 12 2 158 894",
+      "quantity": 1,
+      "description": "99",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "31 12 2 343 353",
+      "quantity": 1,
+      "description": "Repair kit, wishbone, left",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "2",
+      "part_number": "31 12 2 341 297",
+      "quantity": 1,
+      "description": "Repair kit, wishbone, left",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "2",
+      "part_number": "31 12 2 343 353",
+      "quantity": 1,
+      "description": "Repair kit, wishbone, left",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "2",
+      "part_number": "31 12 2 341 297",
+      "quantity": 1,
+      "description": "Repair kit, wishbone, left",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "3",
+      "part_number": "31 12 2 343 352",
+      "quantity": 1,
+      "description": "Repair kit, wishbone, right",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "3",
+      "part_number": "31 12 2 341 828",
+      "quantity": 1,
+      "description": "Repair kit, wishbone, right",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "3",
+      "part_number": "31 12 2 343 352",
+      "quantity": 1,
+      "description": "Repair kit, wishbone, right",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "3",
+      "part_number": "31 12 2 341 828",
+      "quantity": 1,
+      "description": "Repair kit, wishbone, right",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "4",
+      "part_number": "31 12 6 783 376",
+      "quantity": 1,
+      "description": "Set of brackets with rubber mounting",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "4",
+      "part_number": "31 12 6 783 376",
+      "quantity": 1,
+      "description": "Set of brackets with rubber mounting",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    }
+  ]
+}

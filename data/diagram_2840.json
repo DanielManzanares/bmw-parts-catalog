@@ -1,0 +1,21 @@
+{
+  "id": 2840,
+  "diagram_title": "Retrofit kit car phone Cordless",
+  "image_url": "http://ills.bmwfans.info/21sb.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "84 61 0 028 916",
+      "quantity": 1,
+      "description": "Retrofit kit, BMW car phone, Singleband",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": 4233,
+  "diagram_title": "Radio navigation E46, SA606",
+  "image_url": "http://ills.bmwfans.info/doz5.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1531,
+  "category_name": "Technical Literature",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "01 40 0 002 588",
+      "quantity": 1,
+      "description": "Owner's manual, radio/navigation",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 40 0 002 588",
+      "quantity": 1,
+      "description": "Owner's manual, radio/navigation",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 42 0 002 590",
+      "quantity": 1,
+      "description": "Owner's manual, radio/navigation",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 42 0 002 590",
+      "quantity": 1,
+      "description": "Owner's manual, radio/navigation",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 43 0 002 591",
+      "quantity": 1,
+      "description": "Owner's manual, radio/navigation",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 43 0 002 591",
+      "quantity": 1,
+      "description": "Owner's manual, radio/navigation",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

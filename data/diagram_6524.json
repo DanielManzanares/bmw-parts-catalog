@@ -1,0 +1,109 @@
+{
+  "id": 6524,
+  "diagram_title": "Diagnosis plug",
+  "image_url": "http://ills.bmwfans.info/2oo5.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 13 6 901 665",
+      "quantity": 1,
+      "description": "Cover with frame OBD socket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 13 6 920 069",
+      "quantity": 1,
+      "description": "Cover with frame OBD socket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 13 8 373 323",
+      "quantity": 1,
+      "description": "Cover with frame OBD socket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 13 8 380 698",
+      "quantity": 1,
+      "description": "Plug housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "12 52 1 703 202",
+      "quantity": 1,
+      "description": "Cover, diagnostics plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "12 52 1 711 218",
+      "quantity": 1,
+      "description": "Plug housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "12 52 1 714 344",
+      "quantity": 1,
+      "description": "Diagnosis plug bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "12 52 1 427 988",
+      "quantity": 1,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "12 52 1 427 322",
+      "quantity": 1,
+      "description": "Adapter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "12 52 1 711 219",
+      "quantity": 1,
+      "description": "Nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "12 52 1 309 527",
+      "quantity": 1,
+      "description": "Protection cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "12 52 1 719 733",
+      "quantity": 1,
+      "description": "Protection cap",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

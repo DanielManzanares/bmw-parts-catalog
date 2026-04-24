@@ -1,0 +1,21 @@
+{
+  "id": 2533,
+  "diagram_title": "Tow bar",
+  "image_url": "http://ills.bmwfans.info/b02v.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 11 0 409 954",
+      "quantity": 1,
+      "description": "Tow bar",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

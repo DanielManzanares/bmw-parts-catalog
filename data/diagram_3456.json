@@ -1,0 +1,29 @@
+{
+  "id": 3456,
+  "diagram_title": "Official vehicle package",
+  "image_url": "http://ills.bmwfans.info/3rud.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 31 8 357 010",
+      "quantity": 1,
+      "description": "Switch, Stop — Please follow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 31 8 357 009",
+      "quantity": 1,
+      "description": "Switch for Stop — Police",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 3435,
+  "diagram_title": "Original BMW battery (Warranty only)",
+  "image_url": "http://ills.bmwfans.info/2akc.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 21 8 377 127",
+      "quantity": 1,
+      "description": "Original BMW battery (Warranty only)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 21 2 158 121",
+      "quantity": 1,
+      "description": "Original BMW battery (Warranty only)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 21 8 381 714",
+      "quantity": 1,
+      "description": "Original BMW battery (Warranty only)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 21 2 158 122",
+      "quantity": 1,
+      "description": "Original BMW battery (Warranty only)",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

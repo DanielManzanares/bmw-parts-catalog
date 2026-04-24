@@ -1,0 +1,21 @@
+{
+  "id": 2313,
+  "diagram_title": "Retrofit, outside mirror, electrochrome",
+  "image_url": "http://ills.bmwfans.info/d78.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 25 9 401 818",
+      "quantity": 1,
+      "description": "Kit interior mirror with dim automatic",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

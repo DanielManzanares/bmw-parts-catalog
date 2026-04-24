@@ -1,0 +1,29 @@
+{
+  "id": 2264,
+  "diagram_title": "Install.kit turn indicators, white",
+  "image_url": "http://ills.bmwfans.info/zb0.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 19 9 416 994",
+      "quantity": 1,
+      "description": "Install.kit turn indicators, front, white",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 19 9 416 997",
+      "quantity": 1,
+      "description": "Install.kit turn indicators, rear, white",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

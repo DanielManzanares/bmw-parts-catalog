@@ -1,0 +1,29 @@
+{
+  "id": 7481,
+  "diagram_title": "Individ. sports strng whl, airbag, SA 256",
+  "image_url": "http://ills.bmwfans.info/uo5.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "32 34 8 014 990",
+      "quantity": 1,
+      "description": "Airbag sport st. whl. lthr multifunction",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 34 8 014 992",
+      "quantity": 1,
+      "description": "Airbag sport st. whl. lthr multifunction",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

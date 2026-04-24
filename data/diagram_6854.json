@@ -1,0 +1,261 @@
+{
+  "id": 6854,
+  "diagram_title": "Ultrasonic-sensor",
+  "image_url": "http://ills.bmwfans.info/bxb4.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1644,
+  "category_name": "Distance Systems, Cruise Control",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "66 20 6 989 067",
+      "quantity": 4,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 2 180 145",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 2 180 145",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 6 913 923",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 6 914 787",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 8 022 048",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 6 914 786",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 6 913 937",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 6 914 058",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 7 895 667",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 7 895 660",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 6 932 265",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 6 918 123",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 6 914 816",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 6 914 818",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 7 896 201",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 6 914 059",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 6 914 057",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 6 910 358",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 2 241 246",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 6 914 785",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 6 914 784",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 6 914 783",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 6 914 061",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 6 914 817",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 8 021 864",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 6 910 317",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 6 914 060",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 6 914 055",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 6 910 316",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 20 6 910 359",
+      "quantity": 1,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

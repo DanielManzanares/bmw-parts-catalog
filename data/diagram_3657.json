@@ -1,0 +1,21 @@
+{
+  "id": 3657,
+  "diagram_title": "Running meter, leather Nappa(soft leath.)",
+  "image_url": "http://ills.bmwfans.info/bp6.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 92 7 042 738",
+      "quantity": 1,
+      "description": "Upholstery leather",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46"
+    }
+  ]
+}

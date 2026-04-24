@@ -1,0 +1,61 @@
+{
+  "id": 4222,
+  "diagram_title": "Telephone, fixed installation, SA623/629",
+  "image_url": "http://ills.bmwfans.info/dkn1.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1531,
+  "category_name": "Technical Literature",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "01 40 0 004 437",
+      "quantity": 1,
+      "description": "Owner's handbook, telephone \"de\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 40 0 004 437",
+      "quantity": 1,
+      "description": "Owner's handbook, telephone \"de\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 44 0 004 441",
+      "quantity": 1,
+      "description": "Owner's handbook, telephone \"it\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 44 0 004 441",
+      "quantity": 1,
+      "description": "Owner's handbook, telephone \"it\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 46 0 004 443",
+      "quantity": 1,
+      "description": "Owner's handbook, telephone \"nl\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 46 0 004 443",
+      "quantity": 1,
+      "description": "Owner's handbook, telephone \"nl\"",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 5840,
+    "diagram_title": "Acceleration/accelerator pedal module",
+    "image_url": "http://ills.bmwfans.info/3g6g.png",
+    "parts_count": 9
+  },
+  {
+    "id": 5836,
+    "diagram_title": "Pedals/stop light switch",
+    "image_url": "http://ills.bmwfans.info/323h.png",
+    "parts_count": 25
+  },
+  {
+    "id": 721,
+    "diagram_title": "acceleration_accelerator_pedal_module",
+    "image_url": "/static/images/diagrams/E46_318i-N42_pedals_acceleration_accelerator_pedal_module.png",
+    "parts_count": 8
+  },
+  {
+    "id": 722,
+    "diagram_title": "pedals_stop_light_switch",
+    "image_url": "/static/images/diagrams/E46_318i-N42_pedals_pedals_stop_light_switch.png",
+    "parts_count": 25
+  }
+]

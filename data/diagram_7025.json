@@ -1,0 +1,101 @@
+{
+  "id": 7025,
+  "diagram_title": "Parts Harman Kardon hifi, front door",
+  "image_url": "http://ills.bmwfans.info/uo7.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 13 8 374 698",
+      "quantity": 2,
+      "description": "Tweeter/mid-range loudspeaker top-hifi",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 75 8 235 255",
+      "quantity": 6,
+      "description": "Torx-bolt for plastic material",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 41 8 213 923",
+      "quantity": 2,
+      "description": "Loudspeaker sound insulation",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "65 13 8 368 244",
+      "quantity": 2,
+      "description": "Top-hifi system woofer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 16 8 107 577",
+      "quantity": 6,
+      "description": "Saucer-head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 41 8 224 011",
+      "quantity": 1,
+      "description": "Cover loudspeaker left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 41 8 224 012",
+      "quantity": 1,
+      "description": "Cover loudspeaker left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 41 8 224 017",
+      "quantity": 1,
+      "description": "Cover loudspeaker left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 41 8 224 018",
+      "quantity": 1,
+      "description": "Cover loudspeaker left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 41 8 224 047",
+      "quantity": 1,
+      "description": "Cover loudspeaker left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 41 8 224 048",
+      "quantity": 1,
+      "description": "Cover loudspeaker left",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

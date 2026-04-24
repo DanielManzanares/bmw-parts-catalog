@@ -1,0 +1,61 @@
+{
+  "id": 5216,
+  "diagram_title": "Short Engine",
+  "image_url": "http://ills.bmwfans.info/gn8.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1,
+  "category_name": "Engine",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "11 00 7 506 890",
+      "quantity": 1,
+      "description": "Short Engine",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 00 7 506 891",
+      "quantity": 1,
+      "description": "Rmfd short engine",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 00 7 506 890",
+      "quantity": 1,
+      "description": "Short Engine",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 00 7 506 891",
+      "quantity": 1,
+      "description": "Rmfd short engine",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 00 0 017 435",
+      "quantity": 1,
+      "description": "Set Mounting Parts Short Engine",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 00 0 017 435",
+      "quantity": 1,
+      "description": "Set Mounting Parts Short Engine",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E53, Z3"
+    }
+  ]
+}

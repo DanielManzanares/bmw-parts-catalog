@@ -1,0 +1,61 @@
+{
+  "id": 1953,
+  "diagram_title": "First aid kit",
+  "image_url": "http://ills.bmwfans.info/d72.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "3",
+      "part_number": "82 26 9 403 908",
+      "quantity": 1,
+      "description": "First aid cushion",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 47 8 163 269",
+      "quantity": 1,
+      "description": "First aid cushion",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 26 9 403 908",
+      "quantity": 1,
+      "description": "First aid cushion",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 47 8 163 269",
+      "quantity": 1,
+      "description": "First aid cushion",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 26 9 403 908",
+      "quantity": 1,
+      "description": "First aid cushion",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 47 8 163 269",
+      "quantity": 1,
+      "description": "First aid cushion",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

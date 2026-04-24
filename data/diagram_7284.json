@@ -1,0 +1,61 @@
+{
+  "id": 7284,
+  "diagram_title": "Single parts Cordless centre console",
+  "image_url": "http://ills.bmwfans.info/227h.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1648,
+  "category_name": "Communication systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "84 11 6 920 275",
+      "quantity": 1,
+      "description": "Handset",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "84 11 6 905 099",
+      "quantity": 1,
+      "description": "Accumulator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "84 11 6 905 100",
+      "quantity": 1,
+      "description": "Battery cover, keypad handset",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "84 11 6 914 932",
+      "quantity": 1,
+      "description": "Eject box, receiver, net GSM",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 11 6 920 838",
+      "quantity": 1,
+      "description": "Cable adapter Ejectbox",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 12 0 025 606",
+      "quantity": 1,
+      "description": "Cable adapter Ejectbox",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

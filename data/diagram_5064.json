@@ -1,0 +1,45 @@
+{
+  "id": 5064,
+  "diagram_title": "Twin electrics, caravan leads",
+  "image_url": "http://ills.bmwfans.info/a7is.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "71 60 2 166 455",
+      "quantity": 1,
+      "description": "Twin electrics, for caravans",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 60 2 166 456",
+      "quantity": 1,
+      "description": "Twin electrics, for caravans",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 60 2 166 455",
+      "quantity": 1,
+      "description": "Twin electrics, for caravans",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 60 2 166 456",
+      "quantity": 1,
+      "description": "Twin electrics, for caravans",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

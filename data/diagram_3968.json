@@ -1,0 +1,77 @@
+{
+  "id": 3968,
+  "diagram_title": "Individual door trim panel, cloth, front",
+  "image_url": "http://ills.bmwfans.info/bai.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "51 41 2 423 973",
+      "quantity": 1,
+      "description": "Left front door trim panel insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 2 424 015",
+      "quantity": 1,
+      "description": "Left front door trim panel insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 2 424 059",
+      "quantity": 1,
+      "description": "Left front door trim panel insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 2 492 401",
+      "quantity": 1,
+      "description": "Left front door trim panel insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 2 423 974",
+      "quantity": 1,
+      "description": "Left front door trim panel insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 2 424 016",
+      "quantity": 1,
+      "description": "Left front door trim panel insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 2 424 060",
+      "quantity": 1,
+      "description": "Left front door trim panel insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 2 492 402",
+      "quantity": 1,
+      "description": "Left front door trim panel insert",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

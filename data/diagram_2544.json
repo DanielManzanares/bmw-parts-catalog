@@ -1,0 +1,29 @@
+{
+  "id": 2544,
+  "diagram_title": "Roller sun shield",
+  "image_url": "http://ills.bmwfans.info/dmj.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 46 9 415 462",
+      "quantity": 1,
+      "description": "Set of sun blind",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 16 0 026 708",
+      "quantity": 1,
+      "description": "Set of suspension hooks",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 6934,
+  "diagram_title": "Climate compressor supporting bracket",
+  "image_url": "http://ills.bmwfans.info/2y7f.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 55 1 432 237",
+      "quantity": 1,
+      "description": "Climate compressor supporting bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 902 191",
+      "quantity": 3,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 902 192",
+      "quantity": 2,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 905 392",
+      "quantity": 3,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E31, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E70, E70 Facelift, E71, E82, E83, E83 Facelift, E84, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F32, F33, F34, F35, F35 Facelift, F36, F45, F80, F80 Facelift, F82, F83, F87, I12, Z3"
+    }
+  ]
+}

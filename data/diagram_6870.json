@@ -1,0 +1,133 @@
+{
+  "id": 6870,
+  "diagram_title": "Head lamp cleaning device container",
+  "image_url": "http://ills.bmwfans.info/1dzz.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 67 7 008 057",
+      "quantity": 1,
+      "description": "Head lamp cleaning device container",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 66 7 264 145",
+      "quantity": 1,
+      "description": "Cover f windshield cleaning container",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 66 7 467 951",
+      "quantity": 1,
+      "description": "Cover f windshield cleaning container",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "67 12 8 377 430",
+      "quantity": 1,
+      "description": "Wash pumpe f head lamp cleaning device",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 67 8 374 382",
+      "quantity": 1,
+      "description": "Strainer f wash pump",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "67 12 8 362 154",
+      "quantity": 1,
+      "description": "Wash pump",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "61 66 7 006 063",
+      "quantity": 1,
+      "description": "Strainer f wash pump",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "17 13 7 524 812",
+      "quantity": 1,
+      "description": "Levelling switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "17 13 7 553 919",
+      "quantity": 1,
+      "description": "Levelling switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 66 8 377 539",
+      "quantity": 1,
+      "description": "Heat resistant plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 901 587",
+      "quantity": 1,
+      "description": "Sheet metal screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "64 12 1 379 221",
+      "quantity": 1,
+      "description": "Expanding nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "61 13 8 365 340",
+      "quantity": 1,
+      "description": "Universal socket housing uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "61 13 2 359 999",
+      "quantity": 1,
+      "description": "Rep. kit for socket housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "61 13 8 364 520",
+      "quantity": 1,
+      "description": "Universal socket housing uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

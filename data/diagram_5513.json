@@ -1,0 +1,21 @@
+{
+  "id": 5513,
+  "diagram_title": "Manual Transmission S5D...Z",
+  "image_url": "http://ills.bmwfans.info/dr13.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 42,
+  "category_name": "Manual Transmission",
+  "parts": [
+    {
+      "position_number": "4",
+      "part_number": "83 22 2 339 219",
+      "quantity": 1,
+      "description": "Oil for manual transmission MTF LT-2",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

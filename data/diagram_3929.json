@@ -1,0 +1,373 @@
+{
+  "id": 3929,
+  "diagram_title": "Individual gear shift knob",
+  "image_url": "http://ills.bmwfans.info/1axw.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "25 11 0 001 123",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 081",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 186",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 068 521",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 068 663",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 068 810",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 070 177",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 070 188",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 070 984",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 070 998",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 129",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 185",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 187",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 188",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 189",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 190",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 191",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 192",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 193",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 194",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 195",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 196",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 197",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 198",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 199",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 200",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 201",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 202",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 203",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 204",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 205",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 206",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 207",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 208",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 209",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 210",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 211",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 212",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 213",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 214",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 215",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 071 216",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 068 412",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 1 221 284",
+      "quantity": 1,
+      "description": "Leather shifting knob without emblem",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 9 069 759",
+      "quantity": 1,
+      "description": "Gear shift knob, leather Montana",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 2356,
+  "diagram_title": "Retrofit, wooden selector lever knob",
+  "image_url": "http://ills.bmwfans.info/1zi9.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "25 16 1 423 259",
+      "quantity": 1,
+      "description": "Wooden selector lever handle",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 16 1 423 701",
+      "quantity": 1,
+      "description": "Wooden selector lever handle",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 16 7 512 557",
+      "quantity": 1,
+      "description": "Wooden selector lever handle",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

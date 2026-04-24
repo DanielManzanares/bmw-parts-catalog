@@ -1,0 +1,61 @@
+{
+  "id": 191,
+  "diagram_title": "BMW Blue Lamps",
+  "image_url": "http://ills.bmwfans.info/elq1.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 184,
+  "category_name": "Lighting",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "63 11 2 296 305",
+      "quantity": 1,
+      "description": "BMW blue xenon lamps",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 11 2 296 305",
+      "quantity": 1,
+      "description": "BMW blue xenon lamps",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "63 11 2 338 076",
+      "quantity": 1,
+      "description": "BMW blue halogen bulbs",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "63 11 2 338 076",
+      "quantity": 1,
+      "description": "BMW blue halogen bulbs",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 11 2 352 236",
+      "quantity": 1,
+      "description": "BMW blue halogen bulbs",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 11 2 352 236",
+      "quantity": 1,
+      "description": "BMW blue halogen bulbs",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 7552,
+  "diagram_title": "Indiv.bottom panel, strge partit.leather",
+  "image_url": "http://ills.bmwfans.info/vss.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 016 299",
+      "quantity": 1,
+      "description": "Bottom panel, storage partition, leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 8 016 300",
+      "quantity": 1,
+      "description": "Bottom panel, storage partition, leather",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

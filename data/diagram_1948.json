@@ -1,0 +1,541 @@
+{
+  "id": 1948,
+  "diagram_title": "BMW Baby Seat 0+",
+  "image_url": "http://ills.bmwfans.info/1kmg.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 22 0 009 532",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 0 142 589",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 0 142 590",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 0 148 482",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 0 148 562",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 0 392 360",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 0 148 563",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 0 148 565",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 2 154 112",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 0 009 532",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 0 142 589",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 0 142 590",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 0 148 482",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 0 148 562",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 0 392 360",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 0 148 563",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 0 148 565",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 2 154 112",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 0 009 532",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 0 142 589",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 0 142 590",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 0 148 482",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 0 148 562",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 0 392 360",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 0 148 563",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 0 148 565",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 2 154 112",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 22 0 010 107",
+      "quantity": 1,
+      "description": "Cover BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 22 0 142 306",
+      "quantity": 1,
+      "description": "Cover BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 22 0 142 307",
+      "quantity": 1,
+      "description": "Cover BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 22 0 148 777",
+      "quantity": 1,
+      "description": "Cover BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 22 0 010 107",
+      "quantity": 1,
+      "description": "Cover BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 22 0 142 306",
+      "quantity": 1,
+      "description": "Cover BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 22 0 142 307",
+      "quantity": 1,
+      "description": "Cover BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 22 0 148 777",
+      "quantity": 1,
+      "description": "Cover BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 22 0 010 107",
+      "quantity": 1,
+      "description": "Cover BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 22 0 142 306",
+      "quantity": 1,
+      "description": "Cover BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 22 0 142 307",
+      "quantity": 1,
+      "description": "Cover BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 22 0 148 777",
+      "quantity": 1,
+      "description": "Cover BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 22 0 017 058",
+      "quantity": 1,
+      "description": "Seat reducer for BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 22 0 142 308",
+      "quantity": 1,
+      "description": "Seat reducer for BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 22 0 142 309",
+      "quantity": 1,
+      "description": "Seat reducer for BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 22 0 300 839",
+      "quantity": 1,
+      "description": "Seat reducer for BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 22 0 017 058",
+      "quantity": 1,
+      "description": "Seat reducer for BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 22 0 142 308",
+      "quantity": 1,
+      "description": "Seat reducer for BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 22 0 142 309",
+      "quantity": 1,
+      "description": "Seat reducer for BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 22 0 300 839",
+      "quantity": 1,
+      "description": "Seat reducer for BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 22 0 017 058",
+      "quantity": 1,
+      "description": "Seat reducer for BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 22 0 142 308",
+      "quantity": 1,
+      "description": "Seat reducer for BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 22 0 142 309",
+      "quantity": 1,
+      "description": "Seat reducer for BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 22 0 300 839",
+      "quantity": 1,
+      "description": "Seat reducer for BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 22 0 142 310",
+      "quantity": 1,
+      "description": "Foot bag for BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 22 0 142 311",
+      "quantity": 1,
+      "description": "Foot bag for BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 22 0 142 310",
+      "quantity": 1,
+      "description": "Foot bag for BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 22 0 142 311",
+      "quantity": 1,
+      "description": "Foot bag for BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 22 0 142 310",
+      "quantity": 1,
+      "description": "Foot bag for BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 22 0 142 311",
+      "quantity": 1,
+      "description": "Foot bag for BMW Baby Seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "82 22 0 006 753",
+      "quantity": 1,
+      "description": "Second frame, baby seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "82 22 0 148 567",
+      "quantity": 1,
+      "description": "Second frame, baby seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "82 22 0 006 753",
+      "quantity": 1,
+      "description": "Second frame, baby seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "82 22 0 148 567",
+      "quantity": 1,
+      "description": "Second frame, baby seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "82 22 0 006 753",
+      "quantity": 1,
+      "description": "Second frame, baby seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "82 22 0 148 567",
+      "quantity": 1,
+      "description": "Second frame, baby seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "82 22 0 010 280",
+      "quantity": 1,
+      "description": "Belt clamp for BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "82 22 0 010 280",
+      "quantity": 1,
+      "description": "Belt clamp for BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "82 22 0 010 280",
+      "quantity": 1,
+      "description": "Belt clamp for BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

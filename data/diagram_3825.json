@@ -1,0 +1,245 @@
+{
+  "id": 3825,
+  "diagram_title": "Alarm systems",
+  "image_url": "http://ills.bmwfans.info/aft8.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "65 75 8 357 417",
+      "quantity": 1,
+      "description": "Tell-tale",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 75 8 376 370",
+      "quantity": 1,
+      "description": "Inclination indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 75 6 923 213",
+      "quantity": 1,
+      "description": "Inclination indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 75 8 380 745",
+      "quantity": 1,
+      "description": "Inclination indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 75 6 923 211",
+      "quantity": 1,
+      "description": "Inclination indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 14 6 961 200",
+      "quantity": 2,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "64 50 9 123 157",
+      "quantity": 2,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 11 1 835 624",
+      "quantity": 2,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 14 6 961 200",
+      "quantity": 2,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "65 75 8 366 217",
+      "quantity": 1,
+      "description": "Contact door window",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "65 75 8 366 218",
+      "quantity": 1,
+      "description": "Contact door window",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "65 75 8 366 215",
+      "quantity": 1,
+      "description": "Radiocontact",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "65 75 8 350 549",
+      "quantity": 1,
+      "description": "Radiocontact",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "65 75 8 360 045",
+      "quantity": 1,
+      "description": "Bracket micro switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "61 33 1 379 090",
+      "quantity": 1,
+      "description": "Horn",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "07 11 9 913 448",
+      "quantity": 1,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 14 6 961 200",
+      "quantity": 1,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "64 50 9 123 157",
+      "quantity": 1,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 11 1 835 624",
+      "quantity": 1,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 14 6 961 200",
+      "quantity": 1,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "65 75 8 367 700",
+      "quantity": 1,
+      "description": "Covering horn",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "65 75 8 357 500",
+      "quantity": 1,
+      "description": "Expanding rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "61 13 1 378 944",
+      "quantity": 1,
+      "description": "Bracket, plug connection black",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "63 12 1 374 075",
+      "quantity": 2,
+      "description": "Expanding nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 11 9 907 925",
+      "quantity": 2,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 11 9 906 876",
+      "quantity": 2,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "64 11 1 364 073",
+      "quantity": 1,
+      "description": "Cable holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "07 11 9 927 022",
+      "quantity": 1,
+      "description": "Collar nut",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E52, E65, E66, Z3"
+    },
+    {
+      "position_number": "20",
+      "part_number": "61 13 8 365 340",
+      "quantity": 1,
+      "description": "Universal socket housing uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,536 @@
+[
+  {
+    "id": 3808,
+    "diagram_title": "B+ terminal point, engine compartment",
+    "image_url": "http://ills.bmwfans.info/2rm9.png",
+    "parts_count": 10
+  },
+  {
+    "id": 3689,
+    "diagram_title": "Battery cable 2nd battery, authorities",
+    "image_url": "http://ills.bmwfans.info/2qpi.png",
+    "parts_count": 2
+  },
+  {
+    "id": 3811,
+    "diagram_title": "Battery cable(battery rear)",
+    "image_url": "http://ills.bmwfans.info/312d.png",
+    "parts_count": 13
+  },
+  {
+    "id": 3814,
+    "diagram_title": "Battery holder and mounting parts",
+    "image_url": "http://ills.bmwfans.info/1wrr.png",
+    "parts_count": 14
+  },
+  {
+    "id": 3789,
+    "diagram_title": "Body control units and moduls",
+    "image_url": "http://ills.bmwfans.info/3udw.png",
+    "parts_count": 8
+  },
+  {
+    "id": 3799,
+    "diagram_title": "Bracket f body control units and modules",
+    "image_url": "http://ills.bmwfans.info/d0qy.png",
+    "parts_count": 5
+  },
+  {
+    "id": 3726,
+    "diagram_title": "Cable covering",
+    "image_url": "http://ills.bmwfans.info/3alg.png",
+    "parts_count": 3
+  },
+  {
+    "id": 3720,
+    "diagram_title": "Cable tie",
+    "image_url": "http://ills.bmwfans.info/2ztn.png",
+    "parts_count": 35
+  },
+  {
+    "id": 3692,
+    "diagram_title": "Cable-yarded material",
+    "image_url": "http://ills.bmwfans.info/2vd4.png",
+    "parts_count": 25
+  },
+  {
+    "id": 3708,
+    "diagram_title": "Circular connector / D 2, 5 mm System",
+    "image_url": "http://ills.bmwfans.info/3krp.png",
+    "parts_count": 20
+  },
+  {
+    "id": 3742,
+    "diagram_title": "Contact system MQS",
+    "image_url": "http://ills.bmwfans.info/3k87.png",
+    "parts_count": 24
+  },
+  {
+    "id": 3696,
+    "diagram_title": "Contact system blade terminal MDK4 2.8",
+    "image_url": "http://ills.bmwfans.info/36xq.png",
+    "parts_count": 6
+  },
+  {
+    "id": 3739,
+    "diagram_title": "Contact system: Junior Power Timer",
+    "image_url": "http://ills.bmwfans.info/3kgy.png",
+    "parts_count": 3
+  },
+  {
+    "id": 3792,
+    "diagram_title": "Control modules, official vehicles",
+    "image_url": "http://ills.bmwfans.info/3w4v.png",
+    "parts_count": 1
+  },
+  {
+    "id": 3695,
+    "diagram_title": "Diagnosis plug",
+    "image_url": "http://ills.bmwfans.info/2oo5.png",
+    "parts_count": 12
+  },
+  {
+    "id": 3666,
+    "diagram_title": "Door cable harnesses",
+    "image_url": "http://ills.bmwfans.info/2aq0.png",
+    "parts_count": 9
+  },
+  {
+    "id": 3744,
+    "diagram_title": "Double leaf spring contact",
+    "image_url": "http://ills.bmwfans.info/3j2i.png",
+    "parts_count": 20
+  },
+  {
+    "id": 3786,
+    "diagram_title": "Ews control unit/tr module/support",
+    "image_url": "http://ills.bmwfans.info/i5o.png",
+    "parts_count": 3
+  },
+  {
+    "id": 3783,
+    "diagram_title": "Fuses audio / video",
+    "image_url": "http://ills.bmwfans.info/2ad5.png",
+    "parts_count": 6
+  },
+  {
+    "id": 3686,
+    "diagram_title": "Ground cable",
+    "image_url": "http://ills.bmwfans.info/2rmo.png",
+    "parts_count": 1
+  },
+  {
+    "id": 3911,
+    "diagram_title": "Head lamp cleaning device container",
+    "image_url": "http://ills.bmwfans.info/1dzz.png",
+    "parts_count": 16
+  },
+  {
+    "id": 3892,
+    "diagram_title": "Horn",
+    "image_url": "http://ills.bmwfans.info/209s.png",
+    "parts_count": 6
+  },
+  {
+    "id": 3664,
+    "diagram_title": "Main wiring harness",
+    "image_url": "http://ills.bmwfans.info/4gn.png",
+    "parts_count": 2
+  },
+  {
+    "id": 3832,
+    "diagram_title": "Microswitch",
+    "image_url": "http://ills.bmwfans.info/ht8.png",
+    "parts_count": 2
+  },
+  {
+    "id": 3747,
+    "diagram_title": "Miscellaneous plugs and connectors",
+    "image_url": "http://ills.bmwfans.info/3zu6.png",
+    "parts_count": 1
+  },
+  {
+    "id": 3752,
+    "diagram_title": "Miscellaneous plugs and connectors",
+    "image_url": "http://ills.bmwfans.info/a2gx.png",
+    "parts_count": 5
+  },
+  {
+    "id": 3835,
+    "diagram_title": "Modules/switch/charge socket, off. veh.",
+    "image_url": "http://ills.bmwfans.info/and2.png",
+    "parts_count": 5
+  },
+  {
+    "id": 3805,
+    "diagram_title": "Original BMW battery (Warranty only)",
+    "image_url": "http://ills.bmwfans.info/2xjv.png",
+    "parts_count": 6
+  },
+  {
+    "id": 3704,
+    "diagram_title": "Pin contacts ELO",
+    "image_url": "http://ills.bmwfans.info/2sds.png",
+    "parts_count": 37
+  },
+  {
+    "id": 3707,
+    "diagram_title": "Plug terminal ELO not waterproof",
+    "image_url": "http://ills.bmwfans.info/2rni.png",
+    "parts_count": 17
+  },
+  {
+    "id": 3731,
+    "diagram_title": "Plug terminal ELO-Power",
+    "image_url": "http://ills.bmwfans.info/2sdr.png",
+    "parts_count": 4
+  },
+  {
+    "id": 3723,
+    "diagram_title": "Plug-in connection bracket",
+    "image_url": "http://ills.bmwfans.info/b21l.png",
+    "parts_count": 28
+  },
+  {
+    "id": 3890,
+    "diagram_title": "Relais base",
+    "image_url": "http://ills.bmwfans.info/3ilz.png",
+    "parts_count": 2
+  },
+  {
+    "id": 3845,
+    "diagram_title": "Relay DME-MS42 K6300",
+    "image_url": "http://ills.bmwfans.info/g3nb.png",
+    "parts_count": 9
+  },
+  {
+    "id": 3864,
+    "diagram_title": "Relay for a/c compressor K19",
+    "image_url": "http://ills.bmwfans.info/g3ld.png",
+    "parts_count": 9
+  },
+  {
+    "id": 3867,
+    "diagram_title": "Relay for a/c compressor K19",
+    "image_url": "http://ills.bmwfans.info/g3le.png",
+    "parts_count": 9
+  },
+  {
+    "id": 3848,
+    "diagram_title": "Relay for air horn K2",
+    "image_url": "http://ills.bmwfans.info/g3lc.png",
+    "parts_count": 9
+  },
+  {
+    "id": 3838,
+    "diagram_title": "Relay for backup light K6325",
+    "image_url": "http://ills.bmwfans.info/dj70.png",
+    "parts_count": 1
+  },
+  {
+    "id": 3870,
+    "diagram_title": "Relay for fuel pump 1 K96",
+    "image_url": "http://ills.bmwfans.info/g3l5.png",
+    "parts_count": 9
+  },
+  {
+    "id": 3879,
+    "diagram_title": "Relay for headlight cleaning system K6",
+    "image_url": "http://ills.bmwfans.info/g3mw.png",
+    "parts_count": 9
+  },
+  {
+    "id": 3851,
+    "diagram_title": "Relay for heated rear window K13",
+    "image_url": "http://ills.bmwfans.info/dii5.png",
+    "parts_count": 1
+  },
+  {
+    "id": 3854,
+    "diagram_title": "Relay for heated rear window K13",
+    "image_url": "http://ills.bmwfans.info/g3lf.png",
+    "parts_count": 7
+  },
+  {
+    "id": 3857,
+    "diagram_title": "Relay for heater blower K4",
+    "image_url": "http://ills.bmwfans.info/dgr9.png",
+    "parts_count": 1
+  },
+  {
+    "id": 3860,
+    "diagram_title": "Relay for heater blower K4",
+    "image_url": "http://ills.bmwfans.info/dgr8.png",
+    "parts_count": 1
+  },
+  {
+    "id": 3884,
+    "diagram_title": "Relay for silent alarm, black",
+    "image_url": "http://ills.bmwfans.info/emdx.png",
+    "parts_count": 1
+  },
+  {
+    "id": 3876,
+    "diagram_title": "Relay for windshield wiper K11",
+    "image_url": "http://ills.bmwfans.info/dg3o.png",
+    "parts_count": 1
+  },
+  {
+    "id": 3842,
+    "diagram_title": "Relay, bridge — connection plug",
+    "image_url": "http://ills.bmwfans.info/emhh.png",
+    "parts_count": 2
+  },
+  {
+    "id": 3887,
+    "diagram_title": "Relay, change-over contact, pine green",
+    "image_url": "http://ills.bmwfans.info/emc4.png",
+    "parts_count": 2
+  },
+  {
+    "id": 3889,
+    "diagram_title": "Relay, cigarette lighter, Australia K31",
+    "image_url": "http://ills.bmwfans.info/g3nl.png",
+    "parts_count": 9
+  },
+  {
+    "id": 3873,
+    "diagram_title": "Relay, front fog lamp K47",
+    "image_url": "http://ills.bmwfans.info/g23w.png",
+    "parts_count": 4
+  },
+  {
+    "id": 3863,
+    "diagram_title": "Relay, pulse adapter, black",
+    "image_url": "http://ills.bmwfans.info/emdy.png",
+    "parts_count": 1
+  },
+  {
+    "id": 3839,
+    "diagram_title": "Relay, relief, Terminal 15 K6326",
+    "image_url": "http://ills.bmwfans.info/g3l9.png",
+    "parts_count": 9
+  },
+  {
+    "id": 3762,
+    "diagram_title": "Rep. kit for socket housing, 12-pin",
+    "image_url": "http://ills.bmwfans.info/erk1.png",
+    "parts_count": 1
+  },
+  {
+    "id": 3765,
+    "diagram_title": "Rep. kit for socket housing, 6-pin",
+    "image_url": "http://ills.bmwfans.info/ezst.png",
+    "parts_count": 1
+  },
+  {
+    "id": 3683,
+    "diagram_title": "Rep.kit f safety battery terminal clamp",
+    "image_url": "http://ills.bmwfans.info/agqi.png",
+    "parts_count": 1
+  },
+  {
+    "id": 3668,
+    "diagram_title": "Repair cable main cable harness",
+    "image_url": "http://ills.bmwfans.info/2s1n.png",
+    "parts_count": 5
+  },
+  {
+    "id": 3671,
+    "diagram_title": "Repair cable, airbag",
+    "image_url": "http://ills.bmwfans.info/qrv.png",
+    "parts_count": 6
+  },
+  {
+    "id": 3674,
+    "diagram_title": "Repair cable, airbag",
+    "image_url": "http://ills.bmwfans.info/1wxw.png",
+    "parts_count": 6
+  },
+  {
+    "id": 3677,
+    "diagram_title": "Repair cable, airbag",
+    "image_url": "http://ills.bmwfans.info/3q83.png",
+    "parts_count": 4
+  },
+  {
+    "id": 3767,
+    "diagram_title": "Repair kit for socket housing, 2-pin",
+    "image_url": "http://ills.bmwfans.info/ezt7.png",
+    "parts_count": 1
+  },
+  {
+    "id": 3770,
+    "diagram_title": "Repair kit for socket housing, 2-pin",
+    "image_url": "http://ills.bmwfans.info/ezt8.png",
+    "parts_count": 1
+  },
+  {
+    "id": 3773,
+    "diagram_title": "Repair kit for socket housing, 2-pin",
+    "image_url": "http://ills.bmwfans.info/eztm.png",
+    "parts_count": 1
+  },
+  {
+    "id": 3766,
+    "diagram_title": "Repair kit for socket housing, 3-pin",
+    "image_url": "http://ills.bmwfans.info/ezt6.png",
+    "parts_count": 1
+  },
+  {
+    "id": 3755,
+    "diagram_title": "Repair parts, coaxial cable contacts",
+    "image_url": "http://ills.bmwfans.info/b5bk.png",
+    "parts_count": 8
+  },
+  {
+    "id": 3759,
+    "diagram_title": "Repair parts, coaxial cable housing",
+    "image_url": "http://ills.bmwfans.info/bn18.png",
+    "parts_count": 7
+  },
+  {
+    "id": 3750,
+    "diagram_title": "Round plug system D 1.5 mm",
+    "image_url": "http://ills.bmwfans.info/a19u.png",
+    "parts_count": 3
+  },
+  {
+    "id": 3701,
+    "diagram_title": "SLK socket contact",
+    "image_url": "http://ills.bmwfans.info/36xp.png",
+    "parts_count": 18
+  },
+  {
+    "id": 3882,
+    "diagram_title": "Secondary air injection pump relay K6304",
+    "image_url": "http://ills.bmwfans.info/g3gj.png",
+    "parts_count": 5
+  },
+  {
+    "id": 3895,
+    "diagram_title": "Set, wiper blades flat/articulated blade",
+    "image_url": "http://ills.bmwfans.info/aoby.png",
+    "parts_count": 2
+  },
+  {
+    "id": 3802,
+    "diagram_title": "Single components f rain sensor",
+    "image_url": "http://ills.bmwfans.info/3v6k.png",
+    "parts_count": 3
+  },
+  {
+    "id": 3776,
+    "diagram_title": "Single components for fuse box",
+    "image_url": "http://ills.bmwfans.info/cc9.png",
+    "parts_count": 26
+  },
+  {
+    "id": 3779,
+    "diagram_title": "Single components for fuse box",
+    "image_url": "http://ills.bmwfans.info/w1i.png",
+    "parts_count": 10
+  },
+  {
+    "id": 3913,
+    "diagram_title": "Single parts for head lamp cleaning",
+    "image_url": "http://ills.bmwfans.info/1xmu.png",
+    "parts_count": 14
+  },
+  {
+    "id": 3905,
+    "diagram_title": "Single parts for windshield cleaning",
+    "image_url": "http://ills.bmwfans.info/1dw9.png",
+    "parts_count": 13
+  },
+  {
+    "id": 3823,
+    "diagram_title": "Steering-column stalk/ window lifter",
+    "image_url": "http://ills.bmwfans.info/fhr.png",
+    "parts_count": 10
+  },
+  {
+    "id": 3820,
+    "diagram_title": "Switch unit, center console",
+    "image_url": "http://ills.bmwfans.info/1scy.png",
+    "parts_count": 4
+  },
+  {
+    "id": 3817,
+    "diagram_title": "Switch unit, light",
+    "image_url": "http://ills.bmwfans.info/216t.png",
+    "parts_count": 9
+  },
+  {
+    "id": 3826,
+    "diagram_title": "Switch, seat adjustment",
+    "image_url": "http://ills.bmwfans.info/3gdj.png",
+    "parts_count": 6
+  },
+  {
+    "id": 3717,
+    "diagram_title": "Various cable grommets",
+    "image_url": "http://ills.bmwfans.info/3rbs.png",
+    "parts_count": 5
+  },
+  {
+    "id": 3735,
+    "diagram_title": "Various cable holders",
+    "image_url": "http://ills.bmwfans.info/3ffn.png",
+    "parts_count": 22
+  },
+  {
+    "id": 3732,
+    "diagram_title": "Various cable terminals",
+    "image_url": "http://ills.bmwfans.info/2sjx.png",
+    "parts_count": 4
+  },
+  {
+    "id": 3714,
+    "diagram_title": "Various comb-type connectors",
+    "image_url": "http://ills.bmwfans.info/3ilk.png",
+    "parts_count": 18
+  },
+  {
+    "id": 3711,
+    "diagram_title": "Various parts, wiring harness repair",
+    "image_url": "http://ills.bmwfans.info/3kh1.png",
+    "parts_count": 23
+  },
+  {
+    "id": 3830,
+    "diagram_title": "Various switches",
+    "image_url": "http://ills.bmwfans.info/3p2r.png",
+    "parts_count": 13
+  },
+  {
+    "id": 3831,
+    "diagram_title": "Various switches/cigar lighter",
+    "image_url": "http://ills.bmwfans.info/3prf.png",
+    "parts_count": 15
+  },
+  {
+    "id": 3907,
+    "diagram_title": "Windshield cleaning container",
+    "image_url": "http://ills.bmwfans.info/1xeh.png",
+    "parts_count": 14
+  },
+  {
+    "id": 3900,
+    "diagram_title": "Windshield wiper system, LHD",
+    "image_url": "http://ills.bmwfans.info/3gul.png",
+    "parts_count": 8
+  },
+  {
+    "id": 3898,
+    "diagram_title": "Wiper arm/wiper blade",
+    "image_url": "http://ills.bmwfans.info/1wz9.png",
+    "parts_count": 15
+  },
+  {
+    "id": 3680,
+    "diagram_title": "Wiring set seat",
+    "image_url": "http://ills.bmwfans.info/341x.png",
+    "parts_count": 10
+  }
+]

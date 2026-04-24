@@ -1,0 +1,925 @@
+{
+  "id": 160,
+  "diagram_title": "Pad/seat pan of bmw sports seat",
+  "image_url": "http://ills.bmwfans.info/bmu.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 122 078",
+      "quantity": 2,
+      "description": "Thigh support upholstery",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 122 078",
+      "quantity": 2,
+      "description": "Thigh support upholstery",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 2 276 391",
+      "quantity": 2,
+      "description": "Pad, lower seat, front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 122 076",
+      "quantity": 2,
+      "description": "Pad seat front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 2 276 391",
+      "quantity": 2,
+      "description": "Pad, lower seat, front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 122 076",
+      "quantity": 1,
+      "description": "Pad seat front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 8 192 572",
+      "quantity": 2,
+      "description": "Pad seat backrest front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 8 192 572",
+      "quantity": 2,
+      "description": "Pad seat backrest front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 10 8 122 077",
+      "quantity": 2,
+      "description": "Supporting plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 10 8 122 077",
+      "quantity": 2,
+      "description": "Supporting plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 8 122 075",
+      "quantity": 2,
+      "description": "Holder for thigh support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 8 122 075",
+      "quantity": 2,
+      "description": "Holder for thigh support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 130 667",
+      "quantity": 1,
+      "description": "Seat pan left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 130 668",
+      "quantity": 1,
+      "description": "Seat pan, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 166 181",
+      "quantity": 1,
+      "description": "Seat pan left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 166 182",
+      "quantity": 1,
+      "description": "Seat pan, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 166 183",
+      "quantity": 1,
+      "description": "Seat pan left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 166 184",
+      "quantity": 1,
+      "description": "Seat pan, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 166 185",
+      "quantity": 1,
+      "description": "Seat pan left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 166 186",
+      "quantity": 1,
+      "description": "Seat pan, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 166 187",
+      "quantity": 1,
+      "description": "Seat pan left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 166 188",
+      "quantity": 1,
+      "description": "Seat pan, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 166 191",
+      "quantity": 1,
+      "description": "Seat pan left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 166 192",
+      "quantity": 1,
+      "description": "Seat pan, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 166 193",
+      "quantity": 1,
+      "description": "Seat pan left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 166 194",
+      "quantity": 1,
+      "description": "Seat pan, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 166 347",
+      "quantity": 1,
+      "description": "Seat pan left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 166 348",
+      "quantity": 1,
+      "description": "Seat pan, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 130 667",
+      "quantity": 1,
+      "description": "Seat pan left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 130 668",
+      "quantity": 1,
+      "description": "Seat pan, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 166 181",
+      "quantity": 1,
+      "description": "Seat pan left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 166 182",
+      "quantity": 1,
+      "description": "Seat pan, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 166 183",
+      "quantity": 1,
+      "description": "Seat pan left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 166 184",
+      "quantity": 1,
+      "description": "Seat pan, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 166 185",
+      "quantity": 1,
+      "description": "Seat pan left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 166 186",
+      "quantity": 1,
+      "description": "Seat pan, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 166 187",
+      "quantity": 1,
+      "description": "Seat pan left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 166 188",
+      "quantity": 1,
+      "description": "Seat pan, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 166 191",
+      "quantity": 1,
+      "description": "Seat pan left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 166 192",
+      "quantity": 1,
+      "description": "Seat pan, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 166 193",
+      "quantity": 1,
+      "description": "Seat pan left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 166 194",
+      "quantity": 1,
+      "description": "Seat pan, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 166 347",
+      "quantity": 1,
+      "description": "Seat pan left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 166 348",
+      "quantity": 1,
+      "description": "Seat pan, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 8 201 675",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 8 201 676",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 8 201 677",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 8 201 678",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 8 201 679",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 8 201 680",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 8 201 884",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 8 201 885",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 8 201 675",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 8 201 676",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 8 201 677",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 8 201 678",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 8 201 679",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 8 201 680",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 8 201 884",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 8 201 885",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 202 403",
+      "quantity": 2,
+      "description": "Luggage net",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 202 404",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 202 405",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 202 406",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 202 407",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 202 408",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 202 409",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 202 410",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 202 411",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 202 403",
+      "quantity": 2,
+      "description": "Luggage net",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 202 404",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 202 405",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 202 406",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 202 407",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 202 408",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 202 409",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 202 410",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 202 411",
+      "quantity": 2,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "52 10 8 119 276",
+      "quantity": 4,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "52 10 8 119 276",
+      "quantity": 4,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "52 10 8 130 678",
+      "quantity": 4,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "52 10 8 130 678",
+      "quantity": 4,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "52 10 1 945 543",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "52 10 1 945 543",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "52 10 8 151 454",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "52 10 8 151 454",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "52 10 8 119 279",
+      "quantity": 1,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "52 10 8 119 279",
+      "quantity": 1,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "52 10 8 130 755",
+      "quantity": 2,
+      "description": "Backrest shell covering",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "52 10 8 166 254",
+      "quantity": 2,
+      "description": "Backrest shell covering",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "52 10 8 166 255",
+      "quantity": 2,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "52 10 8 166 256",
+      "quantity": 2,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "52 10 8 166 257",
+      "quantity": 2,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "52 10 8 166 258",
+      "quantity": 2,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "52 10 8 166 259",
+      "quantity": 2,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "52 10 8 166 260",
+      "quantity": 2,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "52 10 8 130 755",
+      "quantity": 2,
+      "description": "Backrest shell covering",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "52 10 8 166 254",
+      "quantity": 2,
+      "description": "Backrest shell covering",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "52 10 8 166 255",
+      "quantity": 2,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "52 10 8 166 256",
+      "quantity": 2,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "52 10 8 166 257",
+      "quantity": 2,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "52 10 8 166 258",
+      "quantity": 2,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "52 10 8 166 259",
+      "quantity": 2,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "52 10 8 166 260",
+      "quantity": 2,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "52 10 8 119 276",
+      "quantity": 1,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "52 10 8 119 276",
+      "quantity": 1,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "52 10 8 151 597",
+      "quantity": 8,
+      "description": "Clip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "52 10 8 151 597",
+      "quantity": 8,
+      "description": "Clip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "52 10 8 119 279",
+      "quantity": 4,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "52 10 8 119 279",
+      "quantity": 4,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "61 21 1 350 101",
+      "quantity": 1,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "07 14 9 158 226",
+      "quantity": 1,
+      "description": "Axial securing clip",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E82, E84, E85, E86, E9, E90, E90 Facelift, E91, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F07 Facelift, F15, F16, F18 Facelift, F25, F26, F85, F86, G11, G12, NK, Z1, Z3"
+    },
+    {
+      "position_number": "18",
+      "part_number": "61 21 1 350 101",
+      "quantity": 1,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "07 14 9 158 226",
+      "quantity": 1,
+      "description": "Axial securing clip",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E82, E84, E85, E86, E9, E90, E90 Facelift, E91, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F07 Facelift, F15, F16, F18 Facelift, F25, F26, F85, F86, G11, G12, NK, Z1, Z3"
+    }
+  ]
+}

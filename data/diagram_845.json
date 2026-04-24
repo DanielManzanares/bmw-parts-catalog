@@ -1,0 +1,301 @@
+{
+  "id": 845,
+  "diagram_title": "turn_signals_front_side",
+  "image_url": "/static/images/diagrams/E46_318i-N42_lighting_turn_signals_front_side.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 184,
+  "category_name": "Lighting",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "63 13 7 165 847",
+      "quantity": 1,
+      "description": "Left direction indicator light, yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 13 7 165 848",
+      "quantity": 1,
+      "description": "Right direction indicator light, yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 13 7 165 849",
+      "quantity": 1,
+      "description": "Left direction indicator light, white",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 13 7 165 850",
+      "quantity": 1,
+      "description": "Right direction indicator light, white",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 13 7 165 851",
+      "quantity": 1,
+      "description": "Left direction indicator light, titanium",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 13 7 165 852",
+      "quantity": 1,
+      "description": "Right direct. indicator light, titanium",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 13 7 165 853",
+      "quantity": 1,
+      "description": "Left direct. indic. light, white/titanium",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 13 7 165 854",
+      "quantity": 1,
+      "description": "Right direct.indic. light, white/titanium",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 21 6 926 920",
+      "quantity": 2,
+      "description": "Longlife bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 21 7 160 790",
+      "quantity": 2,
+      "description": "04",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 21 7 160 791",
+      "quantity": 2,
+      "description": "Bulb yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 21 7 160 897",
+      "quantity": 2,
+      "description": "Bulb silver",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 12 0 420 391",
+      "quantity": 1,
+      "description": "Conversion kit, bulbs, silver",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 13 6 943 121",
+      "quantity": 1,
+      "description": "Left turn indicat.lamp bulb socket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 13 6 943 122",
+      "quantity": 1,
+      "description": "Right turn indicat.lamp bulb socket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 13 6 914 121",
+      "quantity": 1,
+      "description": "Bulb socket, turn indicator, yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 13 6 914 122",
+      "quantity": 1,
+      "description": "01",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 13 6 914 122",
+      "quantity": 1,
+      "description": "01",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 13 6 914 121",
+      "quantity": 1,
+      "description": "Bulb socket, turn indicator, yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 13 6 914 167",
+      "quantity": 1,
+      "description": "Bulb socket, turn indicator, white left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 13 6 914 168",
+      "quantity": 1,
+      "description": "Bulb socket, turn indicator, white right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "63 13 7 165 913",
+      "quantity": 1,
+      "description": "Auxiliary flasher, yellow, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "63 13 7 165 914",
+      "quantity": 1,
+      "description": "Auxiliary flasher, yellow, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "63 13 7 165 915",
+      "quantity": 1,
+      "description": "Addit. turn indicator lamp, left white",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "63 13 7 165 916",
+      "quantity": 1,
+      "description": "Addit. turn indicator lamp, right white",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "63 13 8 382 104",
+      "quantity": 2,
+      "description": "Bulb socket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 21 7 160 797",
+      "quantity": 2,
+      "description": "Longlife bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 21 7 160 798",
+      "quantity": 2,
+      "description": "Bulb yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "63 13 6 914 763",
+      "quantity": 1,
+      "description": "Bracket, left direction indicator light",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "63 13 6 914 764",
+      "quantity": 1,
+      "description": "Bracket, right direction indicator light",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "63 13 7 055 874",
+      "quantity": 4,
+      "description": "Blind rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 13 6 938 621",
+      "quantity": 1,
+      "description": "Bracket, left direction indicator light",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 13 6 938 622",
+      "quantity": 1,
+      "description": "Bracket, right direction indicator light",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "61 13 8 365 340",
+      "quantity": 2,
+      "description": "Universal socket housing uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "61 13 2 359 999",
+      "quantity": 2,
+      "description": "Rep. kit for socket housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "61 13 8 373 332",
+      "quantity": 2,
+      "description": "Universal socket housing uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

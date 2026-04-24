@@ -1,0 +1,21 @@
+{
+  "id": 1215,
+  "diagram_title": "service_kit_for_brake_shoes_value_line",
+  "image_url": "/static/images/diagrams/E46_330Ci-M54_brakes_service_kit_for_brake_shoes_value_line.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 68,
+  "category_name": "Brakes",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "34 21 2 213 311",
+      "quantity": 1,
+      "description": "Service Kit repair set for brake shoes",
+      "price_eur": null,
+      "compatible_models": "E46, E81, E82, E84, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    }
+  ]
+}

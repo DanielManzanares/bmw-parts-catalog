@@ -1,0 +1,53 @@
+{
+  "id": 3897,
+  "diagram_title": "Hands-free telephone",
+  "image_url": "http://ills.bmwfans.info/d3b.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1648,
+  "category_name": "Communication systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 61 8 357 681",
+      "quantity": 1,
+      "description": "Hands free telephone microphone",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 61 8 357 450",
+      "quantity": 1,
+      "description": "Hands free telephone microphone wiring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 13 8 370 935",
+      "quantity": 2,
+      "description": "Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 907 925",
+      "quantity": 8,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "63 17 1 367 868",
+      "quantity": 8,
+      "description": "Expanding nut",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

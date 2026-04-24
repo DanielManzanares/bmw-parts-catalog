@@ -1,0 +1,61 @@
+{
+  "id": 7608,
+  "diagram_title": "Individual cover, seat, rear, leather Q9",
+  "image_url": "http://ills.bmwfans.info/2dj7.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 016 319",
+      "quantity": 1,
+      "description": "Leather seat cover, rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 011 528",
+      "quantity": 1,
+      "description": "Leather seat cover, rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 016 323",
+      "quantity": 1,
+      "description": "Leather seat cover, rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 011 532",
+      "quantity": 1,
+      "description": "Leather seat cover, rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 8 016 320",
+      "quantity": 1,
+      "description": "Cover backrest, leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 8 011 529",
+      "quantity": 1,
+      "description": "Cover backrest, leather",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

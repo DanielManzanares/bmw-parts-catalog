@@ -1,0 +1,45 @@
+{
+  "id": 2159,
+  "diagram_title": "Templates BMW",
+  "image_url": "http://ills.bmwfans.info/2sax.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1531,
+  "category_name": "Technical Literature",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "01 39 9 791 462",
+      "quantity": 1,
+      "description": "Template",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 39 9 791 460",
+      "quantity": 1,
+      "description": "Template",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 39 9 791 459",
+      "quantity": 1,
+      "description": "Template",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 39 9 791 461",
+      "quantity": 1,
+      "description": "Template",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

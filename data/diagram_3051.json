@@ -1,0 +1,45 @@
+{
+  "id": 3051,
+  "diagram_title": "Front body bracket right",
+  "image_url": "http://ills.bmwfans.info/109e.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "3",
+      "part_number": "41 14 8 165 487",
+      "quantity": 1,
+      "description": "Rear ignition coil support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "41 14 8 144 394",
+      "quantity": 1,
+      "description": "Bracket intensivcleaner container",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "41 11 8 153 757",
+      "quantity": 1,
+      "description": "Holder external ignition base",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "41 14 8 151 502",
+      "quantity": 1,
+      "description": "Bracket suction pipe airconditioner",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

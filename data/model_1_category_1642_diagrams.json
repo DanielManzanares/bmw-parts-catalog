@@ -1,0 +1,194 @@
+[
+  {
+    "id": 3702,
+    "diagram_title": "Air Conditioning Control",
+    "image_url": "http://ills.bmwfans.info/coe.png",
+    "parts_count": 11
+  },
+  {
+    "id": 3665,
+    "diagram_title": "Air channel",
+    "image_url": "http://ills.bmwfans.info/_con.png",
+    "parts_count": 5
+  },
+  {
+    "id": 3736,
+    "diagram_title": "Air cond.compressor-supporting bracket",
+    "image_url": "http://ills.bmwfans.info/ct9.png",
+    "parts_count": 8
+  },
+  {
+    "id": 3751,
+    "diagram_title": "Air condit.condenser and mounting parts",
+    "image_url": "http://ills.bmwfans.info/ekc.png",
+    "parts_count": 12
+  },
+  {
+    "id": 3669,
+    "diagram_title": "Air outlet",
+    "image_url": "http://ills.bmwfans.info/e64.png",
+    "parts_count": 17
+  },
+  {
+    "id": 3738,
+    "diagram_title": "Air-conditioner compressor",
+    "image_url": "http://ills.bmwfans.info/cth.png",
+    "parts_count": 2
+  },
+  {
+    "id": 3705,
+    "diagram_title": "Automatic air conditioning control",
+    "image_url": "http://ills.bmwfans.info/uwr.png",
+    "parts_count": 8
+  },
+  {
+    "id": 3712,
+    "diagram_title": "Bowden cable f air condition.flap regul.",
+    "image_url": "http://ills.bmwfans.info/cpe.png",
+    "parts_count": 2
+  },
+  {
+    "id": 3748,
+    "diagram_title": "Climate capacitor/additional blower",
+    "image_url": "http://ills.bmwfans.info/cpb.png",
+    "parts_count": 3
+  },
+  {
+    "id": 3730,
+    "diagram_title": "Control unit air conditioning sys.",
+    "image_url": "http://ills.bmwfans.info/cum.png",
+    "parts_count": 2
+  },
+  {
+    "id": 3757,
+    "diagram_title": "Coolant lines",
+    "image_url": "http://ills.bmwfans.info/1ert.png",
+    "parts_count": 14
+  },
+  {
+    "id": 3760,
+    "diagram_title": "Drying container/small parts",
+    "image_url": "http://ills.bmwfans.info/t5b.png",
+    "parts_count": 30
+  },
+  {
+    "id": 3725,
+    "diagram_title": "Electric parts for ac unit",
+    "image_url": "http://ills.bmwfans.info/32zu.png",
+    "parts_count": 11
+  },
+  {
+    "id": 3728,
+    "diagram_title": "Electric parts for heater",
+    "image_url": "http://ills.bmwfans.info/cun.png",
+    "parts_count": 3
+  },
+  {
+    "id": 3763,
+    "diagram_title": "Heater closing panel",
+    "image_url": "http://ills.bmwfans.info/cna.png",
+    "parts_count": 4
+  },
+  {
+    "id": 3699,
+    "diagram_title": "Heater control kammerer",
+    "image_url": "http://ills.bmwfans.info/com.png",
+    "parts_count": 11
+  },
+  {
+    "id": 3690,
+    "diagram_title": "Heater radiator Behr",
+    "image_url": "http://ills.bmwfans.info/cup.png",
+    "parts_count": 8
+  },
+  {
+    "id": 3688,
+    "diagram_title": "Heater radiator Siemens",
+    "image_url": "http://ills.bmwfans.info/cu9.png",
+    "parts_count": 1
+  },
+  {
+    "id": 3684,
+    "diagram_title": "Heater radiator/evaporator/wden cable",
+    "image_url": "http://ills.bmwfans.info/cu6.png",
+    "parts_count": 27
+  },
+  {
+    "id": 3718,
+    "diagram_title": "Housing parts — air conditioning",
+    "image_url": "http://ills.bmwfans.info/cu5.png",
+    "parts_count": 1
+  },
+  {
+    "id": 3722,
+    "diagram_title": "Housing parts — air conditioning",
+    "image_url": "http://ills.bmwfans.info/cw8.png",
+    "parts_count": 20
+  },
+  {
+    "id": 3715,
+    "diagram_title": "Housing parts, heater Behr",
+    "image_url": "http://ills.bmwfans.info/cuq.png",
+    "parts_count": 16
+  },
+  {
+    "id": 3741,
+    "diagram_title": "Magnetic clutch",
+    "image_url": "http://ills.bmwfans.info/iiz.png",
+    "parts_count": 3
+  },
+  {
+    "id": 3678,
+    "diagram_title": "Microfilter",
+    "image_url": "http://ills.bmwfans.info/coi.png",
+    "parts_count": 1
+  },
+  {
+    "id": 3682,
+    "diagram_title": "Microfiltre/microfiltrecover",
+    "image_url": "http://ills.bmwfans.info/cou.png",
+    "parts_count": 7
+  },
+  {
+    "id": 3675,
+    "diagram_title": "Outflow nozzles/covers",
+    "image_url": "http://ills.bmwfans.info/col.png",
+    "parts_count": 27
+  },
+  {
+    "id": 3754,
+    "diagram_title": "Pusher fan and mounting parts",
+    "image_url": "http://ills.bmwfans.info/ek9.png",
+    "parts_count": 15
+  },
+  {
+    "id": 3672,
+    "diagram_title": "Rear heater duct",
+    "image_url": "http://ills.bmwfans.info/cpc.png",
+    "parts_count": 5
+  },
+  {
+    "id": 3734,
+    "diagram_title": "Sensor f. auc",
+    "image_url": "http://ills.bmwfans.info/1e1m.png",
+    "parts_count": 2
+  },
+  {
+    "id": 3710,
+    "diagram_title": "Shaft",
+    "image_url": "http://ills.bmwfans.info/cot.png",
+    "parts_count": 3
+  },
+  {
+    "id": 3745,
+    "diagram_title": "Suction fan and mounting parts",
+    "image_url": "http://ills.bmwfans.info/3s6m.png",
+    "parts_count": 9
+  },
+  {
+    "id": 3693,
+    "diagram_title": "Water valve/Water hose",
+    "image_url": "http://ills.bmwfans.info/3h28.png",
+    "parts_count": 11
+  }
+]

@@ -1,0 +1,197 @@
+{
+  "id": 6077,
+  "diagram_title": "Trunk lid/closing system",
+  "image_url": "http://ills.bmwfans.info/3ncf.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "41 62 7 001 559",
+      "quantity": 1,
+      "description": "Left trunk lid hinge",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "41 62 7 001 560",
+      "quantity": 1,
+      "description": "Left trunk lid hinge",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 24 8 254 281",
+      "quantity": 2,
+      "description": "Gas pressurized spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 14 7 031 946",
+      "quantity": 2,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "41 61 8 220 056",
+      "quantity": 2,
+      "description": "Torx-bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 24 8 230 139",
+      "quantity": 2,
+      "description": "Trunk lid stopper",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 24 8 391 066",
+      "quantity": 2,
+      "description": "Cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 24 8 254 063",
+      "quantity": 2,
+      "description": "Stop buffer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 24 8 231 615",
+      "quantity": 2,
+      "description": "Stop buffer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 71 8 407 016",
+      "quantity": 2,
+      "description": "Stop buffer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 24 8 244 053",
+      "quantity": 1,
+      "description": "Trunk lid lock with code",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 24 8 244 054",
+      "quantity": 1,
+      "description": "Trunk lid lock with code",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 24 8 223 104",
+      "quantity": 1,
+      "description": "Trunk lid lock gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 14 9 154 112",
+      "quantity": 2,
+      "description": "Torx-bolt for plastic material",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 24 8 222 932",
+      "quantity": 1,
+      "description": "Connection rod",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 24 7 840 617",
+      "quantity": 1,
+      "description": "Trunk lid lock, with micro switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "07 14 6 985 055",
+      "quantity": 3,
+      "description": "Torx-bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 24 7 840 618",
+      "quantity": 1,
+      "description": "Catch bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 14 7 202 357",
+      "quantity": 2,
+      "description": "Torx-countersunk head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "51 24 8 235 751",
+      "quantity": 1,
+      "description": "Lock cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "51 13 7 010 365",
+      "quantity": 1,
+      "description": "Torx-bolt for plastic material",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "26",
+      "part_number": "51 24 7 126 428",
+      "quantity": 2,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "28",
+      "part_number": "61 13 8 380 696",
+      "quantity": 1,
+      "description": "Universal socket housing uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

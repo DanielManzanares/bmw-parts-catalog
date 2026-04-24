@@ -1,0 +1,109 @@
+{
+  "id": 5150,
+  "diagram_title": "Ignition coil/spark plug",
+  "image_url": "http://ills.bmwfans.info/21nt.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 13 8 616 153",
+      "quantity": 4,
+      "description": "Ignition coil",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 13 8 657 273",
+      "quantity": 4,
+      "description": "Ignition coil",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 13 8 616 153",
+      "quantity": 4,
+      "description": "Ignition coil",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 13 8 657 273",
+      "quantity": 4,
+      "description": "Ignition coil",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "12 13 1 437 986",
+      "quantity": 4,
+      "description": "Locking mechanism",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "12 13 1 437 986",
+      "quantity": 4,
+      "description": "Locking mechanism",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "12 12 2 158 252",
+      "quantity": 4,
+      "description": "Spark plug, High Power",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "12 12 2 158 252",
+      "quantity": 4,
+      "description": "Spark plug, High Power",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "12 52 1 437 985",
+      "quantity": 1,
+      "description": "Socket housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "12 52 7 519 996",
+      "quantity": 1,
+      "description": "Socket housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "12 52 1 437 985",
+      "quantity": 1,
+      "description": "Socket housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "12 52 7 519 996",
+      "quantity": 1,
+      "description": "Socket housing",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

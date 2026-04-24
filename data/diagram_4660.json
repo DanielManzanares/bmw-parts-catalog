@@ -1,0 +1,29 @@
+{
+  "id": 4660,
+  "diagram_title": "Emergency bag",
+  "image_url": "http://ills.bmwfans.info/bclv.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 26 2 210 667",
+      "quantity": 1,
+      "description": "Emergency bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 26 2 210 667",
+      "quantity": 1,
+      "description": "Emergency bag",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

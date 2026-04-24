@@ -1,0 +1,157 @@
+{
+  "id": 3784,
+  "diagram_title": "Supplementary parts 2.componente",
+  "image_url": "http://ills.bmwfans.info/d1c.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 12 8 359 039",
+      "quantity": 1,
+      "description": "Connection cable",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 24 8 353 214",
+      "quantity": 1,
+      "description": "Antenna cable",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 12 1 388 703",
+      "quantity": 1,
+      "description": "Frame",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "65 12 1 385 469",
+      "quantity": 2,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "65 12 1 389 614",
+      "quantity": 1,
+      "description": "Frame",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "65 11 1 379 686",
+      "quantity": 1,
+      "description": "Pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "65 11 1 384 855",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "65 12 1 393 418",
+      "quantity": 1,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "07 11 9 913 218",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 931 030",
+      "quantity": 1,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E28, E30, E31, E32, E34, E36, E53, Z1"
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 902 255",
+      "quantity": 1,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 14 6 961 200",
+      "quantity": 3,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "64 50 9 123 157",
+      "quantity": 3,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 11 1 835 624",
+      "quantity": 3,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 14 6 961 200",
+      "quantity": 3,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 47 1 945 266",
+      "quantity": 2,
+      "description": "Push-button",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 71 1 916 199",
+      "quantity": 2,
+      "description": "Lock insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "65 12 8 353 138",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": 2476,
+  "diagram_title": "Luggage basket",
+  "image_url": "http://ills.bmwfans.info/d9g.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 12 9 413 104",
+      "quantity": 1,
+      "description": "Luggage basket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 12 9 401 483",
+      "quantity": 1,
+      "description": "Luggage basket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 79 9 404 479",
+      "quantity": 1,
+      "description": "Retrofit kit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 12 9 401 129",
+      "quantity": 1,
+      "description": "Mounting parts set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "82 12 9 413 113",
+      "quantity": 2,
+      "description": "Tension belt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "82 11 9 413 833",
+      "quantity": 4,
+      "description": "Eyelet for tension-belt",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

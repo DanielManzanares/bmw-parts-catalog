@@ -1,0 +1,1373 @@
+{
+  "id": 3643,
+  "diagram_title": "Seat, rear, uphlstry/cover, load-through",
+  "image_url": "http://ills.bmwfans.info/1jsg.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 214 940",
+      "quantity": 1,
+      "description": "Seat upholstery",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 009 898",
+      "quantity": 1,
+      "description": "Seat upholstery",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 8 214 969",
+      "quantity": 1,
+      "description": "Left backrest upholstery",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 8 214 970",
+      "quantity": 1,
+      "description": "Right backrest upholstery",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 8 214 964",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 8 214 963",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 8 215 003",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 8 215 002",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 8 214 965",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 8 214 962",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 8 267 735",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 8 267 734",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 8 267 732",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 890 277",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 8 267 736",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 8 215 011",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 8 240 445",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 8 215 005",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 8 215 013",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 8 215 012",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 026 555",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 8 267 730",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 000 881",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 000 883",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 000 889",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 000 887",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 000 886",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 000 885",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 000 868",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 000 867",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 000 873",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 000 872",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 000 870",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 000 869",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 000 877",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 000 878",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 000 880",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 000 876",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 000 875",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 048 550",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 048 551",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 043 189",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 048 552",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 045 669",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 045 668",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 031 436",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 7 026 553",
+      "quantity": 1,
+      "description": "Seat cover cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 8 225 753",
+      "quantity": 1,
+      "description": "Cover backrest cloth left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 8 236 165",
+      "quantity": 1,
+      "description": "Cover backrest cloth left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 7 048 543",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 7 048 542",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 8 225 761",
+      "quantity": 1,
+      "description": "Cover backrest cloth left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 8 225 759",
+      "quantity": 1,
+      "description": "Cover backrest cloth left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 8 225 755",
+      "quantity": 1,
+      "description": "Cover backrest cloth left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 7 047 409",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 7 043 187",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 8 236 162",
+      "quantity": 1,
+      "description": "Cover backrest cloth left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 7 122 670",
+      "quantity": 1,
+      "description": "Cover backrest cloth left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 7 122 669",
+      "quantity": 1,
+      "description": "Cover backrest cloth left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 8 267 751",
+      "quantity": 1,
+      "description": "Cover backrest cloth left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 8 267 750",
+      "quantity": 1,
+      "description": "Cover backrest cloth left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 8 267 748",
+      "quantity": 1,
+      "description": "Left cloth/leather backrest cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 8 236 181",
+      "quantity": 1,
+      "description": "Cover backrest vinyl left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 7 890 287",
+      "quantity": 1,
+      "description": "Cover backrest cloth left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 8 267 752",
+      "quantity": 1,
+      "description": "Cover backrest cloth left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 8 225 777",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 8 225 775",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 8 225 765",
+      "quantity": 1,
+      "description": "Cover backrest cloth left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 8 236 180",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 8 225 781",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 8 225 779",
+      "quantity": 1,
+      "description": "Cover backrest cloth left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 7 026 248",
+      "quantity": 1,
+      "description": "Left cloth/leather backrest cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 7 045 662",
+      "quantity": 1,
+      "description": "Cover backrest cloth left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 7 047 411",
+      "quantity": 1,
+      "description": "Cover backrest cloth left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 7 047 410",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 8 267 746",
+      "quantity": 1,
+      "description": "Cover backrest cloth left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 7 045 663",
+      "quantity": 1,
+      "description": "Cover backrest cloth left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 7 048 544",
+      "quantity": 1,
+      "description": "Cover backrest leather left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 8 225 754",
+      "quantity": 1,
+      "description": "Cover backrest cloth right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 8 225 752",
+      "quantity": 1,
+      "description": "Cover backrest cloth right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 7 048 547",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 7 048 546",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 8 225 762",
+      "quantity": 1,
+      "description": "Cover backrest cloth right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 8 225 760",
+      "quantity": 1,
+      "description": "Cover backrest cloth right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 8 225 756",
+      "quantity": 1,
+      "description": "Cover backrest cloth right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 7 047 413",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 7 043 186",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 8 248 185",
+      "quantity": 1,
+      "description": "Cover backrest cloth right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 7 122 676",
+      "quantity": 1,
+      "description": "Cover backrest cloth right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 7 122 675",
+      "quantity": 1,
+      "description": "Cover backrest cloth right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 8 267 759",
+      "quantity": 1,
+      "description": "Cover backrest cloth right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 8 267 758",
+      "quantity": 1,
+      "description": "Cover backrest cloth right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 8 267 756",
+      "quantity": 1,
+      "description": "Right cloth/leather backrest cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 8 248 201",
+      "quantity": 1,
+      "description": "Cover backrest leather right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 7 890 291",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 8 267 760",
+      "quantity": 1,
+      "description": "Cover backrest cloth right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 8 225 778",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 8 225 776",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 8 225 766",
+      "quantity": 1,
+      "description": "Cover backrest cloth right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 8 248 200",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 8 225 782",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 8 225 780",
+      "quantity": 1,
+      "description": "Cover backrest cloth right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 7 026 250",
+      "quantity": 1,
+      "description": "Right cloth/leather backrest cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 7 045 665",
+      "quantity": 1,
+      "description": "Cover backrest cloth right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 7 047 415",
+      "quantity": 1,
+      "description": "Cover backrest cloth right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 7 047 414",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 8 267 754",
+      "quantity": 1,
+      "description": "Cover backrest cloth right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 7 045 666",
+      "quantity": 1,
+      "description": "Cover backrest cloth right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 7 048 548",
+      "quantity": 1,
+      "description": "Cover backrest leather right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 254 927",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 254 928",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 254 925",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 254 926",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 254 935",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 254 936",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 254 933",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 254 934",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 254 929",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 254 930",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 7 043 192",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 23 7 043 191",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 254 923",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 254 924",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 267 773",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 267 774",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 267 771",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 267 772",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 254 959",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 254 960",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 7 890 297",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 7 890 298",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 267 775",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 267 776",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 254 947",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 254 948",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 254 939",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 254 940",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 254 957",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 254 958",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 254 953",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 254 954",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 254 951",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 254 952",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 7 026 701",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 7 026 702",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 7 045 709",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 7 045 710",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 7 047 427",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 7 047 428",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 7 047 425",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 7 047 426",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 267 763",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 267 764",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 7 045 711",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 7 045 712",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 7 055 137",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 7 055 138",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 254 949",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 254 950",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 267 771",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 267 772",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 267 775",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 267 776",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 1 945 543",
+      "quantity": 2,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "52 20 8 129 296",
+      "quantity": 2,
+      "description": "Wire-strap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "52 20 7 009 903",
+      "quantity": 1,
+      "description": "Cover isofix",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "52 20 7 009 904",
+      "quantity": 1,
+      "description": "Cover isofix",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "52 20 7 009 907",
+      "quantity": 1,
+      "description": "Cover isofix",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "52 20 7 009 909",
+      "quantity": 1,
+      "description": "Cover isofix",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "52 20 7 010 924",
+      "quantity": 1,
+      "description": "Cover isofix",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

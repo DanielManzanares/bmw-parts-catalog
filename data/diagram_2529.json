@@ -1,0 +1,85 @@
+{
+  "id": 2529,
+  "diagram_title": "Relay",
+  "image_url": "http://ills.bmwfans.info/by5.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "3",
+      "part_number": "61 31 1 386 978",
+      "quantity": 1,
+      "description": "Wiper-wash-interval control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 31 1 368 199",
+      "quantity": 1,
+      "description": "Wiper-wash-interval control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 31 1 368 198",
+      "quantity": 1,
+      "description": "Wiper-wash-interval control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 31 1 367 391",
+      "quantity": 1,
+      "description": "Wiper-wash-interval control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 31 1 369 829",
+      "quantity": 1,
+      "description": "Control unit intensiv cleaner",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "61 31 1 373 585",
+      "quantity": 1,
+      "description": "Relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "61 31 1 373 588",
+      "quantity": 1,
+      "description": "Mini-relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "61 31 1 380 014",
+      "quantity": 3,
+      "description": "Diode relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "61 31 1 367 563",
+      "quantity": 1,
+      "description": "Relay",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

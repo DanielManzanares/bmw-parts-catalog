@@ -1,0 +1,29 @@
+{
+  "id": 4388,
+  "diagram_title": "Retrofit kit, titanium covers, headlight",
+  "image_url": "http://ills.bmwfans.info/1p4a.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "63 12 6 908 892",
+      "quantity": 1,
+      "description": "Retrofit kit, titanium covers, headlight",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 6 908 892",
+      "quantity": 1,
+      "description": "Retrofit kit, titanium covers, headlight",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

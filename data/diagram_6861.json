@@ -1,0 +1,29 @@
+{
+  "id": 6861,
+  "diagram_title": "BMW chrome lamps",
+  "image_url": "http://ills.bmwfans.info/da69.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 184,
+  "category_name": "Lighting",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "63 21 2 350 817",
+      "quantity": 1,
+      "description": "BMW chrome lamps",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 21 2 352 229",
+      "quantity": 1,
+      "description": "BMW chrome lamps",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

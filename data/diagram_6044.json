@@ -1,0 +1,397 @@
+{
+  "id": 6044,
+  "diagram_title": "Edge protector / Trim for entry",
+  "image_url": "http://ills.bmwfans.info/1xa7.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 47 8 239 959",
+      "quantity": 1,
+      "description": "Cover strip, entrance, interior, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 8 239 960",
+      "quantity": 1,
+      "description": "Cover strip, entrance, interior, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 8 239 961",
+      "quantity": 1,
+      "description": "Cover strip, entrance, interior, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 8 239 962",
+      "quantity": 1,
+      "description": "Cover strip, entrance, interior, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 8 239 963",
+      "quantity": 1,
+      "description": "Cover strip, entrance, interior, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 8 239 964",
+      "quantity": 1,
+      "description": "Cover strip, entrance, interior, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 7 891 929",
+      "quantity": 1,
+      "description": "Cover, entrance, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 7 891 930",
+      "quantity": 1,
+      "description": "Cover, entrance, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 204 113",
+      "quantity": 1,
+      "description": "Cover, entrance, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 204 114",
+      "quantity": 1,
+      "description": "Cover, entrance, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 219 213",
+      "quantity": 1,
+      "description": "Cover, entrance, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 219 214",
+      "quantity": 1,
+      "description": "Cover, entrance, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 7 895 383",
+      "quantity": 1,
+      "description": "Cover, entrance, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 7 895 384",
+      "quantity": 1,
+      "description": "Cover, entrance, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 7 893 601",
+      "quantity": 1,
+      "description": "Cover, entrance, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 7 893 602",
+      "quantity": 1,
+      "description": "Cover, entrance, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 47 8 234 047",
+      "quantity": 16,
+      "description": "Sill strip clip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 47 8 229 316",
+      "quantity": 10,
+      "description": "Clip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 71 8 226 121",
+      "quantity": 1,
+      "description": "Primed left outer kick panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 71 8 226 122",
+      "quantity": 1,
+      "description": "Primed left outer kick panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 71 7 893 119",
+      "quantity": 1,
+      "description": "Primed left outer kick panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 71 7 893 120",
+      "quantity": 1,
+      "description": "Primed left outer kick panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 71 1 932 996",
+      "quantity": 24,
+      "description": "Grommet, green",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 11 8 174 185",
+      "quantity": 20,
+      "description": "Expanding rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 11 8 174 184",
+      "quantity": 2,
+      "description": "Expanding rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 71 8 244 045",
+      "quantity": 1,
+      "description": "Covering left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 71 8 244 046",
+      "quantity": 1,
+      "description": "Covering left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 71 7 161 687",
+      "quantity": 1,
+      "description": "Edge protection left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 71 7 161 688",
+      "quantity": 1,
+      "description": "Edge protection left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 71 7 161 689",
+      "quantity": 1,
+      "description": "Edge protection left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 71 7 161 690",
+      "quantity": 1,
+      "description": "Edge protection left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 71 7 161 691",
+      "quantity": 1,
+      "description": "Edge protection left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 71 7 161 692",
+      "quantity": 1,
+      "description": "Edge protection left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 71 8 195 651",
+      "quantity": 2,
+      "description": "Plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 71 7 003 935",
+      "quantity": 1,
+      "description": "Finisher, side frame left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 71 7 003 936",
+      "quantity": 1,
+      "description": "Finisher, side frame left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 71 7 003 937",
+      "quantity": 1,
+      "description": "Finisher, side frame left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 71 7 003 938",
+      "quantity": 1,
+      "description": "Finisher, side frame left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 71 7 030 845",
+      "quantity": 1,
+      "description": "Finisher, side frame left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 71 7 030 846",
+      "quantity": 1,
+      "description": "Finisher, side frame left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 11 9 913 415",
+      "quantity": 24,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "41 00 9 175 577",
+      "quantity": 24,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 71 7 013 307",
+      "quantity": 32,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 71 7 013 308",
+      "quantity": 32,
+      "description": "Prestol-cage",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "63 17 1 367 868",
+      "quantity": 24,
+      "description": "Expanding nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "07 14 6 976 114",
+      "quantity": 24,
+      "description": "Expanding nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "07 12 9 904 213",
+      "quantity": 24,
+      "description": "Prestol-cage",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 71 7 037 260",
+      "quantity": 2,
+      "description": "Sealing strip",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

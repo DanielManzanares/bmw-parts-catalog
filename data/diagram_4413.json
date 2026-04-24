@@ -1,0 +1,45 @@
+{
+  "id": 4413,
+  "diagram_title": "Conversion kit tail lights Facelift 2003",
+  "image_url": "http://ills.bmwfans.info/2n4m.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "63 21 0 154 471",
+      "quantity": 1,
+      "description": "Retrofit kit LED tail lights, yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 21 0 154 472",
+      "quantity": 1,
+      "description": "Retrofit kit LED tail lights, yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 21 0 154 471",
+      "quantity": 1,
+      "description": "Retrofit kit LED tail lights, yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 21 0 154 472",
+      "quantity": 1,
+      "description": "Retrofit kit LED tail lights, yellow",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

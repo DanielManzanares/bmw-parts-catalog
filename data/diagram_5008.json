@@ -1,0 +1,77 @@
+{
+  "id": 5008,
+  "diagram_title": "Trailer rear supports",
+  "image_url": "http://ills.bmwfans.info/8dd.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "86 30 9 415 383",
+      "quantity": 1,
+      "description": "Installation kit for rear support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "86 30 9 415 383",
+      "quantity": 1,
+      "description": "Installation kit for rear support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 12 1 179 953",
+      "quantity": 1,
+      "description": "Crank",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 12 1 179 953",
+      "quantity": 1,
+      "description": "Crank",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 71 2 234 084",
+      "quantity": 2,
+      "description": "Primed jack fixture flap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 71 2 234 084",
+      "quantity": 2,
+      "description": "Primed jack fixture flap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 71 8 108 229",
+      "quantity": 2,
+      "description": "Pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 71 8 108 229",
+      "quantity": 2,
+      "description": "Pin",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

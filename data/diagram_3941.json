@@ -1,0 +1,149 @@
+{
+  "id": 3941,
+  "diagram_title": "Individual handbrake lever w/wood handle",
+  "image_url": "http://ills.bmwfans.info/9eo.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "34 40 2 263 207",
+      "quantity": 1,
+      "description": "Handbrake lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 41 2 265 221",
+      "quantity": 1,
+      "description": "Handbrake lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 41 2 266 691",
+      "quantity": 1,
+      "description": "Handbrake lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 41 2 425 868",
+      "quantity": 1,
+      "description": "Handbrake lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 41 2 425 874",
+      "quantity": 1,
+      "description": "Handbrake lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 41 2 425 878",
+      "quantity": 1,
+      "description": "Handbrake lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 41 2 425 882",
+      "quantity": 1,
+      "description": "Handbrake lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 41 2 491 233",
+      "quantity": 1,
+      "description": "Handbrake lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 41 2 491 234",
+      "quantity": 1,
+      "description": "Handbrake lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 41 2 491 235",
+      "quantity": 1,
+      "description": "Handbrake lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 41 2 491 240",
+      "quantity": 1,
+      "description": "Handbrake lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 2 425 869",
+      "quantity": 1,
+      "description": "Cromium-plated birchwood handbrake lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 2 425 879",
+      "quantity": 1,
+      "description": "Cromium-plated birchwood handbrake lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 2 425 883",
+      "quantity": 1,
+      "description": "Cromium-plated birchwood handbrake lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 2 491 409",
+      "quantity": 1,
+      "description": "Cromium-plated birchwood handbrake lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 2 491 443",
+      "quantity": 1,
+      "description": "Cromium-plated birchwood handbrake lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 2 493 331",
+      "quantity": 1,
+      "description": "Cromium-plated birchwood handbrake lever",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 1141,
+  "diagram_title": "manual_transmission_gs6_37bz_dz",
+  "image_url": "/static/images/diagrams/E46_330Ci-M54_manual_transmission_manual_transmission_gs6_37bz_dz.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 42,
+  "category_name": "Manual Transmission",
+  "parts": [
+    {
+      "position_number": "4",
+      "part_number": "83 22 2 339 219",
+      "quantity": 1,
+      "description": "Oil for manual transmission MTF LT-2",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

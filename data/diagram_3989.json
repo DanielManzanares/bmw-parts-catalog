@@ -1,0 +1,45 @@
+{
+  "id": 3989,
+  "diagram_title": "Climate compressor supporting bracket",
+  "image_url": "http://ills.bmwfans.info/2y7f.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 55 1 432 237",
+      "quantity": 1,
+      "description": "Climate compressor supporting bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 902 191",
+      "quantity": 3,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 902 192",
+      "quantity": 2,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 913 103",
+      "quantity": 3,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": 3289,
+  "diagram_title": "Single parts for sliding lifting roof",
+  "image_url": "http://ills.bmwfans.info/bti.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1639,
+  "category_name": "Sliding Roof / Folding Top",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "54 12 8 144 037",
+      "quantity": 1,
+      "description": "Manual sliding-lifting roof transmission",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "54 12 8 176 530",
+      "quantity": 2,
+      "description": "Torx bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 14 7 077 613",
+      "quantity": 2,
+      "description": "Torx bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "54 12 8 116 590",
+      "quantity": 1,
+      "description": "Torx bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "54 12 8 144 170",
+      "quantity": 1,
+      "description": "Recessed handle",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 902 454",
+      "quantity": 2,
+      "description": "Recessed oval head sheet-metal screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "54 12 8 144 149",
+      "quantity": 1,
+      "description": "Crank",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "54 12 8 176 530",
+      "quantity": 2,
+      "description": "Torx bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 14 7 077 613",
+      "quantity": 2,
+      "description": "Torx bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "54 12 8 116 590",
+      "quantity": 1,
+      "description": "Torx bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "54 12 8 144 172",
+      "quantity": 1,
+      "description": "Trim ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 11 9 928 563",
+      "quantity": 1,
+      "description": "Csk.fillister head srew",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

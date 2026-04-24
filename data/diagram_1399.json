@@ -1,0 +1,61 @@
+{
+  "id": 1399,
+  "diagram_title": "Suspension for trailer hitch",
+  "image_url": "http://ills.bmwfans.info/3dm.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 58,
+  "category_name": "Rear Axle",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "33 53 1 126 901",
+      "quantity": 2,
+      "description": "Coil spring",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 53 1 126 901",
+      "quantity": 2,
+      "description": "Coil spring",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "33 52 1 125 770",
+      "quantity": 2,
+      "description": "Shock absorber, rear",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "33 52 1 125 770",
+      "quantity": 2,
+      "description": "Shock absorber, rear",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "33 52 1 126 000",
+      "quantity": 2,
+      "description": "Spring strut, rear",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "33 52 1 126 000",
+      "quantity": 2,
+      "description": "Spring strut, rear",
+      "price_eur": null,
+      "compatible_models": "E28"
+    }
+  ]
+}

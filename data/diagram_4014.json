@@ -1,0 +1,93 @@
+{
+  "id": 4014,
+  "diagram_title": "Parts Harman Kardon hifi, rear door",
+  "image_url": "http://ills.bmwfans.info/hdx.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 13 8 368 245",
+      "quantity": 2,
+      "description": "Top-hifi mid-range loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 13 8 368 240",
+      "quantity": 2,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 13 6 911 462",
+      "quantity": 2,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 13 8 374 768",
+      "quantity": 2,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 13 8 374 759",
+      "quantity": 2,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 13 8 374 760",
+      "quantity": 2,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 13 8 374 761",
+      "quantity": 2,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 13 8 374 762",
+      "quantity": 2,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 13 8 374 763",
+      "quantity": 2,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 13 8 374 764",
+      "quantity": 2,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

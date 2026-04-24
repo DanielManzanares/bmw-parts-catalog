@@ -1,0 +1,173 @@
+{
+  "id": 177,
+  "diagram_title": "Upholstery leather, water buffalo",
+  "image_url": "http://ills.bmwfans.info/bp6.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 89 8 124 238",
+      "quantity": 1,
+      "description": "Upholstery leather, water buffalo",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 174 043",
+      "quantity": 1,
+      "description": "Upholstery leather, water buffalo",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 1 909 095",
+      "quantity": 1,
+      "description": "Upholstery leather, water buffalo",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E32, E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 8 124 239",
+      "quantity": 1,
+      "description": "Upholstery leather, water buffalo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 1 909 096",
+      "quantity": 1,
+      "description": "Upholstery leather, water buffalo",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E32, E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 1 938 950",
+      "quantity": 1,
+      "description": "Upholstery leather, water buffalo",
+      "price_eur": null,
+      "compatible_models": "E24, E32, E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 1 938 951",
+      "quantity": 1,
+      "description": "Upholstery leather, water buffalo",
+      "price_eur": null,
+      "compatible_models": "E24, E32, E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 1 938 952",
+      "quantity": 1,
+      "description": "Upholstery leather, water buffalo",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 1 979 917",
+      "quantity": 1,
+      "description": "Upholstery leather, water buffalo",
+      "price_eur": null,
+      "compatible_models": "E24, E32, E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 1 979 918",
+      "quantity": 1,
+      "description": "Upholstery leather, water buffalo",
+      "price_eur": null,
+      "compatible_models": "E24, E32, E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 89 8 124 238",
+      "quantity": 1,
+      "description": "Upholstery leather, water buffalo",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 174 043",
+      "quantity": 1,
+      "description": "Upholstery leather, water buffalo",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 1 909 095",
+      "quantity": 1,
+      "description": "Upholstery leather, water buffalo",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E32, E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 8 124 239",
+      "quantity": 1,
+      "description": "Upholstery leather, water buffalo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 1 909 096",
+      "quantity": 1,
+      "description": "Upholstery leather, water buffalo",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E32, E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 1 938 950",
+      "quantity": 1,
+      "description": "Upholstery leather, water buffalo",
+      "price_eur": null,
+      "compatible_models": "E24, E32, E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 1 938 951",
+      "quantity": 1,
+      "description": "Upholstery leather, water buffalo",
+      "price_eur": null,
+      "compatible_models": "E24, E32, E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 1 938 952",
+      "quantity": 1,
+      "description": "Upholstery leather, water buffalo",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 1 979 917",
+      "quantity": 1,
+      "description": "Upholstery leather, water buffalo",
+      "price_eur": null,
+      "compatible_models": "E24, E32, E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 98 1 979 918",
+      "quantity": 1,
+      "description": "Upholstery leather, water buffalo",
+      "price_eur": null,
+      "compatible_models": "E24, E32, E34, E36"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2002,
+    "diagram_title": "Gearbox mounting parts",
+    "image_url": "http://ills.bmwfans.info/2ev.png",
+    "parts_count": 18
+  },
+  {
+    "id": 2003,
+    "diagram_title": "Gearbox suspension",
+    "image_url": "http://ills.bmwfans.info/2du.png",
+    "parts_count": 60
+  },
+  {
+    "id": 2007,
+    "diagram_title": "Getrag 260/5/50 gear wheel set, sing part",
+    "image_url": "http://ills.bmwfans.info/2hx.png",
+    "parts_count": 120
+  },
+  {
+    "id": 2008,
+    "diagram_title": "Getrag 260/5/50 gear wheel set, sing part",
+    "image_url": "http://ills.bmwfans.info/2hy.png",
+    "parts_count": 135
+  },
+  {
+    "id": 2004,
+    "diagram_title": "Getrag 260/5/50 housing+attaching parts",
+    "image_url": "http://ills.bmwfans.info/2fi.png",
+    "parts_count": 87
+  },
+  {
+    "id": 2005,
+    "diagram_title": "Getrag 260/5/50 inner gear shift parts",
+    "image_url": "http://ills.bmwfans.info/1hkp.png",
+    "parts_count": 99
+  },
+  {
+    "id": 2006,
+    "diagram_title": "Getrag 260/5/50 inner gear shift parts",
+    "image_url": "http://ills.bmwfans.info/fev.png",
+    "parts_count": 81
+  }
+]

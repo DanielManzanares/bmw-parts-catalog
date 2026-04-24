@@ -1,0 +1,29 @@
+{
+  "id": 2147,
+  "diagram_title": "Rear spoiler with brake light",
+  "image_url": "http://ills.bmwfans.info/i8f.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 63 9 404 043",
+      "quantity": 1,
+      "description": "Installing set rear spoiler",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 69 9 413 957",
+      "quantity": 1,
+      "description": "Stoplamp rear spoiler",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

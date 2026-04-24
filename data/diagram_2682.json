@@ -1,0 +1,29 @@
+{
+  "id": 2682,
+  "diagram_title": "Trailer coupling",
+  "image_url": "http://ills.bmwfans.info/1456.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "71 60 1 096 401",
+      "quantity": 1,
+      "description": "Trailer hitch with fixed ball head",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 60 9 410 800",
+      "quantity": 1,
+      "description": "Retrofit kit, electr. additional parts",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

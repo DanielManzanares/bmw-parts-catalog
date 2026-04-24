@@ -1,0 +1,61 @@
+{
+  "id": 4062,
+  "diagram_title": "Single parts, SA 630, center console",
+  "image_url": "http://ills.bmwfans.info/1x69.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1648,
+  "category_name": "Communication systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "84 11 6 920 275",
+      "quantity": 1,
+      "description": "Handset",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "84 11 6 905 099",
+      "quantity": 1,
+      "description": "Accumulator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "84 11 6 905 100",
+      "quantity": 1,
+      "description": "Battery cover, keypad handset",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "84 11 6 914 932",
+      "quantity": 1,
+      "description": "Eject box, receiver, net GSM",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 7 276 398",
+      "quantity": 1,
+      "description": "Felt strip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 45 2 353 024",
+      "quantity": 1,
+      "description": "Felt strip",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

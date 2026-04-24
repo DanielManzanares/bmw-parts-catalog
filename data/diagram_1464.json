@@ -1,0 +1,109 @@
+{
+  "id": 1464,
+  "diagram_title": "Armrest front",
+  "image_url": "http://ills.bmwfans.info/b4t.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 921 639",
+      "quantity": 1,
+      "description": "Armrest leather  left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 921 640",
+      "quantity": 1,
+      "description": "Armrest leather right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 921 641",
+      "quantity": 1,
+      "description": "Armrest leather  left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 921 642",
+      "quantity": 1,
+      "description": "Armrest leather right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 921 645",
+      "quantity": 1,
+      "description": "Armrest leather  left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 921 646",
+      "quantity": 1,
+      "description": "Armrest leather right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 921 639",
+      "quantity": 1,
+      "description": "Armrest leather  left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 921 640",
+      "quantity": 1,
+      "description": "Armrest leather right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 921 641",
+      "quantity": 1,
+      "description": "Armrest leather  left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 921 642",
+      "quantity": 1,
+      "description": "Armrest leather right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 921 645",
+      "quantity": 1,
+      "description": "Armrest leather  left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 921 646",
+      "quantity": 1,
+      "description": "Armrest leather right",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1606,
+  "diagram_title": "Basic cotrol unit DME",
+  "image_url": "http://ills.bmwfans.info/jdq.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 500 255",
+      "quantity": 1,
+      "description": "Basic cotrol unit DME",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 500 256",
+      "quantity": 1,
+      "description": "RMFD Basic control unit DME",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 526 753",
+      "quantity": 1,
+      "description": "Basic cotrol unit DME",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 526 754",
+      "quantity": 1,
+      "description": "RMFD Basic control unit DME",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 500 255",
+      "quantity": 1,
+      "description": "Basic cotrol unit DME",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 500 256",
+      "quantity": 1,
+      "description": "RMFD Basic control unit DME",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 526 753",
+      "quantity": 1,
+      "description": "Basic cotrol unit DME",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 526 754",
+      "quantity": 1,
+      "description": "RMFD Basic control unit DME",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, Z3"
+    }
+  ]
+}

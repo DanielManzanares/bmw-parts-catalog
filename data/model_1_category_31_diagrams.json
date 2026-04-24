@@ -1,0 +1,50 @@
+[
+  {
+    "id": 31,
+    "diagram_title": "Activated Charcoal Filter/TUBING",
+    "image_url": "http://ills.bmwfans.info/1s5.png",
+    "parts_count": 6
+  },
+  {
+    "id": 33,
+    "diagram_title": "Expansion tank/tubing",
+    "image_url": "http://ills.bmwfans.info/1sl.png",
+    "parts_count": 18
+  },
+  {
+    "id": 36,
+    "diagram_title": "Fuel filter",
+    "image_url": "http://ills.bmwfans.info/1ta.png",
+    "parts_count": 10
+  },
+  {
+    "id": 37,
+    "diagram_title": "Fuel pipe",
+    "image_url": "http://ills.bmwfans.info/1sr.png",
+    "parts_count": 6
+  },
+  {
+    "id": 34,
+    "diagram_title": "Fuel pump and fuel level sensor",
+    "image_url": "http://ills.bmwfans.info/1s7.png",
+    "parts_count": 12
+  },
+  {
+    "id": 35,
+    "diagram_title": "Fuel pump and fuel level sensor",
+    "image_url": "http://ills.bmwfans.info/1t4.png",
+    "parts_count": 16
+  },
+  {
+    "id": 32,
+    "diagram_title": "Plastic fuel tank",
+    "image_url": "http://ills.bmwfans.info/qzt.png",
+    "parts_count": 32
+  },
+  {
+    "id": 38,
+    "diagram_title": "Tubing support",
+    "image_url": "http://ills.bmwfans.info/pam.png",
+    "parts_count": 10
+  }
+]

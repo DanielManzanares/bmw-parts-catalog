@@ -1,0 +1,141 @@
+{
+  "id": 3071,
+  "diagram_title": "Steering wheel airbag multifunctional",
+  "image_url": "http://ills.bmwfans.info/1gpq.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 137,
+  "category_name": "Steering",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "32 34 6 753 945",
+      "quantity": 1,
+      "description": "Leather steering wheel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 34 6 753 945",
+      "quantity": 1,
+      "description": "Leather steering wheel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 30 6 783 784",
+      "quantity": 1,
+      "description": "Hub cap, airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 30 6 783 784",
+      "quantity": 1,
+      "description": "Hub cap, airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "32 34 1 097 110",
+      "quantity": 2,
+      "description": "Torx screw",
+      "price_eur": null,
+      "compatible_models": "E31, E34, E36, E38, E39, E46, E53, E83, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "32 34 1 097 110",
+      "quantity": 2,
+      "description": "Torx screw",
+      "price_eur": null,
+      "compatible_models": "E31, E34, E36, E38, E39, E46, E53, E83, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 31 6 940 139",
+      "quantity": 1,
+      "description": "Cruise control switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 31 6 940 139",
+      "quantity": 1,
+      "description": "Cruise control switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 31 6 903 397",
+      "quantity": 1,
+      "description": "Radio/telephone switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 31 6 903 397",
+      "quantity": 1,
+      "description": "Radio/telephone switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 31 8 375 435",
+      "quantity": 1,
+      "description": "Connecting line, switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 31 8 375 435",
+      "quantity": 1,
+      "description": "Connecting line, switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 906 407",
+      "quantity": 4,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E24, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E83, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 906 407",
+      "quantity": 4,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E24, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E83, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "61 31 8 372 918",
+      "quantity": 1,
+      "description": "Connecting line, steering wheel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "61 31 8 372 918",
+      "quantity": 1,
+      "description": "Connecting line, steering wheel",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

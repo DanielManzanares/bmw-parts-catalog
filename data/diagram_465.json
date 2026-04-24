@@ -1,0 +1,45 @@
+{
+  "id": 465,
+  "diagram_title": "Control unit EGS, programmed",
+  "image_url": "http://ills.bmwfans.info/j5v.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 456,
+  "category_name": "Automatic Transmission",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "24 60 7 545 914",
+      "quantity": 1,
+      "description": "RMFD control unit EGS programmed",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "24 60 7 545 916",
+      "quantity": 1,
+      "description": "RMFD control unit EGS programmed",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "24 60 7 545 914",
+      "quantity": 1,
+      "description": "RMFD control unit EGS programmed",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "24 60 7 545 916",
+      "quantity": 1,
+      "description": "RMFD control unit EGS programmed",
+      "price_eur": null,
+      "compatible_models": "E46"
+    }
+  ]
+}

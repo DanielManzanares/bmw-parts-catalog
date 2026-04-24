@@ -1,0 +1,53 @@
+{
+  "id": 7371,
+  "diagram_title": "Antenna line, telephone",
+  "image_url": "http://ills.bmwfans.info/1yhp.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1648,
+  "category_name": "Communication systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "84 32 0 027 141",
+      "quantity": 1,
+      "description": "Antenna cable Ejectbox",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 32 0 145 836",
+      "quantity": 1,
+      "description": "Antenna cable Ejectbox",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 32 0 029 426",
+      "quantity": 1,
+      "description": "Antenna cable Ejectbox",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 32 0 027 140",
+      "quantity": 1,
+      "description": "Antenna cable Ejectbox",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 32 0 143 621",
+      "quantity": 1,
+      "description": "Antenna cable",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

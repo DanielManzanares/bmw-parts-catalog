@@ -1,0 +1,21 @@
+{
+  "id": 5522,
+  "diagram_title": "Manual Transmission GS6S37BZ (SMG)",
+  "image_url": "http://ills.bmwfans.info/dra4.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 42,
+  "category_name": "Manual Transmission",
+  "parts": [
+    {
+      "position_number": "4",
+      "part_number": "83 22 2 339 219",
+      "quantity": 1,
+      "description": "Oil for manual transmission MTF LT-2",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

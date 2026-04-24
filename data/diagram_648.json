@@ -1,0 +1,37 @@
+{
+  "id": 648,
+  "diagram_title": "engine_acoustics",
+  "image_url": "/static/images/diagrams/E46_318i-N42_engine_engine_acoustics.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1,
+  "category_name": "Engine",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "11 61 7 509 092",
+      "quantity": 1,
+      "description": "Cover, acoustic",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 61 7 509 095",
+      "quantity": 2,
+      "description": "Rubber grommet",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 12 1 725 686",
+      "quantity": 2,
+      "description": "Cap nut",
+      "price_eur": null,
+      "compatible_models": "E46"
+    }
+  ]
+}

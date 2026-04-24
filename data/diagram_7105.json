@@ -1,0 +1,45 @@
+{
+  "id": 7105,
+  "diagram_title": "On board monitor / TV amplifier",
+  "image_url": "http://ills.bmwfans.info/3eax.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "4",
+      "part_number": "65 52 6 907 718",
+      "quantity": 1,
+      "description": "Housing with CD drive",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "65 52 6 987 218",
+      "quantity": 1,
+      "description": "Housing with CD drive",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 904 046",
+      "quantity": 4,
+      "description": "Countersunk screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "65 82 6 974 826",
+      "quantity": 4,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

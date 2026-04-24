@@ -1,0 +1,21 @@
+{
+  "id": 5343,
+  "diagram_title": "Service Kit, Inspection I / Oil service",
+  "image_url": "http://ills.bmwfans.info/az79.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1,
+  "category_name": "Engine",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "88 00 2 157 523",
+      "quantity": 1,
+      "description": "Service Kit, Inspection I / Oil service",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

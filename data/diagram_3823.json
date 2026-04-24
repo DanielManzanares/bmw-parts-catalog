@@ -1,0 +1,93 @@
+{
+  "id": 3823,
+  "diagram_title": "Steering-column stalk/ window lifter",
+  "image_url": "http://ills.bmwfans.info/fhr.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 31 8 363 662",
+      "quantity": 1,
+      "description": "Switch turn signal, dip-dim control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 31 8 363 668",
+      "quantity": 1,
+      "description": "Switch turn signal, dip-dim control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 31 8 363 664",
+      "quantity": 1,
+      "description": "Wiper switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 31 8 379 091",
+      "quantity": 1,
+      "description": "Switch unit steering column",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 31 8 380 482",
+      "quantity": 4,
+      "description": "Torx bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 31 6 902 176",
+      "quantity": 1,
+      "description": "Window lifter switch, passenger's side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 31 6 902 177",
+      "quantity": 1,
+      "description": "Window lifter switch, passenger's side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 31 6 902 184",
+      "quantity": 1,
+      "description": "Window lifter switch, driver's side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "61 31 6 902 179",
+      "quantity": 1,
+      "description": "Window lifter switch, passenger's side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "61 31 6 902 174",
+      "quantity": 2,
+      "description": "Window lifter switch, rear",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

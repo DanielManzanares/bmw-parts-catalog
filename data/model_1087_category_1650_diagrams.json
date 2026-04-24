@@ -1,0 +1,116 @@
+[
+  {
+    "id": 7453,
+    "diagram_title": "Emergency bag",
+    "image_url": "http://ills.bmwfans.info/bclv.png",
+    "parts_count": 1
+  },
+  {
+    "id": 7415,
+    "diagram_title": "Fluid-change kit, autom. transmission",
+    "image_url": "http://ills.bmwfans.info/c5cr.png",
+    "parts_count": 4
+  },
+  {
+    "id": 7418,
+    "diagram_title": "Fluid-change kit, autom. transmission",
+    "image_url": "http://ills.bmwfans.info/c4tx.png",
+    "parts_count": 2
+  },
+  {
+    "id": 7441,
+    "diagram_title": "Installation kit, bumper",
+    "image_url": "http://ills.bmwfans.info/ey42.png",
+    "parts_count": 3
+  },
+  {
+    "id": 7425,
+    "diagram_title": "Kit, wheel bearing, front / Value Line",
+    "image_url": "http://ills.bmwfans.info/cjsj.png",
+    "parts_count": 1
+  },
+  {
+    "id": 7433,
+    "diagram_title": "Kit, wheel bearing, rear / Value Line",
+    "image_url": "http://ills.bmwfans.info/d7e8.png",
+    "parts_count": 3
+  },
+  {
+    "id": 7444,
+    "diagram_title": "Mounting hardware kit, power window",
+    "image_url": "http://ills.bmwfans.info/chu9.png",
+    "parts_count": 1
+  },
+  {
+    "id": 7428,
+    "diagram_title": "Repair kit for anti-roll bar links",
+    "image_url": "http://ills.bmwfans.info/bx5o.png",
+    "parts_count": 1
+  },
+  {
+    "id": 7435,
+    "diagram_title": "Repair kit for trailing arm",
+    "image_url": "http://ills.bmwfans.info/bxp4.png",
+    "parts_count": 1
+  },
+  {
+    "id": 7450,
+    "diagram_title": "Repair kit, thread repair",
+    "image_url": "http://ills.bmwfans.info/dyzv.png",
+    "parts_count": 14
+  },
+  {
+    "id": 7447,
+    "diagram_title": "Repair kit, thread repair, thin-wall",
+    "image_url": "http://ills.bmwfans.info/ez05.png",
+    "parts_count": 7
+  },
+  {
+    "id": 7423,
+    "diagram_title": "Repair kits for shock absorbers, rear",
+    "image_url": "http://ills.bmwfans.info/cfrk.png",
+    "parts_count": 3
+  },
+  {
+    "id": 7431,
+    "diagram_title": "Repair kits, shock absorber rear",
+    "image_url": "http://ills.bmwfans.info/byqo.png",
+    "parts_count": 3
+  },
+  {
+    "id": 7409,
+    "diagram_title": "Service Kit for Inspection II",
+    "image_url": "http://ills.bmwfans.info/av0m.png",
+    "parts_count": 1
+  },
+  {
+    "id": 7437,
+    "diagram_title": "Service Kit for brake pads / Value Line",
+    "image_url": "http://ills.bmwfans.info/av2v.png",
+    "parts_count": 2
+  },
+  {
+    "id": 7439,
+    "diagram_title": "Service Kit for brake shoes / Value Line",
+    "image_url": "http://ills.bmwfans.info/bj3e.png",
+    "parts_count": 1
+  },
+  {
+    "id": 7406,
+    "diagram_title": "Service Kit, Inspection I / Oil service",
+    "image_url": "http://ills.bmwfans.info/az79.png",
+    "parts_count": 1
+  },
+  {
+    "id": 7421,
+    "diagram_title": "Service kit control arm / Value Line",
+    "image_url": "http://ills.bmwfans.info/dayb.png",
+    "parts_count": 4
+  },
+  {
+    "id": 7412,
+    "diagram_title": "Service kit for belt drives",
+    "image_url": "http://ills.bmwfans.info/bxio.png",
+    "parts_count": 2
+  }
+]

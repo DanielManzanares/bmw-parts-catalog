@@ -1,0 +1,188 @@
+[
+  {
+    "id": 5551,
+    "diagram_title": "A5S325Z Output",
+    "image_url": "http://ills.bmwfans.info/5fw.png",
+    "parts_count": 9
+  },
+  {
+    "id": 5556,
+    "diagram_title": "A5S325Z control unit",
+    "image_url": "http://ills.bmwfans.info/5fz.png",
+    "parts_count": 2
+  },
+  {
+    "id": 5548,
+    "diagram_title": "A5S325Z lubrication system",
+    "image_url": "http://ills.bmwfans.info/a20h.png",
+    "parts_count": 11
+  },
+  {
+    "id": 5546,
+    "diagram_title": "A5S325Z oil pan",
+    "image_url": "http://ills.bmwfans.info/6kr.png",
+    "parts_count": 6
+  },
+  {
+    "id": 5557,
+    "diagram_title": "A5S325Z pressure regulat./solenoid valve",
+    "image_url": "http://ills.bmwfans.info/58d.png",
+    "parts_count": 7
+  },
+  {
+    "id": 5560,
+    "diagram_title": "A5S325Z wiring/oil filt./pulse generator",
+    "image_url": "http://ills.bmwfans.info/5hh.png",
+    "parts_count": 12
+  },
+  {
+    "id": 5563,
+    "diagram_title": "A5S360R/390R ctrl unit with mount.parts",
+    "image_url": "http://ills.bmwfans.info/36ju.png",
+    "parts_count": 0
+  },
+  {
+    "id": 5545,
+    "diagram_title": "A5s325z housing with mounting parts",
+    "image_url": "http://ills.bmwfans.info/3hkh.png",
+    "parts_count": 15
+  },
+  {
+    "id": 5554,
+    "diagram_title": "A5s325z parking lock",
+    "image_url": "http://ills.bmwfans.info/5fx.png",
+    "parts_count": 6
+  },
+  {
+    "id": 5534,
+    "diagram_title": "Automatic transmission A5S325Z",
+    "image_url": "http://ills.bmwfans.info/dqnt.png",
+    "parts_count": 5
+  },
+  {
+    "id": 5569,
+    "diagram_title": "Basic control unit egs",
+    "image_url": "http://ills.bmwfans.info/j5t.png",
+    "parts_count": 1
+  },
+  {
+    "id": 5571,
+    "diagram_title": "Basic control unit egs",
+    "image_url": "http://ills.bmwfans.info/3htb.png",
+    "parts_count": 1
+  },
+  {
+    "id": 5566,
+    "diagram_title": "Control unit EGS, programmed",
+    "image_url": "http://ills.bmwfans.info/j5s.png",
+    "parts_count": 2
+  },
+  {
+    "id": 5539,
+    "diagram_title": "Fluid-change kit, autom. transmission",
+    "image_url": "http://ills.bmwfans.info/c4tx.png",
+    "parts_count": 2
+  },
+  {
+    "id": 5542,
+    "diagram_title": "Fluid-change kit, autom. transmission",
+    "image_url": "http://ills.bmwfans.info/c5cr.png",
+    "parts_count": 3
+  },
+  {
+    "id": 5537,
+    "diagram_title": "Gearbox mounting",
+    "image_url": "http://ills.bmwfans.info/jkw.png",
+    "parts_count": 6
+  },
+  {
+    "id": 912,
+    "diagram_title": "a5s325z_control_unit",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_automatic_transmission_a5s325z_control_unit.png",
+    "parts_count": 2
+  },
+  {
+    "id": 909,
+    "diagram_title": "a5s325z_housing_with_mounting_parts",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_automatic_transmission_a5s325z_housing_with_mounting_parts.png",
+    "parts_count": 15
+  },
+  {
+    "id": 910,
+    "diagram_title": "a5s325z_lubrication_system",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_automatic_transmission_a5s325z_lubrication_system.png",
+    "parts_count": 11
+  },
+  {
+    "id": 915,
+    "diagram_title": "a5s325z_oil_pan",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_automatic_transmission_a5s325z_oil_pan.png",
+    "parts_count": 6
+  },
+  {
+    "id": 911,
+    "diagram_title": "a5s325z_output",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_automatic_transmission_a5s325z_output.png",
+    "parts_count": 9
+  },
+  {
+    "id": 913,
+    "diagram_title": "a5s325z_parking_lock",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_automatic_transmission_a5s325z_parking_lock.png",
+    "parts_count": 6
+  },
+  {
+    "id": 914,
+    "diagram_title": "a5s325z_pressure_regulat_solenoid_valve",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_automatic_transmission_a5s325z_pressure_regulat_solenoid_valve.png",
+    "parts_count": 7
+  },
+  {
+    "id": 916,
+    "diagram_title": "a5s325z_wiring_oil_filt_pulse_generator",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_automatic_transmission_a5s325z_wiring_oil_filt_pulse_generator.png",
+    "parts_count": 12
+  },
+  {
+    "id": 905,
+    "diagram_title": "automatic_transmission_a5s325z",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_automatic_transmission_automatic_transmission_a5s325z.png",
+    "parts_count": 5
+  },
+  {
+    "id": 918,
+    "diagram_title": "basic_control_unit_egs",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_automatic_transmission_basic_control_unit_egs.png",
+    "parts_count": 1
+  },
+  {
+    "id": 919,
+    "diagram_title": "basic_control_unit_egs_2",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_automatic_transmission_basic_control_unit_egs_2.png",
+    "parts_count": 1
+  },
+  {
+    "id": 917,
+    "diagram_title": "control_unit_egs_programmed",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_automatic_transmission_control_unit_egs_programmed.png",
+    "parts_count": 2
+  },
+  {
+    "id": 907,
+    "diagram_title": "fluid_change_kit_autom_transmission",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_automatic_transmission_fluid_change_kit_autom_transmission.png",
+    "parts_count": 2
+  },
+  {
+    "id": 903,
+    "diagram_title": "fluid_change_kit_autom_transmission_2",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_automatic_transmission_fluid_change_kit_autom_transmission_2.png",
+    "parts_count": 3
+  },
+  {
+    "id": 904,
+    "diagram_title": "gearbox_mounting",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_automatic_transmission_gearbox_mounting.png",
+    "parts_count": 6
+  }
+]

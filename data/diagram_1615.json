@@ -1,0 +1,29 @@
+{
+  "id": 1615,
+  "diagram_title": "Engine wiring harness, engine module",
+  "image_url": "http://ills.bmwfans.info/k4b.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 51 1 439 991",
+      "quantity": 1,
+      "description": "Engine wiring harness, engine module",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 51 1 439 991",
+      "quantity": 1,
+      "description": "Engine wiring harness, engine module",
+      "price_eur": null,
+      "compatible_models": "E46"
+    }
+  ]
+}

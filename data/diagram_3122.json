@@ -1,0 +1,245 @@
+{
+  "id": 3122,
+  "diagram_title": "Outside mirror",
+  "image_url": "http://ills.bmwfans.info/b3m.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 144 406",
+      "quantity": 1,
+      "description": "Electr.exterior heatable mirror right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 144 407",
+      "quantity": 1,
+      "description": "Electr.exterior heatable mirror right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 119 719",
+      "quantity": 1,
+      "description": "Plugged-in wide-angle mirror glass",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 119 724",
+      "quantity": 1,
+      "description": "Plugged-in wide-angle mirror glass",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 119 162",
+      "quantity": 1,
+      "description": "Plugged-in wide-angle mirror glass",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 119 711",
+      "quantity": 1,
+      "description": "Plugged-in wide-angle mirror glass",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 119 161",
+      "quantity": 1,
+      "description": "Plugged-in wide-angle mirror glass",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 119 710",
+      "quantity": 1,
+      "description": "Plugged-in wide-angle mirror glass",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 8 119 162",
+      "quantity": 1,
+      "description": "Plugged-in wide-angle mirror glass",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 8 119 711",
+      "quantity": 1,
+      "description": "Plugged-in wide-angle mirror glass",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 8 119 719",
+      "quantity": 1,
+      "description": "Plugged-in wide-angle mirror glass",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 8 119 724",
+      "quantity": 1,
+      "description": "Plugged-in wide-angle mirror glass",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 8 144 471",
+      "quantity": 1,
+      "description": "Gasket left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 8 144 472",
+      "quantity": 1,
+      "description": "Gasket left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 16 8 119 157",
+      "quantity": 1,
+      "description": "Covering cap left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 16 8 119 158",
+      "quantity": 1,
+      "description": "Covering cap left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 16 8 220 001",
+      "quantity": 6,
+      "description": "Screw self-tapping",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "61 31 1 387 281",
+      "quantity": 1,
+      "description": "Mirror switch with change-over switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "61 31 1 383 335",
+      "quantity": 1,
+      "description": "Button",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 16 1 394 107",
+      "quantity": 2,
+      "description": "Drive",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 16 8 119 159",
+      "quantity": 1,
+      "description": "Covering cap left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 16 8 119 160",
+      "quantity": 1,
+      "description": "Covering cap left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 16 9 066 241",
+      "quantity": 1,
+      "description": "Covering cap left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 16 9 066 242",
+      "quantity": 1,
+      "description": "Covering cap left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 16 9 066 243",
+      "quantity": 1,
+      "description": "Covering cap left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 16 9 066 244",
+      "quantity": 1,
+      "description": "Covering cap left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "51 71 8 189 443",
+      "quantity": 1,
+      "description": "Sealing front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "51 16 4 197 449",
+      "quantity": 1,
+      "description": "Frame left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "51 16 4 197 450",
+      "quantity": 1,
+      "description": "Frame left",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

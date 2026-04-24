@@ -1,0 +1,45 @@
+{
+  "id": 3677,
+  "diagram_title": "Repair cable, airbag",
+  "image_url": "http://ills.bmwfans.info/3q83.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 12 9 118 095",
+      "quantity": 2,
+      "description": "Rep. wire seat belt tensioner/seat plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 12 9 118 136",
+      "quantity": 2,
+      "description": "Rep.cable, sensor, lateral airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 12 9 256 933",
+      "quantity": 2,
+      "description": "Rep.cable, sensor, lateral airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 12 9 118 138",
+      "quantity": 4,
+      "description": "Rep.cable f column A, B and side airbag",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

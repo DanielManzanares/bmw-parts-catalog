@@ -1,0 +1,21 @@
+{
+  "id": 2532,
+  "diagram_title": "Convers.kit, automatic air conditioning",
+  "image_url": "http://ills.bmwfans.info/1vgu.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 50 0 029 507",
+      "quantity": 1,
+      "description": "Convers.kit, automatic air conditioning",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

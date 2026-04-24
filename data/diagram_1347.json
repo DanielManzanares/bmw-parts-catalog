@@ -1,0 +1,493 @@
+{
+  "id": 1347,
+  "diagram_title": "Timimg gear — rocker arm/valves",
+  "image_url": "http://ills.bmwfans.info/30.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1,
+  "category_name": "Engine",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "11 34 2 242 621",
+      "quantity": 6,
+      "description": "Intake valve",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 34 1 275 940",
+      "quantity": 6,
+      "description": "Intake valve",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 34 1 288 658",
+      "quantity": 6,
+      "description": "Intake valve w.oversize va.system +0, 1mm",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 34 2 242 621",
+      "quantity": 6,
+      "description": "Intake valve",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 34 1 275 940",
+      "quantity": 1,
+      "description": "Intake valve",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 34 1 288 658",
+      "quantity": 1,
+      "description": "Intake valve w.oversize va.system +0, 1mm",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 34 2 242 621",
+      "quantity": 6,
+      "description": "Intake valve",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 34 1 275 940",
+      "quantity": 1,
+      "description": "Intake valve",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 34 1 288 658",
+      "quantity": 1,
+      "description": "Intake valve w.oversize va.system +0, 1mm",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 34 2 242 621",
+      "quantity": 6,
+      "description": "Intake valve",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 34 1 275 940",
+      "quantity": 1,
+      "description": "Intake valve",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 34 1 288 658",
+      "quantity": 1,
+      "description": "Intake valve w.oversize va.system +0, 1mm",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 34 2 242 622",
+      "quantity": 6,
+      "description": "Exhaust valve",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 34 1 275 941",
+      "quantity": 6,
+      "description": "Exhaust valve",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 34 1 288 659",
+      "quantity": 6,
+      "description": "Exh. valve w.oversize va.system +0, 1mm",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 34 2 242 622",
+      "quantity": 6,
+      "description": "Exhaust valve",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 34 1 275 941",
+      "quantity": 1,
+      "description": "Exhaust valve",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 34 1 288 659",
+      "quantity": 1,
+      "description": "Exh. valve w.oversize va.system +0, 1mm",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 34 2 242 622",
+      "quantity": 6,
+      "description": "Exhaust valve",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 34 1 275 941",
+      "quantity": 1,
+      "description": "Exhaust valve",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 34 1 288 659",
+      "quantity": 1,
+      "description": "Exh. valve w.oversize va.system +0, 1mm",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 34 2 242 622",
+      "quantity": 6,
+      "description": "Exhaust valve",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 34 1 275 941",
+      "quantity": 1,
+      "description": "Exhaust valve",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 34 1 288 659",
+      "quantity": 1,
+      "description": "Exh. valve w.oversize va.system +0, 1mm",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 12 1 275 874",
+      "quantity": 6,
+      "description": "Valve Seat Ring Intake",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 12 1 275 874",
+      "quantity": 6,
+      "description": "Valve Seat Ring Intake",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 12 1 275 874",
+      "quantity": 6,
+      "description": "Valve Seat Ring Intake",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 12 1 275 874",
+      "quantity": 6,
+      "description": "Valve Seat Ring Intake",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 12 1 275 877",
+      "quantity": 6,
+      "description": "Valve Seat Ring Exhaust",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 12 1 275 877",
+      "quantity": 6,
+      "description": "Valve Seat Ring Exhaust",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 12 1 275 877",
+      "quantity": 6,
+      "description": "Valve Seat Ring Exhaust",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 12 1 275 877",
+      "quantity": 6,
+      "description": "Valve Seat Ring Exhaust",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 12 1 709 000",
+      "quantity": 6,
+      "description": "Valve guide inlet",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 12 1 709 000",
+      "quantity": 6,
+      "description": "Valve guide inlet",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 12 1 709 000",
+      "quantity": 6,
+      "description": "Valve guide inlet",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 12 1 709 000",
+      "quantity": 6,
+      "description": "Valve guide inlet",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 12 2 241 345",
+      "quantity": 6,
+      "description": "Valve guide exhaust",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 12 2 241 345",
+      "quantity": 6,
+      "description": "Valve guide exhaust",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 12 2 241 345",
+      "quantity": 6,
+      "description": "Valve guide exhaust",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 12 2 241 345",
+      "quantity": 6,
+      "description": "Valve guide exhaust",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 34 1 279 137",
+      "quantity": 1,
+      "description": "Spring pocket",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 34 1 279 137",
+      "quantity": 1,
+      "description": "Spring pocket",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 34 1 279 137",
+      "quantity": 1,
+      "description": "Spring pocket",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 34 1 279 137",
+      "quantity": 1,
+      "description": "Spring pocket",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "8",
+      "part_number": "11 34 1 279 211",
+      "quantity": 1,
+      "description": "Valve spring",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "8",
+      "part_number": "11 34 1 279 211",
+      "quantity": 1,
+      "description": "Valve spring",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "8",
+      "part_number": "11 34 1 279 211",
+      "quantity": 1,
+      "description": "Valve spring",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "8",
+      "part_number": "11 34 1 279 211",
+      "quantity": 1,
+      "description": "Valve spring",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "9",
+      "part_number": "11 34 9 059 172",
+      "quantity": 1,
+      "description": "Repair kit valve seal ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E31, E32, E34, E36, E38, Z1"
+    },
+    {
+      "position_number": "9",
+      "part_number": "11 34 9 059 172",
+      "quantity": 1,
+      "description": "Repair kit valve seal ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E31, E32, E34, E36, E38, Z1"
+    },
+    {
+      "position_number": "9",
+      "part_number": "11 34 9 059 172",
+      "quantity": 1,
+      "description": "Repair kit valve seal ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E31, E32, E34, E36, E38, Z1"
+    },
+    {
+      "position_number": "9",
+      "part_number": "11 34 9 059 172",
+      "quantity": 1,
+      "description": "Repair kit valve seal ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E31, E32, E34, E36, E38, Z1"
+    },
+    {
+      "position_number": "10",
+      "part_number": "11 34 1 281 402",
+      "quantity": 1,
+      "description": "Spring pocket",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "10",
+      "part_number": "11 34 1 281 402",
+      "quantity": 1,
+      "description": "Spring pocket",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "10",
+      "part_number": "11 34 1 281 402",
+      "quantity": 1,
+      "description": "Spring pocket",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "10",
+      "part_number": "11 34 1 281 402",
+      "quantity": 1,
+      "description": "Spring pocket",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "11",
+      "part_number": "11 34 1 307 136",
+      "quantity": 1,
+      "description": "Valve collet",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E26, E28, E30, E31, E32, E34, E36, E38, E46, Z1, Z3"
+    },
+    {
+      "position_number": "11",
+      "part_number": "11 34 1 307 136",
+      "quantity": 1,
+      "description": "Valve collet",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E26, E28, E30, E31, E32, E34, E36, E38, E46, Z1, Z3"
+    },
+    {
+      "position_number": "11",
+      "part_number": "11 34 1 307 136",
+      "quantity": 1,
+      "description": "Valve collet",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E26, E28, E30, E31, E32, E34, E36, E38, E46, Z1, Z3"
+    },
+    {
+      "position_number": "11",
+      "part_number": "11 34 1 307 136",
+      "quantity": 1,
+      "description": "Valve collet",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E26, E28, E30, E31, E32, E34, E36, E38, E46, Z1, Z3"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 2847,
+  "diagram_title": "Label, Spark Plug Change High Power",
+  "image_url": "http://ills.bmwfans.info/ypd.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "01 39 9 791 390",
+      "quantity": 1,
+      "description": "Stick-on label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 39 9 791 394",
+      "quantity": 1,
+      "description": "Stick-on label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 39 9 791 396",
+      "quantity": 1,
+      "description": "Stick-on label",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

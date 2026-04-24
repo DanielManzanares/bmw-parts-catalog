@@ -1,0 +1,197 @@
+{
+  "id": 3220,
+  "diagram_title": "Floor covering",
+  "image_url": "http://ills.bmwfans.info/jdv.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 47 8 130 032",
+      "quantity": 1,
+      "description": "Floor covering front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 8 130 033",
+      "quantity": 1,
+      "description": "Floor covering front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 2 422 844",
+      "quantity": 1,
+      "description": "Floor covering front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 8 187 151",
+      "quantity": 1,
+      "description": "Floor covering front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 8 187 152",
+      "quantity": 1,
+      "description": "Floor covering front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 8 219 238",
+      "quantity": 1,
+      "description": "Floor covering front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 2 136 911",
+      "quantity": 1,
+      "description": "Floor covering front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 2 136 915",
+      "quantity": 1,
+      "description": "Floor covering front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 2 260 175",
+      "quantity": 1,
+      "description": "Floor covering front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 2 260 178",
+      "quantity": 1,
+      "description": "Floor covering front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 130 450",
+      "quantity": 1,
+      "description": "Floor covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 130 451",
+      "quantity": 1,
+      "description": "Floor covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 130 452",
+      "quantity": 1,
+      "description": "Floor covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 130 453",
+      "quantity": 1,
+      "description": "Floor covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 2 422 846",
+      "quantity": 1,
+      "description": "Floor covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 2 136 913",
+      "quantity": 1,
+      "description": "Floor covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 2 260 181",
+      "quantity": 1,
+      "description": "Floor covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 47 8 134 907",
+      "quantity": 2,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 47 8 134 908",
+      "quantity": 2,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 47 8 134 909",
+      "quantity": 2,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 47 8 134 906",
+      "quantity": 2,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 47 2 261 407",
+      "quantity": 1,
+      "description": "Storage net, footwell, front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 47 2 263 062",
+      "quantity": 5,
+      "description": "Fastening elements",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 6875,
+  "diagram_title": "Interior lights",
+  "image_url": "http://ills.bmwfans.info/3hiv.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 184,
+  "category_name": "Lighting",
+  "parts": [
+    {
+      "position_number": "14",
+      "part_number": "61 13 8 377 072",
+      "quantity": 1,
+      "description": "Universal socket housing uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

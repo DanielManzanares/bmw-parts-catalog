@@ -1,0 +1,181 @@
+{
+  "id": 1983,
+  "diagram_title": "Starter",
+  "image_url": "http://ills.bmwfans.info/121.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 41 1 288 166",
+      "quantity": 1,
+      "description": "Starter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 41 2 242 231",
+      "quantity": 1,
+      "description": "Starter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 41 2 246 574",
+      "quantity": 1,
+      "description": "Starter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 41 9 069 808",
+      "quantity": 1,
+      "description": "Starter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 41 1 289 520",
+      "quantity": 1,
+      "description": "Starter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 41 2 242 619",
+      "quantity": 1,
+      "description": "Starter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 41 2 244 344",
+      "quantity": 1,
+      "description": "Starter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 41 1 288 166",
+      "quantity": 1,
+      "description": "Starter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 41 2 242 231",
+      "quantity": 1,
+      "description": "Starter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 41 2 246 574",
+      "quantity": 1,
+      "description": "Starter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 41 9 069 808",
+      "quantity": 1,
+      "description": "Starter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 41 1 289 520",
+      "quantity": 1,
+      "description": "Starter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 41 2 242 619",
+      "quantity": 1,
+      "description": "Starter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 41 2 244 344",
+      "quantity": 1,
+      "description": "Starter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 41 1 288 166",
+      "quantity": 1,
+      "description": "Starter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 41 2 242 231",
+      "quantity": 1,
+      "description": "Starter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 41 2 246 574",
+      "quantity": 1,
+      "description": "Starter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 41 9 069 808",
+      "quantity": 1,
+      "description": "Starter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 41 1 289 520",
+      "quantity": 1,
+      "description": "Starter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 41 2 242 619",
+      "quantity": 1,
+      "description": "Starter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 41 2 244 344",
+      "quantity": 1,
+      "description": "Starter",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

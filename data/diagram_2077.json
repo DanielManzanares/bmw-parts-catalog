@@ -1,0 +1,21 @@
+{
+  "id": 2077,
+  "diagram_title": "Suppl. Owner's Manual officials utility",
+  "image_url": "http://ills.bmwfans.info/dia4.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1531,
+  "category_name": "Technical Literature",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "01 40 0 000 688",
+      "quantity": 1,
+      "description": "Suppl. Owner's Manual officials utility",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": 2378,
+  "diagram_title": "Retrofit, net bag at seat backrest",
+  "image_url": "http://ills.bmwfans.info/1kek.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 235 900",
+      "quantity": 2,
+      "description": "Rear panel with net bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 235 901",
+      "quantity": 2,
+      "description": "Rear panel with net bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 235 902",
+      "quantity": 2,
+      "description": "Rear panel with net bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 235 903",
+      "quantity": 2,
+      "description": "Rear panel with net bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 235 904",
+      "quantity": 2,
+      "description": "Rear panel with net bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 235 905",
+      "quantity": 2,
+      "description": "Rear panel with net bag",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

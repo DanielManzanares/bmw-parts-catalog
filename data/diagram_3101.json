@@ -1,0 +1,165 @@
+{
+  "id": 3101,
+  "diagram_title": "Closing system, door, rear",
+  "image_url": "http://ills.bmwfans.info/abt.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 22 1 960 825",
+      "quantity": 1,
+      "description": "Door handle outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 22 1 960 826",
+      "quantity": 1,
+      "description": "Door handle outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 21 1 908 758",
+      "quantity": 4,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 21 8 105 499",
+      "quantity": 4,
+      "description": "Torx bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 22 8 119 076",
+      "quantity": 2,
+      "description": "Covering rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 21 1 928 850",
+      "quantity": 4,
+      "description": "Torx-countersunk head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 21 1 977 669",
+      "quantity": 2,
+      "description": "Base",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 21 8 124 668",
+      "quantity": 2,
+      "description": "Striker plate gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 21 8 127 140",
+      "quantity": 1,
+      "description": "Striker plate gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 22 8 122 299",
+      "quantity": 2,
+      "description": "Latch Striker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 21 8 105 511",
+      "quantity": 1,
+      "description": "Latch Striker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 22 8 122 419",
+      "quantity": 1,
+      "description": "Door lock rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 22 8 122 420",
+      "quantity": 1,
+      "description": "Door lock rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 21 9 130 334",
+      "quantity": 6,
+      "description": "Torx-bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "67 11 8 353 011",
+      "quantity": 1,
+      "description": "Actuator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 21 1 960 194",
+      "quantity": 2,
+      "description": "Lock plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 21 8 119 277",
+      "quantity": 2,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "61 13 1 379 079",
+      "quantity": 1,
+      "description": "Cable holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "52 20 8 238 999",
+      "quantity": 4,
+      "description": "Grommet",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

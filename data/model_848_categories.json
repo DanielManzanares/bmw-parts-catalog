@@ -1,0 +1,268 @@
+[
+  {
+    "id": 1643,
+    "name": "Audio, Navigation, Electronic Systems",
+    "slug": "audio_navigation_electronic_systems",
+    "diagram_count": 42,
+    "representative_image": "http://ills.bmwfans.info/a29d.png"
+  },
+  {
+    "id": 456,
+    "name": "Automatic Transmission",
+    "slug": "automatic_transmission",
+    "diagram_count": 31,
+    "representative_image": "/static/images/diagrams/E46_320Ci-M54_automatic_transmission_fluid_change_kit_autom_transmission_2.png"
+  },
+  {
+    "id": 1637,
+    "name": "Bodywork",
+    "slug": "bodywork",
+    "diagram_count": 26,
+    "representative_image": "http://ills.bmwfans.info/1wp7.png"
+  },
+  {
+    "id": 68,
+    "name": "Brakes",
+    "slug": "brakes",
+    "diagram_count": 32,
+    "representative_image": "/static/images/diagrams/E46_320Ci-M54_brakes_service_kit_for_brake_pads_value_line.png"
+  },
+  {
+    "id": 39,
+    "name": "Clutch",
+    "slug": "clutch",
+    "diagram_count": 4,
+    "representative_image": "/static/images/diagrams/E46_320Ci-M54_clutch_clutch.png"
+  },
+  {
+    "id": 1648,
+    "name": "Communication systems",
+    "slug": "communication_systems",
+    "diagram_count": 61,
+    "representative_image": "http://ills.bmwfans.info/156c.png"
+  },
+  {
+    "id": 1649,
+    "name": "Complete wheel and tyre sets",
+    "slug": "complete_wheel_and_tyre_sets",
+    "diagram_count": 2,
+    "representative_image": "http://ills.bmwfans.info/38kn.png"
+  },
+  {
+    "id": 1644,
+    "name": "Distance Systems, Cruise Control",
+    "slug": "distance_systems_cruise_control",
+    "diagram_count": 2,
+    "representative_image": "http://ills.bmwfans.info/b2ql.png"
+  },
+  {
+    "id": 1636,
+    "name": "Drive Shaft",
+    "slug": "drive_shaft",
+    "diagram_count": 2,
+    "representative_image": "http://ills.bmwfans.info/1926.png"
+  },
+  {
+    "id": 1,
+    "name": "Engine",
+    "slug": "engine",
+    "diagram_count": 76,
+    "representative_image": "/static/images/diagrams/E46_320Ci-M54_engine_timing_case.png"
+  },
+  {
+    "id": 1534,
+    "name": "Engine Electrical System",
+    "slug": "engine_electrical_system",
+    "diagram_count": 20,
+    "representative_image": "http://ills.bmwfans.info/21ns.png"
+  },
+  {
+    "id": 1634,
+    "name": "Engine and gearbox suspension",
+    "slug": "engine_and_gearbox_suspension",
+    "diagram_count": 3,
+    "representative_image": "http://ills.bmwfans.info/gu1.png"
+  },
+  {
+    "id": 1645,
+    "name": "Equipment Parts",
+    "slug": "equipment_parts",
+    "diagram_count": 10,
+    "representative_image": "http://ills.bmwfans.info/bi99.png"
+  },
+  {
+    "id": 40,
+    "name": "Exhaust System",
+    "slug": "exhaust_system",
+    "diagram_count": 8,
+    "representative_image": "/static/images/diagrams/E46_320Ci-M54_exhaust_system_catalytic_converter_front_silencer.png"
+  },
+  {
+    "id": 49,
+    "name": "Front Axle",
+    "slug": "front_axle",
+    "diagram_count": 21,
+    "representative_image": "/static/images/diagrams/E46_320Ci-M54_front_axle_kit_wheel_bearing_front_value_line.png"
+  },
+  {
+    "id": 1535,
+    "name": "Fuel Preparation System",
+    "slug": "fuel_preparation_system",
+    "diagram_count": 6,
+    "representative_image": "http://ills.bmwfans.info/1oqq.png"
+  },
+  {
+    "id": 31,
+    "name": "Fuel Supply",
+    "slug": "fuel_supply",
+    "diagram_count": 10,
+    "representative_image": "/static/images/diagrams/E46_320Ci-M54_fuel_supply_expansion_tank.png"
+  },
+  {
+    "id": 1635,
+    "name": "Gearshift",
+    "slug": "gearshift",
+    "diagram_count": 5,
+    "representative_image": "http://ills.bmwfans.info/2vk3.png"
+  },
+  {
+    "id": 1642,
+    "name": "Heater and Air Conditioning",
+    "slug": "heater_and_air_conditioning",
+    "diagram_count": 20,
+    "representative_image": "http://ills.bmwfans.info/iv0.png"
+  },
+  {
+    "id": 1651,
+    "name": "Individual equipment",
+    "slug": "individual_equipment",
+    "diagram_count": 54,
+    "representative_image": "http://ills.bmwfans.info/1s8z.png"
+  },
+  {
+    "id": 1650,
+    "name": "Inspection kits",
+    "slug": "inspection_kits",
+    "diagram_count": 19,
+    "representative_image": "http://ills.bmwfans.info/az79.png"
+  },
+  {
+    "id": 1641,
+    "name": "Instruments, Measuring systems",
+    "slug": "instruments_measuring_systems",
+    "diagram_count": 1,
+    "representative_image": "http://ills.bmwfans.info/35j2.png"
+  },
+  {
+    "id": 184,
+    "name": "Lighting",
+    "slug": "lighting",
+    "diagram_count": 45,
+    "representative_image": "/static/images/diagrams/E46_320Ci-M54_lighting_single_components_for_headlight_2.png"
+  },
+  {
+    "id": 42,
+    "name": "Manual Transmission",
+    "slug": "manual_transmission",
+    "diagram_count": 16,
+    "representative_image": "/static/images/diagrams/E46_320Ci-M54_manual_transmission_manual_transmission_s5d_g.png"
+  },
+  {
+    "id": 83,
+    "name": "Pedals",
+    "slug": "pedals",
+    "diagram_count": 4,
+    "representative_image": "/static/images/diagrams/E46_320Ci-M54_pedals_acceleration_accelerator_pedal_module.png"
+  },
+  {
+    "id": 1536,
+    "name": "Radiator",
+    "slug": "radiator",
+    "diagram_count": 8,
+    "representative_image": "http://ills.bmwfans.info/r7t.png"
+  },
+  {
+    "id": 58,
+    "name": "Rear Axle",
+    "slug": "rear_axle",
+    "diagram_count": 25,
+    "representative_image": "/static/images/diagrams/E46_320Ci-M54_rear_axle_final_drive_gasket_set.png"
+  },
+  {
+    "id": 1646,
+    "name": "Restraint system and Accessories",
+    "slug": "restraint_system_and_accessories",
+    "diagram_count": 8,
+    "representative_image": "http://ills.bmwfans.info/10s4.png"
+  },
+  {
+    "id": 1533,
+    "name": "Retrofitting, conversion, accessories",
+    "slug": "retrofitting_conversion_accessories",
+    "diagram_count": 232,
+    "representative_image": "http://ills.bmwfans.info/bqm4.png"
+  },
+  {
+    "id": 1532,
+    "name": "Scopes of service and repair work",
+    "slug": "scopes_of_service_and_repair_work",
+    "diagram_count": 2,
+    "representative_image": "http://ills.bmwfans.info/fvdy.png"
+  },
+  {
+    "id": 152,
+    "name": "Seats",
+    "slug": "seats",
+    "diagram_count": 59,
+    "representative_image": "/static/images/diagrams/E46_320Ci-M54_seats_seat_front_complete_seat.png"
+  },
+  {
+    "id": 1639,
+    "name": "Sliding Roof / Folding Top",
+    "slug": "sliding_roof___folding_top",
+    "diagram_count": 1,
+    "representative_image": "http://ills.bmwfans.info/3wf2.png"
+  },
+  {
+    "id": 137,
+    "name": "Steering",
+    "slug": "steering",
+    "diagram_count": 28,
+    "representative_image": "/static/images/diagrams/E46_320Ci-M54_steering_power_steering.png"
+  },
+  {
+    "id": 1531,
+    "name": "Technical Literature",
+    "slug": "technical_literature",
+    "diagram_count": 32,
+    "representative_image": "http://ills.bmwfans.info/cujm.png"
+  },
+  {
+    "id": 1640,
+    "name": "Vehicle electrical system",
+    "slug": "vehicle_electrical_system",
+    "diagram_count": 84,
+    "representative_image": "http://ills.bmwfans.info/2aq0.png"
+  },
+  {
+    "id": 1638,
+    "name": "Vehicle trim",
+    "slug": "vehicle_trim",
+    "diagram_count": 68,
+    "representative_image": "http://ills.bmwfans.info/p1o.png"
+  },
+  {
+    "id": 86,
+    "name": "Wheels",
+    "slug": "wheels",
+    "diagram_count": 115,
+    "representative_image": "/static/images/diagrams/E46_320Ci-M54_wheels_steel_rim_styl_12_2.png"
+  },
+  {
+    "id": 1647,
+    "name": "Workshop consumables",
+    "slug": "workshop_consumables",
+    "diagram_count": 1,
+    "representative_image": "http://ills.bmwfans.info/2wks.png"
+  }
+]

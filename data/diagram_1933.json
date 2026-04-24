@@ -1,0 +1,61 @@
+{
+  "id": 1933,
+  "diagram_title": "M emblem",
+  "image_url": "http://ills.bmwfans.info/d4l.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 884 015",
+      "quantity": 1,
+      "description": "Letter \"m\" front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 884 015",
+      "quantity": 1,
+      "description": "Letter \"m\" front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 884 015",
+      "quantity": 1,
+      "description": "Letter \"m\" front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 14 1 917 739",
+      "quantity": 1,
+      "description": "Letter \"m\" rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 14 1 917 739",
+      "quantity": 1,
+      "description": "Letter \"m\" rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 14 1 917 739",
+      "quantity": 1,
+      "description": "Letter \"m\" rear",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

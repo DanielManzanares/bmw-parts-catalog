@@ -1,0 +1,77 @@
+{
+  "id": 5244,
+  "diagram_title": "Throttle Housing Assy",
+  "image_url": "http://ills.bmwfans.info/3pl9.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1535,
+  "category_name": "Fuel Preparation System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "13 54 1 439 224",
+      "quantity": 1,
+      "description": "Throttle Housing Assy",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "13 54 1 439 224",
+      "quantity": 1,
+      "description": "Throttle Housing Assy",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "13 54 7 504 728",
+      "quantity": 1,
+      "description": "Profile-gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "13 54 7 504 728",
+      "quantity": 1,
+      "description": "Profile-gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 905 377",
+      "quantity": 4,
+      "description": "00",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E70, E71, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F10, F11, F18, F18 Facelift, F25, I01, I12, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 905 377",
+      "quantity": 4,
+      "description": "00",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E70, E71, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F10, F11, F18, F18 Facelift, F25, I01, I12, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 905 377",
+      "quantity": 4,
+      "description": "00",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E70, E71, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F10, F11, F18, F18 Facelift, F25, I01, I12, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 905 377",
+      "quantity": 4,
+      "description": "00",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E70, E71, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F10, F11, F18, F18 Facelift, F25, I01, I12, Z3"
+    }
+  ]
+}

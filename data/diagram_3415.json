@@ -1,0 +1,109 @@
+{
+  "id": 3415,
+  "diagram_title": "Ews control unit/tr module/support",
+  "image_url": "http://ills.bmwfans.info/knr.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 35 8 380 363",
+      "quantity": 1,
+      "description": "Ews ii control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 35 8 380 365",
+      "quantity": 1,
+      "description": "Ews ii control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 35 8 375 840",
+      "quantity": 1,
+      "description": "Ews ii control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 35 4 146 045",
+      "quantity": 1,
+      "description": "Ews ii control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 35 8 380 363",
+      "quantity": 1,
+      "description": "Ews ii control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 35 8 380 365",
+      "quantity": 1,
+      "description": "Ews ii control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 35 9 395 664",
+      "quantity": 1,
+      "description": "Ews ii control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 35 8 362 394",
+      "quantity": 1,
+      "description": "Instrument carrier, EWS II control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 35 8 362 337",
+      "quantity": 1,
+      "description": "Transmitter receiver module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 35 8 379 502",
+      "quantity": 1,
+      "description": "Transmitter receiver module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 13 8 369 055",
+      "quantity": 1,
+      "description": "Bracket f transmitter receiver module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 13 8 369 056",
+      "quantity": 1,
+      "description": "Bracket f transmitter receiver module",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

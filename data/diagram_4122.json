@@ -1,0 +1,157 @@
+{
+  "id": 4122,
+  "diagram_title": "Winter tires",
+  "image_url": "http://ills.bmwfans.info/38i8.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1649,
+  "category_name": "Complete wheel and tyre sets",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 535 614",
+      "quantity": 1,
+      "description": "Continental WinterContact TS 790",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 538 129",
+      "quantity": 1,
+      "description": "Continental WinterContact TS 790",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 539 082",
+      "quantity": 1,
+      "description": "Continental WinterContact TS 790",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 538 524",
+      "quantity": 1,
+      "description": "Continental WinterContact TS 790",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 536 948",
+      "quantity": 1,
+      "description": "Continental WinterContact TS 790",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 545 423",
+      "quantity": 1,
+      "description": "Continental WinterContact TS 790",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 537 021",
+      "quantity": 1,
+      "description": "Michelin Alpin A3",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 535 613",
+      "quantity": 1,
+      "description": "Michelin Alpin A3",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 537 409",
+      "quantity": 1,
+      "description": "Michelin Alpin A3",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 543 948",
+      "quantity": 1,
+      "description": "Continental WinterContact TS 790",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 536 076",
+      "quantity": 1,
+      "description": "Continental WinterContact TS 790",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 536 065",
+      "quantity": 1,
+      "description": "Michelin Alpin A3",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 538 098",
+      "quantity": 1,
+      "description": "Michelin Alpin A3",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 535 625",
+      "quantity": 1,
+      "description": "Michelin Alpin A3",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 543 962",
+      "quantity": 1,
+      "description": "Michelin Alpin A3",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 536 804",
+      "quantity": 1,
+      "description": "Michelin Alpin A3",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 536 947",
+      "quantity": 1,
+      "description": "Michelin Alpin A3",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 543 923",
+      "quantity": 1,
+      "description": "Michelin Alpin A3",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

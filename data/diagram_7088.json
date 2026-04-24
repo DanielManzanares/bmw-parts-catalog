@@ -1,0 +1,117 @@
+{
+  "id": 7088,
+  "diagram_title": "GPS computer / video module",
+  "image_url": "http://ills.bmwfans.info/35fi.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 90 6 908 311",
+      "quantity": 1,
+      "description": "Rmfd navigation cd computer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 90 6 908 312",
+      "quantity": 1,
+      "description": "Rmfd navigation cd computer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 0 300 310",
+      "quantity": 1,
+      "description": "Rmfd navigation cd computer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 50 6 946 423",
+      "quantity": 1,
+      "description": "Rmfd video module, high, uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 50 6 953 003",
+      "quantity": 1,
+      "description": "Rmfd video module, high, uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 50 6 973 091",
+      "quantity": 1,
+      "description": "Rmfd video module, high, uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 50 9 119 653",
+      "quantity": 1,
+      "description": "Rmfd video module, high, uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 50 9 149 315",
+      "quantity": 1,
+      "description": "Rmfd video module, high, uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 50 9 178 796",
+      "quantity": 1,
+      "description": "Rmfd video module, high, uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 902 007",
+      "quantity": 1,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 904 269",
+      "quantity": 1,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 13 1 372 033",
+      "quantity": 1,
+      "description": "Nut holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 13 8 364 666",
+      "quantity": 1,
+      "description": "Universal socket housing uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 5445,
+  "diagram_title": "Exp.tank/activated carbon container",
+  "image_url": "http://ills.bmwfans.info/1us6.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 31,
+  "category_name": "Fuel Supply",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "16 13 2 283 280",
+      "quantity": 1,
+      "description": "Expansion tank",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "4",
+      "part_number": "16 13 7 177 605",
+      "quantity": 1,
+      "description": "Hose",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "7",
+      "part_number": "16 13 7 176 508",
+      "quantity": 1,
+      "description": "Vent pipe",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "9",
+      "part_number": "16 11 7 175 999",
+      "quantity": 1,
+      "description": "Distribution piece",
+      "price_eur": null,
+      "compatible_models": "E46"
+    }
+  ]
+}

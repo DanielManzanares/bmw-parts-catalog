@@ -1,0 +1,21 @@
+{
+  "id": 2931,
+  "diagram_title": "Retrofit kit, antenna amplifier",
+  "image_url": "http://ills.bmwfans.info/1jzc.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "84 63 0 143 205",
+      "quantity": 1,
+      "description": "Retrofit kit, antenna amplifier dualband",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

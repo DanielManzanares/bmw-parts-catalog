@@ -1,0 +1,205 @@
+{
+  "id": 2013,
+  "diagram_title": "Gearshift knobs/coverings/plaques",
+  "image_url": "http://ills.bmwfans.info/296.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1635,
+  "category_name": "Gearshift",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "25 11 1 220 823",
+      "quantity": 1,
+      "description": "Shifting knob without emblem",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 1 221 284",
+      "quantity": 1,
+      "description": "Leather shifting knob without emblem",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 1 220 823",
+      "quantity": 1,
+      "description": "Shifting knob without emblem",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 1 221 284",
+      "quantity": 1,
+      "description": "Leather shifting knob without emblem",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 1 220 823",
+      "quantity": 1,
+      "description": "Shifting knob without emblem",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 1 221 284",
+      "quantity": 1,
+      "description": "Leather shifting knob without emblem",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "25 11 1 220 956",
+      "quantity": 1,
+      "description": "Emblem adhered",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "25 11 1 220 956",
+      "quantity": 1,
+      "description": "Emblem adhered",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "25 11 1 220 956",
+      "quantity": 1,
+      "description": "Emblem adhered",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "25 11 1 220 953",
+      "quantity": 1,
+      "description": "Emblem adhered",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "25 11 1 220 953",
+      "quantity": 1,
+      "description": "Emblem adhered",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "25 11 1 220 953",
+      "quantity": 1,
+      "description": "Emblem adhered",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "25 11 1 220 954",
+      "quantity": 1,
+      "description": "Emblem adhered",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "25 11 1 220 954",
+      "quantity": 1,
+      "description": "Emblem adhered",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "25 11 1 220 954",
+      "quantity": 1,
+      "description": "Emblem adhered",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "25 11 1 220 955",
+      "quantity": 1,
+      "description": "Emblem adhered",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "25 11 1 220 955",
+      "quantity": 1,
+      "description": "Emblem adhered",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "25 11 1 220 955",
+      "quantity": 1,
+      "description": "Emblem adhered",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "25 11 1 220 957",
+      "quantity": 1,
+      "description": "Emblem adhered",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "25 11 1 220 957",
+      "quantity": 1,
+      "description": "Emblem adhered",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "25 11 1 220 957",
+      "quantity": 1,
+      "description": "Emblem adhered",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "25 11 1 220 904",
+      "quantity": 1,
+      "description": "Leather gear lever cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "25 11 1 220 904",
+      "quantity": 1,
+      "description": "Leather gear lever cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "25 11 1 220 904",
+      "quantity": 1,
+      "description": "Leather gear lever cover",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

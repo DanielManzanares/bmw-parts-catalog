@@ -1,0 +1,45 @@
+{
+  "id": 4708,
+  "diagram_title": "Retrofit, int.mouldings, matt chrome",
+  "image_url": "http://ills.bmwfans.info/5k3.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 9 416 200",
+      "quantity": 1,
+      "description": "Set of moldings interior, matt chrome",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 9 416 202",
+      "quantity": 1,
+      "description": "Set of moldings interior, matt chrome",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 9 416 200",
+      "quantity": 1,
+      "description": "Set of moldings interior, matt chrome",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 9 416 202",
+      "quantity": 1,
+      "description": "Set of moldings interior, matt chrome",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

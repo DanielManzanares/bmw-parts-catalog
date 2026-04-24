@@ -1,0 +1,21 @@
+{
+  "id": 6966,
+  "diagram_title": "Condenser air conditioning",
+  "image_url": "http://ills.bmwfans.info/2u4h.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 53 8 377 614",
+      "quantity": 1,
+      "description": "Condenser air conditioning",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": 2113,
+  "diagram_title": "Door lining upper front-door pocket",
+  "image_url": "http://ills.bmwfans.info/aw2.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 41 1 874 241",
+      "quantity": 1,
+      "description": "Door linig top front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 1 875 876",
+      "quantity": 1,
+      "description": "Door linig top front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 1 875 875",
+      "quantity": 1,
+      "description": "Door linig top front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 1 875 876",
+      "quantity": 1,
+      "description": "Door linig top front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 1 870 718",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E32, E46, E9, NK, Z1"
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 41 1 854 725",
+      "quantity": 2,
+      "description": "Door pocket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 41 1 881 731",
+      "quantity": 2,
+      "description": "Door pocket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 41 1 900 129",
+      "quantity": 2,
+      "description": "Door pocket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 41 1 912 077",
+      "quantity": 2,
+      "description": "Door pocket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 41 1 912 078",
+      "quantity": 2,
+      "description": "Door pocket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 41 1 805 353",
+      "quantity": 4,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 906 813",
+      "quantity": 4,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 41 1 869 871",
+      "quantity": 1,
+      "description": "Cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 41 1 875 392",
+      "quantity": 1,
+      "description": "Cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 41 1 904 066",
+      "quantity": 1,
+      "description": "Cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 41 1 912 113",
+      "quantity": 1,
+      "description": "Cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 41 1 912 114",
+      "quantity": 1,
+      "description": "Cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 41 8 110 033",
+      "quantity": 2,
+      "description": "Cointray",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

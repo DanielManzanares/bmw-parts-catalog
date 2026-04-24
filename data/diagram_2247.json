@@ -1,0 +1,229 @@
+{
+  "id": 2247,
+  "diagram_title": "Floor mats, velours",
+  "image_url": "http://ills.bmwfans.info/dpv.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 47 9 405 618",
+      "quantity": 1,
+      "description": "Set of floor mats Velours",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 9 405 619",
+      "quantity": 1,
+      "description": "Set of floor mats Velours",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 9 405 620",
+      "quantity": 1,
+      "description": "Set of floor mats Velours",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 9 405 705",
+      "quantity": 1,
+      "description": "Set of floor mats Velours",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 9 401 952",
+      "quantity": 1,
+      "description": "Set of floor mats Velours",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 9 401 953",
+      "quantity": 1,
+      "description": "Set of floor mats Velours",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 9 401 954",
+      "quantity": 1,
+      "description": "Set of floor mats Velours",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 9 401 956",
+      "quantity": 1,
+      "description": "Set of floor mats Velours",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 9 401 957",
+      "quantity": 1,
+      "description": "Set of floor mats Velours",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 9 401 958",
+      "quantity": 1,
+      "description": "Set of floor mats Velours",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 9 410 446",
+      "quantity": 1,
+      "description": "Set of floor mats Velours",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 9 410 447",
+      "quantity": 1,
+      "description": "Set of floor mats Velours",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 9 410 448",
+      "quantity": 1,
+      "description": "Set of floor mats Velours",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 9 403 925",
+      "quantity": 1,
+      "description": "Set of floor mats Velours",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 9 403 928",
+      "quantity": 1,
+      "description": "Set of floor mats Velours",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 146 827",
+      "quantity": 1,
+      "description": "Floor mat velours driver side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 161 713",
+      "quantity": 1,
+      "description": "Floor mat velours driver side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 161 715",
+      "quantity": 1,
+      "description": "Floor mat velours driver side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 161 717",
+      "quantity": 1,
+      "description": "Floor mat velours driver side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 187 643",
+      "quantity": 1,
+      "description": "Floor mat velours driver side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 187 645",
+      "quantity": 1,
+      "description": "Floor mat velours driver side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 187 647",
+      "quantity": 1,
+      "description": "Floor mat velours driver side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 187 649",
+      "quantity": 1,
+      "description": "Floor mat velours driver side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 187 651",
+      "quantity": 1,
+      "description": "Floor mat velours driver side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 187 653",
+      "quantity": 1,
+      "description": "Floor mat velours driver side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 190 557",
+      "quantity": 1,
+      "description": "Floor mat velours driver side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 190 559",
+      "quantity": 1,
+      "description": "Floor mat velours driver side",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

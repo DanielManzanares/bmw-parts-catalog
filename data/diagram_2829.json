@@ -1,0 +1,93 @@
+{
+  "id": 2829,
+  "diagram_title": "Navi.syst.without SA602/spare parts only",
+  "image_url": "http://ills.bmwfans.info/173y.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 90 0 015 953",
+      "quantity": 1,
+      "description": "Navigation installation set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 90 0 015 953",
+      "quantity": 1,
+      "description": "Navigation installation set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 90 0 015 955",
+      "quantity": 1,
+      "description": "Console, monitor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 18 0 015 949",
+      "quantity": 1,
+      "description": "Console, monitor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 82 0 015 950",
+      "quantity": 1,
+      "description": "Console, monitor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "84 44 0 151 053",
+      "quantity": 1,
+      "description": "Console, monitor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 12 0 015 952",
+      "quantity": 1,
+      "description": "Console, monitor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 12 8 370 924",
+      "quantity": 1,
+      "description": "Base support system, front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "65 90 9 408 772",
+      "quantity": 1,
+      "description": "Navigation CD computer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "84 43 0 027 783",
+      "quantity": 1,
+      "description": "Software-CD",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

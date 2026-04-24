@@ -1,0 +1,117 @@
+{
+  "id": 2406,
+  "diagram_title": "Roof box",
+  "image_url": "http://ills.bmwfans.info/an17.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 73 0 141 917",
+      "quantity": 1,
+      "description": "Roof box 450",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 73 0 300 276",
+      "quantity": 1,
+      "description": "Roof box 450",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 73 0 300 499",
+      "quantity": 1,
+      "description": "Roof box 450",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 73 0 140 820",
+      "quantity": 1,
+      "description": "Roof box 450",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 73 0 412 015",
+      "quantity": 1,
+      "description": "Roof box 450",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 73 0 300 926",
+      "quantity": 4,
+      "description": "Clamping bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 73 0 300 927",
+      "quantity": 4,
+      "description": "Clamp plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 73 0 300 928",
+      "quantity": 2,
+      "description": "Base",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "82 73 0 300 929",
+      "quantity": 4,
+      "description": "Slidning block",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "82 73 0 300 930",
+      "quantity": 1,
+      "description": "Catch incl. key",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "82 73 0 300 931",
+      "quantity": 2,
+      "description": "Tension belt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "82 73 0 300 932",
+      "quantity": 2,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "82 73 2 159 030",
+      "quantity": 1,
+      "description": "Ski supports",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "id": 3083,
+  "diagram_title": "Door handle front/lock/key",
+  "image_url": "http://ills.bmwfans.info/t7j.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 21 8 205 294",
+      "quantity": 1,
+      "description": "Door handle outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 21 8 199 915",
+      "quantity": 1,
+      "description": "Door handle outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 21 8 199 916",
+      "quantity": 1,
+      "description": "Door handle outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 21 8 199 919",
+      "quantity": 1,
+      "description": "Door handle outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 21 8 199 920",
+      "quantity": 1,
+      "description": "Door handle outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 21 8 199 921",
+      "quantity": 1,
+      "description": "Door handle outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 21 8 199 922",
+      "quantity": 1,
+      "description": "Door handle outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 21 8 199 923",
+      "quantity": 1,
+      "description": "Door handle outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 21 8 199 924",
+      "quantity": 1,
+      "description": "Door handle outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 21 8 154 998",
+      "quantity": 1,
+      "description": "Universal key",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 21 8 205 442",
+      "quantity": 1,
+      "description": "Universal key",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 21 8 205 443",
+      "quantity": 1,
+      "description": "Door and ignition key",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 21 8 205 444",
+      "quantity": 1,
+      "description": "Spare key",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 21 8 201 226",
+      "quantity": 1,
+      "description": "Battery",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "61 35 8 364 946",
+      "quantity": 1,
+      "description": "Battery",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 21 8 354 417",
+      "quantity": 1,
+      "description": "Battery",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 21 8 354 414",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 21 8 354 415",
+      "quantity": 1,
+      "description": "Infrared remote control cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "66 12 8 363 426",
+      "quantity": 1,
+      "description": "Infrared remote control cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "66 12 8 363 421",
+      "quantity": 1,
+      "description": "Infrared remote control cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "66 12 8 363 429",
+      "quantity": 1,
+      "description": "Infrared remote control cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "66 12 8 369 082",
+      "quantity": 1,
+      "description": "Infrared remote control cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "66 12 8 369 481",
+      "quantity": 1,
+      "description": "Infrared remote control cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "66 12 8 369 723",
+      "quantity": 1,
+      "description": "Infrared remote control cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "66 12 8 370 026",
+      "quantity": 1,
+      "description": "Infrared remote control cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "66 12 8 370 035",
+      "quantity": 1,
+      "description": "Infrared remote control cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "66 12 8 370 036",
+      "quantity": 1,
+      "description": "Infrared remote control cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "66 12 8 373 030",
+      "quantity": 1,
+      "description": "Infrared remote control cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "66 12 8 374 916",
+      "quantity": 1,
+      "description": "Infrared remote control cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "66 12 8 377 839",
+      "quantity": 1,
+      "description": "Infrared remote control cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "66 12 8 379 629",
+      "quantity": 1,
+      "description": "Infrared remote control cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "66 21 8 354 639",
+      "quantity": 2,
+      "description": "Countersunk head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 21 8 205 441",
+      "quantity": 1,
+      "description": "Universal key",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 21 8 205 442",
+      "quantity": 1,
+      "description": "Universal key",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 21 8 205 443",
+      "quantity": 1,
+      "description": "Door and ignition key",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "51 21 8 205 444",
+      "quantity": 1,
+      "description": "Spare key",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "51 21 8 213 607",
+      "quantity": 1,
+      "description": "Key case",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "51 21 7 006 821",
+      "quantity": 1,
+      "description": "Key case",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "51 21 8 201 225",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "51 21 8 374 065",
+      "quantity": 1,
+      "description": "Universal key with remote control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "51 21 8 374 064",
+      "quantity": 1,
+      "description": "Universal key with remote control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "24",
+      "part_number": "51 21 8 368 192",
+      "quantity": 1,
+      "description": "Universal key with remote control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "26",
+      "part_number": "51 21 9 068 739",
+      "quantity": 1,
+      "description": "Set of keys with ews control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "27",
+      "part_number": "51 21 9 068 741",
+      "quantity": 1,
+      "description": "Set of keys with ews control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "28",
+      "part_number": "51 21 9 068 743",
+      "quantity": 1,
+      "description": "Set of keys with ews control unit",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

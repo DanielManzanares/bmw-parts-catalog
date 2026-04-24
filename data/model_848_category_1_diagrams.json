@@ -1,0 +1,458 @@
+[
+  {
+    "id": 5328,
+    "diagram_title": "Air pump f vacuum control",
+    "image_url": "http://ills.bmwfans.info/13e5.png",
+    "parts_count": 11
+  },
+  {
+    "id": 5270,
+    "diagram_title": "Belt Drive Climate Compressor",
+    "image_url": "http://ills.bmwfans.info/j3j.png",
+    "parts_count": 3
+  },
+  {
+    "id": 5262,
+    "diagram_title": "Belt Drive Water Pump/Alternator",
+    "image_url": "http://ills.bmwfans.info/fiq.png",
+    "parts_count": 7
+  },
+  {
+    "id": 5266,
+    "diagram_title": "Belt Drive Water Pump/Alternator",
+    "image_url": "http://ills.bmwfans.info/3i4x.png",
+    "parts_count": 20
+  },
+  {
+    "id": 5258,
+    "diagram_title": "Belt Drive-Vibration Damper",
+    "image_url": "http://ills.bmwfans.info/1e91.png",
+    "parts_count": 5
+  },
+  {
+    "id": 5314,
+    "diagram_title": "Cooling System Water Hoses",
+    "image_url": "http://ills.bmwfans.info/3khq.png",
+    "parts_count": 13
+  },
+  {
+    "id": 5308,
+    "diagram_title": "Cooling system-fan/fan coupling",
+    "image_url": "http://ills.bmwfans.info/esz.png",
+    "parts_count": 5
+  },
+  {
+    "id": 5252,
+    "diagram_title": "Crankcase-Ventilation/oil separator",
+    "image_url": "http://ills.bmwfans.info/o7i.png",
+    "parts_count": 11
+  },
+  {
+    "id": 5278,
+    "diagram_title": "Crankshaft Connecting Rod",
+    "image_url": "http://ills.bmwfans.info/efv.png",
+    "parts_count": 9
+  },
+  {
+    "id": 5274,
+    "diagram_title": "Crankshaft with bearing shells",
+    "image_url": "http://ills.bmwfans.info/ra.png",
+    "parts_count": 45
+  },
+  {
+    "id": 5282,
+    "diagram_title": "Crankshaft-Pistons",
+    "image_url": "http://ills.bmwfans.info/1hq4.png",
+    "parts_count": 7
+  },
+  {
+    "id": 5233,
+    "diagram_title": "Cylinder Head",
+    "image_url": "http://ills.bmwfans.info/fwe.png",
+    "parts_count": 68
+  },
+  {
+    "id": 5237,
+    "diagram_title": "Cylinder Head Attached Parts",
+    "image_url": "http://ills.bmwfans.info/3iyx.png",
+    "parts_count": 42
+  },
+  {
+    "id": 5241,
+    "diagram_title": "Cylinder Head Vanos",
+    "image_url": "http://ills.bmwfans.info/3kcm.png",
+    "parts_count": 48
+  },
+  {
+    "id": 5245,
+    "diagram_title": "Cylinder head cover",
+    "image_url": "http://ills.bmwfans.info/k69.png",
+    "parts_count": 36
+  },
+  {
+    "id": 5338,
+    "diagram_title": "Emission control-air pump",
+    "image_url": "http://ills.bmwfans.info/f3d.png",
+    "parts_count": 7
+  },
+  {
+    "id": 5221,
+    "diagram_title": "Engine Block Mounting Parts",
+    "image_url": "http://ills.bmwfans.info/13wh.png",
+    "parts_count": 44
+  },
+  {
+    "id": 5218,
+    "diagram_title": "Engine block",
+    "image_url": "http://ills.bmwfans.info/10uo.png",
+    "parts_count": 24
+  },
+  {
+    "id": 5332,
+    "diagram_title": "Exhaust manifold with catalyst",
+    "image_url": "http://ills.bmwfans.info/il3.png",
+    "parts_count": 12
+  },
+  {
+    "id": 5285,
+    "diagram_title": "Flywheel / Twin Mass Flywheel",
+    "image_url": "http://ills.bmwfans.info/48.png",
+    "parts_count": 4
+  },
+  {
+    "id": 5289,
+    "diagram_title": "Flywheel automatic",
+    "image_url": "http://ills.bmwfans.info/1emb.png",
+    "parts_count": 6
+  },
+  {
+    "id": 5318,
+    "diagram_title": "Intake manifold system",
+    "image_url": "http://ills.bmwfans.info/2yrh.png",
+    "parts_count": 17
+  },
+  {
+    "id": 5335,
+    "diagram_title": "Lambda Probe Fixings",
+    "image_url": "http://ills.bmwfans.info/i92.png",
+    "parts_count": 7
+  },
+  {
+    "id": 5305,
+    "diagram_title": "Lubrication system-Oil filter",
+    "image_url": "http://ills.bmwfans.info/3izh.png",
+    "parts_count": 14
+  },
+  {
+    "id": 5303,
+    "diagram_title": "Lubrication system/Oil pump with drive",
+    "image_url": "http://ills.bmwfans.info/1340.png",
+    "parts_count": 17
+  },
+  {
+    "id": 5321,
+    "diagram_title": "Mounting parts f intake manifold system",
+    "image_url": "http://ills.bmwfans.info/1kjy.png",
+    "parts_count": 10
+  },
+  {
+    "id": 5229,
+    "diagram_title": "Oil pan/oil level indicator",
+    "image_url": "http://ills.bmwfans.info/89i.png",
+    "parts_count": 32
+  },
+  {
+    "id": 5344,
+    "diagram_title": "Service Kit for Inspection II",
+    "image_url": "http://ills.bmwfans.info/av0m.png",
+    "parts_count": 1
+  },
+  {
+    "id": 5341,
+    "diagram_title": "Service Kit, Inspection I / Oil service",
+    "image_url": "http://ills.bmwfans.info/az79.png",
+    "parts_count": 1
+  },
+  {
+    "id": 5254,
+    "diagram_title": "Service kit for belt drives",
+    "image_url": "http://ills.bmwfans.info/bxio.png",
+    "parts_count": 2
+  },
+  {
+    "id": 5215,
+    "diagram_title": "Short Engine",
+    "image_url": "http://ills.bmwfans.info/gn8.png",
+    "parts_count": 6
+  },
+  {
+    "id": 5225,
+    "diagram_title": "Timing case",
+    "image_url": "http://ills.bmwfans.info/77j.png",
+    "parts_count": 16
+  },
+  {
+    "id": 5292,
+    "diagram_title": "Timing — Timing Chain Lower P",
+    "image_url": "http://ills.bmwfans.info/98.png",
+    "parts_count": 12
+  },
+  {
+    "id": 5324,
+    "diagram_title": "Vacuum control — engine",
+    "image_url": "http://ills.bmwfans.info/314a.png",
+    "parts_count": 6
+  },
+  {
+    "id": 5301,
+    "diagram_title": "Valve Timing Gear — Cam Shaft",
+    "image_url": "http://ills.bmwfans.info/ff8.png",
+    "parts_count": 10
+  },
+  {
+    "id": 5295,
+    "diagram_title": "Valve train, timing chain, upper/intake",
+    "image_url": "http://ills.bmwfans.info/epo.png",
+    "parts_count": 14
+  },
+  {
+    "id": 5298,
+    "diagram_title": "Valve train, timing chain, upper/outlet",
+    "image_url": "http://ills.bmwfans.info/eu8.png",
+    "parts_count": 10
+  },
+  {
+    "id": 5311,
+    "diagram_title": "Waterpump — Thermostat",
+    "image_url": "http://ills.bmwfans.info/3i19.png",
+    "parts_count": 10
+  },
+  {
+    "id": 883,
+    "diagram_title": "air_pump_f_vacuum_control",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_air_pump_f_vacuum_control.png",
+    "parts_count": 11
+  },
+  {
+    "id": 864,
+    "diagram_title": "belt_drive_climate_compressor",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_belt_drive_climate_compressor.png",
+    "parts_count": 3
+  },
+  {
+    "id": 860,
+    "diagram_title": "belt_drive_vibration_damper",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_belt_drive_vibration_damper.png",
+    "parts_count": 5
+  },
+  {
+    "id": 859,
+    "diagram_title": "belt_drive_water_pump_alternator",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_belt_drive_water_pump_alternator.png",
+    "parts_count": 7
+  },
+  {
+    "id": 862,
+    "diagram_title": "belt_drive_water_pump_alternator_2",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_belt_drive_water_pump_alternator_2.png",
+    "parts_count": 20
+  },
+  {
+    "id": 871,
+    "diagram_title": "cooling_system_fan_fan_coupling",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_cooling_system_fan_fan_coupling.png",
+    "parts_count": 5
+  },
+  {
+    "id": 875,
+    "diagram_title": "cooling_system_water_hoses",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_cooling_system_water_hoses.png",
+    "parts_count": 12
+  },
+  {
+    "id": 853,
+    "diagram_title": "crankcase_ventilation_oil_separator",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_crankcase_ventilation_oil_separator.png",
+    "parts_count": 11
+  },
+  {
+    "id": 861,
+    "diagram_title": "crankshaft_connecting_rod",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_crankshaft_connecting_rod.png",
+    "parts_count": 9
+  },
+  {
+    "id": 863,
+    "diagram_title": "crankshaft_pistons",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_crankshaft_pistons.png",
+    "parts_count": 7
+  },
+  {
+    "id": 865,
+    "diagram_title": "crankshaft_with_bearing_shells",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_crankshaft_with_bearing_shells.png",
+    "parts_count": 45
+  },
+  {
+    "id": 856,
+    "diagram_title": "cylinder_head",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_cylinder_head.png",
+    "parts_count": 32
+  },
+  {
+    "id": 857,
+    "diagram_title": "cylinder_head_attached_parts",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_cylinder_head_attached_parts.png",
+    "parts_count": 21
+  },
+  {
+    "id": 852,
+    "diagram_title": "cylinder_head_cover",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_cylinder_head_cover.png",
+    "parts_count": 18
+  },
+  {
+    "id": 855,
+    "diagram_title": "cylinder_head_vanos",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_cylinder_head_vanos.png",
+    "parts_count": 24
+  },
+  {
+    "id": 882,
+    "diagram_title": "emission_control_air_pump",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_emission_control_air_pump.png",
+    "parts_count": 7
+  },
+  {
+    "id": 849,
+    "diagram_title": "engine_block",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_engine_block.png",
+    "parts_count": 12
+  },
+  {
+    "id": 854,
+    "diagram_title": "engine_block_mounting_parts",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_engine_block_mounting_parts.png",
+    "parts_count": 22
+  },
+  {
+    "id": 880,
+    "diagram_title": "exhaust_manifold_with_catalyst",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_exhaust_manifold_with_catalyst.png",
+    "parts_count": 12
+  },
+  {
+    "id": 867,
+    "diagram_title": "flywheel_automatic",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_flywheel_automatic.png",
+    "parts_count": 6
+  },
+  {
+    "id": 866,
+    "diagram_title": "flywheel_twin_mass_flywheel",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_flywheel_twin_mass_flywheel.png",
+    "parts_count": 4
+  },
+  {
+    "id": 877,
+    "diagram_title": "intake_manifold_system",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_intake_manifold_system.png",
+    "parts_count": 17
+  },
+  {
+    "id": 881,
+    "diagram_title": "lambda_probe_fixings",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_lambda_probe_fixings.png",
+    "parts_count": 7
+  },
+  {
+    "id": 874,
+    "diagram_title": "lubrication_system_oil_filter",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_lubrication_system_oil_filter.png",
+    "parts_count": 14
+  },
+  {
+    "id": 872,
+    "diagram_title": "lubrication_system_oil_pump_with_drive",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_lubrication_system_oil_pump_with_drive.png",
+    "parts_count": 17
+  },
+  {
+    "id": 878,
+    "diagram_title": "mounting_parts_f_intake_manifold_system",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_mounting_parts_f_intake_manifold_system.png",
+    "parts_count": 10
+  },
+  {
+    "id": 851,
+    "diagram_title": "oil_pan_oil_level_indicator",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_oil_pan_oil_level_indicator.png",
+    "parts_count": 16
+  },
+  {
+    "id": 858,
+    "diagram_title": "service_kit_for_belt_drives",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_service_kit_for_belt_drives.png",
+    "parts_count": 2
+  },
+  {
+    "id": 884,
+    "diagram_title": "service_kit_for_inspection_ii",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_service_kit_for_inspection_ii.png",
+    "parts_count": 1
+  },
+  {
+    "id": 887,
+    "diagram_title": "service_kit_inspection_i_oil_service",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_service_kit_inspection_i_oil_service.png",
+    "parts_count": 1
+  },
+  {
+    "id": 850,
+    "diagram_title": "short_engine",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_short_engine.png",
+    "parts_count": 3
+  },
+  {
+    "id": 848,
+    "diagram_title": "timing_case",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_timing_case.png",
+    "parts_count": 8
+  },
+  {
+    "id": 868,
+    "diagram_title": "timing_timing_chain_lower_p",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_timing_timing_chain_lower_p.png",
+    "parts_count": 12
+  },
+  {
+    "id": 879,
+    "diagram_title": "vacuum_control_engine",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_vacuum_control_engine.png",
+    "parts_count": 6
+  },
+  {
+    "id": 869,
+    "diagram_title": "valve_timing_gear_cam_shaft",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_valve_timing_gear_cam_shaft.png",
+    "parts_count": 10
+  },
+  {
+    "id": 870,
+    "diagram_title": "valve_train_timing_chain_upper_intake",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_valve_train_timing_chain_upper_intake.png",
+    "parts_count": 14
+  },
+  {
+    "id": 873,
+    "diagram_title": "valve_train_timing_chain_upper_outlet",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_valve_train_timing_chain_upper_outlet.png",
+    "parts_count": 10
+  },
+  {
+    "id": 876,
+    "diagram_title": "waterpump_thermostat",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_engine_waterpump_thermostat.png",
+    "parts_count": 10
+  }
+]

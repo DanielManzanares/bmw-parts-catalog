@@ -1,0 +1,37 @@
+{
+  "id": 7399,
+  "diagram_title": "Winter tires",
+  "image_url": "http://ills.bmwfans.info/38i8.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1649,
+  "category_name": "Complete wheel and tyre sets",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 535 614",
+      "quantity": 1,
+      "description": "Continental WinterContact TS 790",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 536 948",
+      "quantity": 1,
+      "description": "Continental WinterContact TS 790",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 545 423",
+      "quantity": 1,
+      "description": "Continental WinterContact TS 790",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": 2015,
+  "diagram_title": "Drive shaft (swivel joint)",
+  "image_url": "http://ills.bmwfans.info/2m7.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1636,
+  "category_name": "Drive Shaft",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "26 11 1 209 504",
+      "quantity": 1,
+      "description": "Drive Shaft",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "26 11 1 225 700",
+      "quantity": 1,
+      "description": "Drive Shaft",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "26 11 1 209 504",
+      "quantity": 1,
+      "description": "Drive Shaft",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "26 11 1 225 700",
+      "quantity": 1,
+      "description": "Drive Shaft",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "26 11 1 209 504",
+      "quantity": 1,
+      "description": "Drive Shaft",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "26 11 1 225 700",
+      "quantity": 1,
+      "description": "Drive Shaft",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

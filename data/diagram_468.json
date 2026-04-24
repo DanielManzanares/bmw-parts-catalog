@@ -1,0 +1,285 @@
+{
+  "id": 468,
+  "diagram_title": "Front axle support/wishbone",
+  "image_url": "http://ills.bmwfans.info/dnzh.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 49,
+  "category_name": "Front Axle",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "31 11 1 096 902",
+      "quantity": 1,
+      "description": "Front axle support",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 11 1 096 902",
+      "quantity": 1,
+      "description": "Front axle support",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "2",
+      "part_number": "31 11 6 781 023",
+      "quantity": 4,
+      "description": "Hex screw with collar",
+      "price_eur": null,
+      "compatible_models": "E36, E46, E85, E86, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "31 11 6 781 023",
+      "quantity": 4,
+      "description": "Hex screw with collar",
+      "price_eur": null,
+      "compatible_models": "E36, E46, E85, E86, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 71 7 028 433",
+      "quantity": 1,
+      "description": "Reinforcement plate",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 71 7 028 433",
+      "quantity": 1,
+      "description": "Reinforcement plate",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "4",
+      "part_number": "33 30 6 760 652",
+      "quantity": 4,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E36, E39, E46, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E83, E83 Facelift, E85, E86, E88, E90, E90 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F18, F18 Facelift, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "33 30 6 760 652",
+      "quantity": 4,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E36, E39, E46, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E83, E83 Facelift, E85, E86, E88, E90, E90 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F18, F18 Facelift, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "31 12 6 777 851",
+      "quantity": 1,
+      "description": "Wishbone, left",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "5",
+      "part_number": "31 12 6 777 852",
+      "quantity": 1,
+      "description": "Wishbone, right",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "5",
+      "part_number": "31 12 2 282 121",
+      "quantity": 1,
+      "description": "Wishbone, left",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "5",
+      "part_number": "31 12 2 282 122",
+      "quantity": 1,
+      "description": "Wishbone, right",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "5",
+      "part_number": "31 12 2 341 828",
+      "quantity": 1,
+      "description": "Repair kit, wishbone, right",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "5",
+      "part_number": "31 12 6 777 851",
+      "quantity": 1,
+      "description": "Wishbone, left",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "5",
+      "part_number": "31 12 6 777 852",
+      "quantity": 1,
+      "description": "Wishbone, right",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "5",
+      "part_number": "31 12 2 282 121",
+      "quantity": 1,
+      "description": "Wishbone, left",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "5",
+      "part_number": "31 12 2 282 122",
+      "quantity": 1,
+      "description": "Wishbone, right",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "5",
+      "part_number": "31 12 2 341 828",
+      "quantity": 1,
+      "description": "Repair kit, wishbone, right",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "6",
+      "part_number": "31 12 6 783 376",
+      "quantity": 1,
+      "description": "Set of brackets with rubber mounting",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "6",
+      "part_number": "31 12 6 783 376",
+      "quantity": 1,
+      "description": "Set of brackets with rubber mounting",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "7",
+      "part_number": "31 10 6 774 714",
+      "quantity": 2,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, 700, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E67, E82, E85, E86, E9, E90, E90 Facelift, E92, E92 Facelift, E93, E93 Facelift, NK, Z1, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "31 10 6 774 714",
+      "quantity": 2,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, 700, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E67, E82, E85, E86, E9, E90, E90 Facelift, E92, E92 Facelift, E93, E93 Facelift, NK, Z1, Z3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "32 21 6 769 539",
+      "quantity": 2,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E30, E31, E32, E34, E36, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E85, E86, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18, F18 Facelift, F85, F86, NK, Z1, Z3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "32 21 6 769 539",
+      "quantity": 2,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E30, E31, E32, E34, E36, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E85, E86, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18, F18 Facelift, F85, F86, NK, Z1, Z3"
+    },
+    {
+      "position_number": "10",
+      "part_number": "31 10 6 772 199",
+      "quantity": 8,
+      "description": "Hexagon screw with flange",
+      "price_eur": null,
+      "compatible_models": "E46, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E85, E86"
+    },
+    {
+      "position_number": "10",
+      "part_number": "31 10 6 772 199",
+      "quantity": 8,
+      "description": "Hexagon screw with flange",
+      "price_eur": null,
+      "compatible_models": "E46, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E85, E86"
+    },
+    {
+      "position_number": "12",
+      "part_number": "31 12 2 343 353",
+      "quantity": 1,
+      "description": "Repair kit, wishbone, left",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "12",
+      "part_number": "31 12 2 343 352",
+      "quantity": 1,
+      "description": "Repair kit, wishbone, right",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "12",
+      "part_number": "31 12 2 341 297",
+      "quantity": 1,
+      "description": "Repair kit, wishbone, left",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "12",
+      "part_number": "31 12 2 341 828",
+      "quantity": 1,
+      "description": "Repair kit, wishbone, right",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "12",
+      "part_number": "31 12 2 343 353",
+      "quantity": 1,
+      "description": "Repair kit, wishbone, left",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "12",
+      "part_number": "31 12 2 343 352",
+      "quantity": 1,
+      "description": "Repair kit, wishbone, right",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "12",
+      "part_number": "31 12 2 341 297",
+      "quantity": 1,
+      "description": "Repair kit, wishbone, left",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "12",
+      "part_number": "31 12 2 341 828",
+      "quantity": 1,
+      "description": "Repair kit, wishbone, right",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    }
+  ]
+}

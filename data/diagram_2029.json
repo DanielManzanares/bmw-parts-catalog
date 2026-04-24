@@ -1,0 +1,221 @@
+{
+  "id": 2029,
+  "diagram_title": "Side panel/tail trim",
+  "image_url": "http://ills.bmwfans.info/a04.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "41 35 1 882 709",
+      "quantity": 1,
+      "description": "Left rear side panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "41 35 1 882 710",
+      "quantity": 1,
+      "description": "Left rear side panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 17 1 864 759",
+      "quantity": 1,
+      "description": "Fill-in flap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 17 1 846 701",
+      "quantity": 1,
+      "description": "Hinge",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 21 1 832 811",
+      "quantity": 1,
+      "description": "Lock plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 17 1 969 235",
+      "quantity": 1,
+      "description": "Spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 17 1 829 639",
+      "quantity": 1,
+      "description": "Pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 17 1 852 594",
+      "quantity": 1,
+      "description": "Spacer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 17 1 852 595",
+      "quantity": 1,
+      "description": "Spacer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 45 1 868 108",
+      "quantity": 2,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E31, E32, E34, Z1"
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 14 7 134 319",
+      "quantity": 2,
+      "description": "Hex nut with plate",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, F25, F26, Z1"
+    },
+    {
+      "position_number": "9",
+      "part_number": "07 11 9 936 425",
+      "quantity": 2,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 17 1 836 476",
+      "quantity": 1,
+      "description": "Stopper",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 17 1 853 772",
+      "quantity": 1,
+      "description": "Stop buffer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 17 1 923 919",
+      "quantity": 1,
+      "description": "Support filler cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "41 34 1 927 436",
+      "quantity": 1,
+      "description": "Tail panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 18 1 852 299",
+      "quantity": 2,
+      "description": "Plug-in nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "07 11 9 931 044",
+      "quantity": 2,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E9, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 18 1 821 830",
+      "quantity": 2,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 14 3 448 498",
+      "quantity": 2,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "51 18 1 813 017",
+      "quantity": 2,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "51 18 1 823 474",
+      "quantity": 2,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "41 35 1 920 871",
+      "quantity": 1,
+      "description": "Left rear side panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "41 35 1 920 872",
+      "quantity": 1,
+      "description": "Left rear side panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "41 35 1 920 873",
+      "quantity": 1,
+      "description": "Repair sheet metal left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "41 35 1 920 874",
+      "quantity": 1,
+      "description": "Repair sheet metal left",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

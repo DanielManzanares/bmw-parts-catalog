@@ -1,0 +1,61 @@
+{
+  "id": 5161,
+  "diagram_title": "Snap-in adapter for SIEMENS devices",
+  "image_url": "http://ills.bmwfans.info/bzo0.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "84 21 0 154 606",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 9 126 543",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 9 120 911",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 0 154 606",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 9 126 543",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 9 120 911",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

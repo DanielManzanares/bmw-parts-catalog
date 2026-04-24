@@ -1,0 +1,133 @@
+{
+  "id": 3758,
+  "diagram_title": "Coolant lines",
+  "image_url": "http://ills.bmwfans.info/cp1.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 53 8 391 332",
+      "quantity": 1,
+      "description": "Pressure hose assy compressor-condenser",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "64 53 8 391 337",
+      "quantity": 1,
+      "description": "Pressure hose assy compressor-condenser",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 53 8 391 323",
+      "quantity": 1,
+      "description": "Condenser-dryer pressure hose assy",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 53 8 364 097",
+      "quantity": 1,
+      "description": "Pipe-dryer pressure hose",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "64 53 8 391 330",
+      "quantity": 1,
+      "description": "Suction pipe evaporator-compressor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "64 53 8 391 324",
+      "quantity": 1,
+      "description": "Suction pipe evaporator-compressor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "64 50 8 390 603",
+      "quantity": 2,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "64 50 8 390 601",
+      "quantity": 2,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "64 50 8 390 602",
+      "quantity": 4,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "64 50 8 390 602",
+      "quantity": 4,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "64 50 8 369 240",
+      "quantity": 1,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "64 50 8 369 241",
+      "quantity": 1,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "64 50 9 177 577",
+      "quantity": 1,
+      "description": "Valve insert, suction line",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "64 53 8 391 215",
+      "quantity": 1,
+      "description": "Valve insert, suction line",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "64 50 9 177 579",
+      "quantity": 1,
+      "description": "Valve insert, suction line",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

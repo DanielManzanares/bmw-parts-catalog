@@ -1,0 +1,189 @@
+{
+  "id": 6317,
+  "diagram_title": "Various cable holders",
+  "image_url": "http://ills.bmwfans.info/3ffn.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 13 8 372 280",
+      "quantity": 1,
+      "description": "Plug-in connection bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 13 8 362 786",
+      "quantity": 1,
+      "description": "Cable holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 13 8 362 787",
+      "quantity": 1,
+      "description": "Cable holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 13 8 374 478",
+      "quantity": 1,
+      "description": "Cable holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "34 52 1 164 653",
+      "quantity": 1,
+      "description": "Cable clip",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E52, E53, E65, E66, E67, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F16, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F80, F80 Facelift, F82, F83, F86, F87, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 13 1 387 626",
+      "quantity": 1,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "61 13 1 379 079",
+      "quantity": 1,
+      "description": "Cable holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "61 13 8 380 213",
+      "quantity": 1,
+      "description": "Tubing support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 13 1 373 669",
+      "quantity": 1,
+      "description": "Push-button",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "12 52 1 710 686",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "23 14 8 372 833",
+      "quantity": 1,
+      "description": "Running meter, edge protection",
+      "price_eur": null,
+      "compatible_models": "E24, E31, E36, E38, E39, E46, E52, E53, E81, E82, E84, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F18, F20, F20 Facelift, F21, F21 Facelift, F30, F30 Facelift, F31, F31 Facelift, F32, F34, F35, F35 Facelift, I01, I12, Z3"
+    },
+    {
+      "position_number": "13",
+      "part_number": "61 13 8 368 029",
+      "quantity": 1,
+      "description": "Cable clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "61 13 1 389 400",
+      "quantity": 1,
+      "description": "Cable clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "11 78 7 547 315",
+      "quantity": 1,
+      "description": "Cable clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 14 7 547 239",
+      "quantity": 1,
+      "description": "Cable clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "61 13 8 350 827",
+      "quantity": 1,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "61 13 8 355 070",
+      "quantity": 1,
+      "description": "Cable clip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "61 13 8 375 708",
+      "quantity": 1,
+      "description": "Cable clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "65 77 1 377 052",
+      "quantity": 1,
+      "description": "Felt strip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "51 45 2 353 024",
+      "quantity": 1,
+      "description": "Felt strip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "52 20 7 276 398",
+      "quantity": 1,
+      "description": "Felt strip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "61 13 6 916 943",
+      "quantity": 1,
+      "description": "Cable holder",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

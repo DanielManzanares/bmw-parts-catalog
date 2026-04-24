@@ -1,0 +1,157 @@
+{
+  "id": 1966,
+  "diagram_title": "Trailer coupling",
+  "image_url": "http://ills.bmwfans.info/d84.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "71 60 1 129 279",
+      "quantity": 1,
+      "description": "Trailer hitch with fixed ball head",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 60 1 129 280",
+      "quantity": 1,
+      "description": "Trailer hitch with fixed ball head",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 60 1 129 595",
+      "quantity": 1,
+      "description": "Trailer hitch with fixed ball head",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 60 1 129 596",
+      "quantity": 1,
+      "description": "Trailer hitch with fixed ball head",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 60 1 129 279",
+      "quantity": 1,
+      "description": "Trailer hitch with fixed ball head",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 60 1 129 280",
+      "quantity": 1,
+      "description": "Trailer hitch with fixed ball head",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 60 1 129 595",
+      "quantity": 1,
+      "description": "Trailer hitch with fixed ball head",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 60 1 129 596",
+      "quantity": 1,
+      "description": "Trailer hitch with fixed ball head",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 60 1 129 279",
+      "quantity": 1,
+      "description": "Trailer hitch with fixed ball head",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 60 1 129 280",
+      "quantity": 1,
+      "description": "Trailer hitch with fixed ball head",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 60 1 129 595",
+      "quantity": 1,
+      "description": "Trailer hitch with fixed ball head",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 60 1 129 596",
+      "quantity": 1,
+      "description": "Trailer hitch with fixed ball head",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 60 9 057 902",
+      "quantity": 1,
+      "description": "Mounting electric parts w additional fan",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 60 1 376 303",
+      "quantity": 1,
+      "description": "Mounting electric parts w additional fan",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 60 9 057 902",
+      "quantity": 1,
+      "description": "Mounting electric parts w additional fan",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 60 1 376 303",
+      "quantity": 1,
+      "description": "Mounting electric parts w additional fan",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 60 9 057 902",
+      "quantity": 1,
+      "description": "Mounting electric parts w additional fan",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 60 1 376 303",
+      "quantity": 1,
+      "description": "Mounting electric parts w additional fan",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

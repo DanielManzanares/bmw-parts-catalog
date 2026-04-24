@@ -1,0 +1,56 @@
+[
+  {
+    "id": 241,
+    "diagram_title": "Gearbox mounting",
+    "image_url": "http://ills.bmwfans.info/2hf.png",
+    "parts_count": 18
+  },
+  {
+    "id": 242,
+    "diagram_title": "Gearbox suspension",
+    "image_url": "http://ills.bmwfans.info/2hg.png",
+    "parts_count": 14
+  },
+  {
+    "id": 243,
+    "diagram_title": "Manual Transmission S5D...G",
+    "image_url": "http://ills.bmwfans.info/dr13.png",
+    "parts_count": 8
+  },
+  {
+    "id": 240,
+    "diagram_title": "Manual Transmission S5D...Z",
+    "image_url": "http://ills.bmwfans.info/dr13.png",
+    "parts_count": 2
+  },
+  {
+    "id": 245,
+    "diagram_title": "S5D...G countershaft/reverse gear",
+    "image_url": "http://ills.bmwfans.info/2i4.png",
+    "parts_count": 62
+  },
+  {
+    "id": 248,
+    "diagram_title": "S5D...G drive shaft/output shaft",
+    "image_url": "http://ills.bmwfans.info/2h5.png",
+    "parts_count": 80
+  },
+  {
+    "id": 249,
+    "diagram_title": "S5D...G housing + mounting parts",
+    "image_url": "http://ills.bmwfans.info/2iq.png",
+    "parts_count": 48
+  },
+  {
+    "id": 246,
+    "diagram_title": "S5D...G inner gear shifting parts",
+    "image_url": "http://ills.bmwfans.info/2h6.png",
+    "parts_count": 34
+  },
+  {
+    "id": 247,
+    "diagram_title": "S5D...G inner gear shifting parts",
+    "image_url": "http://ills.bmwfans.info/fck.png",
+    "parts_count": 44
+  }
+]

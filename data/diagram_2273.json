@@ -1,0 +1,61 @@
+{
+  "id": 2273,
+  "diagram_title": "Retrofit, wooden gearshift knob",
+  "image_url": "http://ills.bmwfans.info/1djd.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "25 11 1 222 895",
+      "quantity": 1,
+      "description": "Gear shift knob, Maple wood",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 9 413 231",
+      "quantity": 1,
+      "description": "Shifting knob, wood nussbaum-wurzel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "25 11 9 403 115",
+      "quantity": 1,
+      "description": "Leather gear lever cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "25 11 9 403 117",
+      "quantity": 1,
+      "description": "Leather gear lever cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "25 11 9 403 119",
+      "quantity": 1,
+      "description": "Leather gear lever cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "25 11 9 403 128",
+      "quantity": 1,
+      "description": "Leather gear lever cover",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

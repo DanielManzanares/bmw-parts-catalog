@@ -1,0 +1,221 @@
+{
+  "id": 143,
+  "diagram_title": "Steering lock/ignition switch",
+  "image_url": "http://ills.bmwfans.info/30y.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 137,
+  "category_name": "Steering",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "32 32 1 094 182",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, E83, E83 Facelift, E85, E86, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 32 1 094 182",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, E83, E83 Facelift, E85, E86, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 32 1 093 265",
+      "quantity": 1,
+      "description": "Steering lock",
+      "price_eur": null,
+      "compatible_models": "E36, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 32 1 093 265",
+      "quantity": 1,
+      "description": "Steering lock",
+      "price_eur": null,
+      "compatible_models": "E36, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 32 8 360 922",
+      "quantity": 1,
+      "description": "Ignition switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 32 8 360 922",
+      "quantity": 1,
+      "description": "Ignition switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "32 30 1 159 449",
+      "quantity": 2,
+      "description": "Grub screw",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, E53, E83, E83 Facelift, E85, E86, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "32 30 1 159 449",
+      "quantity": 2,
+      "description": "Grub screw",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, E53, E83, E83 Facelift, E85, E86, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "32 32 1 092 780",
+      "quantity": 1,
+      "description": "Lock (with key code)",
+      "price_eur": null,
+      "compatible_models": "E31, E36, E38, E39, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "32 32 1 092 780",
+      "quantity": 1,
+      "description": "Lock (with key code)",
+      "price_eur": null,
+      "compatible_models": "E31, E36, E38, E39, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 35 6 965 426",
+      "quantity": 1,
+      "description": "Ring antenna",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 35 6 965 426",
+      "quantity": 1,
+      "description": "Ring antenna",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "32 31 1 158 475",
+      "quantity": 1,
+      "description": "Carbon pin",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36"
+    },
+    {
+      "position_number": "7",
+      "part_number": "32 31 1 158 475",
+      "quantity": 1,
+      "description": "Carbon pin",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36"
+    },
+    {
+      "position_number": "8",
+      "part_number": "32 31 1 162 088",
+      "quantity": 1,
+      "description": "Steering column switch bracket",
+      "price_eur": null,
+      "compatible_models": "E31, E34, E36, E38, E39, Z3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "32 31 1 159 147",
+      "quantity": 1,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36"
+    },
+    {
+      "position_number": "8",
+      "part_number": "32 31 1 162 088",
+      "quantity": 1,
+      "description": "Steering column switch bracket",
+      "price_eur": null,
+      "compatible_models": "E31, E34, E36, E38, E39, Z3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "32 31 1 159 147",
+      "quantity": 1,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36"
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 13 1 885 399",
+      "quantity": 3,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": "E23, E28, E31, E32, E34, E36, E38, E39, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E85, E86, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 13 1 885 399",
+      "quantity": 3,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": "E23, E28, E31, E32, E34, E36, E38, E39, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E85, E86, Z3"
+    },
+    {
+      "position_number": "10",
+      "part_number": "32 31 1 093 168",
+      "quantity": 1,
+      "description": "Pipe clamp",
+      "price_eur": null,
+      "compatible_models": "E36, Z3"
+    },
+    {
+      "position_number": "10",
+      "part_number": "32 31 1 093 168",
+      "quantity": 1,
+      "description": "Pipe clamp",
+      "price_eur": null,
+      "compatible_models": "E36, Z3"
+    },
+    {
+      "position_number": "11",
+      "part_number": "32 31 1 157 967",
+      "quantity": 2,
+      "description": "Fracture bolt",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E26, E28, E3, E31, E32, E34, E36, E38, E39, E52, E53, E85, E86, E9, Z3"
+    },
+    {
+      "position_number": "11",
+      "part_number": "32 31 1 157 967",
+      "quantity": 2,
+      "description": "Fracture bolt",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E26, E28, E3, E31, E32, E34, E36, E38, E39, E52, E53, E85, E86, E9, Z3"
+    },
+    {
+      "position_number": "12",
+      "part_number": "32 34 1 156 341",
+      "quantity": 1,
+      "description": "Locking pin",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E31, E32, E34, E36, E38, E39, E52, Z3"
+    },
+    {
+      "position_number": "12",
+      "part_number": "32 34 1 156 341",
+      "quantity": 1,
+      "description": "Locking pin",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E31, E32, E34, E36, E38, E39, E52, Z3"
+    }
+  ]
+}

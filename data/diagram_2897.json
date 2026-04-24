@@ -1,0 +1,173 @@
+{
+  "id": 2897,
+  "diagram_title": "Starter parts 1, 4kw",
+  "image_url": "http://ills.bmwfans.info/1db.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "--",
+      "part_number": "12 41 1 735 400",
+      "quantity": 1,
+      "description": "Starter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 41 1 735 399",
+      "quantity": 1,
+      "description": "Housing assy front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "12 41 1 721 286",
+      "quantity": 3,
+      "description": "Countersunk head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "12 41 1 726 039",
+      "quantity": 1,
+      "description": "Solenoid switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "12 41 1 721 293",
+      "quantity": 1,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "12 41 1 721 297",
+      "quantity": 1,
+      "description": "Repair kit starter motor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "12 41 1 721 281",
+      "quantity": 1,
+      "description": "Free wheel pinion",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "12 41 1 721 285",
+      "quantity": 1,
+      "description": "Shift lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "12 41 1 721 297",
+      "quantity": 1,
+      "description": "Repair kit starter motor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "12 41 1 735 885",
+      "quantity": 1,
+      "description": "Planet wheel set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "12 41 1 738 260",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "12 41 1 721 287",
+      "quantity": 1,
+      "description": "Armature",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "12 41 1 735 889",
+      "quantity": 1,
+      "description": "Exciter winding",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "12 41 1 722 849",
+      "quantity": 1,
+      "description": "Brush holder plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "12 41 1 721 288",
+      "quantity": 1,
+      "description": "Collector guiding",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "12 41 1 721 289",
+      "quantity": 1,
+      "description": "Bushing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "12 41 1 721 290",
+      "quantity": 2,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "12 41 1 721 297",
+      "quantity": 1,
+      "description": "Repair kit starter motor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "12 41 1 721 291",
+      "quantity": 1,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "12 41 1 722 775",
+      "quantity": 2,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

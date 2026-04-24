@@ -1,0 +1,125 @@
+{
+  "id": 5418,
+  "diagram_title": "Exch. ECU for DME, programmed / EK924",
+  "image_url": "http://ills.bmwfans.info/21np.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 530 856",
+      "quantity": 1,
+      "description": "RMFD control unit DME programmed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 535 643",
+      "quantity": 1,
+      "description": "RMFD control unit DME programmed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 522 774",
+      "quantity": 1,
+      "description": "RMFD control unit DME programmed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 530 870",
+      "quantity": 1,
+      "description": "RMFD control unit DME programmed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 522 733",
+      "quantity": 1,
+      "description": "RMFD control unit DME programmed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 530 864",
+      "quantity": 1,
+      "description": "RMFD control unit DME programmed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 551 397",
+      "quantity": 1,
+      "description": "RMFD control unit DME programmed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 522 729",
+      "quantity": 1,
+      "description": "RMFD control unit DME programmed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 522 779",
+      "quantity": 1,
+      "description": "RMFD control unit DME programmed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 522 737",
+      "quantity": 1,
+      "description": "RMFD control unit DME programmed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 528 983",
+      "quantity": 1,
+      "description": "RMFD control unit DME programmed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 522 818",
+      "quantity": 1,
+      "description": "RMFD control unit DME programmed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 522 754",
+      "quantity": 1,
+      "description": "RMFD control unit DME programmed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 522 754",
+      "quantity": 1,
+      "description": "RMFD control unit DME programmed",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

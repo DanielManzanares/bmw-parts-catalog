@@ -1,0 +1,29 @@
+{
+  "id": 1201,
+  "diagram_title": "front_wheel_brake_disc_perforated",
+  "image_url": "/static/images/diagrams/E46_330Ci-M54_brakes_front_wheel_brake_disc_perforated.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 68,
+  "category_name": "Brakes",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "34 11 2 282 871",
+      "quantity": 1,
+      "description": "Brake disc, ventilated, perforated, left",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 11 2 282 872",
+      "quantity": 1,
+      "description": "Brake disc ventilated, perforated, right",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "id": 1363,
+  "diagram_title": "Automatic transmission 4HP22",
+  "image_url": "http://ills.bmwfans.info/12m2.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 456,
+  "category_name": "Automatic Transmission",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "24 00 1 215 519",
+      "quantity": 1,
+      "description": "Rmfd automatic transmission",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "1",
+      "part_number": "24 00 1 217 030",
+      "quantity": 1,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "1",
+      "part_number": "24 00 1 215 519",
+      "quantity": 1,
+      "description": "Rmfd automatic transmission",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "1",
+      "part_number": "24 00 1 217 030",
+      "quantity": 1,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "1",
+      "part_number": "24 00 1 215 519",
+      "quantity": 1,
+      "description": "Rmfd automatic transmission",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "1",
+      "part_number": "24 00 1 217 030",
+      "quantity": 1,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "1",
+      "part_number": "24 00 1 215 519",
+      "quantity": 1,
+      "description": "Rmfd automatic transmission",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "1",
+      "part_number": "24 00 1 217 030",
+      "quantity": 1,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "24 41 1 215 762",
+      "quantity": 1,
+      "description": "Torque converter",
+      "price_eur": null,
+      "compatible_models": "E23, E28, E30, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "24 41 1 215 762",
+      "quantity": 1,
+      "description": "Torque converter",
+      "price_eur": null,
+      "compatible_models": "E23, E28, E30, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "24 41 1 215 762",
+      "quantity": 1,
+      "description": "Torque converter",
+      "price_eur": null,
+      "compatible_models": "E23, E28, E30, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "24 41 1 215 762",
+      "quantity": 1,
+      "description": "Torque converter",
+      "price_eur": null,
+      "compatible_models": "E23, E28, E30, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "24 00 1 215 579",
+      "quantity": 1,
+      "description": "Gasket set f automatik transmission \"af\"",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "24 00 1 215 579",
+      "quantity": 1,
+      "description": "Gasket set f automatik transmission \"af\"",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "24 00 1 215 579",
+      "quantity": 1,
+      "description": "Gasket set f automatik transmission \"af\"",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "24 00 1 215 579",
+      "quantity": 1,
+      "description": "Gasket set f automatik transmission \"af\"",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "4",
+      "part_number": "24 00 1 215 582",
+      "quantity": 1,
+      "description": "Repair set ax-bearing",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "4",
+      "part_number": "24 00 1 215 582",
+      "quantity": 1,
+      "description": "Repair set ax-bearing",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "4",
+      "part_number": "24 00 1 215 582",
+      "quantity": 1,
+      "description": "Repair set ax-bearing",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "4",
+      "part_number": "24 00 1 215 582",
+      "quantity": 1,
+      "description": "Repair set ax-bearing",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "5",
+      "part_number": "24 10 1 423 982",
+      "quantity": 1,
+      "description": "Set, blind plugs",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "5",
+      "part_number": "24 10 7 536 090",
+      "quantity": 1,
+      "description": "87",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "5",
+      "part_number": "24 10 1 423 982",
+      "quantity": 1,
+      "description": "Set, blind plugs",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "5",
+      "part_number": "24 10 7 536 090",
+      "quantity": 1,
+      "description": "87",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "5",
+      "part_number": "24 10 1 423 982",
+      "quantity": 1,
+      "description": "Set, blind plugs",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "5",
+      "part_number": "24 10 7 536 090",
+      "quantity": 1,
+      "description": "87",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "5",
+      "part_number": "24 10 1 423 982",
+      "quantity": 1,
+      "description": "Set, blind plugs",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "5",
+      "part_number": "24 10 7 536 090",
+      "quantity": 1,
+      "description": "87",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E31, E32, E34"
+    }
+  ]
+}

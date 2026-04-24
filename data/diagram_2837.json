@@ -1,0 +1,61 @@
+{
+  "id": 2837,
+  "diagram_title": "Safety belt rear, single parts",
+  "image_url": "http://ills.bmwfans.info/dgl.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1646,
+  "category_name": "Restraint system and Accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "72 11 1 920 043",
+      "quantity": 1,
+      "description": "Safety belt rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "72 11 1 920 044",
+      "quantity": 1,
+      "description": "Safety belt rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "72 11 1 941 477",
+      "quantity": 1,
+      "description": "Upper belt rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "72 11 1 941 478",
+      "quantity": 1,
+      "description": "Upper belt rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "72 11 1 952 011",
+      "quantity": 1,
+      "description": "Lower strap, rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "72 11 1 952 012",
+      "quantity": 1,
+      "description": "Lower strap, rear",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

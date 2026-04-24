@@ -1,0 +1,268 @@
+[
+  {
+    "id": 1643,
+    "name": "Audio, Navigation, Electronic Systems",
+    "slug": "audio_navigation_electronic_systems",
+    "diagram_count": 44,
+    "representative_image": "http://ills.bmwfans.info/a29d.png"
+  },
+  {
+    "id": 456,
+    "name": "Automatic Transmission",
+    "slug": "automatic_transmission",
+    "diagram_count": 20,
+    "representative_image": "/static/images/diagrams/E46_318i-N42_automatic_transmission_a5s360r_390r_seals_speed_sensor.png"
+  },
+  {
+    "id": 1637,
+    "name": "Bodywork",
+    "slug": "bodywork",
+    "diagram_count": 29,
+    "representative_image": "http://ills.bmwfans.info/1qif.png"
+  },
+  {
+    "id": 68,
+    "name": "Brakes",
+    "slug": "brakes",
+    "diagram_count": 34,
+    "representative_image": "/static/images/diagrams/E46_318i-N42_brakes_front_brake_pad_wear_sensor.png"
+  },
+  {
+    "id": 39,
+    "name": "Clutch",
+    "slug": "clutch",
+    "diagram_count": 4,
+    "representative_image": "/static/images/diagrams/E46_318i-N42_clutch_clutch.png"
+  },
+  {
+    "id": 1648,
+    "name": "Communication systems",
+    "slug": "communication_systems",
+    "diagram_count": 55,
+    "representative_image": "http://ills.bmwfans.info/1x69.png"
+  },
+  {
+    "id": 1649,
+    "name": "Complete wheel and tyre sets",
+    "slug": "complete_wheel_and_tyre_sets",
+    "diagram_count": 2,
+    "representative_image": "http://ills.bmwfans.info/38kn.png"
+  },
+  {
+    "id": 1644,
+    "name": "Distance Systems, Cruise Control",
+    "slug": "distance_systems_cruise_control",
+    "diagram_count": 2,
+    "representative_image": "http://ills.bmwfans.info/b2ql.png"
+  },
+  {
+    "id": 1636,
+    "name": "Drive Shaft",
+    "slug": "drive_shaft",
+    "diagram_count": 2,
+    "representative_image": "http://ills.bmwfans.info/1926.png"
+  },
+  {
+    "id": 1,
+    "name": "Engine",
+    "slug": "engine",
+    "diagram_count": 67,
+    "representative_image": "/static/images/diagrams/E46_318i-N42_engine_short_engine.png"
+  },
+  {
+    "id": 1534,
+    "name": "Engine Electrical System",
+    "slug": "engine_electrical_system",
+    "diagram_count": 21,
+    "representative_image": "http://ills.bmwfans.info/21nt.png"
+  },
+  {
+    "id": 1634,
+    "name": "Engine and gearbox suspension",
+    "slug": "engine_and_gearbox_suspension",
+    "diagram_count": 2,
+    "representative_image": "http://ills.bmwfans.info/1tah.png"
+  },
+  {
+    "id": 1645,
+    "name": "Equipment Parts",
+    "slug": "equipment_parts",
+    "diagram_count": 10,
+    "representative_image": "http://ills.bmwfans.info/bi99.png"
+  },
+  {
+    "id": 40,
+    "name": "Exhaust System",
+    "slug": "exhaust_system",
+    "diagram_count": 12,
+    "representative_image": "/static/images/diagrams/E46_318i-N42_exhaust_system_exhaust_manifold_with_catalyst.png"
+  },
+  {
+    "id": 49,
+    "name": "Front Axle",
+    "slug": "front_axle",
+    "diagram_count": 21,
+    "representative_image": "/static/images/diagrams/E46_318i-N42_front_axle_repair_kit_for_anti_roll_bar_links.png"
+  },
+  {
+    "id": 1535,
+    "name": "Fuel Preparation System",
+    "slug": "fuel_preparation_system",
+    "diagram_count": 7,
+    "representative_image": "http://ills.bmwfans.info/1vkd.png"
+  },
+  {
+    "id": 31,
+    "name": "Fuel Supply",
+    "slug": "fuel_supply",
+    "diagram_count": 10,
+    "representative_image": "/static/images/diagrams/E46_318i-N42_fuel_supply_expansion_tank.png"
+  },
+  {
+    "id": 1635,
+    "name": "Gearshift",
+    "slug": "gearshift",
+    "diagram_count": 5,
+    "representative_image": "http://ills.bmwfans.info/2vk3.png"
+  },
+  {
+    "id": 1642,
+    "name": "Heater and Air Conditioning",
+    "slug": "heater_and_air_conditioning",
+    "diagram_count": 19,
+    "representative_image": "http://ills.bmwfans.info/iv0.png"
+  },
+  {
+    "id": 1651,
+    "name": "Individual equipment",
+    "slug": "individual_equipment",
+    "diagram_count": 55,
+    "representative_image": "http://ills.bmwfans.info/3ah3.png"
+  },
+  {
+    "id": 1650,
+    "name": "Inspection kits",
+    "slug": "inspection_kits",
+    "diagram_count": 17,
+    "representative_image": "http://ills.bmwfans.info/az79.png"
+  },
+  {
+    "id": 1641,
+    "name": "Instruments, Measuring systems",
+    "slug": "instruments_measuring_systems",
+    "diagram_count": 1,
+    "representative_image": "http://ills.bmwfans.info/35j0.png"
+  },
+  {
+    "id": 184,
+    "name": "Lighting",
+    "slug": "lighting",
+    "diagram_count": 39,
+    "representative_image": "/static/images/diagrams/E46_318i-N42_lighting_headlight.png"
+  },
+  {
+    "id": 42,
+    "name": "Manual Transmission",
+    "slug": "manual_transmission",
+    "diagram_count": 16,
+    "representative_image": "/static/images/diagrams/E46_318i-N42_manual_transmission_manual_transmission_s5d_g.png"
+  },
+  {
+    "id": 83,
+    "name": "Pedals",
+    "slug": "pedals",
+    "diagram_count": 4,
+    "representative_image": "/static/images/diagrams/E46_318i-N42_pedals_acceleration_accelerator_pedal_module.png"
+  },
+  {
+    "id": 1536,
+    "name": "Radiator",
+    "slug": "radiator",
+    "diagram_count": 7,
+    "representative_image": "http://ills.bmwfans.info/3khf.png"
+  },
+  {
+    "id": 58,
+    "name": "Rear Axle",
+    "slug": "rear_axle",
+    "diagram_count": 25,
+    "representative_image": "/static/images/diagrams/E46_318i-N42_rear_axle_output_shaft.png"
+  },
+  {
+    "id": 1646,
+    "name": "Restraint system and Accessories",
+    "slug": "restraint_system_and_accessories",
+    "diagram_count": 8,
+    "representative_image": "http://ills.bmwfans.info/10s4.png"
+  },
+  {
+    "id": 1533,
+    "name": "Retrofitting, conversion, accessories",
+    "slug": "retrofitting_conversion_accessories",
+    "diagram_count": 251,
+    "representative_image": "http://ills.bmwfans.info/1vsm.png"
+  },
+  {
+    "id": 1532,
+    "name": "Scopes of service and repair work",
+    "slug": "scopes_of_service_and_repair_work",
+    "diagram_count": 2,
+    "representative_image": "http://ills.bmwfans.info/fvdy.png"
+  },
+  {
+    "id": 152,
+    "name": "Seats",
+    "slug": "seats",
+    "diagram_count": 58,
+    "representative_image": "/static/images/diagrams/E46_318i-N42_seats_seat_front_complete_seat.png"
+  },
+  {
+    "id": 1639,
+    "name": "Sliding Roof / Folding Top",
+    "slug": "sliding_roof___folding_top",
+    "diagram_count": 1,
+    "representative_image": "http://ills.bmwfans.info/3wf2.png"
+  },
+  {
+    "id": 137,
+    "name": "Steering",
+    "slug": "steering",
+    "diagram_count": 34,
+    "representative_image": "/static/images/diagrams/E46_318i-N42_steering_power_steering.png"
+  },
+  {
+    "id": 1531,
+    "name": "Technical Literature",
+    "slug": "technical_literature",
+    "diagram_count": 37,
+    "representative_image": "http://ills.bmwfans.info/dlfs.png"
+  },
+  {
+    "id": 1640,
+    "name": "Vehicle electrical system",
+    "slug": "vehicle_electrical_system",
+    "diagram_count": 91,
+    "representative_image": "http://ills.bmwfans.info/4gn.png"
+  },
+  {
+    "id": 1638,
+    "name": "Vehicle trim",
+    "slug": "vehicle_trim",
+    "diagram_count": 71,
+    "representative_image": "http://ills.bmwfans.info/h6l.png"
+  },
+  {
+    "id": 86,
+    "name": "Wheels",
+    "slug": "wheels",
+    "diagram_count": 115,
+    "representative_image": "/static/images/diagrams/E46_318i-N42_wheels_alloy_rim_styl_12.png"
+  },
+  {
+    "id": 1647,
+    "name": "Workshop consumables",
+    "slug": "workshop_consumables",
+    "diagram_count": 2,
+    "representative_image": "http://ills.bmwfans.info/cydi.png"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "id": 3733,
+  "diagram_title": "Sensor f. auc",
+  "image_url": "http://ills.bmwfans.info/1e1m.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 11 6 917 001",
+      "quantity": 1,
+      "description": "Sensor f. auc",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 13 8 365 356",
+      "quantity": 1,
+      "description": "Universal socket housing uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

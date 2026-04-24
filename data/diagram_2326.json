@@ -1,0 +1,37 @@
+{
+  "id": 2326,
+  "diagram_title": "Retrofit, M cover, entrance",
+  "image_url": "http://ills.bmwfans.info/1pie.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 47 7 894 857",
+      "quantity": 1,
+      "description": "Front entrance cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 7 891 987",
+      "quantity": 1,
+      "description": "Rear left entrance cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 7 891 988",
+      "quantity": 1,
+      "description": "Rear left entrance cover",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

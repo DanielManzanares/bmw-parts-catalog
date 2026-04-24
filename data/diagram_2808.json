@@ -1,0 +1,309 @@
+{
+  "id": 2808,
+  "diagram_title": "Label outer paint plain colour",
+  "image_url": "http://ills.bmwfans.info/ara.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1645,
+  "category_name": "Equipment Parts",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 816 717",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 817 581",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 821 543",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 836 221",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 841 218",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 841 219",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 857 081",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 857 082",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 857 083",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 859 753",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 867 546",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 867 547",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 867 549",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 867 550",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 870 902",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 870 903",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 872 105",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 872 106",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 872 107",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 872 108",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 2 121 000",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 2 121 001",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 2 121 002",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 2 121 010",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 2 121 155",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 2 121 156",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 2 121 157",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 2 121 158",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 2 121 487",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 2 121 488",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 2 121 489",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 2 121 490",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 2 121 491",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 2 121 921",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 2 121 922",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 2 121 923",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 2 121 931",
+      "quantity": 1,
+      "description": "Label",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 659,
+  "diagram_title": "rear_muffler",
+  "image_url": "/static/images/diagrams/E46_318i-N42_exhaust_system_rear_muffler.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 40,
+  "category_name": "Exhaust System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "18 10 7 509 319",
+      "quantity": 1,
+      "description": "Rear muffler",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "18 20 7 503 246",
+      "quantity": 2,
+      "description": "Rubber Mounting",
+      "price_eur": null,
+      "compatible_models": "E46, F80, F80 Facelift, F82, F83"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 14 3 413 174",
+      "quantity": 4,
+      "description": "Flange nut",
+      "price_eur": null,
+      "compatible_models": "E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01 Facelift, F02 Facelift, F06 Facelift, F10, F12, F12 Facelift, F13 Facelift, F15, F16, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F46, F48, F80, F80 Facelift, F82, F83, F85, F86, F87, G11, G12, I12, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "18 30 7 560 777",
+      "quantity": 1,
+      "description": "Clamping bush",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E65, E66, E83, E83 Facelift, E85, E86, F25, F45, F46, F48, Z3"
+    }
+  ]
+}

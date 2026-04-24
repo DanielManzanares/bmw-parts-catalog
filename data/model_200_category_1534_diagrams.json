@@ -1,0 +1,188 @@
+[
+  {
+    "id": 2896,
+    "diagram_title": "Alternator cooling",
+    "image_url": "http://ills.bmwfans.info/1at.png",
+    "parts_count": 3
+  },
+  {
+    "id": 2887,
+    "diagram_title": "Alternator parts 140a",
+    "image_url": "http://ills.bmwfans.info/1co.png",
+    "parts_count": 27
+  },
+  {
+    "id": 2890,
+    "diagram_title": "Alternator parts 140a",
+    "image_url": "http://ills.bmwfans.info/1c7.png",
+    "parts_count": 4
+  },
+  {
+    "id": 2893,
+    "diagram_title": "Alternator parts 140a",
+    "image_url": "http://ills.bmwfans.info/1c7.png",
+    "parts_count": 4
+  },
+  {
+    "id": 2878,
+    "diagram_title": "Alternator parts 90a",
+    "image_url": "http://ills.bmwfans.info/1b1.png",
+    "parts_count": 27
+  },
+  {
+    "id": 2882,
+    "diagram_title": "Alternator parts 90a",
+    "image_url": "http://ills.bmwfans.info/1cx.png",
+    "parts_count": 4
+  },
+  {
+    "id": 2884,
+    "diagram_title": "Alternator, individual parts 105A",
+    "image_url": "http://ills.bmwfans.info/1cn.png",
+    "parts_count": 28
+  },
+  {
+    "id": 2867,
+    "diagram_title": "Alternator, individual parts 80A",
+    "image_url": "http://ills.bmwfans.info/1cl.png",
+    "parts_count": 4
+  },
+  {
+    "id": 2870,
+    "diagram_title": "Alternator, individual parts 80A",
+    "image_url": "http://ills.bmwfans.info/1cl.png",
+    "parts_count": 3
+  },
+  {
+    "id": 2873,
+    "diagram_title": "Alternator, individual parts 80A",
+    "image_url": "http://ills.bmwfans.info/1c5.png",
+    "parts_count": 3
+  },
+  {
+    "id": 2875,
+    "diagram_title": "Alternator, individual parts 80A",
+    "image_url": "http://ills.bmwfans.info/1c5.png",
+    "parts_count": 3
+  },
+  {
+    "id": 2856,
+    "diagram_title": "Basic cotrol unit DME",
+    "image_url": "http://ills.bmwfans.info/1ex.png",
+    "parts_count": 2
+  },
+  {
+    "id": 2859,
+    "diagram_title": "Basic cotrol unit DME",
+    "image_url": "http://ills.bmwfans.info/1ex.png",
+    "parts_count": 2
+  },
+  {
+    "id": 2909,
+    "diagram_title": "Battery cable(battery front)",
+    "image_url": "http://ills.bmwfans.info/1az.png",
+    "parts_count": 8
+  },
+  {
+    "id": 2912,
+    "diagram_title": "Battery cable(battery rear)",
+    "image_url": "http://ills.bmwfans.info/1a9a.png",
+    "parts_count": 26
+  },
+  {
+    "id": 2915,
+    "diagram_title": "Cable Harness Fixings",
+    "image_url": "http://ills.bmwfans.info/1aw.png",
+    "parts_count": 8
+  },
+  {
+    "id": 2921,
+    "diagram_title": "Cable holder",
+    "image_url": "http://ills.bmwfans.info/3n62.png",
+    "parts_count": 13
+  },
+  {
+    "id": 2924,
+    "diagram_title": "Cable holder",
+    "image_url": "http://ills.bmwfans.info/1ay.png",
+    "parts_count": 19
+  },
+  {
+    "id": 2853,
+    "diagram_title": "DMC Cover and Mounting Parts",
+    "image_url": "http://ills.bmwfans.info/uwi.png",
+    "parts_count": 8
+  },
+  {
+    "id": 2907,
+    "diagram_title": "Engine wiring harness",
+    "image_url": "http://ills.bmwfans.info/c5v8.png",
+    "parts_count": 3
+  },
+  {
+    "id": 2864,
+    "diagram_title": "Generator",
+    "image_url": "http://ills.bmwfans.info/10y.png",
+    "parts_count": 4
+  },
+  {
+    "id": 2850,
+    "diagram_title": "Ignition coil/spark plug",
+    "image_url": "http://ills.bmwfans.info/flz.png",
+    "parts_count": 18
+  },
+  {
+    "id": 2847,
+    "diagram_title": "Label, Spark Plug Change High Power",
+    "image_url": "http://ills.bmwfans.info/ypd.png",
+    "parts_count": 3
+  },
+  {
+    "id": 2927,
+    "diagram_title": "Laminated contacts/spring contacts",
+    "image_url": "http://ills.bmwfans.info/10zo.png",
+    "parts_count": 12
+  },
+  {
+    "id": 2861,
+    "diagram_title": "Programmed DME control unit",
+    "image_url": "http://ills.bmwfans.info/1ac.png",
+    "parts_count": 6
+  },
+  {
+    "id": 2930,
+    "diagram_title": "Relay motor",
+    "image_url": "http://ills.bmwfans.info/1bgb.png",
+    "parts_count": 2
+  },
+  {
+    "id": 2933,
+    "diagram_title": "Relay motor",
+    "image_url": "http://ills.bmwfans.info/13q.png",
+    "parts_count": 2
+  },
+  {
+    "id": 2899,
+    "diagram_title": "Starter",
+    "image_url": "http://ills.bmwfans.info/121.png",
+    "parts_count": 6
+  },
+  {
+    "id": 2902,
+    "diagram_title": "Starter mounting parts",
+    "image_url": "http://ills.bmwfans.info/12b.png",
+    "parts_count": 9
+  },
+  {
+    "id": 2904,
+    "diagram_title": "Starter parts 1, 4kw",
+    "image_url": "http://ills.bmwfans.info/1db.png",
+    "parts_count": 20
+  },
+  {
+    "id": 2918,
+    "diagram_title": "Wiring connections",
+    "image_url": "http://ills.bmwfans.info/v64.png",
+    "parts_count": 16
+  }
+]

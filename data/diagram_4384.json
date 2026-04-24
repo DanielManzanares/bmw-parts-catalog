@@ -1,0 +1,29 @@
+{
+  "id": 4384,
+  "diagram_title": "Bulbs blue",
+  "image_url": "http://ills.bmwfans.info/2nmo.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "3",
+      "part_number": "07 50 0 030 662",
+      "quantity": 4,
+      "description": "Bulb H7 Polar",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 50 0 030 662",
+      "quantity": 4,
+      "description": "Bulb H7 Polar",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

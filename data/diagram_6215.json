@@ -1,0 +1,269 @@
+{
+  "id": 6215,
+  "diagram_title": "Slid.lift. roof-cover/ceiling frame",
+  "image_url": "http://ills.bmwfans.info/3wf2.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1639,
+  "category_name": "Sliding Roof / Folding Top",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "54 13 7 134 536",
+      "quantity": 1,
+      "description": "Frame sliding-lifting roof complete",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "54 13 7 000 267",
+      "quantity": 1,
+      "description": "Frame sliding-lifting roof complete",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "54 13 8 223 191",
+      "quantity": 1,
+      "description": "Sliding lifting roof glass cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "54 13 7 134 541",
+      "quantity": 1,
+      "description": "Ceiling frame covered velours",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "54 13 7 134 542",
+      "quantity": 1,
+      "description": "Ceiling frame covered velours",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "54 13 7 134 543",
+      "quantity": 1,
+      "description": "Ceiling frame covered velours",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "54 13 8 218 001",
+      "quantity": 1,
+      "description": "Circul.sliding/lifting roof cover gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "54 13 8 217 992",
+      "quantity": 1,
+      "description": "Slipstream deflector",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "54 13 8 217 993",
+      "quantity": 1,
+      "description": "Deflector spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "54 13 8 217 997",
+      "quantity": 1,
+      "description": "Torx bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "67 61 6 924 685",
+      "quantity": 1,
+      "description": "Sliding roof drive unit with module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "67 61 6 928 756",
+      "quantity": 1,
+      "description": "Sliding roof drive unit with module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "54 13 8 217 996",
+      "quantity": 1,
+      "description": "Sliding lifting roof frame gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "54 13 8 232 918",
+      "quantity": 1,
+      "description": "Hex head screw with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 14 9 143 635",
+      "quantity": 1,
+      "description": "Hex head screw with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "54 13 8 232 917",
+      "quantity": 1,
+      "description": "Hex head screw with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "54 12 8 176 530",
+      "quantity": 1,
+      "description": "Torx bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 14 7 077 613",
+      "quantity": 1,
+      "description": "Torx bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "54 12 1 873 572",
+      "quantity": 1,
+      "description": "Emergency tool elect.window/sliding roof",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "54 12 7 199 322",
+      "quantity": 1,
+      "description": "Emergency tool elect.window/sliding roof",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "54 10 2 497 175",
+      "quantity": 1,
+      "description": "Synthetic strip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "54 12 8 226 606",
+      "quantity": 1,
+      "description": "Synthetic strip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "54 12 8 226 607",
+      "quantity": 1,
+      "description": "Synthetic strip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "54 13 8 246 028",
+      "quantity": 1,
+      "description": "Torx bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "54 13 7 134 516",
+      "quantity": 2,
+      "description": "Sliding piece left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "54 13 8 246 025",
+      "quantity": 2,
+      "description": "Right sliding piece",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "65 77 1 377 052",
+      "quantity": 1,
+      "description": "Felt strip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "51 45 2 353 024",
+      "quantity": 1,
+      "description": "Felt strip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "52 20 7 276 398",
+      "quantity": 1,
+      "description": "Felt strip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "54 12 8 239 433",
+      "quantity": 1,
+      "description": "Water outlet hose front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "54 12 8 239 434",
+      "quantity": 1,
+      "description": "Water outlet hose rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "54 13 8 246 026",
+      "quantity": 1,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

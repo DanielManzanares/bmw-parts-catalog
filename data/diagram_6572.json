@@ -1,0 +1,29 @@
+{
+  "id": 6572,
+  "diagram_title": "Battery cable 2nd battery, authorities",
+  "image_url": "http://ills.bmwfans.info/2qpi.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 12 8 386 674",
+      "quantity": 1,
+      "description": "Battery cable (-), 2nd battery",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 12 8 386 637",
+      "quantity": 1,
+      "description": "Battery cable (-), 2nd battery",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

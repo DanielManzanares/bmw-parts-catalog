@@ -1,0 +1,29 @@
+{
+  "id": 3024,
+  "diagram_title": "Basic control unit egs",
+  "image_url": "http://ills.bmwfans.info/3htb.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 456,
+  "category_name": "Automatic Transmission",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "24 60 1 423 886",
+      "quantity": 1,
+      "description": "RMFD Basic control unit EGS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "12 52 1 744 630",
+      "quantity": 1,
+      "description": "Socket housing",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E65, E66, E67, E83, E85, E86, Z3"
+    }
+  ]
+}

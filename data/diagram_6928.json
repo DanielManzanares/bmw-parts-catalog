@@ -1,0 +1,21 @@
+{
+  "id": 6928,
+  "diagram_title": "Transmission oil",
+  "image_url": "http://ills.bmwfans.info/2wks.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1647,
+  "category_name": "Workshop consumables",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "83 22 0 309 031",
+      "quantity": 1,
+      "description": "Oil for manual transmission MTF LT-2",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

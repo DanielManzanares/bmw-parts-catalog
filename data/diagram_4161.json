@@ -1,0 +1,21 @@
+{
+  "id": 4161,
+  "diagram_title": "Indiv.decorative strips, sets, leather",
+  "image_url": "http://ills.bmwfans.info/vt5.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 41 8 016 310",
+      "quantity": 1,
+      "description": "Set of decorative strips",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

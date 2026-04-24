@@ -1,0 +1,173 @@
+{
+  "id": 4200,
+  "diagram_title": "BMW technical information",
+  "image_url": "http://ills.bmwfans.info/dozk.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1531,
+  "category_name": "Technical Literature",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "01 40 0 156 984",
+      "quantity": 1,
+      "description": "Technical information, German",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 40 0 156 984",
+      "quantity": 1,
+      "description": "Technical information, German",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 41 0 156 985",
+      "quantity": 1,
+      "description": "Technical information, English",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 41 0 156 985",
+      "quantity": 1,
+      "description": "Technical information, English",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 42 0 156 986",
+      "quantity": 1,
+      "description": "Technical information, French",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 42 0 156 986",
+      "quantity": 1,
+      "description": "Technical information, French",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 43 0 156 987",
+      "quantity": 1,
+      "description": "Technical information, Spanish",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 43 0 156 987",
+      "quantity": 1,
+      "description": "Technical information, Spanish",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 44 0 156 988",
+      "quantity": 1,
+      "description": "Technical information, Italian",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 44 0 156 988",
+      "quantity": 1,
+      "description": "Technical information, Italian",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 45 0 156 989",
+      "quantity": 1,
+      "description": "Technical information, Swedish",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 45 0 156 989",
+      "quantity": 1,
+      "description": "Technical information, Swedish",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 46 0 156 990",
+      "quantity": 1,
+      "description": "Technical information, Dutch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 46 0 156 990",
+      "quantity": 1,
+      "description": "Technical information, Dutch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "01 47 0 156 991",
+      "quantity": 1,
+      "description": "Technical information, Arabic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "01 47 0 156 991",
+      "quantity": 1,
+      "description": "Technical information, Arabic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "01 48 0 156 992",
+      "quantity": 1,
+      "description": "Technical information, Danish",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "01 48 0 156 992",
+      "quantity": 1,
+      "description": "Technical information, Danish",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "01 49 0 156 993",
+      "quantity": 1,
+      "description": "Technical information, Portuguese",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "01 49 0 156 993",
+      "quantity": 1,
+      "description": "Technical information, Portuguese",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

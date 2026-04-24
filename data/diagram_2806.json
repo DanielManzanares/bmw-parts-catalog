@@ -1,0 +1,133 @@
+{
+  "id": 2806,
+  "diagram_title": "Label",
+  "image_url": "http://ills.bmwfans.info/arc.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1645,
+  "category_name": "Equipment Parts",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 14 2 121 107",
+      "quantity": 1,
+      "description": "Type plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 14 1 366 202",
+      "quantity": 1,
+      "description": "Instruction label for additional heater",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 14 1 873 247",
+      "quantity": 1,
+      "description": "Instruction label for additional heater",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 14 2 121 173",
+      "quantity": 1,
+      "description": "Instruction label for additional heater",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 14 2 121 181",
+      "quantity": 1,
+      "description": "Instruction label for additional heater",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 50 1 380 981",
+      "quantity": 1,
+      "description": "Label \"air condition\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 50 1 380 982",
+      "quantity": 1,
+      "description": "Label \"air condition\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 50 1 380 983",
+      "quantity": 1,
+      "description": "Instruction label for additional heater",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "71 21 2 122 014",
+      "quantity": 1,
+      "description": "Label \"transistorized ignition\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 12 9 948 747",
+      "quantity": 2,
+      "description": "Blind rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 14 2 121 028",
+      "quantity": 1,
+      "description": "Label five speed (overdrive) gearbox",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 14 2 121 134",
+      "quantity": 1,
+      "description": "Label five speed gearbox (sport)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 14 2 121 408",
+      "quantity": 1,
+      "description": "Label \"diesel\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 14 2 121 497",
+      "quantity": 1,
+      "description": "Label \"diesel\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 14 2 121 638",
+      "quantity": 1,
+      "description": "Label \"diesel\"",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

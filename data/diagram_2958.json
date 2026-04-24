@@ -1,0 +1,53 @@
+{
+  "id": 2958,
+  "diagram_title": "Retrofit kit Settop-Box",
+  "image_url": "http://ills.bmwfans.info/2sp4.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 50 0 305 565",
+      "quantity": 1,
+      "description": "Retrofit kit Settop-Box",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 50 0 406 957",
+      "quantity": 1,
+      "description": "Set-top box",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 50 6 939 676",
+      "quantity": 1,
+      "description": "Radio remote control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 29 0 304 946",
+      "quantity": 1,
+      "description": "Operating instructions",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 12 0 390 422",
+      "quantity": 1,
+      "description": "Antenna adapter tubing",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

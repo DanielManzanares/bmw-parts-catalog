@@ -1,0 +1,61 @@
+{
+  "id": 2612,
+  "diagram_title": "Racing bike rack",
+  "image_url": "http://ills.bmwfans.info/3zg6.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 72 0 393 083",
+      "quantity": 1,
+      "description": "Rack for racing bicycle",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 72 0 144 049",
+      "quantity": 2,
+      "description": "Key (Code)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 79 0 306 999",
+      "quantity": 1,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 72 0 154 315",
+      "quantity": 1,
+      "description": "Strap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "82 72 2 150 270",
+      "quantity": 1,
+      "description": "Front wheel holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "82 79 2 152 567",
+      "quantity": 1,
+      "description": "Torque wrench",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 1076,
+  "diagram_title": "additional_turn_indicator_lamp",
+  "image_url": "/static/images/diagrams/E46_320Ci-M54_lighting_additional_turn_indicator_lamp.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 184,
+  "category_name": "Lighting",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "63 13 6 920 685",
+      "quantity": 1,
+      "description": "Additional turn indicator lamp, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 13 6 920 686",
+      "quantity": 1,
+      "description": "Additional turn indicator lamp, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 13 6 920 731",
+      "quantity": 1,
+      "description": "Addit. turn indicator lamp, left white",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 13 6 920 732",
+      "quantity": 1,
+      "description": "Addit. turn indicator lamp, right white",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

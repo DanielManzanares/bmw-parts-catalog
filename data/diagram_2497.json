@@ -1,0 +1,173 @@
+{
+  "id": 2497,
+  "diagram_title": "Bicycle carrier, trailer coupling",
+  "image_url": "http://ills.bmwfans.info/di1p.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 72 0 399 099",
+      "quantity": 1,
+      "description": "Bicycle rack for AHK",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 72 0 145 795",
+      "quantity": 1,
+      "description": "Third bicycle mounting fixture",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 79 0 142 768",
+      "quantity": 1,
+      "description": "Cover glass, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 79 0 142 769",
+      "quantity": 1,
+      "description": "Cover glass, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "82 79 0 422 670",
+      "quantity": 1,
+      "description": "Rim shoe",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "82 79 9 404 852",
+      "quantity": 1,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "82 79 0 149 187",
+      "quantity": 1,
+      "description": "Holder XL",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "82 79 9 408 514",
+      "quantity": 1,
+      "description": "Lockable handwheel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "82 79 0 149 188",
+      "quantity": 1,
+      "description": "Star handle",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "82 79 0 149 242",
+      "quantity": 1,
+      "description": "Star handle",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "82 79 0 149 243",
+      "quantity": 1,
+      "description": "Star handle",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "82 79 0 149 191",
+      "quantity": 1,
+      "description": "Handwheel set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "82 72 2 158 967",
+      "quantity": 1,
+      "description": "Third bicycle mounting fixture",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "82 71 0 421 333",
+      "quantity": 1,
+      "description": "Rear light, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "82 71 0 421 332",
+      "quantity": 1,
+      "description": "Rear light, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "82 72 2 159 337",
+      "quantity": 1,
+      "description": "Ratchet strap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "82 72 2 159 334",
+      "quantity": 1,
+      "description": "Retaining arm",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "82 72 2 159 333",
+      "quantity": 1,
+      "description": "Retaining arm",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "82 72 2 159 331",
+      "quantity": 1,
+      "description": "Retaining arm",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "82 72 2 159 338",
+      "quantity": 1,
+      "description": "Key",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

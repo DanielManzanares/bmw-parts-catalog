@@ -1,0 +1,53 @@
+{
+  "id": 2177,
+  "diagram_title": "Bulbs blue",
+  "image_url": "http://ills.bmwfans.info/2nmo.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "07 50 0 018 225",
+      "quantity": 4,
+      "description": "Bulb H1 Polar",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 50 0 018 229",
+      "quantity": 4,
+      "description": "Bulb blue f white turn indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 21 6 934 228",
+      "quantity": 4,
+      "description": "Bulb blue f white turn indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 21 7 160 907",
+      "quantity": 4,
+      "description": "Bulb blue f white turn indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 50 0 030 662",
+      "quantity": 4,
+      "description": "Bulb H7 Polar",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

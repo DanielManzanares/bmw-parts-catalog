@@ -1,0 +1,21 @@
+{
+  "id": 2304,
+  "diagram_title": "Supplementary set support lordosis",
+  "image_url": "http://ills.bmwfans.info/dmn.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 404 379",
+      "quantity": 1,
+      "description": "Retrofit kit, lumbar support, both sides",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

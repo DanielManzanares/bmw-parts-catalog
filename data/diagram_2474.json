@@ -1,0 +1,93 @@
+{
+  "id": 2474,
+  "diagram_title": "Wiring sets",
+  "image_url": "http://ills.bmwfans.info/bw2.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 42 1 276 246",
+      "quantity": 1,
+      "description": "Battery cable negative",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "12 42 1 286 015",
+      "quantity": 1,
+      "description": "Battery cable (plus pole)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 12 1 376 439",
+      "quantity": 1,
+      "description": "Wiring automatic transmission",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 12 1 375 289",
+      "quantity": 1,
+      "description": "Wiring heater control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 12 1 380 467",
+      "quantity": 1,
+      "description": "Wiring heater control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 12 1 369 359",
+      "quantity": 1,
+      "description": "Cable trunk light",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 12 1 369 296",
+      "quantity": 1,
+      "description": "Wiring interior light lateral",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "61 12 1 369 295",
+      "quantity": 1,
+      "description": "Wiring set electr.sliding lifting roof",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "61 12 1 373 982",
+      "quantity": 1,
+      "description": "Wiring set additional fan",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 12 1 371 075",
+      "quantity": 1,
+      "description": "Wiring bulb testing device",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

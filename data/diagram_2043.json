@@ -1,0 +1,29 @@
+{
+  "id": 2043,
+  "diagram_title": "Master key locking",
+  "image_url": "http://ills.bmwfans.info/ena.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "32 31 1 152 271",
+      "quantity": 1,
+      "description": "Repair kit one-key locking system",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 31 1 152 272",
+      "quantity": 1,
+      "description": "Repair kit one-key locking system",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

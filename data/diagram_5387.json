@@ -1,0 +1,29 @@
+{
+  "id": 5387,
+  "diagram_title": "Battery cable",
+  "image_url": "http://ills.bmwfans.info/1qo4.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "15",
+      "part_number": "12 42 1 707 937",
+      "quantity": 1,
+      "description": "Bracket cable b+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "12 42 1 438 388",
+      "quantity": 1,
+      "description": "Cap nut",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z3"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 1618,
+  "diagram_title": "Parts, periphery module wiring",
+  "image_url": "http://ills.bmwfans.info/fix.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "6",
+      "part_number": "12 52 1 740 558",
+      "quantity": 1,
+      "description": "Circlip",
+      "price_eur": null,
+      "compatible_models": "E39, E46"
+    },
+    {
+      "position_number": "6",
+      "part_number": "12 52 1 740 558",
+      "quantity": 1,
+      "description": "Circlip",
+      "price_eur": null,
+      "compatible_models": "E39, E46"
+    }
+  ]
+}

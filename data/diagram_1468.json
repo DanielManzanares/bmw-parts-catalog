@@ -1,0 +1,141 @@
+{
+  "id": 1468,
+  "diagram_title": "Bmw sports seat",
+  "image_url": "http://ills.bmwfans.info/bpu.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 927 567",
+      "quantity": 1,
+      "description": "Seat leather left with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 927 568",
+      "quantity": 1,
+      "description": "Seat leather right with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 927 569",
+      "quantity": 1,
+      "description": "Seat leather left with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 927 570",
+      "quantity": 1,
+      "description": "Seat leather right with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 927 571",
+      "quantity": 1,
+      "description": "Seat leather left with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 927 572",
+      "quantity": 1,
+      "description": "Seat leather right with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 927 573",
+      "quantity": 1,
+      "description": "Seat leather left with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 927 574",
+      "quantity": 1,
+      "description": "Seat leather right with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 927 567",
+      "quantity": 1,
+      "description": "Seat leather left with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 927 568",
+      "quantity": 1,
+      "description": "Seat leather right with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 927 569",
+      "quantity": 1,
+      "description": "Seat leather left with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 927 570",
+      "quantity": 1,
+      "description": "Seat leather right with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 927 571",
+      "quantity": 1,
+      "description": "Seat leather left with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 927 572",
+      "quantity": 1,
+      "description": "Seat leather right with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 927 573",
+      "quantity": 1,
+      "description": "Seat leather left with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 927 574",
+      "quantity": 1,
+      "description": "Seat leather right with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

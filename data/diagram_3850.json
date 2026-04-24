@@ -1,0 +1,381 @@
+{
+  "id": 3850,
+  "diagram_title": "Various notice stickers",
+  "image_url": "http://ills.bmwfans.info/ar69.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1645,
+  "category_name": "Equipment Parts",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 14 2 121 173",
+      "quantity": 1,
+      "description": "Instruction label for additional heater",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 21 2 122 171",
+      "quantity": 1,
+      "description": "Label \"original bmw teile\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 21 2 122 613",
+      "quantity": 1,
+      "description": "Label \"original bmw teile\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 21 2 122 615",
+      "quantity": 1,
+      "description": "Label \"original bmw teile\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 21 8 022 738",
+      "quantity": 1,
+      "description": "Label \"original bmw teile\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 22 7 618 790",
+      "quantity": 1,
+      "description": "Label \"original bmw teile\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 22 7 619 338",
+      "quantity": 1,
+      "description": "Label \"original bmw teile\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 22 7 619 382",
+      "quantity": 1,
+      "description": "Label \"original bmw teile\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 24 6 874 427",
+      "quantity": 1,
+      "description": "Label \"original bmw teile\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 24 6 799 630",
+      "quantity": 1,
+      "description": "Label \"original bmw teile\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 22 7 559 489",
+      "quantity": 1,
+      "description": "Label \"original bmw teile\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 24 6 789 216",
+      "quantity": 1,
+      "description": "Label \"original bmw teile\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 24 6 799 629",
+      "quantity": 1,
+      "description": "Label \"original bmw teile\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 21 7 000 673",
+      "quantity": 1,
+      "description": "Label \"original bmw teile\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 21 2 122 614",
+      "quantity": 1,
+      "description": "Label \"original bmw teile\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 21 2 122 583",
+      "quantity": 1,
+      "description": "Type plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 14 7 222 912",
+      "quantity": 1,
+      "description": "Type plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 14 2 121 181",
+      "quantity": 1,
+      "description": "Instruction label for additional heater",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 24 6 763 822",
+      "quantity": 1,
+      "description": "Type plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "36 11 1 096 235",
+      "quantity": 1,
+      "description": "Sign \"TPC\" tire pressure control",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E82, E83, E83 Facelift, E84, E85, E86, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F07, F10, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 24 6 790 153",
+      "quantity": 1,
+      "description": "Type plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 21 7 160 339",
+      "quantity": 1,
+      "description": "Type plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 21 7 160 340",
+      "quantity": 1,
+      "description": "Type plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 21 7 160 341",
+      "quantity": 1,
+      "description": "Type plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 21 7 160 342",
+      "quantity": 1,
+      "description": "Type plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 21 7 160 343",
+      "quantity": 1,
+      "description": "Type plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 21 7 160 344",
+      "quantity": 1,
+      "description": "Type plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 21 7 160 345",
+      "quantity": 1,
+      "description": "Type plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 21 7 292 762",
+      "quantity": 1,
+      "description": "Type plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 24 6 780 121",
+      "quantity": 1,
+      "description": "Type plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 21 2 122 611",
+      "quantity": 1,
+      "description": "Type plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 24 6 773 016",
+      "quantity": 1,
+      "description": "Type plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 21 7 276 494",
+      "quantity": 1,
+      "description": "Type plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 21 7 292 763",
+      "quantity": 1,
+      "description": "Type plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "71 21 2 122 014",
+      "quantity": 1,
+      "description": "Label \"transistorized ignition\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "71 21 2 122 696",
+      "quantity": 1,
+      "description": "Label \"transistorized ignition\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "71 21 7 160 339",
+      "quantity": 1,
+      "description": "Type plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "71 21 7 160 340",
+      "quantity": 1,
+      "description": "Type plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "71 21 7 160 341",
+      "quantity": 1,
+      "description": "Type plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "71 21 7 160 342",
+      "quantity": 1,
+      "description": "Type plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "71 21 7 160 343",
+      "quantity": 1,
+      "description": "Type plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "71 21 7 160 344",
+      "quantity": 1,
+      "description": "Type plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "71 21 7 160 345",
+      "quantity": 1,
+      "description": "Type plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "71 21 7 276 494",
+      "quantity": 1,
+      "description": "Type plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "71 21 7 292 762",
+      "quantity": 1,
+      "description": "Type plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "71 21 7 292 763",
+      "quantity": 1,
+      "description": "Type plate",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

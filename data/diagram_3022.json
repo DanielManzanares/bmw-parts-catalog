@@ -1,0 +1,21 @@
+{
+  "id": 3022,
+  "diagram_title": "Basic control unit egs",
+  "image_url": "http://ills.bmwfans.info/j5t.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 456,
+  "category_name": "Automatic Transmission",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "24 60 1 423 642",
+      "quantity": 1,
+      "description": "RMFD Basic control unit EGS",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,541 @@
+{
+  "id": 1391,
+  "diagram_title": "Rear axle support/wheel suspension",
+  "image_url": "http://ills.bmwfans.info/3c4.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 58,
+  "category_name": "Rear Axle",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "33 31 1 126 009",
+      "quantity": 1,
+      "description": "Rear axle carrier",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 31 1 126 009",
+      "quantity": 1,
+      "description": "Rear axle carrier",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 31 1 126 009",
+      "quantity": 1,
+      "description": "Rear axle carrier",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "33 31 1 130 488",
+      "quantity": 2,
+      "description": "Rubber Mounting",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "33 31 1 130 487",
+      "quantity": 2,
+      "description": "86",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "33 31 1 130 488",
+      "quantity": 2,
+      "description": "Rubber Mounting",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "33 31 1 130 487",
+      "quantity": 2,
+      "description": "86",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "33 31 1 130 488",
+      "quantity": 2,
+      "description": "Rubber Mounting",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "33 31 1 130 487",
+      "quantity": 2,
+      "description": "86",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "33 32 3 628 167",
+      "quantity": 2,
+      "description": "Pin",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E9, NK, Z1"
+    },
+    {
+      "position_number": "3",
+      "part_number": "33 32 3 628 167",
+      "quantity": 2,
+      "description": "Pin",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E9, NK, Z1"
+    },
+    {
+      "position_number": "3",
+      "part_number": "33 32 3 628 167",
+      "quantity": 2,
+      "description": "Pin",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E9, NK, Z1"
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 12 9 922 745",
+      "quantity": 2,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E31, E32, E34, E9, NK, Z1"
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 12 9 922 745",
+      "quantity": 2,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E31, E32, E34, E9, NK, Z1"
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 12 9 922 745",
+      "quantity": 2,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E31, E32, E34, E9, NK, Z1"
+    },
+    {
+      "position_number": "5",
+      "part_number": "33 31 1 123 982",
+      "quantity": 2,
+      "description": "Push rod",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "33 31 1 123 982",
+      "quantity": 2,
+      "description": "Push rod",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "33 31 1 123 982",
+      "quantity": 2,
+      "description": "Push rod",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "23 71 1 246 623",
+      "quantity": 4,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E9, NK, Z1"
+    },
+    {
+      "position_number": "6",
+      "part_number": "23 71 1 246 623",
+      "quantity": 4,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E9, NK, Z1"
+    },
+    {
+      "position_number": "6",
+      "part_number": "23 71 1 246 623",
+      "quantity": 4,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E9, NK, Z1"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 903 039",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E83, E83 Facelift, E85, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F10, F11, NK, Z1, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 903 039",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E83, E83 Facelift, E85, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F10, F11, NK, Z1, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 903 039",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E83, E83 Facelift, E85, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F10, F11, NK, Z1, Z3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "33 32 1 127 402",
+      "quantity": 1,
+      "description": "Trailing arm, left",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "8",
+      "part_number": "33 32 1 127 403",
+      "quantity": 1,
+      "description": "Trailing arm, right",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "8",
+      "part_number": "33 32 1 124 234",
+      "quantity": 1,
+      "description": "Trailing arm, left",
+      "price_eur": null,
+      "compatible_models": "E23, E28"
+    },
+    {
+      "position_number": "8",
+      "part_number": "33 32 1 124 235",
+      "quantity": 1,
+      "description": "Trailing arm, right",
+      "price_eur": null,
+      "compatible_models": "E23, E28"
+    },
+    {
+      "position_number": "8",
+      "part_number": "33 32 1 127 402",
+      "quantity": 1,
+      "description": "Trailing arm, left",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "8",
+      "part_number": "33 32 1 127 403",
+      "quantity": 1,
+      "description": "Trailing arm, right",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "8",
+      "part_number": "33 32 1 124 234",
+      "quantity": 1,
+      "description": "Trailing arm, left",
+      "price_eur": null,
+      "compatible_models": "E23, E28"
+    },
+    {
+      "position_number": "8",
+      "part_number": "33 32 1 124 235",
+      "quantity": 1,
+      "description": "Trailing arm, right",
+      "price_eur": null,
+      "compatible_models": "E23, E28"
+    },
+    {
+      "position_number": "8",
+      "part_number": "33 32 1 127 402",
+      "quantity": 1,
+      "description": "Trailing arm, left",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "8",
+      "part_number": "33 32 1 127 403",
+      "quantity": 1,
+      "description": "Trailing arm, right",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "8",
+      "part_number": "33 32 1 124 234",
+      "quantity": 1,
+      "description": "Trailing arm, left",
+      "price_eur": null,
+      "compatible_models": "E23, E28"
+    },
+    {
+      "position_number": "8",
+      "part_number": "33 32 1 124 235",
+      "quantity": 1,
+      "description": "Trailing arm, right",
+      "price_eur": null,
+      "compatible_models": "E23, E28"
+    },
+    {
+      "position_number": "9",
+      "part_number": "33 32 9 058 822",
+      "quantity": 2,
+      "description": "Set rubber mounting eccentric",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E36, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "33 32 9 061 945",
+      "quantity": 2,
+      "description": "Set rubber mounting",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E36, E9, NK, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "33 32 9 058 822",
+      "quantity": 2,
+      "description": "Set rubber mounting eccentric",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E36, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "33 32 9 061 945",
+      "quantity": 2,
+      "description": "Set rubber mounting",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E36, E9, NK, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "33 32 9 058 822",
+      "quantity": 2,
+      "description": "Set rubber mounting eccentric",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E36, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "33 32 9 061 945",
+      "quantity": 2,
+      "description": "Set rubber mounting",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E36, E9, NK, Z3"
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 914 667",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E32, E34, E9, NK"
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 914 667",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E32, E34, E9, NK"
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 914 667",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E32, E34, E9, NK"
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 12 9 900 047",
+      "quantity": 4,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, 700, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E60, E61, E63, E64, E65, E66, E67, E85, E9, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 12 9 900 047",
+      "quantity": 4,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, 700, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E60, E61, E63, E64, E65, E66, E67, E85, E9, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 12 9 900 047",
+      "quantity": 4,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, 700, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E60, E61, E63, E64, E65, E66, E67, E85, E9, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "12",
+      "part_number": "34 52 1 154 046",
+      "quantity": 2,
+      "description": "Pulse generator",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "12",
+      "part_number": "34 52 1 154 046",
+      "quantity": 2,
+      "description": "Pulse generator",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "12",
+      "part_number": "34 52 1 154 046",
+      "quantity": 2,
+      "description": "Pulse generator",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 11 9 932 099",
+      "quantity": 2,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E9, NK, V8, Z1, Z3"
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 11 9 932 099",
+      "quantity": 2,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E9, NK, V8, Z1, Z3"
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 11 9 932 099",
+      "quantity": 2,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E9, NK, V8, Z1, Z3"
+    },
+    {
+      "position_number": "14",
+      "part_number": "07 11 9 919 913",
+      "quantity": 2,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": "114, E12, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, NK, Z1"
+    },
+    {
+      "position_number": "14",
+      "part_number": "07 11 9 919 913",
+      "quantity": 2,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": "114, E12, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, NK, Z1"
+    },
+    {
+      "position_number": "14",
+      "part_number": "07 11 9 919 913",
+      "quantity": 2,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": "114, E12, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, NK, Z1"
+    },
+    {
+      "position_number": "15",
+      "part_number": "61 13 1 369 469",
+      "quantity": 4,
+      "description": "Cable holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "61 13 1 369 469",
+      "quantity": 4,
+      "description": "Cable holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "61 13 1 369 469",
+      "quantity": 4,
+      "description": "Cable holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "34 52 1 154 059",
+      "quantity": 1,
+      "description": "Cable holder",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "16",
+      "part_number": "34 52 1 154 059",
+      "quantity": 1,
+      "description": "Cable holder",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "16",
+      "part_number": "34 52 1 154 059",
+      "quantity": 1,
+      "description": "Cable holder",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "17",
+      "part_number": "34 52 1 151 627",
+      "quantity": 2,
+      "description": "Rubber Ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "17",
+      "part_number": "34 52 1 151 627",
+      "quantity": 2,
+      "description": "Rubber Ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "17",
+      "part_number": "34 52 1 151 627",
+      "quantity": 2,
+      "description": "Rubber Ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    }
+  ]
+}

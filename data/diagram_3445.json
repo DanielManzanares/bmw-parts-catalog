@@ -1,0 +1,429 @@
+{
+  "id": 3445,
+  "diagram_title": "Sticker Police, Fire-brigade, Paramedic",
+  "image_url": "http://ills.bmwfans.info/3jih.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 14 7 041 231",
+      "quantity": 1,
+      "description": "Adhesive film, hood",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 14 7 044 503",
+      "quantity": 1,
+      "description": "Adhesive film, hood left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 14 7 044 504",
+      "quantity": 1,
+      "description": "Adhesive film, hood left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 14 7 041 232",
+      "quantity": 1,
+      "description": "Adhesive film, front panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 14 7 044 515",
+      "quantity": 1,
+      "description": "Adhesive film, front panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 14 7 044 516",
+      "quantity": 1,
+      "description": "Adhesive film, front panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 14 7 044 517",
+      "quantity": 1,
+      "description": "Adhes.film f side panel, front top left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 14 7 044 518",
+      "quantity": 1,
+      "description": "Adhes.film f side panel, front top left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 14 7 041 233",
+      "quantity": 1,
+      "description": "Adhesive film, side panel, front left fr",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 14 7 041 234",
+      "quantity": 1,
+      "description": "Adhesive film, side panel, front left fr",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 14 8 251 853",
+      "quantity": 1,
+      "description": "Adhesive film, side panel, front left fr",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 14 8 251 854",
+      "quantity": 1,
+      "description": "Adhesive film, side panel, front left fr",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 14 7 041 235",
+      "quantity": 1,
+      "description": "Adhesive film, side panel, front left rea",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 14 7 041 236",
+      "quantity": 1,
+      "description": "Adhesive film, side panel, front left rea",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 14 8 251 855",
+      "quantity": 1,
+      "description": "Adhesive film, side panel, front left rea",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 14 8 251 856",
+      "quantity": 1,
+      "description": "Adhesive film, side panel, front left rea",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 14 7 044 519",
+      "quantity": 1,
+      "description": "Adhes.film f side panel, frnt bottom left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 14 7 044 520",
+      "quantity": 1,
+      "description": "Adhes.film f side panel, frnt bottom left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 14 7 044 521",
+      "quantity": 1,
+      "description": "Adhesive film, door, front top left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 14 7 044 522",
+      "quantity": 1,
+      "description": "Adhesive film, door, front top left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 14 7 041 237",
+      "quantity": 1,
+      "description": "Adhesive film, door, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 14 7 041 238",
+      "quantity": 1,
+      "description": "Adhesive film, door, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 14 8 251 869",
+      "quantity": 1,
+      "description": "Adhesive film, door, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 14 8 251 870",
+      "quantity": 1,
+      "description": "Adhesive film, door, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 14 8 251 857",
+      "quantity": 1,
+      "description": "Adhesive film, door, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 14 8 251 858",
+      "quantity": 1,
+      "description": "Adhesive film, door, front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 14 7 044 523",
+      "quantity": 1,
+      "description": "Adhesive film, door, front bottom left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 14 7 044 524",
+      "quantity": 1,
+      "description": "Adhesive film, door, front bottom left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 14 7 044 505",
+      "quantity": 1,
+      "description": "Adhesive film, door, rear top left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 14 7 044 506",
+      "quantity": 1,
+      "description": "Adhesive film, door, rear top left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 14 7 041 239",
+      "quantity": 1,
+      "description": "Adhesive film, door, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 14 7 041 240",
+      "quantity": 1,
+      "description": "Adhesive film, door, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 14 8 251 875",
+      "quantity": 1,
+      "description": "Adhesive film, door, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 14 8 251 876",
+      "quantity": 1,
+      "description": "Adhesive film, door, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 14 8 251 859",
+      "quantity": 1,
+      "description": "Adhesive film, door, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 14 8 251 860",
+      "quantity": 1,
+      "description": "Adhesive film, door, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 14 7 044 507",
+      "quantity": 1,
+      "description": "Adhesive film, door, rear bottom left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 14 7 044 508",
+      "quantity": 1,
+      "description": "Adhesive film, door, rear bottom left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 14 7 044 525",
+      "quantity": 1,
+      "description": "Adhesive film f side panel, top rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 14 7 044 526",
+      "quantity": 1,
+      "description": "Adhesive film f side panel, top rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 14 7 041 241",
+      "quantity": 1,
+      "description": "Adhesive film f side panel, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 14 7 041 242",
+      "quantity": 1,
+      "description": "Adhesive film f side panel, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 14 8 251 861",
+      "quantity": 1,
+      "description": "Adhesive film f side panel, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 14 8 251 862",
+      "quantity": 1,
+      "description": "Adhesive film f side panel, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "51 14 7 044 510",
+      "quantity": 1,
+      "description": "Adhesive film f trunk lid, top",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "51 14 7 041 245",
+      "quantity": 1,
+      "description": "Adhesive film f tail trim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "51 14 8 251 863",
+      "quantity": 1,
+      "description": "Adhesive film f tail trim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "51 14 7 044 509",
+      "quantity": 1,
+      "description": "Adhesive film f trunk lid, rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "51 14 7 041 246",
+      "quantity": 1,
+      "description": "Adhesive film f trunk lid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "51 14 8 251 864",
+      "quantity": 1,
+      "description": "Adhesive film f trunk lid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "51 14 8 251 827",
+      "quantity": 1,
+      "description": "Left protection foil",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "51 14 8 251 828",
+      "quantity": 1,
+      "description": "Left protection foil",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

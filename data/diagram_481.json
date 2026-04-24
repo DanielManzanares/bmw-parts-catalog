@@ -1,0 +1,285 @@
+{
+  "id": 481,
+  "diagram_title": "Rear axle carrier",
+  "image_url": "http://ills.bmwfans.info/2ot0.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 58,
+  "category_name": "Rear Axle",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "33 31 6 770 865",
+      "quantity": 1,
+      "description": "Rear axle carrier",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 31 6 770 865",
+      "quantity": 1,
+      "description": "Rear axle carrier",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "33 31 6 770 783",
+      "quantity": 1,
+      "description": "RUBBER MOUNTING front left",
+      "price_eur": null,
+      "compatible_models": "E46, E83, E83 Facelift"
+    },
+    {
+      "position_number": "2",
+      "part_number": "33 31 6 770 784",
+      "quantity": 1,
+      "description": "RUBBER MOUNTING front right",
+      "price_eur": null,
+      "compatible_models": "E46, E83, E83 Facelift"
+    },
+    {
+      "position_number": "2",
+      "part_number": "33 31 6 770 783",
+      "quantity": 1,
+      "description": "RUBBER MOUNTING front left",
+      "price_eur": null,
+      "compatible_models": "E46, E83, E83 Facelift"
+    },
+    {
+      "position_number": "2",
+      "part_number": "33 31 6 770 784",
+      "quantity": 1,
+      "description": "RUBBER MOUNTING front right",
+      "price_eur": null,
+      "compatible_models": "E46, E83, E83 Facelift"
+    },
+    {
+      "position_number": "3",
+      "part_number": "33 32 6 760 360",
+      "quantity": 2,
+      "description": "Threaded bolt",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86, E89"
+    },
+    {
+      "position_number": "3",
+      "part_number": "33 32 6 760 360",
+      "quantity": 2,
+      "description": "Threaded bolt",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86, E89"
+    },
+    {
+      "position_number": "4",
+      "part_number": "33 31 6 770 781",
+      "quantity": 2,
+      "description": "RUBBER MOUNTING rear",
+      "price_eur": null,
+      "compatible_models": "E46, E83, E83 Facelift, E85, E86, E89"
+    },
+    {
+      "position_number": "4",
+      "part_number": "33 31 6 770 781",
+      "quantity": 2,
+      "description": "RUBBER MOUNTING rear",
+      "price_eur": null,
+      "compatible_models": "E46, E83, E83 Facelift, E85, E86, E89"
+    },
+    {
+      "position_number": "5",
+      "part_number": "33 32 6 760 361",
+      "quantity": 2,
+      "description": "Reduced-shaft bolt",
+      "price_eur": null,
+      "compatible_models": "E36, E46, E83, E83 Facelift, E85, E86, E89"
+    },
+    {
+      "position_number": "5",
+      "part_number": "33 32 6 760 361",
+      "quantity": 2,
+      "description": "Reduced-shaft bolt",
+      "price_eur": null,
+      "compatible_models": "E36, E46, E83, E83 Facelift, E85, E86, E89"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 30 6 779 486",
+      "quantity": 2,
+      "description": "Stopper, rear",
+      "price_eur": null,
+      "compatible_models": "E46, E83, E83 Facelift, E85, E86, E89"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 30 6 779 486",
+      "quantity": 2,
+      "description": "Stopper, rear",
+      "price_eur": null,
+      "compatible_models": "E46, E83, E83 Facelift, E85, E86, E89"
+    },
+    {
+      "position_number": "7",
+      "part_number": "33 17 6 770 788",
+      "quantity": 2,
+      "description": "RUBBER MOUNTING front",
+      "price_eur": null,
+      "compatible_models": "E46, E83, E83 Facelift, E85, E86"
+    },
+    {
+      "position_number": "7",
+      "part_number": "33 17 6 770 788",
+      "quantity": 2,
+      "description": "RUBBER MOUNTING front",
+      "price_eur": null,
+      "compatible_models": "E46, E83, E83 Facelift, E85, E86"
+    },
+    {
+      "position_number": "8",
+      "part_number": "33 17 6 760 337",
+      "quantity": 2,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E36, E46, E60, E60 Facelift, E61, E61 Facelift, E83, E83 Facelift, E85, E86, E89, F80, F80 Facelift, F82, F83, F87"
+    },
+    {
+      "position_number": "8",
+      "part_number": "33 17 6 760 337",
+      "quantity": 2,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E36, E46, E60, E60 Facelift, E61, E61 Facelift, E83, E83 Facelift, E85, E86, E89, F80, F80 Facelift, F82, F83, F87"
+    },
+    {
+      "position_number": "9",
+      "part_number": "33 17 6 751 808",
+      "quantity": 1,
+      "description": "RUBBER MOUNTING rear",
+      "price_eur": null,
+      "compatible_models": "E46, E83, E83 Facelift, E85"
+    },
+    {
+      "position_number": "9",
+      "part_number": "33 17 6 751 808",
+      "quantity": 1,
+      "description": "RUBBER MOUNTING rear",
+      "price_eur": null,
+      "compatible_models": "E46, E83, E83 Facelift, E85"
+    },
+    {
+      "position_number": "10",
+      "part_number": "33 17 6 760 336",
+      "quantity": 1,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E46, E83, E83 Facelift, E85, E86, E89, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F18, F18 Facelift, G11, G12"
+    },
+    {
+      "position_number": "10",
+      "part_number": "33 17 6 760 336",
+      "quantity": 1,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E46, E83, E83 Facelift, E85, E86, E89, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F18, F18 Facelift, G11, G12"
+    },
+    {
+      "position_number": "11",
+      "part_number": "33 30 6 760 349",
+      "quantity": 1,
+      "description": "Self-locking collar nut",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F80, F80 Facelift, F82, F83, F85, F86, F87, G11, G12, I12"
+    },
+    {
+      "position_number": "11",
+      "part_number": "33 30 6 760 349",
+      "quantity": 1,
+      "description": "Self-locking collar nut",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F80, F80 Facelift, F82, F83, F85, F86, F87, G11, G12, I12"
+    },
+    {
+      "position_number": "12",
+      "part_number": "33 32 1 094 421",
+      "quantity": 1,
+      "description": "Push rod",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "12",
+      "part_number": "33 32 1 094 421",
+      "quantity": 1,
+      "description": "Push rod",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "13",
+      "part_number": "33 32 6 760 345",
+      "quantity": 4,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E46, E83, E83 Facelift"
+    },
+    {
+      "position_number": "13",
+      "part_number": "33 32 6 760 345",
+      "quantity": 4,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E46, E83, E83 Facelift"
+    },
+    {
+      "position_number": "14",
+      "part_number": "33 31 1 094 399",
+      "quantity": 1,
+      "description": "Heat resistant plate",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "14",
+      "part_number": "33 31 1 094 399",
+      "quantity": 1,
+      "description": "Heat resistant plate",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "15",
+      "part_number": "33 31 6 760 589",
+      "quantity": 2,
+      "description": "Self tapping screw",
+      "price_eur": null,
+      "compatible_models": "E46, E83, E83 Facelift"
+    },
+    {
+      "position_number": "15",
+      "part_number": "33 31 6 760 589",
+      "quantity": 2,
+      "description": "Self tapping screw",
+      "price_eur": null,
+      "compatible_models": "E46, E83, E83 Facelift"
+    },
+    {
+      "position_number": "16",
+      "part_number": "33 32 6 760 374",
+      "quantity": 2,
+      "description": "Self-locking collar nut",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E85, E86, E89, F01, F01 Facelift, F02, F02 Facelift, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18, F18 Facelift, F85, F86, G11, G12"
+    },
+    {
+      "position_number": "16",
+      "part_number": "33 32 6 760 374",
+      "quantity": 2,
+      "description": "Self-locking collar nut",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E85, E86, E89, F01, F01 Facelift, F02, F02 Facelift, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18, F18 Facelift, F85, F86, G11, G12"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": 352,
+  "diagram_title": "Steering wheel airbag",
+  "image_url": "http://ills.bmwfans.info/31r.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 137,
+  "category_name": "Steering",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "32 34 1 162 111",
+      "quantity": 1,
+      "description": "Slip ring",
+      "price_eur": null,
+      "compatible_models": "E31, E34, E36, E39, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 34 1 162 111",
+      "quantity": 1,
+      "description": "Slip ring",
+      "price_eur": null,
+      "compatible_models": "E31, E34, E36, E39, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "32 34 1 161 756",
+      "quantity": 1,
+      "description": "Hub cap, airbag",
+      "price_eur": null,
+      "compatible_models": "E24, E30, E31, E32, E34, E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "32 34 1 161 756",
+      "quantity": 1,
+      "description": "Hub cap, airbag",
+      "price_eur": null,
+      "compatible_models": "E24, E30, E31, E32, E34, E36"
+    },
+    {
+      "position_number": "4",
+      "part_number": "32 34 1 097 110",
+      "quantity": 1,
+      "description": "Torx screw",
+      "price_eur": null,
+      "compatible_models": "E31, E34, E36, E38, E39, E46, E53, E83, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "32 34 1 097 110",
+      "quantity": 1,
+      "description": "Torx screw",
+      "price_eur": null,
+      "compatible_models": "E31, E34, E36, E38, E39, E46, E53, E83, Z3"
+    }
+  ]
+}

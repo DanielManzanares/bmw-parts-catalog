@@ -1,0 +1,29 @@
+{
+  "id": 3664,
+  "diagram_title": "Main wiring harness",
+  "image_url": "http://ills.bmwfans.info/4gn.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 905 520",
+      "quantity": 1,
+      "description": "Main wiring harness",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 905 521",
+      "quantity": 1,
+      "description": "Main wiring harness",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

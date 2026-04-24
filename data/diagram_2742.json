@@ -1,0 +1,93 @@
+{
+  "id": 2742,
+  "diagram_title": "Air conditioning system mounting parts",
+  "image_url": "http://ills.bmwfans.info/ctl.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 50 1 376 016",
+      "quantity": 1,
+      "description": "Covering piece",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 51 1 356 033",
+      "quantity": 1,
+      "description": "Base plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 51 1 372 091",
+      "quantity": 2,
+      "description": "Felt strip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "64 51 1 362 134",
+      "quantity": 1,
+      "description": "Support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "64 51 1 356 039",
+      "quantity": 1,
+      "description": "Grommet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "64 51 1 352 205",
+      "quantity": 1,
+      "description": "Rubber seal",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "61 61 1 356 101",
+      "quantity": 1,
+      "description": "Locknut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 41 7 053 138",
+      "quantity": 1,
+      "description": "Locknut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "07 11 9 916 939",
+      "quantity": 4,
+      "description": "Hex head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "07 11 9 906 128",
+      "quantity": 4,
+      "description": "Hex head screw",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

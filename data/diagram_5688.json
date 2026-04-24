@@ -1,0 +1,101 @@
+{
+  "id": 5688,
+  "diagram_title": "Steering linkage/tie rods",
+  "image_url": "http://ills.bmwfans.info/o4m.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 137,
+  "category_name": "Steering",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "32 13 1 096 910",
+      "quantity": 1,
+      "description": "Repair kit bellows",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 11 1 095 897",
+      "quantity": 2,
+      "description": "Hose clamp",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "3",
+      "part_number": "32 13 6 750 081",
+      "quantity": 2,
+      "description": "Hose clamp",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "3",
+      "part_number": "32 11 1 131 345",
+      "quantity": 2,
+      "description": "Hose clamp",
+      "price_eur": null,
+      "compatible_models": "E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E61 Facelift, E63, E64, E92, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "32 10 6 777 503",
+      "quantity": 1,
+      "description": "Left tie rod",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "5",
+      "part_number": "32 10 6 777 504",
+      "quantity": 1,
+      "description": "Right tie rod",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "6",
+      "part_number": "32 10 6 774 220",
+      "quantity": 1,
+      "description": "Ball joint, left",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "7",
+      "part_number": "32 10 6 774 221",
+      "quantity": 1,
+      "description": "Ball joint, right",
+      "price_eur": null,
+      "compatible_models": "E46, E85, E86"
+    },
+    {
+      "position_number": "8",
+      "part_number": "32 11 6 774 889",
+      "quantity": 2,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "E46, E53, E70, E70 Facelift, E71, E72, E83, E83 Facelift, E85, E86, F01, F01 Facelift, F02, F02 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F18, F18 Facelift"
+    },
+    {
+      "position_number": "9",
+      "part_number": "32 21 6 774 890",
+      "quantity": 2,
+      "description": "Clamp ring",
+      "price_eur": null,
+      "compatible_models": "E46, E53, E70, E70 Facelift, E71, E72, E83, E83 Facelift, E85, E86, F01, F01 Facelift, F02, F02 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F18, F18 Facelift"
+    },
+    {
+      "position_number": "10",
+      "part_number": "32 21 6 769 539",
+      "quantity": 2,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E30, E31, E32, E34, E36, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E85, E86, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18, F18 Facelift, F85, F86, NK, Z1, Z3"
+    }
+  ]
+}

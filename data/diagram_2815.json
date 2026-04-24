@@ -1,0 +1,21 @@
+{
+  "id": 2815,
+  "diagram_title": "Lifting jack",
+  "image_url": "http://ills.bmwfans.info/dc6.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1645,
+  "category_name": "Equipment Parts",
+  "parts": [
+    {
+      "position_number": "5",
+      "part_number": "71 12 1 179 953",
+      "quantity": 1,
+      "description": "Crank",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

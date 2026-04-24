@@ -1,0 +1,21 @@
+{
+  "id": 697,
+  "diagram_title": "repair_kit_for_trailing_arm",
+  "image_url": "/static/images/diagrams/E46_318i-N42_rear_axle_repair_kit_for_trailing_arm.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 58,
+  "category_name": "Rear Axle",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "33 52 2 241 455",
+      "quantity": 1,
+      "description": "Repair kit, trailing arm rubber bushing",
+      "price_eur": null,
+      "compatible_models": "E46, E83, E83 Facelift"
+    }
+  ]
+}

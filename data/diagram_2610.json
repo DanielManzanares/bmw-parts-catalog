@@ -1,0 +1,237 @@
+{
+  "id": 2610,
+  "diagram_title": "Trailer, indiv. parts, floor assy",
+  "image_url": "http://ills.bmwfans.info/pbt.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "86 19 9 416 787",
+      "quantity": 1,
+      "description": "Base plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "86 19 9 416 789",
+      "quantity": 1,
+      "description": "Lamp guard, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "86 19 9 416 788",
+      "quantity": 1,
+      "description": "Lamp guard, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "86 19 9 416 790",
+      "quantity": 4,
+      "description": "Plastic bush",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "86 19 9 416 951",
+      "quantity": 1,
+      "description": "Csk.lenshead screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "86 19 9 416 791",
+      "quantity": 2,
+      "description": "Metal bush",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "86 19 9 416 792",
+      "quantity": 1,
+      "description": "Plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "86 19 9 416 793",
+      "quantity": 1,
+      "description": "Spacer tube",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "86 19 9 416 794",
+      "quantity": 4,
+      "description": "Wing screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "86 19 9 416 795",
+      "quantity": 10,
+      "description": "Rubber washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 11 9 931 044",
+      "quantity": 4,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E9, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "12",
+      "part_number": "86 19 9 416 796",
+      "quantity": 2,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 11 9 907 783",
+      "quantity": 8,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "86 19 0 000 757",
+      "quantity": 4,
+      "description": "Impact nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "86 19 0 000 758",
+      "quantity": 1,
+      "description": "Console socket outlet 12V",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "86 19 0 000 759",
+      "quantity": 8,
+      "description": "Lashing plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "86 19 9 416 290",
+      "quantity": 8,
+      "description": "Tie-down ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "86 19 0 000 760",
+      "quantity": 1,
+      "description": "Bow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "07 11 9 912 492",
+      "quantity": 2,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "86 19 9 416 646",
+      "quantity": 2,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "86 19 0 000 761",
+      "quantity": 2,
+      "description": "Protection cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "86 19 0 000 762",
+      "quantity": 1,
+      "description": "Countersunk screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "86 19 9 416 909",
+      "quantity": 2,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "24",
+      "part_number": "86 19 9 416 907",
+      "quantity": 2,
+      "description": "Saucer-head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "25",
+      "part_number": "07 12 9 900 580",
+      "quantity": 2,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "26",
+      "part_number": "86 19 0 000 763",
+      "quantity": 2,
+      "description": "Csk.lenshead screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "27",
+      "part_number": "86 19 9 416 949",
+      "quantity": 1,
+      "description": "Blind rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "28",
+      "part_number": "86 19 9 416 797",
+      "quantity": 1,
+      "description": "Sikaflex braun",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

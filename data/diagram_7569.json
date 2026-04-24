@@ -1,0 +1,29 @@
+{
+  "id": 7569,
+  "diagram_title": "Ind.cover f through-load.syst leather N6",
+  "image_url": "http://ills.bmwfans.info/1m6q.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 015 189",
+      "quantity": 1,
+      "description": "Cover, backrest, rear left leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 8 015 190",
+      "quantity": 1,
+      "description": "Cover, backrest, rear right leather",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

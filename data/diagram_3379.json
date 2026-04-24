@@ -1,0 +1,181 @@
+{
+  "id": 3379,
+  "diagram_title": "Outside mirror",
+  "image_url": "http://ills.bmwfans.info/12ux.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 245 125",
+      "quantity": 1,
+      "description": "Heated outside mirror, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 245 128",
+      "quantity": 1,
+      "description": "Heated outside mirror, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 890 825",
+      "quantity": 1,
+      "description": "Heated outside mirror, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 890 828",
+      "quantity": 1,
+      "description": "Heated outside mirror, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 7 890 829",
+      "quantity": 1,
+      "description": "Heated outside mirror, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 7 890 832",
+      "quantity": 1,
+      "description": "Heated outside mirror, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 245 129",
+      "quantity": 1,
+      "description": "Heated outside mirror, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 245 132",
+      "quantity": 1,
+      "description": "Heated outside mirror, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 8 238 375",
+      "quantity": 1,
+      "description": "Covering primend left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 8 238 376",
+      "quantity": 1,
+      "description": "Covering primend left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 9 071 286",
+      "quantity": 1,
+      "description": "Covering primend left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 9 071 287",
+      "quantity": 1,
+      "description": "Covering primend left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 14 7 196 375",
+      "quantity": 3,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "67 13 8 362 421",
+      "quantity": 1,
+      "description": "Actuator left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "67 13 8 362 422",
+      "quantity": 1,
+      "description": "Actuator left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "67 13 8 379 003",
+      "quantity": 1,
+      "description": "Wiring left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "67 13 8 379 004",
+      "quantity": 1,
+      "description": "Wiring left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 16 8 269 025",
+      "quantity": 1,
+      "description": "Rep.set f left exterior mirror frame",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 16 8 269 026",
+      "quantity": 1,
+      "description": "Rep.set f left exterior mirror frame",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 16 7 001 035",
+      "quantity": 1,
+      "description": "Cover cap bottem left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 16 7 001 036",
+      "quantity": 1,
+      "description": "Cover cap bottem left",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

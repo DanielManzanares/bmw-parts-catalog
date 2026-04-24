@@ -1,0 +1,125 @@
+{
+  "id": 3105,
+  "diagram_title": "Door weatherstrip rear",
+  "image_url": "http://ills.bmwfans.info/abr.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 22 8 174 765",
+      "quantity": 1,
+      "description": "Inner left window channel cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 22 8 174 766",
+      "quantity": 1,
+      "description": "Inner left window channel cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 22 1 960 847",
+      "quantity": 1,
+      "description": "Outer weatherstrip, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 22 1 960 848",
+      "quantity": 1,
+      "description": "Outer weatherstrip, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 34 1 960 915",
+      "quantity": 1,
+      "description": "Gasket left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 34 1 960 916",
+      "quantity": 1,
+      "description": "Gasket left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 32 1 960 413",
+      "quantity": 1,
+      "description": "Window guide",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 34 8 213 983",
+      "quantity": 1,
+      "description": "Left rear window guide",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 34 8 213 984",
+      "quantity": 1,
+      "description": "Left rear window guide",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 72 8 196 290",
+      "quantity": 2,
+      "description": "Edge protection rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 22 1 960 667",
+      "quantity": 1,
+      "description": "Center left seal.betw.door and column",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 22 1 960 668",
+      "quantity": 1,
+      "description": "Center left seal.betw.door and column",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 22 1 960 252",
+      "quantity": 2,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 21 1 977 747",
+      "quantity": 3,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

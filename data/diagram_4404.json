@@ -1,0 +1,93 @@
+{
+  "id": 4404,
+  "diagram_title": "Retrofit kit, LED daytime driving lights",
+  "image_url": "http://ills.bmwfans.info/cu26.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "63 30 2 212 798",
+      "quantity": 1,
+      "description": "BMW daytime running lights LED",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 30 2 212 798",
+      "quantity": 1,
+      "description": "BMW daytime running lights LED",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 30 2 348 224",
+      "quantity": 1,
+      "description": "Demobox daytime drive lights fiber optic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 30 2 348 225",
+      "quantity": 1,
+      "description": "Demobox daytime drive lights fiber optic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 30 2 348 224",
+      "quantity": 1,
+      "description": "Demobox daytime drive lights fiber optic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 30 2 348 225",
+      "quantity": 1,
+      "description": "Demobox daytime drive lights fiber optic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 30 2 212 799",
+      "quantity": 1,
+      "description": "Retrofit kit, LED daytime driving lights",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 30 2 184 000",
+      "quantity": 1,
+      "description": "Retrofit kit, LED daytime driving lights",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 30 2 212 799",
+      "quantity": 1,
+      "description": "Retrofit kit, LED daytime driving lights",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 30 2 184 000",
+      "quantity": 1,
+      "description": "Retrofit kit, LED daytime driving lights",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

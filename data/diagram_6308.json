@@ -1,0 +1,37 @@
+{
+  "id": 6308,
+  "diagram_title": "Trunk lid trim panel",
+  "image_url": "http://ills.bmwfans.info/1kbm.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 49 8 208 511",
+      "quantity": 1,
+      "description": "Trunk lid trim panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 49 8 237 075",
+      "quantity": 10,
+      "description": "Expanding rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 71 8 226 715",
+      "quantity": 1,
+      "description": "Trunk lid gasket",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

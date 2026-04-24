@@ -1,0 +1,170 @@
+[
+  {
+    "id": 5642,
+    "diagram_title": "Hydro steering-oil pipes",
+    "image_url": "http://ills.bmwfans.info/1pma.png",
+    "parts_count": 17
+  },
+  {
+    "id": 5645,
+    "diagram_title": "Manually adjust. steering column",
+    "image_url": "http://ills.bmwfans.info/20fh.png",
+    "parts_count": 12
+  },
+  {
+    "id": 5640,
+    "diagram_title": "Oil carrier / Single parts",
+    "image_url": "http://ills.bmwfans.info/jax.png",
+    "parts_count": 6
+  },
+  {
+    "id": 5633,
+    "diagram_title": "Power steering",
+    "image_url": "http://ills.bmwfans.info/2byl.png",
+    "parts_count": 5
+  },
+  {
+    "id": 5638,
+    "diagram_title": "Power steering pump",
+    "image_url": "http://ills.bmwfans.info/1c63.png",
+    "parts_count": 9
+  },
+  {
+    "id": 5655,
+    "diagram_title": "Sport st.whl.airbag-smart / decor.cover",
+    "image_url": "http://ills.bmwfans.info/1ic7.png",
+    "parts_count": 16
+  },
+  {
+    "id": 5665,
+    "diagram_title": "Sport st.whl.airbag-smart / decor.cover",
+    "image_url": "http://ills.bmwfans.info/1ic7.png",
+    "parts_count": 30
+  },
+  {
+    "id": 5658,
+    "diagram_title": "Sport st.whl.airbag-smart MF/decor.cover",
+    "image_url": "http://ills.bmwfans.info/1fp1.png",
+    "parts_count": 30
+  },
+  {
+    "id": 5663,
+    "diagram_title": "Sport st.whl.airbag-smart MF/decor.cover",
+    "image_url": "http://ills.bmwfans.info/1fp1.png",
+    "parts_count": 31
+  },
+  {
+    "id": 5648,
+    "diagram_title": "Steer.col.-lower joint assy",
+    "image_url": "http://ills.bmwfans.info/1kp2.png",
+    "parts_count": 3
+  },
+  {
+    "id": 5650,
+    "diagram_title": "Steering column-adjustable/single parts",
+    "image_url": "http://ills.bmwfans.info/gwv.png",
+    "parts_count": 19
+  },
+  {
+    "id": 5635,
+    "diagram_title": "Steering linkage/tie rods",
+    "image_url": "http://ills.bmwfans.info/o4m.png",
+    "parts_count": 11
+  },
+  {
+    "id": 5652,
+    "diagram_title": "Steering lock/ignition switch",
+    "image_url": "http://ills.bmwfans.info/a2m0.png",
+    "parts_count": 8
+  },
+  {
+    "id": 1026,
+    "diagram_title": "hydro_steering_oil_pipes",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_hydro_steering_oil_pipes.png",
+    "parts_count": 17
+  },
+  {
+    "id": 1032,
+    "diagram_title": "m_sports_strng_whl_airb_smart_multifunc",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_m_sports_strng_whl_airb_smart_multifunc.png",
+    "parts_count": 8
+  },
+  {
+    "id": 1029,
+    "diagram_title": "m_sports_strng_whl_leather_airbag_smart",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_m_sports_strng_whl_leather_airbag_smart.png",
+    "parts_count": 8
+  },
+  {
+    "id": 1024,
+    "diagram_title": "manually_adjust_steering_column",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_manually_adjust_steering_column.png",
+    "parts_count": 13
+  },
+  {
+    "id": 1027,
+    "diagram_title": "oil_carrier_single_parts",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_oil_carrier_single_parts.png",
+    "parts_count": 6
+  },
+  {
+    "id": 1019,
+    "diagram_title": "power_steering",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_power_steering.png",
+    "parts_count": 5
+  },
+  {
+    "id": 1023,
+    "diagram_title": "power_steering_pump",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_power_steering_pump.png",
+    "parts_count": 9
+  },
+  {
+    "id": 1028,
+    "diagram_title": "sport_st_whl_airbag_smart_decor_cover",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_sport_st_whl_airbag_smart_decor_cover.png",
+    "parts_count": 15
+  },
+  {
+    "id": 1034,
+    "diagram_title": "sport_st_whl_airbag_smart_decor_cover_2",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_sport_st_whl_airbag_smart_decor_cover_2.png",
+    "parts_count": 22
+  },
+  {
+    "id": 1036,
+    "diagram_title": "sport_st_whl_airbag_smart_mf_decor_cover",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_sport_st_whl_airbag_smart_mf_decor_cover.png",
+    "parts_count": 25
+  },
+  {
+    "id": 1030,
+    "diagram_title": "sport_st_whl_airbag_smart_mf_decor_cover_2",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_sport_st_whl_airbag_smart_mf_decor_cover_2.png",
+    "parts_count": 25
+  },
+  {
+    "id": 1021,
+    "diagram_title": "steer_col_lower_joint_assy",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_steer_col_lower_joint_assy.png",
+    "parts_count": 3
+  },
+  {
+    "id": 1025,
+    "diagram_title": "steering_column_adjustable_single_parts",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_steering_column_adjustable_single_parts.png",
+    "parts_count": 19
+  },
+  {
+    "id": 1020,
+    "diagram_title": "steering_linkage_tie_rods",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_steering_linkage_tie_rods.png",
+    "parts_count": 11
+  },
+  {
+    "id": 1022,
+    "diagram_title": "steering_lock_ignition_switch",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_steering_lock_ignition_switch.png",
+    "parts_count": 8
+  }
+]

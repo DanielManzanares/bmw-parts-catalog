@@ -1,0 +1,413 @@
+{
+  "id": 6936,
+  "diagram_title": "Rear light",
+  "image_url": "http://ills.bmwfans.info/109x.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 184,
+  "category_name": "Lighting",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "63 21 8 364 921",
+      "quantity": 1,
+      "description": "Rear light in the side panel, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 21 8 364 922",
+      "quantity": 1,
+      "description": "Rear light in the side panel, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 21 6 946 533",
+      "quantity": 1,
+      "description": "Rear light in the side panel, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 21 6 946 534",
+      "quantity": 1,
+      "description": "Rear light in the side panel, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 21 8 383 821",
+      "quantity": 1,
+      "description": "Rear light in the side panel, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 21 6 946 535",
+      "quantity": 1,
+      "description": "Rear light in the side panel, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 21 8 383 822",
+      "quantity": 1,
+      "description": "Rear light in the side panel, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 21 6 946 536",
+      "quantity": 1,
+      "description": "Rear light in the side panel, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 21 8 374 800",
+      "quantity": 1,
+      "description": "Tail light gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 21 7 165 955",
+      "quantity": 1,
+      "description": "Bulb socket, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 21 7 165 956",
+      "quantity": 1,
+      "description": "Bulb socket, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 21 7 165 865",
+      "quantity": 1,
+      "description": "Bulb socket, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 21 7 165 866",
+      "quantity": 1,
+      "description": "Bulb socket, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 21 7 165 953",
+      "quantity": 1,
+      "description": "Bulb socket, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 21 7 165 954",
+      "quantity": 1,
+      "description": "Bulb socket, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 21 7 165 867",
+      "quantity": 1,
+      "description": "Bulb socket, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 21 7 165 868",
+      "quantity": 1,
+      "description": "Bulb socket, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "63 21 7 160 792",
+      "quantity": 1,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "63 21 7 160 789",
+      "quantity": 1,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "63 21 6 926 920",
+      "quantity": 1,
+      "description": "Longlife bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "63 21 7 160 790",
+      "quantity": 1,
+      "description": "04",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 21 7 160 789",
+      "quantity": 1,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 21 6 926 920",
+      "quantity": 1,
+      "description": "Longlife bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 21 7 160 790",
+      "quantity": 1,
+      "description": "04",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 21 7 160 791",
+      "quantity": 1,
+      "description": "Bulb yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "63 21 8 364 923",
+      "quantity": 1,
+      "description": "Rear light in trunk lid, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "63 21 8 364 924",
+      "quantity": 1,
+      "description": "Rear light in trunk lid, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "63 21 6 907 945",
+      "quantity": 1,
+      "description": "Rear light in trunk lid, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "63 21 6 907 946",
+      "quantity": 1,
+      "description": "Rear light in trunk lid, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "63 21 6 910 537",
+      "quantity": 1,
+      "description": "Rear light in trunk lid, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "63 21 6 910 538",
+      "quantity": 1,
+      "description": "Rear light in trunk lid, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "63 21 8 374 801",
+      "quantity": 2,
+      "description": "Seal, rear light, luggage-compartment lid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 21 7 165 843",
+      "quantity": 1,
+      "description": "Bulb socket, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 21 7 165 844",
+      "quantity": 1,
+      "description": "Bulb socket, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 21 7 165 743",
+      "quantity": 1,
+      "description": "Bulb socket, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 21 7 165 744",
+      "quantity": 1,
+      "description": "Bulb socket, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 21 8 374 807",
+      "quantity": 1,
+      "description": "Bulb socket, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 21 8 374 808",
+      "quantity": 1,
+      "description": "Bulb socket, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "63 21 7 160 789",
+      "quantity": 1,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "63 21 6 926 920",
+      "quantity": 1,
+      "description": "Longlife bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "63 21 7 160 790",
+      "quantity": 1,
+      "description": "04",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "63 21 7 160 789",
+      "quantity": 1,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "63 21 6 926 920",
+      "quantity": 1,
+      "description": "Longlife bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "63 21 7 160 790",
+      "quantity": 1,
+      "description": "04",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 14 9 156 628",
+      "quantity": 10,
+      "description": "Hex nut with plate",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E85, E86, F06, F10, F10 Facelift, F11, F12, F13, F25, F26, Z1, Z3"
+    },
+    {
+      "position_number": "13",
+      "part_number": "63 21 7 160 912",
+      "quantity": 1,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 71 8 102 827",
+      "quantity": 2,
+      "description": "Protective adhesive film",
+      "price_eur": null,
+      "compatible_models": "E23, E46, E81, E82, E87, E87 Facelift, E88, E89"
+    },
+    {
+      "position_number": "15",
+      "part_number": "61 13 8 369 702",
+      "quantity": 1,
+      "description": "Socket housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "12 52 7 519 956",
+      "quantity": 1,
+      "description": "Socket housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "61 13 6 984 742",
+      "quantity": 1,
+      "description": "Universal MPQ socket housing uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

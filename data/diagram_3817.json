@@ -1,0 +1,85 @@
+{
+  "id": 3817,
+  "diagram_title": "Switch unit, light",
+  "image_url": "http://ills.bmwfans.info/216t.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 31 9 133 011",
+      "quantity": 1,
+      "description": "Switch unit, light",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 31 8 378 573",
+      "quantity": 1,
+      "description": "Control, switch unit for lights",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 31 9 133 015",
+      "quantity": 1,
+      "description": "Switch unit, light / foglamps",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 31 8 378 572",
+      "quantity": 1,
+      "description": "Contr.pan.sw.unit light/front fog lamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 31 9 133 019",
+      "quantity": 1,
+      "description": "Switch unit, light / foglamps",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 31 9 133 028",
+      "quantity": 1,
+      "description": "Switch unit, light / foglamps",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 31 8 378 574",
+      "quantity": 1,
+      "description": "Contr.pan.sw.unit light/front fog lamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "61 13 8 364 872",
+      "quantity": 1,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "61 13 8 369 664",
+      "quantity": 1,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

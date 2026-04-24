@@ -1,0 +1,189 @@
+{
+  "id": 1469,
+  "diagram_title": "Rear panel/net storage partition",
+  "image_url": "http://ills.bmwfans.info/b4o.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 931 779",
+      "quantity": 2,
+      "description": "Rear panel seat vinyl",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 931 780",
+      "quantity": 2,
+      "description": "Rear panel seat vinyl",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 931 782",
+      "quantity": 2,
+      "description": "Rear panel seat vinyl",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 931 779",
+      "quantity": 1,
+      "description": "Rear panel seat vinyl",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 931 780",
+      "quantity": 1,
+      "description": "Rear panel seat vinyl",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 931 782",
+      "quantity": 1,
+      "description": "Rear panel seat vinyl",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 1 931 792",
+      "quantity": 2,
+      "description": "Storing partition net",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 1 931 793",
+      "quantity": 2,
+      "description": "Storing partition net",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 1 931 795",
+      "quantity": 2,
+      "description": "Storing partition net",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 1 931 792",
+      "quantity": 2,
+      "description": "Storing partition net",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 1 931 793",
+      "quantity": 2,
+      "description": "Storing partition net",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 1 931 795",
+      "quantity": 2,
+      "description": "Storing partition net",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 902 497",
+      "quantity": 8,
+      "description": "Recessed oval head sheet-metal screw",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E38"
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 902 497",
+      "quantity": 8,
+      "description": "Recessed oval head sheet-metal screw",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E38"
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 45 1 804 974",
+      "quantity": 8,
+      "description": "Hollow washer",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30"
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 45 1 804 974",
+      "quantity": 8,
+      "description": "Hollow washer",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30"
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 21 1 350 101",
+      "quantity": 8,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 14 9 158 226",
+      "quantity": 8,
+      "description": "Axial securing clip",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E82, E84, E85, E86, E9, E90, E90 Facelift, E91, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F07 Facelift, F15, F16, F18 Facelift, F25, F26, F85, F86, G11, G12, NK, Z1, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 21 1 350 101",
+      "quantity": 8,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 14 9 158 226",
+      "quantity": 8,
+      "description": "Axial securing clip",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E82, E84, E85, E86, E9, E90, E90 Facelift, E91, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F07 Facelift, F15, F16, F18 Facelift, F25, F26, F85, F86, G11, G12, NK, Z1, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 928 100",
+      "quantity": 8,
+      "description": "Countersunk head screw",
+      "price_eur": null,
+      "compatible_models": "E28, E34"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 928 100",
+      "quantity": 8,
+      "description": "Countersunk head screw",
+      "price_eur": null,
+      "compatible_models": "E28, E34"
+    }
+  ]
+}

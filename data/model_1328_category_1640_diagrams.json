@@ -1,0 +1,182 @@
+[
+  {
+    "id": 2534,
+    "diagram_title": "Battery",
+    "image_url": "http://ills.bmwfans.info/byz.png",
+    "parts_count": 24
+  },
+  {
+    "id": 2551,
+    "diagram_title": "Cab",
+    "image_url": "http://ills.bmwfans.info/c0j.png",
+    "parts_count": 16
+  },
+  {
+    "id": 2470,
+    "diagram_title": "Cable",
+    "image_url": "http://ills.bmwfans.info/bvt.png",
+    "parts_count": 30
+  },
+  {
+    "id": 2507,
+    "diagram_title": "Cable clamps/cable holder",
+    "image_url": "http://ills.bmwfans.info/bx2.png",
+    "parts_count": 12
+  },
+  {
+    "id": 2509,
+    "diagram_title": "Cable clamps/cable ties",
+    "image_url": "http://ills.bmwfans.info/bxc.png",
+    "parts_count": 10
+  },
+  {
+    "id": 2487,
+    "diagram_title": "Cable-yarded material",
+    "image_url": "http://ills.bmwfans.info/bvt.png",
+    "parts_count": 25
+  },
+  {
+    "id": 2521,
+    "diagram_title": "Door lock heating",
+    "image_url": "http://ills.bmwfans.info/byc.png",
+    "parts_count": 3
+  },
+  {
+    "id": 2517,
+    "diagram_title": "Fuse box",
+    "image_url": "http://ills.bmwfans.info/byb.png",
+    "parts_count": 11
+  },
+  {
+    "id": 2577,
+    "diagram_title": "Headlight cleaning system",
+    "image_url": "http://ills.bmwfans.info/c2n.png",
+    "parts_count": 11
+  },
+  {
+    "id": 2582,
+    "diagram_title": "Headlight cleaning system",
+    "image_url": "http://ills.bmwfans.info/c2m.png",
+    "parts_count": 26
+  },
+  {
+    "id": 2555,
+    "diagram_title": "Horn",
+    "image_url": "http://ills.bmwfans.info/c10.png",
+    "parts_count": 13
+  },
+  {
+    "id": 2461,
+    "diagram_title": "Main wiring harness",
+    "image_url": "http://ills.bmwfans.info/cd2.png",
+    "parts_count": 6
+  },
+  {
+    "id": 2494,
+    "diagram_title": "Plug housing",
+    "image_url": "http://ills.bmwfans.info/bx1.png",
+    "parts_count": 15
+  },
+  {
+    "id": 2525,
+    "diagram_title": "Relay",
+    "image_url": "http://ills.bmwfans.info/byk.png",
+    "parts_count": 10
+  },
+  {
+    "id": 2529,
+    "diagram_title": "Relay",
+    "image_url": "http://ills.bmwfans.info/by5.png",
+    "parts_count": 9
+  },
+  {
+    "id": 2563,
+    "diagram_title": "Retrofit kit, headlight cleaning system",
+    "image_url": "http://ills.bmwfans.info/c2p.png",
+    "parts_count": 1
+  },
+  {
+    "id": 2571,
+    "diagram_title": "Single parts for windshield cleaning",
+    "image_url": "http://ills.bmwfans.info/c21.png",
+    "parts_count": 15
+  },
+  {
+    "id": 2567,
+    "diagram_title": "Single wiper parts",
+    "image_url": "http://ills.bmwfans.info/c1r.png",
+    "parts_count": 29
+  },
+  {
+    "id": 2542,
+    "diagram_title": "Steering column switch",
+    "image_url": "http://ills.bmwfans.info/bzq.png",
+    "parts_count": 12
+  },
+  {
+    "id": 2486,
+    "diagram_title": "Various additional wiring sets",
+    "image_url": "http://ills.bmwfans.info/bwe.png",
+    "parts_count": 4
+  },
+  {
+    "id": 2513,
+    "diagram_title": "Various cable terminals",
+    "image_url": "http://ills.bmwfans.info/2sjx.png",
+    "parts_count": 4
+  },
+  {
+    "id": 2539,
+    "diagram_title": "Various switches",
+    "image_url": "http://ills.bmwfans.info/c07.png",
+    "parts_count": 21
+  },
+  {
+    "id": 2547,
+    "diagram_title": "Various switches",
+    "image_url": "http://ills.bmwfans.info/bzs.png",
+    "parts_count": 7
+  },
+  {
+    "id": 2559,
+    "diagram_title": "Wiper arm/wiper blade",
+    "image_url": "http://ills.bmwfans.info/c1f.png",
+    "parts_count": 9
+  },
+  {
+    "id": 2482,
+    "diagram_title": "Wiring abs",
+    "image_url": "http://ills.bmwfans.info/bvb.png",
+    "parts_count": 4
+  },
+  {
+    "id": 2498,
+    "diagram_title": "Wiring connections",
+    "image_url": "http://ills.bmwfans.info/bw9.png",
+    "parts_count": 21
+  },
+  {
+    "id": 2501,
+    "diagram_title": "Wiring connections",
+    "image_url": "http://ills.bmwfans.info/bw8.png",
+    "parts_count": 28
+  },
+  {
+    "id": 2465,
+    "diagram_title": "Wiring harness levelling device",
+    "image_url": "http://ills.bmwfans.info/byx.png",
+    "parts_count": 9
+  },
+  {
+    "id": 2474,
+    "diagram_title": "Wiring sets",
+    "image_url": "http://ills.bmwfans.info/bw2.png",
+    "parts_count": 10
+  },
+  {
+    "id": 2478,
+    "diagram_title": "Wiring sets",
+    "image_url": "http://ills.bmwfans.info/bwg.png",
+    "parts_count": 8
+  }
+]

@@ -1,0 +1,125 @@
+{
+  "id": 1415,
+  "diagram_title": "Expansion tank",
+  "image_url": "http://ills.bmwfans.info/3lt.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 68,
+  "category_name": "Brakes",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "34 32 1 151 729",
+      "quantity": 1,
+      "description": "Expansion tank",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 32 1 154 907",
+      "quantity": 1,
+      "description": "Expansion tank",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 32 1 151 729",
+      "quantity": 1,
+      "description": "Expansion tank",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 32 1 154 907",
+      "quantity": 1,
+      "description": "Expansion tank",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 32 1 120 843",
+      "quantity": 1,
+      "description": "Strainer tube",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E9, NK, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 32 1 120 843",
+      "quantity": 1,
+      "description": "Strainer tube",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E9, NK, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "34 32 1 102 798",
+      "quantity": 1,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E46, E81, E82, E84, E85, E86, E87, E87 Facelift, E88, E89, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F30, F30 Facelift, F35, F35 Facelift, NK, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "34 32 1 154 225",
+      "quantity": 1,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "34 32 1 102 798",
+      "quantity": 1,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E46, E81, E82, E84, E85, E86, E87, E87 Facelift, E88, E89, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F30, F30 Facelift, F35, F35 Facelift, NK, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "34 32 1 154 225",
+      "quantity": 1,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "34 32 1 120 841",
+      "quantity": 1,
+      "description": "Cap with warning switch",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E24, E28, E30"
+    },
+    {
+      "position_number": "4",
+      "part_number": "34 32 1 154 985",
+      "quantity": 1,
+      "description": "Cap with warning switch",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "34 32 1 120 841",
+      "quantity": 1,
+      "description": "Cap with warning switch",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E24, E28, E30"
+    },
+    {
+      "position_number": "4",
+      "part_number": "34 32 1 154 985",
+      "quantity": 1,
+      "description": "Cap with warning switch",
+      "price_eur": null,
+      "compatible_models": "E28"
+    }
+  ]
+}

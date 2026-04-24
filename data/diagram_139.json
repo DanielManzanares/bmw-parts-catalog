@@ -1,0 +1,237 @@
+{
+  "id": 139,
+  "diagram_title": "Steering linkage/tie rods",
+  "image_url": "http://ills.bmwfans.info/300.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 137,
+  "category_name": "Steering",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "32 21 1 139 786",
+      "quantity": 2,
+      "description": "Rubber boot",
+      "price_eur": null,
+      "compatible_models": "E34, E36, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 21 1 139 786",
+      "quantity": 2,
+      "description": "Rubber boot",
+      "price_eur": null,
+      "compatible_models": "E34, E36, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 11 1 137 132",
+      "quantity": 2,
+      "description": "Tension strap",
+      "price_eur": null,
+      "compatible_models": "E21, E26, E30, E34, E36, E39, E46, E52, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 11 1 137 132",
+      "quantity": 2,
+      "description": "Tension strap",
+      "price_eur": null,
+      "compatible_models": "E21, E26, E30, E34, E36, E39, E46, E52, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "32 13 1 094 100",
+      "quantity": 2,
+      "description": "Tension strap",
+      "price_eur": null,
+      "compatible_models": "E21, E26, E30, E34, E36, E39, E52, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "32 13 1 094 100",
+      "quantity": 2,
+      "description": "Tension strap",
+      "price_eur": null,
+      "compatible_models": "E21, E26, E30, E34, E36, E39, E52, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "32 11 1 136 526",
+      "quantity": 2,
+      "description": "Securing plate",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "4",
+      "part_number": "32 11 1 140 464",
+      "quantity": 2,
+      "description": "Securing plate",
+      "price_eur": null,
+      "compatible_models": "E36, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "32 11 1 140 464",
+      "quantity": 2,
+      "description": "Securing plate",
+      "price_eur": null,
+      "compatible_models": "E36, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "32 11 1 136 526",
+      "quantity": 2,
+      "description": "Securing plate",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "4",
+      "part_number": "32 11 1 140 464",
+      "quantity": 1,
+      "description": "Securing plate",
+      "price_eur": null,
+      "compatible_models": "E36, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "32 11 1 140 464",
+      "quantity": 1,
+      "description": "Securing plate",
+      "price_eur": null,
+      "compatible_models": "E36, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "32 11 1 139 315",
+      "quantity": 1,
+      "description": "Left tie rod",
+      "price_eur": null,
+      "compatible_models": "E36, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "32 11 1 139 315",
+      "quantity": 1,
+      "description": "Left tie rod",
+      "price_eur": null,
+      "compatible_models": "E36, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "32 11 1 139 316",
+      "quantity": 1,
+      "description": "Right tie rod",
+      "price_eur": null,
+      "compatible_models": "E36, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "32 11 1 139 316",
+      "quantity": 1,
+      "description": "Right tie rod",
+      "price_eur": null,
+      "compatible_models": "E36, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "32 11 1 139 313",
+      "quantity": 1,
+      "description": "Ball joint, left",
+      "price_eur": null,
+      "compatible_models": "E36, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "32 11 1 139 313",
+      "quantity": 1,
+      "description": "Ball joint, left",
+      "price_eur": null,
+      "compatible_models": "E36, Z3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "32 11 1 139 314",
+      "quantity": 1,
+      "description": "Ball joint, right",
+      "price_eur": null,
+      "compatible_models": "E36, Z3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "32 11 1 139 314",
+      "quantity": 1,
+      "description": "Ball joint, right",
+      "price_eur": null,
+      "compatible_models": "E36, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "32 11 1 136 494",
+      "quantity": 2,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "E34, E36, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "32 11 1 136 494",
+      "quantity": 2,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "E34, E36, Z3"
+    },
+    {
+      "position_number": "10",
+      "part_number": "32 11 1 136 179",
+      "quantity": 2,
+      "description": "Clamp ring",
+      "price_eur": null,
+      "compatible_models": "E34, E36, Z3"
+    },
+    {
+      "position_number": "10",
+      "part_number": "32 11 1 136 179",
+      "quantity": 2,
+      "description": "Clamp ring",
+      "price_eur": null,
+      "compatible_models": "E34, E36, Z3"
+    },
+    {
+      "position_number": "12",
+      "part_number": "32 21 6 756 327",
+      "quantity": 2,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "E36, Z3"
+    },
+    {
+      "position_number": "12",
+      "part_number": "32 21 6 756 327",
+      "quantity": 2,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "E36, Z3"
+    },
+    {
+      "position_number": "13",
+      "part_number": "32 11 1 140 479",
+      "quantity": 1,
+      "description": "Retrofit kit, steering angle stop",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "13",
+      "part_number": "32 11 1 140 479",
+      "quantity": 1,
+      "description": "Retrofit kit, steering angle stop",
+      "price_eur": null,
+      "compatible_models": "E36"
+    }
+  ]
+}

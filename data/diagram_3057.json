@@ -1,0 +1,189 @@
+{
+  "id": 3057,
+  "diagram_title": "Body-side frame",
+  "image_url": "http://ills.bmwfans.info/1xb0.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "41 00 8 224 775",
+      "quantity": 1,
+      "description": "Body-side frame left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "41 00 8 224 776",
+      "quantity": 1,
+      "description": "Body-side frame left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "41 21 8 130 101",
+      "quantity": 1,
+      "description": "Left exterior column a",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "41 21 8 130 102",
+      "quantity": 1,
+      "description": "Left exterior column a",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "41 00 8 132 497",
+      "quantity": 1,
+      "description": "Roof frame left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "41 00 8 132 498",
+      "quantity": 1,
+      "description": "Roof frame left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "41 00 8 132 917",
+      "quantity": 1,
+      "description": "Left exterior column c",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "41 00 8 132 918",
+      "quantity": 1,
+      "description": "Left exterior column c",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "41 21 8 224 769",
+      "quantity": 1,
+      "description": "Column b with left rocker panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "41 21 8 224 770",
+      "quantity": 1,
+      "description": "Column b with left rocker panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "41 21 8 119 255",
+      "quantity": 1,
+      "description": "Connect.plate f.left side panel frame",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "41 21 8 119 256",
+      "quantity": 1,
+      "description": "Connect.plate f.left side panel frame",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "41 21 8 119 799",
+      "quantity": 1,
+      "description": "Connection angle for left cowl panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "41 21 8 119 800",
+      "quantity": 1,
+      "description": "Connection angle for left cowl panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "41 21 8 119 259",
+      "quantity": 1,
+      "description": "Support left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "41 21 8 119 260",
+      "quantity": 1,
+      "description": "Support left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "41 11 8 132 991",
+      "quantity": 4,
+      "description": "Rear left side member",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "41 11 8 132 992",
+      "quantity": 1,
+      "description": "Rear left side member",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 71 8 151 431",
+      "quantity": 4,
+      "description": "Lock",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 71 8 151 432",
+      "quantity": 4,
+      "description": "Lock",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "41 12 8 119 251",
+      "quantity": 1,
+      "description": "Left side member",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "41 12 8 119 252",
+      "quantity": 1,
+      "description": "Left side member",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

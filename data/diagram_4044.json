@@ -1,0 +1,29 @@
+{
+  "id": 4044,
+  "diagram_title": "Label \"tire pressure\"",
+  "image_url": "http://ills.bmwfans.info/atwn.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1645,
+  "category_name": "Equipment Parts",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "71 21 1 095 983",
+      "quantity": 1,
+      "description": "Label \"tire pressure\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 24 1 096 744",
+      "quantity": 1,
+      "description": "Label \"tire pressure\"",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

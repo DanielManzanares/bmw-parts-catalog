@@ -1,0 +1,173 @@
+{
+  "id": 4635,
+  "diagram_title": "Retrofit, int.mouldings, matt chrome",
+  "image_url": "http://ills.bmwfans.info/228d.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 0 002 763",
+      "quantity": 1,
+      "description": "Set of moldings interior, matt chrome",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 0 002 763",
+      "quantity": 1,
+      "description": "Set of moldings interior, matt chrome",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 8 259 963",
+      "quantity": 1,
+      "description": "Armrest, matt chrome, front, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 8 259 964",
+      "quantity": 1,
+      "description": "Armrest, matt chrome, front, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 8 259 979",
+      "quantity": 1,
+      "description": "Armrest, matt chrome, front, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 8 259 980",
+      "quantity": 1,
+      "description": "Armrest, matt chrome, front, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 8 259 963",
+      "quantity": 1,
+      "description": "Armrest, matt chrome, front, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 8 259 964",
+      "quantity": 1,
+      "description": "Armrest, matt chrome, front, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 8 259 979",
+      "quantity": 1,
+      "description": "Armrest, matt chrome, front, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 8 259 980",
+      "quantity": 1,
+      "description": "Armrest, matt chrome, front, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 43 8 257 961",
+      "quantity": 1,
+      "description": "Armrest, matt chrome, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 43 8 257 962",
+      "quantity": 1,
+      "description": "Armrest, matt chrome, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 43 8 257 965",
+      "quantity": 1,
+      "description": "Armrest, matt chrome, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 43 8 257 966",
+      "quantity": 1,
+      "description": "Armrest, matt chrome, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 43 8 257 961",
+      "quantity": 1,
+      "description": "Armrest, matt chrome, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 43 8 257 962",
+      "quantity": 1,
+      "description": "Armrest, matt chrome, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 43 8 257 965",
+      "quantity": 1,
+      "description": "Armrest, matt chrome, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 43 8 257 966",
+      "quantity": 1,
+      "description": "Armrest, matt chrome, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 41 8 236 125",
+      "quantity": 1,
+      "description": "Cover, matt chrome",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 41 8 236 125",
+      "quantity": 1,
+      "description": "Cover, matt chrome",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

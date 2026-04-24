@@ -1,0 +1,429 @@
+{
+  "id": 173,
+  "diagram_title": "Seat, rear, uphlstry/cover, load-through",
+  "image_url": "http://ills.bmwfans.info/1bbs.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 130 116",
+      "quantity": 1,
+      "description": "Rear seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 130 116",
+      "quantity": 1,
+      "description": "Rear seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 8 130 149",
+      "quantity": 1,
+      "description": "Backrest rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 8 130 150",
+      "quantity": 1,
+      "description": "Backrest rear right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 8 130 149",
+      "quantity": 1,
+      "description": "Backrest rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 8 130 150",
+      "quantity": 1,
+      "description": "Backrest rear right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 067 880",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 067 883",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 633",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 634",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 067 687",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 067 694",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 461",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 466",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 067 880",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 067 883",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 633",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 634",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 067 687",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 067 694",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 461",
+      "quantity": 1,
+      "description": "Lateral trim panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 9 063 466",
+      "quantity": 1,
+      "description": "Lateral trim panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 8 153 249",
+      "quantity": 2,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 20 8 153 249",
+      "quantity": 2,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 8 153 009",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 20 8 153 009",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 8 144 415",
+      "quantity": 2,
+      "description": "Bushing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 20 8 144 415",
+      "quantity": 2,
+      "description": "Bushing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 144 413",
+      "quantity": 2,
+      "description": "Bushing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 20 8 144 413",
+      "quantity": 2,
+      "description": "Bushing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 20 8 144 414",
+      "quantity": 2,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 20 8 144 414",
+      "quantity": 2,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "52 10 1 945 543",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "52 10 1 945 543",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "52 20 8 144 412",
+      "quantity": 2,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "52 20 8 144 412",
+      "quantity": 2,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "52 20 8 130 143",
+      "quantity": 1,
+      "description": "Trim backrest, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "52 20 8 130 144",
+      "quantity": 1,
+      "description": "Trim backrest, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "52 20 8 130 143",
+      "quantity": 1,
+      "description": "Trim backrest, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "52 20 8 130 144",
+      "quantity": 1,
+      "description": "Trim backrest, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "52 20 8 132 174",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "52 20 8 132 176",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "52 20 8 132 174",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "52 20 8 132 176",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "52 20 8 235 661",
+      "quantity": 2,
+      "description": "Bracket lateral part",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "52 20 8 235 661",
+      "quantity": 2,
+      "description": "Bracket lateral part",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "52 20 8 119 533",
+      "quantity": 2,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "52 20 8 119 533",
+      "quantity": 2,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "52 20 8 119 534",
+      "quantity": 2,
+      "description": "Spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "52 20 8 119 534",
+      "quantity": 2,
+      "description": "Spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 71 8 203 281",
+      "quantity": 4,
+      "description": "Rubber buffer",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 71 8 203 281",
+      "quantity": 4,
+      "description": "Rubber buffer",
+      "price_eur": null,
+      "compatible_models": "E36"
+    }
+  ]
+}

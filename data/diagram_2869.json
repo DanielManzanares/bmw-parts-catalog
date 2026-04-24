@@ -1,0 +1,213 @@
+{
+  "id": 2869,
+  "diagram_title": "Alternator parts 65a",
+  "image_url": "http://ills.bmwfans.info/1f2.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "--",
+      "part_number": "12 31 1 721 912",
+      "quantity": 1,
+      "description": "Generator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 31 1 727 738",
+      "quantity": 1,
+      "description": "Housing assy front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "12 31 1 722 979",
+      "quantity": 1,
+      "description": "Grooved ball bearing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "12 31 1 727 740",
+      "quantity": 1,
+      "description": "Supporting plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "12 31 1 727 741",
+      "quantity": 1,
+      "description": "Rotor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "12 31 1 739 203",
+      "quantity": 1,
+      "description": "Grooved ball bearing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "12 31 1 727 746",
+      "quantity": 1,
+      "description": "Housing assy rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "12 31 1 727 748",
+      "quantity": 1,
+      "description": "Diode assy",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "12 31 1 727 751",
+      "quantity": 1,
+      "description": "Ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "12 31 1 747 251",
+      "quantity": 2,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "12 31 1 726 022",
+      "quantity": 1,
+      "description": "Voltage regulator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "12 31 1 727 756",
+      "quantity": 1,
+      "description": "Carbon brush set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "12 31 1 727 757",
+      "quantity": 1,
+      "description": "Stator assy",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "12 31 1 727 760",
+      "quantity": 4,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "12 31 1 727 761",
+      "quantity": 1,
+      "description": "Bush",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "12 31 1 727 753",
+      "quantity": 6,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "12 31 1 356 564",
+      "quantity": 1,
+      "description": "Suppression capacitor alternator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "07 11 9 919 412",
+      "quantity": 1,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "12 31 1 727 762",
+      "quantity": 1,
+      "description": "Repair kit rotor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "12 31 1 350 199",
+      "quantity": 1,
+      "description": "Fan wheel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "12 31 1 721 776",
+      "quantity": 1,
+      "description": "Pulley",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "12 31 1 727 763",
+      "quantity": 1,
+      "description": "Parts set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "07 11 9 901 307",
+      "quantity": 1,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "07 11 9 932 162",
+      "quantity": 1,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "24",
+      "part_number": "12 31 1 727 383",
+      "quantity": 1,
+      "description": "Insulating cover",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

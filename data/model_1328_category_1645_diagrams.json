@@ -1,0 +1,68 @@
+[
+  {
+    "id": 2821,
+    "diagram_title": "Bulb/fuse",
+    "image_url": "http://ills.bmwfans.info/dc4.png",
+    "parts_count": 25
+  },
+  {
+    "id": 2813,
+    "diagram_title": "Car tool/Lifting jack",
+    "image_url": "http://ills.bmwfans.info/dcc.png",
+    "parts_count": 7
+  },
+  {
+    "id": 2806,
+    "diagram_title": "Label",
+    "image_url": "http://ills.bmwfans.info/arc.png",
+    "parts_count": 15
+  },
+  {
+    "id": 2810,
+    "diagram_title": "Label outer paint metallic",
+    "image_url": "http://ills.bmwfans.info/arb.png",
+    "parts_count": 39
+  },
+  {
+    "id": 2808,
+    "diagram_title": "Label outer paint plain colour",
+    "image_url": "http://ills.bmwfans.info/ara.png",
+    "parts_count": 37
+  },
+  {
+    "id": 2815,
+    "diagram_title": "Lifting jack",
+    "image_url": "http://ills.bmwfans.info/dc6.png",
+    "parts_count": 1
+  },
+  {
+    "id": 2817,
+    "diagram_title": "Tool box large",
+    "image_url": "http://ills.bmwfans.info/dc1.png",
+    "parts_count": 26
+  },
+  {
+    "id": 2819,
+    "diagram_title": "Tool box small",
+    "image_url": "http://ills.bmwfans.info/dc0.png",
+    "parts_count": 15
+  },
+  {
+    "id": 2825,
+    "diagram_title": "Towing hitch, detachable",
+    "image_url": "http://ills.bmwfans.info/dcy.png",
+    "parts_count": 14
+  },
+  {
+    "id": 2823,
+    "diagram_title": "Trailer hitch with fixed ball head",
+    "image_url": "http://ills.bmwfans.info/dda.png",
+    "parts_count": 10
+  },
+  {
+    "id": 2827,
+    "diagram_title": "Wiring set trailer coupling",
+    "image_url": "http://ills.bmwfans.info/ddb.png",
+    "parts_count": 12
+  }
+]

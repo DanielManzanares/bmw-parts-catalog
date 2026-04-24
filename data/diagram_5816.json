@@ -1,0 +1,69 @@
+{
+  "id": 5816,
+  "diagram_title": "Repair kit, thread repair, thin-wall",
+  "image_url": "http://ills.bmwfans.info/ez05.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "41 00 2 361 595",
+      "quantity": 1,
+      "description": "Set of thin-wall threaded inserts M8",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "41 00 2 405 074",
+      "quantity": 1,
+      "description": "Set of thin-wall threaded inserts M8",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "41 00 2 288 195",
+      "quantity": 1,
+      "description": "Set of thin-wall threaded inserts M8",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "83 30 2 365 745",
+      "quantity": 1,
+      "description": "Tools",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "83 30 2 359 049",
+      "quantity": 1,
+      "description": "Tools",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "83 30 2 405 075",
+      "quantity": 1,
+      "description": "Tools",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "83 19 2 210 337",
+      "quantity": 1,
+      "description": "Thread lock, high-strength",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "id": 3967,
+  "diagram_title": "Indiv.sports seat headrest, Nappa leather",
+  "image_url": "http://ills.bmwfans.info/b9h.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 071 407",
+      "quantity": 2,
+      "description": "Napa leather headrest",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 001 799",
+      "quantity": 1,
+      "description": "Napa leather headrest",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 2 275 659",
+      "quantity": 1,
+      "description": "Napa leather headrest",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 2 422 251",
+      "quantity": 1,
+      "description": "Napa leather headrest",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 2 428 587",
+      "quantity": 1,
+      "description": "Napa leather headrest",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 9 068 528",
+      "quantity": 1,
+      "description": "Napa leather headrest",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 2 259 196",
+      "quantity": 1,
+      "description": "Napa leather headrest",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 2 259 197",
+      "quantity": 1,
+      "description": "Napa leather headrest",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 2 259 198",
+      "quantity": 1,
+      "description": "Napa leather headrest",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 2 259 199",
+      "quantity": 1,
+      "description": "Napa leather headrest",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 2 261 583",
+      "quantity": 1,
+      "description": "Napa leather headrest",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 2 261 584",
+      "quantity": 1,
+      "description": "Napa leather headrest",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 2 261 585",
+      "quantity": 1,
+      "description": "Napa leather headrest",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 2 261 586",
+      "quantity": 1,
+      "description": "Napa leather headrest",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 2 263 246",
+      "quantity": 1,
+      "description": "Napa leather headrest",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 2 263 899",
+      "quantity": 1,
+      "description": "Napa leather headrest",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 2 265 547",
+      "quantity": 1,
+      "description": "Napa leather headrest",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 2 265 548",
+      "quantity": 1,
+      "description": "Napa leather headrest",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 2 488 655",
+      "quantity": 1,
+      "description": "Napa leather headrest",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 2 488 656",
+      "quantity": 1,
+      "description": "Napa leather headrest",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 2 492 017",
+      "quantity": 1,
+      "description": "Napa leather headrest",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

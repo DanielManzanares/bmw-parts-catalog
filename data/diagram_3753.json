@@ -1,0 +1,21 @@
+{
+  "id": 3753,
+  "diagram_title": "Coolant lines",
+  "image_url": "http://ills.bmwfans.info/cp1.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "3",
+      "part_number": "64 53 1 385 151",
+      "quantity": 1,
+      "description": "Pipe-dryer pressure hose",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "id": 6028,
+  "diagram_title": "Balance weight, zinc",
+  "image_url": "http://ills.bmwfans.info/2x25.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 86,
+  "category_name": "Wheels",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "36 11 6 766 311",
+      "quantity": 1,
+      "description": "Clip",
+      "price_eur": null,
+      "compatible_models": "E12, E30, E31, E32, E34, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E81, E82, E83, E83 Facelift, E85, E86, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F04, F06, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 6 766 312",
+      "quantity": 1,
+      "description": "Clip",
+      "price_eur": null,
+      "compatible_models": "E12, E30, E32, E34, E38, E39, E46, E60, E60 Facelift, E63, E63 Facelift, E64, E64 Facelift, E81, E82, E83, E83 Facelift, E84, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "36 11 6 766 314",
+      "quantity": 4,
+      "description": "Balance weight, zinc",
+      "price_eur": null,
+      "compatible_models": "E12, E30, E31, E32, E34, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F04, F06, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "36 11 6 766 315",
+      "quantity": 4,
+      "description": "Balance weight, zinc",
+      "price_eur": null,
+      "compatible_models": "E12, E30, E31, E32, E34, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F04, F06, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "36 11 6 766 316",
+      "quantity": 4,
+      "description": "Balance weight, zinc",
+      "price_eur": null,
+      "compatible_models": "E12, E30, E31, E32, E34, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F04, F06, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "36 11 6 766 317",
+      "quantity": 4,
+      "description": "Balance weight, zinc",
+      "price_eur": null,
+      "compatible_models": "E12, E30, E31, E32, E34, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F04, F06, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "36 11 6 766 318",
+      "quantity": 4,
+      "description": "Balance weight, zinc",
+      "price_eur": null,
+      "compatible_models": "E12, E30, E31, E32, E34, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F04, F06, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "36 11 6 766 319",
+      "quantity": 4,
+      "description": "Balance weight, zinc",
+      "price_eur": null,
+      "compatible_models": "E12, E30, E31, E32, E34, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F04, F06, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "36 11 6 766 320",
+      "quantity": 4,
+      "description": "Balance weight, zinc",
+      "price_eur": null,
+      "compatible_models": "E12, E30, E31, E32, E34, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F04, F06, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "36 11 6 766 321",
+      "quantity": 4,
+      "description": "Balance weight, zinc",
+      "price_eur": null,
+      "compatible_models": "E12, E30, E31, E32, E34, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F04, F06, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "36 11 6 766 322",
+      "quantity": 4,
+      "description": "Balance weight, zinc",
+      "price_eur": null,
+      "compatible_models": "E12, E30, E31, E32, E34, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F04, F06, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "36 11 6 766 323",
+      "quantity": 4,
+      "description": "Balance weight, zinc",
+      "price_eur": null,
+      "compatible_models": "E12, E30, E31, E32, E34, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F04, F06, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "36 11 6 766 324",
+      "quantity": 4,
+      "description": "Balance weight, zinc",
+      "price_eur": null,
+      "compatible_models": "E12, E30, E31, E32, E34, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F04, F06, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "36 11 6 766 325",
+      "quantity": 4,
+      "description": "Balance weight, zinc",
+      "price_eur": null,
+      "compatible_models": "E12, E30, E31, E32, E34, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F04, F06, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "36 11 6 766 326",
+      "quantity": 4,
+      "description": "Balance weight, zinc, w. adhesive foil",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E31, E32, E34, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, F85, F86, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "36 11 6 766 327",
+      "quantity": 4,
+      "description": "Balance weight, zinc, w. adhesive foil",
+      "price_eur": null,
+      "compatible_models": "E12, E30, E31, E32, E34, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, F85, F86, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "36 11 6 766 328",
+      "quantity": 4,
+      "description": "Balance weight, zinc, w. adhesive foil",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E31, E32, E34, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, F85, F86, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "36 11 6 766 329",
+      "quantity": 4,
+      "description": "Balance weight, zinc, w. adhesive foil",
+      "price_eur": null,
+      "compatible_models": "E12, E30, E31, E32, E34, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, F85, F86, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "36 11 6 766 330",
+      "quantity": 4,
+      "description": "Balance weight, zinc, w. adhesive foil",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E31, E32, E34, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, F85, F86, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "36 11 6 766 331",
+      "quantity": 4,
+      "description": "Balance weight, zinc, w. adhesive foil",
+      "price_eur": null,
+      "compatible_models": "E12, E30, E31, E32, E34, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, F85, F86, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "36 11 6 766 332",
+      "quantity": 4,
+      "description": "Balance weight, zinc, w. adhesive foil",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E31, E32, E34, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, F85, F86, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "36 11 6 766 333",
+      "quantity": 4,
+      "description": "Balance weight, zinc, w. adhesive foil",
+      "price_eur": null,
+      "compatible_models": "E12, E30, E31, E32, E34, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, F85, F86, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "36 11 6 766 334",
+      "quantity": 4,
+      "description": "Balance weight, zinc, w. adhesive foil",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E31, E32, E34, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, F85, F86, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "36 11 6 766 335",
+      "quantity": 4,
+      "description": "Balance weight, zinc, w. adhesive foil",
+      "price_eur": null,
+      "compatible_models": "E12, E30, E31, E32, E34, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, F85, F86, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "36 11 6 766 336",
+      "quantity": 4,
+      "description": "Balance weight, zinc, w. adhesive foil",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E31, E32, E34, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, F85, F86, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "36 11 6 766 337",
+      "quantity": 4,
+      "description": "Balance weight, zinc, w. adhesive foil",
+      "price_eur": null,
+      "compatible_models": "E12, E30, E31, E32, E34, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, F85, F86, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "36 11 6 766 338",
+      "quantity": 4,
+      "description": "Balance weight, zinc, w. adhesive foil",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E31, E32, E34, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, F85, F86, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "36 11 6 766 339",
+      "quantity": 4,
+      "description": "Balance weight, zinc, w. adhesive foil",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E31, E32, E34, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, F85, F86, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "36 11 6 766 340",
+      "quantity": 4,
+      "description": "Balance weight, zinc, w. adhesive foil",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E31, E32, E34, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, F85, F86, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "36 11 6 766 341",
+      "quantity": 4,
+      "description": "Balance weight, zinc, w. adhesive foil",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E31, E32, E34, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, F85, F86, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "36 11 6 766 342",
+      "quantity": 4,
+      "description": "Balance weight, zinc, w. adhesive foil",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, E31, E32, E34, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, F85, F86, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "36 11 6 766 343",
+      "quantity": 4,
+      "description": "Balance weight, zinc, w. adhesive foil",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E26, E28, E30, E31, E32, E34, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F48, F80, F82, F83, F85, F86, G11, G12, I01, I12, Z3"
+    }
+  ]
+}

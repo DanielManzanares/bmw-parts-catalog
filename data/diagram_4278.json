@@ -1,0 +1,109 @@
+{
+  "id": 4278,
+  "diagram_title": "BMW form",
+  "image_url": "http://ills.bmwfans.info/3thf.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1531,
+  "category_name": "Technical Literature",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "01 39 9 782 818",
+      "quantity": 1,
+      "description": "Claim Form pad",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 39 9 750 147",
+      "quantity": 1,
+      "description": "Claim Form pad",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 39 9 782 818",
+      "quantity": 1,
+      "description": "Claim Form pad",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 39 9 750 147",
+      "quantity": 1,
+      "description": "Claim Form pad",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 39 9 782 818",
+      "quantity": 1,
+      "description": "Claim Form pad",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 39 9 750 147",
+      "quantity": 1,
+      "description": "Claim Form pad",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 39 9 782 818",
+      "quantity": 1,
+      "description": "Claim Form pad",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 39 9 750 147",
+      "quantity": 1,
+      "description": "Claim Form pad",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 39 9 750 147",
+      "quantity": 1,
+      "description": "Claim Form pad",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 39 9 750 147",
+      "quantity": 1,
+      "description": "Claim Form pad",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 39 9 750 147",
+      "quantity": 1,
+      "description": "Claim Form pad",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 39 9 750 147",
+      "quantity": 1,
+      "description": "Claim Form pad",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

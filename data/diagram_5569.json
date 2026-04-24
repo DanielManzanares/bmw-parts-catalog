@@ -1,0 +1,21 @@
+{
+  "id": 5569,
+  "diagram_title": "Basic control unit egs",
+  "image_url": "http://ills.bmwfans.info/j5t.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 456,
+  "category_name": "Automatic Transmission",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "24 60 7 548 312",
+      "quantity": 1,
+      "description": "RMFD Basic control unit EGS",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E85"
+    }
+  ]
+}

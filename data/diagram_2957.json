@@ -1,0 +1,29 @@
+{
+  "id": 2957,
+  "diagram_title": "Tracking Products",
+  "image_url": "http://ills.bmwfans.info/1jzc.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 12 2 158 656",
+      "quantity": 1,
+      "description": "Trackstar",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 2 158 657",
+      "quantity": 1,
+      "description": "Trackstar",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

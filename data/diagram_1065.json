@@ -1,0 +1,37 @@
+{
+  "id": 1065,
+  "diagram_title": "single_parts_xenon_headlight",
+  "image_url": "/static/images/diagrams/E46_320Ci-M54_lighting_single_parts_xenon_headlight.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 184,
+  "category_name": "Lighting",
+  "parts": [
+    {
+      "position_number": "3",
+      "part_number": "63 21 7 160 797",
+      "quantity": 2,
+      "description": "Longlife bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 21 7 160 780",
+      "quantity": 2,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 21 7 160 781",
+      "quantity": 2,
+      "description": "Longlife bulb",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

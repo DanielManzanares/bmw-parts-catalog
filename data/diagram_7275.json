@@ -1,0 +1,61 @@
+{
+  "id": 7275,
+  "diagram_title": "Single parts f Nokia3110 luggage comp.",
+  "image_url": "http://ills.bmwfans.info/224k.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1648,
+  "category_name": "Communication systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 12 0 009 448",
+      "quantity": 1,
+      "description": "Connecting line",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 12 0 009 027",
+      "quantity": 1,
+      "description": "Adapter lead, ctrl unit, hands free teleph",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "84 12 0 010 054",
+      "quantity": 1,
+      "description": "Control unit f hands free teleph.net GSM",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "84 21 6 916 909",
+      "quantity": 1,
+      "description": "D network handy interface",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "84 13 9 410 889",
+      "quantity": 1,
+      "description": "Bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "84 13 8 361 643",
+      "quantity": 1,
+      "description": "Bracket transmitter-receiver",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

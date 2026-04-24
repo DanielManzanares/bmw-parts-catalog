@@ -1,0 +1,117 @@
+{
+  "id": 2714,
+  "diagram_title": "Alarm system",
+  "image_url": "http://ills.bmwfans.info/qk0.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 73 9 416 543",
+      "quantity": 1,
+      "description": "Installation kit alarm system",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 73 9 416 547",
+      "quantity": 1,
+      "description": "Installation kit alarm system",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 73 9 416 553",
+      "quantity": 1,
+      "description": "Installation kit alarm system",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 73 9 416 248",
+      "quantity": 1,
+      "description": "Control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 73 9 416 597",
+      "quantity": 1,
+      "description": "Control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 73 9 416 250",
+      "quantity": 1,
+      "description": "Control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 73 9 416 245",
+      "quantity": 1,
+      "description": "Siren",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 73 9 416 246",
+      "quantity": 1,
+      "description": "Siren",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 92 9 401 797",
+      "quantity": 1,
+      "description": "LED indicator alarm system",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "82 92 9 401 798",
+      "quantity": 1,
+      "description": "Ultrasonic sensors",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "82 92 9 404 882",
+      "quantity": 2,
+      "description": "Remote control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "82 92 9 404 881",
+      "quantity": 1,
+      "description": "Remote control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "82 91 9 404 617",
+      "quantity": 1,
+      "description": "Inclination indicator",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

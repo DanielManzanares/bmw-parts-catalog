@@ -1,0 +1,149 @@
+{
+  "id": 2316,
+  "diagram_title": "Fine wood trim",
+  "image_url": "http://ills.bmwfans.info/e78.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 25 9 404 239",
+      "quantity": 1,
+      "description": "Set wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 25 9 402 923",
+      "quantity": 1,
+      "description": "Set wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 8 186 140",
+      "quantity": 1,
+      "description": "Wooden strip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 25 9 402 671",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 25 9 402 670",
+      "quantity": 1,
+      "description": "Storing partition wood strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "82 25 9 402 859",
+      "quantity": 1,
+      "description": "Ashtray front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "82 25 9 402 860",
+      "quantity": 1,
+      "description": "Ashtray rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "82 25 9 402 861",
+      "quantity": 1,
+      "description": "Burr walnut handbrake grip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "82 25 9 401 884",
+      "quantity": 1,
+      "description": "With wooden trim cassette box",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "82 25 9 402 615",
+      "quantity": 1,
+      "description": "Wooden cover front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "82 25 9 402 616",
+      "quantity": 1,
+      "description": "Wooden cover front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "82 25 9 402 617",
+      "quantity": 1,
+      "description": "Wooden cover rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "82 25 9 402 618",
+      "quantity": 1,
+      "description": "Wooden cover rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "82 11 9 402 849",
+      "quantity": 1,
+      "description": "Cap nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "82 25 9 404 587",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "82 25 9 404 588",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "82 25 9 405 089",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

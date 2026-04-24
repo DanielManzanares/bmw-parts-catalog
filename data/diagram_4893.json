@@ -1,0 +1,29 @@
+{
+  "id": 4893,
+  "diagram_title": "Universal prodective rear cover",
+  "image_url": "http://ills.bmwfans.info/3id3.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 30 0 002 741",
+      "quantity": 1,
+      "description": "Universal prodective rear cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 30 0 002 741",
+      "quantity": 1,
+      "description": "Universal prodective rear cover",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

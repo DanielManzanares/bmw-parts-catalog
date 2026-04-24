@@ -1,0 +1,877 @@
+{
+  "id": 2151,
+  "diagram_title": "Mounting information, Owner's Manual BMW",
+  "image_url": "http://ills.bmwfans.info/3iqh.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1531,
+  "category_name": "Technical Literature",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "01 29 0 008 911",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 29 9 790 458",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 29 9 415 478",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 29 9 415 455",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 9 416 529",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 29 9 415 494",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 29 9 790 309",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 29 9 790 807",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 29 0 002 095",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 29 9 410 997",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 9 415 491",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 9 415 371",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 29 9 782 539",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 29 2 158 367",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 29 0 000 363",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 29 0 000 505",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 29 0 008 911",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 29 9 790 458",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 29 9 415 478",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 29 9 415 455",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 29 9 415 494",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 29 9 790 309",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 29 9 790 807",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 29 0 002 095",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 29 9 410 997",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 29 9 782 539",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 29 2 158 367",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 29 0 000 363",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 29 0 000 505",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 29 0 008 911",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 29 9 790 458",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 29 9 415 478",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 29 9 415 455",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 29 9 415 494",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 29 9 790 309",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 29 9 790 807",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 29 0 002 095",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 29 9 410 997",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 29 9 782 539",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 29 2 158 367",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 29 0 000 363",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 29 0 000 505",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 29 9 790 458",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 29 9 415 478",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 29 9 415 455",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 29 9 415 494",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 29 9 790 309",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 29 0 008 911",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 29 9 790 807",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 29 0 002 095",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 29 9 410 997",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 29 9 782 539",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 29 2 158 367",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 29 0 000 363",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 29 0 000 505",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 29 0 008 911",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 29 9 790 458",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 29 9 415 478",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 29 9 415 455",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 29 9 415 494",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 29 9 790 309",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 29 9 790 807",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 29 0 002 095",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 29 9 410 997",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 29 9 782 539",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 29 2 158 367",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 29 0 000 363",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 29 0 000 505",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 29 9 790 458",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 29 9 415 478",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 29 9 415 455",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 29 9 415 494",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 29 9 790 309",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 29 0 008 911",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 29 9 790 807",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 29 0 002 095",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 29 9 410 997",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 29 9 782 539",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 29 2 158 367",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 29 0 000 363",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 29 0 000 505",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 29 0 008 911",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 29 9 790 458",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 29 9 415 478",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 29 9 415 455",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 29 9 415 494",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 29 9 790 309",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 29 9 790 807",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 29 0 002 095",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 29 9 410 997",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 29 9 782 539",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 29 2 158 367",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 29 0 000 363",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 29 0 000 505",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "01 29 0 000 505",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "01 29 0 008 911",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "01 29 9 790 458",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "01 29 9 415 478",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "01 29 9 415 455",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "01 29 9 415 494",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "01 29 9 790 309",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "01 29 9 790 807",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "01 29 0 002 095",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "01 29 9 410 997",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "01 29 9 782 539",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "01 29 2 158 367",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "01 29 0 000 363",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "01 29 0 000 505",
+      "quantity": 1,
+      "description": "Mounting information",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": 6830,
+  "diagram_title": "Headlight",
+  "image_url": "http://ills.bmwfans.info/8is.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 184,
+  "category_name": "Lighting",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "63 12 6 904 275",
+      "quantity": 1,
+      "description": "Headlight left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 6 904 276",
+      "quantity": 1,
+      "description": "Headlight left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 6 904 293",
+      "quantity": 1,
+      "description": "Headlight left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 6 904 294",
+      "quantity": 1,
+      "description": "Headlight left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 6 908 223",
+      "quantity": 1,
+      "description": "Headlight left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 6 908 224",
+      "quantity": 1,
+      "description": "Headlight left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 8 377 273",
+      "quantity": 1,
+      "description": "Headlight left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 8 377 274",
+      "quantity": 1,
+      "description": "Headlight left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 12 9 071 750",
+      "quantity": 1,
+      "description": "Set masking foil f headlight",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

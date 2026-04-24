@@ -1,0 +1,85 @@
+{
+  "id": 2109,
+  "diagram_title": "Trailer, BMW",
+  "image_url": "http://ills.bmwfans.info/3iqh.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1531,
+  "category_name": "Technical Literature",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "01 39 9 099 896",
+      "quantity": 1,
+      "description": "Trailer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 39 9 099 899",
+      "quantity": 1,
+      "description": "Trailer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 39 9 781 688",
+      "quantity": 1,
+      "description": "Trailer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 39 9 099 896",
+      "quantity": 1,
+      "description": "Trailer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 39 9 099 899",
+      "quantity": 1,
+      "description": "Trailer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 39 9 781 688",
+      "quantity": 1,
+      "description": "Trailer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 39 9 099 896",
+      "quantity": 1,
+      "description": "Trailer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 39 9 099 899",
+      "quantity": 1,
+      "description": "Trailer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 39 9 781 688",
+      "quantity": 1,
+      "description": "Trailer",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

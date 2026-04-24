@@ -1,0 +1,197 @@
+{
+  "id": 2037,
+  "diagram_title": "Door lock front",
+  "image_url": "http://ills.bmwfans.info/a2y.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 21 1 876 385",
+      "quantity": 1,
+      "description": "Door lock front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 21 1 876 386",
+      "quantity": 1,
+      "description": "Door lock front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 21 1 876 385",
+      "quantity": 1,
+      "description": "Door lock front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 21 1 876 386",
+      "quantity": 1,
+      "description": "Door lock front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 21 1 809 735",
+      "quantity": 2,
+      "description": "Bump stop",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 21 1 823 487",
+      "quantity": 2,
+      "description": "Bump stop",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 21 1 823 488",
+      "quantity": 2,
+      "description": "Bush",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 21 1 823 489",
+      "quantity": 2,
+      "description": "Plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 21 1 874 709",
+      "quantity": 2,
+      "description": "Plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 21 1 872 833",
+      "quantity": 1,
+      "description": "Latch Striker, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 21 1 872 834",
+      "quantity": 1,
+      "description": "Latch Striker, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 21 1 879 663",
+      "quantity": 2,
+      "description": "Operating rod",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 20 8 238 999",
+      "quantity": 2,
+      "description": "Grommet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "07 11 9 928 511",
+      "quantity": 1,
+      "description": "Countersunk head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 21 8 100 708",
+      "quantity": 1,
+      "description": "Countersunk head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 902 621",
+      "quantity": 8,
+      "description": "Countersunk head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 904 304",
+      "quantity": 8,
+      "description": "Countersunk head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 21 1 806 023",
+      "quantity": 2,
+      "description": "Spacer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 21 1 851 493",
+      "quantity": 1,
+      "description": "Locker plate left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 21 1 851 494",
+      "quantity": 1,
+      "description": "Locker plate left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 11 9 928 180",
+      "quantity": 2,
+      "description": "Countersunk head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 21 1 852 140",
+      "quantity": 2,
+      "description": "Lock button",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 21 1 902 717",
+      "quantity": 2,
+      "description": "Rubber boot",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

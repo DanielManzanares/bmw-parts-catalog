@@ -1,0 +1,37 @@
+{
+  "id": 3748,
+  "diagram_title": "Climate capacitor/additional blower",
+  "image_url": "http://ills.bmwfans.info/cpb.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 53 8 373 004",
+      "quantity": 1,
+      "description": "Condenser air conditioning",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 916 848",
+      "quantity": 2,
+      "description": "Hex head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "64 54 8 370 967",
+      "quantity": 1,
+      "description": "Compression shroud",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

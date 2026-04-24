@@ -1,0 +1,61 @@
+{
+  "id": 1481,
+  "diagram_title": "Bmw sportseat headrest guide",
+  "image_url": "http://ills.bmwfans.info/b6u.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 838 969",
+      "quantity": 4,
+      "description": "Covering Lower",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 838 969",
+      "quantity": 4,
+      "description": "Covering Lower",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 1 904 817",
+      "quantity": 4,
+      "description": "Guide",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 1 904 817",
+      "quantity": 4,
+      "description": "Guide",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 933 518",
+      "quantity": 4,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30"
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 933 518",
+      "quantity": 4,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30"
+    }
+  ]
+}

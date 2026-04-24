@@ -1,0 +1,77 @@
+{
+  "id": 7518,
+  "diagram_title": "Individ. sports strng whl, airbag, SA 255",
+  "image_url": "http://ills.bmwfans.info/1tsj.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "32 34 8 019 746",
+      "quantity": 1,
+      "description": "Airbag sports steering wheel, leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 34 8 022 393",
+      "quantity": 1,
+      "description": "Airbag sports steering wheel, leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 34 8 019 744",
+      "quantity": 1,
+      "description": "Airbag sports steering wheel, leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 34 8 022 391",
+      "quantity": 1,
+      "description": "Airbag sports steering wheel, leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 34 8 019 747",
+      "quantity": 1,
+      "description": "Airbag sports steering wheel, leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 34 8 022 394",
+      "quantity": 1,
+      "description": "Airbag sports steering wheel, leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 34 8 019 745",
+      "quantity": 1,
+      "description": "Airbag sports steering wheel, leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "32 34 8 022 392",
+      "quantity": 1,
+      "description": "Airbag sports steering wheel, leather",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

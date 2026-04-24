@@ -1,0 +1,381 @@
+{
+  "id": 3801,
+  "diagram_title": "Single components hifi system",
+  "image_url": "http://ills.bmwfans.info/d11.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 12 8 363 411",
+      "quantity": 1,
+      "description": "Audio wiring harness HiFi",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 12 8 363 412",
+      "quantity": 1,
+      "description": "Audio wiring harness HiFi",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 13 8 370 936",
+      "quantity": 2,
+      "description": "Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 907 956",
+      "quantity": 8,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "63 17 1 367 868",
+      "quantity": 8,
+      "description": "Expanding nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "65 13 8 361 485",
+      "quantity": 2,
+      "description": "Mid-range loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "65 13 8 362 957",
+      "quantity": 2,
+      "description": "Mid-range loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "65 13 8 362 958",
+      "quantity": 2,
+      "description": "Mid-range loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "65 13 8 360 690",
+      "quantity": 2,
+      "description": "Loudspeaker threaded ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 921 038",
+      "quantity": 2,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "65 13 8 361 487",
+      "quantity": 2,
+      "description": "Tweeter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "65 13 8 362 951",
+      "quantity": 2,
+      "description": "Tweeter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "65 13 8 362 952",
+      "quantity": 2,
+      "description": "Tweeter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "65 13 8 360 689",
+      "quantity": 2,
+      "description": "Tweeter threaded ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 921 038",
+      "quantity": 2,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "65 13 8 361 403",
+      "quantity": 1,
+      "description": "Rear left loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "65 13 8 361 404",
+      "quantity": 1,
+      "description": "Rear left loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "65 13 8 353 572",
+      "quantity": 2,
+      "description": "Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "65 13 8 375 085",
+      "quantity": 2,
+      "description": "Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "07 11 9 901 179",
+      "quantity": 4,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "07 11 9 904 176",
+      "quantity": 4,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 46 8 174 977",
+      "quantity": 1,
+      "description": "Cover loudspeaker right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 46 8 174 978",
+      "quantity": 1,
+      "description": "Cover loudspeaker left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 46 8 174 979",
+      "quantity": 1,
+      "description": "Cover loudspeaker right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 46 8 174 980",
+      "quantity": 1,
+      "description": "Cover loudspeaker right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 46 8 174 981",
+      "quantity": 1,
+      "description": "Cover loudspeaker right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 46 8 174 982",
+      "quantity": 1,
+      "description": "Cover loudspeaker right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 46 8 174 983",
+      "quantity": 1,
+      "description": "Cover loudspeaker right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 46 8 174 984",
+      "quantity": 1,
+      "description": "Cover loudspeaker right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 46 8 174 985",
+      "quantity": 1,
+      "description": "Cover loudspeaker right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 46 8 174 986",
+      "quantity": 1,
+      "description": "Cover loudspeaker right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 46 8 174 987",
+      "quantity": 1,
+      "description": "Cover loudspeaker right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 46 8 174 988",
+      "quantity": 1,
+      "description": "Cover loudspeaker right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 46 8 174 989",
+      "quantity": 1,
+      "description": "Cover loudspeaker right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 46 8 174 990",
+      "quantity": 1,
+      "description": "Cover loudspeaker right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "65 12 8 374 531",
+      "quantity": 1,
+      "description": "Anti-interfer.(telephone) hifi amplifier",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "65 12 1 387 608",
+      "quantity": 1,
+      "description": "Holder Hifi system amplifier",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "07 11 9 915 061",
+      "quantity": 3,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "61 21 1 366 389",
+      "quantity": 3,
+      "description": "Nut holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "51 12 7 070 202",
+      "quantity": 3,
+      "description": "Nut holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "07 11 9 915 061",
+      "quantity": 3,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "61 13 1 378 908",
+      "quantity": 2,
+      "description": "Bracket, plug connection black",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "65 11 1 379 686",
+      "quantity": 1,
+      "description": "Pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "65 12 8 386 127",
+      "quantity": 1,
+      "description": "Radio supporting frame",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "65 12 1 375 737",
+      "quantity": 1,
+      "description": "Radio supporting frame",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "24",
+      "part_number": "65 11 1 384 855",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

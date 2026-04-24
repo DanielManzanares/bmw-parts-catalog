@@ -1,0 +1,37 @@
+{
+  "id": 6289,
+  "diagram_title": "Battery tray",
+  "image_url": "http://ills.bmwfans.info/1rdj.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 71 8 237 364",
+      "quantity": 1,
+      "description": "Battery tray",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "16 13 1 178 905",
+      "quantity": 5,
+      "description": "Hex nut with plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 14 7 305 178",
+      "quantity": 5,
+      "description": "Hex nut with plate",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

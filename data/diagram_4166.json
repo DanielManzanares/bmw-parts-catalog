@@ -1,0 +1,45 @@
+{
+  "id": 4166,
+  "diagram_title": "Individ. rear door trim panel, Alcantara",
+  "image_url": "http://ills.bmwfans.info/2291.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 011 921",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 011 922",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 42 8 011 929",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left, airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 42 8 011 930",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left, airbag",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": 3331,
+  "diagram_title": "Door cable harnesses",
+  "image_url": "http://ills.bmwfans.info/j5q.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 12 8 362 513",
+      "quantity": 1,
+      "description": "Wiring drivers side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 12 8 362 520",
+      "quantity": 1,
+      "description": "Wiring drivers side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 13 8 250 791",
+      "quantity": 4,
+      "description": "Hex head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 14 9 145 030",
+      "quantity": 4,
+      "description": "Hex head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 12 9 925 756",
+      "quantity": 4,
+      "description": "Prestol-cage",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

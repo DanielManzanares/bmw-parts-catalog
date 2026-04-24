@@ -1,0 +1,29 @@
+{
+  "id": 2854,
+  "diagram_title": "Ignition coil",
+  "image_url": "http://ills.bmwfans.info/1f0.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 13 1 247 281",
+      "quantity": 1,
+      "description": "Ignition coil",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 915 502",
+      "quantity": 2,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E38, E39, E46, E53, E64, E64 Facelift, E65, E66, E83, E85, Z3"
+    }
+  ]
+}

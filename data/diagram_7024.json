@@ -1,0 +1,37 @@
+{
+  "id": 7024,
+  "diagram_title": "DAB Retrofit",
+  "image_url": "http://ills.bmwfans.info/cs3m.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 12 2 336 498",
+      "quantity": 1,
+      "description": "Digital radio retrofit kit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 12 2 337 892",
+      "quantity": 1,
+      "description": "Digital radio retrofit remote",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 12 2 337 891",
+      "quantity": 1,
+      "description": "Digital radio retrofit antenna",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

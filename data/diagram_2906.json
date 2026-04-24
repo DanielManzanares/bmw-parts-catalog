@@ -1,0 +1,45 @@
+{
+  "id": 2906,
+  "diagram_title": "Battery cable(battery front)",
+  "image_url": "http://ills.bmwfans.info/1az.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 42 1 247 164",
+      "quantity": 1,
+      "description": "Battery cable (plus pole)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "12 42 2 245 473",
+      "quantity": 1,
+      "description": "Battery cable negative",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "12 42 1 732 227",
+      "quantity": 1,
+      "description": "Battery cable negative",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "12 42 1 737 755",
+      "quantity": 1,
+      "description": "Ground cable",
+      "price_eur": null,
+      "compatible_models": "E30, E31, E32, E34, E36, E38, E39, E46, E85, E86, Z3"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": 1485,
+  "diagram_title": "Bmw sportseat seat cover",
+  "image_url": "http://ills.bmwfans.info/bqf.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 927 821",
+      "quantity": 2,
+      "description": "Cover backrest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 927 822",
+      "quantity": 2,
+      "description": "86",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 927 823",
+      "quantity": 2,
+      "description": "86",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 927 824",
+      "quantity": 2,
+      "description": "86",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 927 825",
+      "quantity": 2,
+      "description": "86",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 927 821",
+      "quantity": 2,
+      "description": "Cover backrest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 927 822",
+      "quantity": 2,
+      "description": "86",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 927 823",
+      "quantity": 2,
+      "description": "86",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 927 824",
+      "quantity": 2,
+      "description": "86",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 927 825",
+      "quantity": 2,
+      "description": "86",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

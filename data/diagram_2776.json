@@ -1,0 +1,173 @@
+{
+  "id": 2776,
+  "diagram_title": "Trailer, indiv. parts, overrun facility",
+  "image_url": "http://ills.bmwfans.info/mdb.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "86 19 9 416 602",
+      "quantity": 1,
+      "description": "Overrun facility assy.",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "86 19 9 416 603",
+      "quantity": 1,
+      "description": "Tow hitch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "86 19 9 416 604",
+      "quantity": 1,
+      "description": "Towbar tube",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "86 19 9 416 605",
+      "quantity": 1,
+      "description": "Spacer tube",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "86 19 9 416 606",
+      "quantity": 1,
+      "description": "Rubber boot",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "86 19 9 416 607",
+      "quantity": 1,
+      "description": "Sliding sleeve",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "86 19 9 416 608",
+      "quantity": 1,
+      "description": "Shock absorber",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "86 19 9 416 609",
+      "quantity": 1,
+      "description": "Outer support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "86 19 9 416 610",
+      "quantity": 2,
+      "description": "Clamping bush",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "86 19 9 416 611",
+      "quantity": 1,
+      "description": "Upper deflector housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 11 9 912 859",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "86 19 9 416 612",
+      "quantity": 1,
+      "description": "Formed disc",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 12 9 964 661",
+      "quantity": 2,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 11 9 905 753",
+      "quantity": 2,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, E85, E86, Z3"
+    },
+    {
+      "position_number": "14",
+      "part_number": "07 11 9 912 695",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "07 12 9 900 580",
+      "quantity": 4,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "86 19 9 416 613",
+      "quantity": 1,
+      "description": "Support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "86 19 9 416 614",
+      "quantity": 1,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "07 11 9 902 270",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "86 19 9 416 615",
+      "quantity": 1,
+      "description": "Plug-in connection bracket",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

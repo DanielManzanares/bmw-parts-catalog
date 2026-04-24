@@ -1,0 +1,21 @@
+{
+  "id": 7193,
+  "diagram_title": "Ultrasonic-sensor",
+  "image_url": "http://ills.bmwfans.info/bxb4.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1644,
+  "category_name": "Distance Systems, Cruise Control",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "66 20 6 989 067",
+      "quantity": 4,
+      "description": "Ultrasonic-sensor",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

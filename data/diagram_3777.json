@@ -1,0 +1,45 @@
+{
+  "id": 3777,
+  "diagram_title": "Radio Bavaria Electronic CD II",
+  "image_url": "http://ills.bmwfans.info/d12.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 12 8 377 910",
+      "quantity": 1,
+      "description": "Rmfd radio BMW BUSINESS CD RDS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 8 380 019",
+      "quantity": 1,
+      "description": "Rmfd radio BMW BUSINESS CD RDS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 902 821",
+      "quantity": 1,
+      "description": "Rmfd radio BMW business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 909 885",
+      "quantity": 1,
+      "description": "Rmfd radio BAVARIA CR DIGITAL",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 4103,
+  "diagram_title": "Single parts f Siem.45-Ser.luggage comp.",
+  "image_url": "http://ills.bmwfans.info/2ecl.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1648,
+  "category_name": "Communication systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "84 32 0 021 146",
+      "quantity": 1,
+      "description": "Plug bridge cable adapter",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

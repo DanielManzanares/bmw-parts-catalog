@@ -1,0 +1,45 @@
+{
+  "id": 1454,
+  "diagram_title": "Head rest support",
+  "image_url": "http://ills.bmwfans.info/b6e.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "9",
+      "part_number": "52 10 1 840 414",
+      "quantity": 4,
+      "description": "Sleeve",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "52 10 1 840 414",
+      "quantity": 1,
+      "description": "Sleeve",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 941 316",
+      "quantity": 4,
+      "description": "Roll pin",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3"
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 941 316",
+      "quantity": 1,
+      "description": "Roll pin",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3"
+    }
+  ]
+}

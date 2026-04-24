@@ -1,0 +1,29 @@
+{
+  "id": 5729,
+  "diagram_title": "Sports strng whl, airbag, sequ. transm.",
+  "image_url": "http://ills.bmwfans.info/2261.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 137,
+  "category_name": "Steering",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "32 30 6 768 134",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "3",
+      "part_number": "32 30 6 768 135",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": "E46"
+    }
+  ]
+}

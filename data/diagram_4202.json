@@ -1,0 +1,221 @@
+{
+  "id": 4202,
+  "diagram_title": "BMW care tips",
+  "image_url": "http://ills.bmwfans.info/d6dl.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1531,
+  "category_name": "Technical Literature",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "01 40 0 013 750",
+      "quantity": 1,
+      "description": "Care tips, German",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 40 0 013 750",
+      "quantity": 1,
+      "description": "Care tips, German",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 41 0 013 751",
+      "quantity": 1,
+      "description": "Care tips, English",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 41 0 013 751",
+      "quantity": 1,
+      "description": "Care tips, English",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 42 0 013 752",
+      "quantity": 1,
+      "description": "Care tips, French",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 42 0 013 752",
+      "quantity": 1,
+      "description": "Care tips, French",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 43 0 013 753",
+      "quantity": 1,
+      "description": "Care tips, Spanish",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 43 0 013 753",
+      "quantity": 1,
+      "description": "Care tips, Spanish",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 44 0 013 754",
+      "quantity": 1,
+      "description": "Care tips, Italian",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 44 0 013 754",
+      "quantity": 1,
+      "description": "Care tips, Italian",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 45 0 013 755",
+      "quantity": 1,
+      "description": "Care tips, Swedish",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 45 0 013 755",
+      "quantity": 1,
+      "description": "Care tips, Swedish",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 46 0 013 756",
+      "quantity": 1,
+      "description": "Care tips, Dutch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 46 0 013 756",
+      "quantity": 1,
+      "description": "Care tips, Dutch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "01 47 0 013 757",
+      "quantity": 1,
+      "description": "Care tips, Arabic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "01 47 0 013 757",
+      "quantity": 1,
+      "description": "Care tips, Arabic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "01 48 0 013 758",
+      "quantity": 1,
+      "description": "Care tips, Danish",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "01 48 0 013 758",
+      "quantity": 1,
+      "description": "Care tips, Danish",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "01 49 0 013 759",
+      "quantity": 1,
+      "description": "Care tips, Portuguese",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "01 49 0 013 759",
+      "quantity": 1,
+      "description": "Care tips, Portuguese",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "01 49 0 013 761",
+      "quantity": 1,
+      "description": "Care instructions, Greek",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "01 49 0 013 761",
+      "quantity": 1,
+      "description": "Care instructions, Greek",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "01 49 0 013 760",
+      "quantity": 1,
+      "description": "Care tips, Chinese",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "01 49 0 013 760",
+      "quantity": 1,
+      "description": "Care tips, Chinese",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "01 49 0 013 762",
+      "quantity": 1,
+      "description": "Care and Maintenance notice, Korean",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "01 49 0 013 762",
+      "quantity": 1,
+      "description": "Care and Maintenance notice, Korean",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

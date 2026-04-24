@@ -1,0 +1,189 @@
+{
+  "id": 1460,
+  "diagram_title": "Front seat-vertical seat adjuster",
+  "image_url": "http://ills.bmwfans.info/b5u.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 900 203",
+      "quantity": 1,
+      "description": "Vertical seat adjuster left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 873 547",
+      "quantity": 1,
+      "description": "Vertical seat adjuster left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 900 204",
+      "quantity": 1,
+      "description": "Vertical seat adjuster right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 873 548",
+      "quantity": 1,
+      "description": "Vertical seat adjuster right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 900 203",
+      "quantity": 1,
+      "description": "Vertical seat adjuster left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 873 547",
+      "quantity": 1,
+      "description": "Vertical seat adjuster left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 900 204",
+      "quantity": 1,
+      "description": "Vertical seat adjuster right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 873 548",
+      "quantity": 1,
+      "description": "Vertical seat adjuster right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 817 572",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 817 572",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 1 873 513",
+      "quantity": 1,
+      "description": "Covering outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 1 873 514",
+      "quantity": 1,
+      "description": "Covering outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 1 912 381",
+      "quantity": 1,
+      "description": "Covering outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 1 912 382",
+      "quantity": 1,
+      "description": "Covering outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 1 912 383",
+      "quantity": 1,
+      "description": "Covering outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 1 912 384",
+      "quantity": 1,
+      "description": "Covering outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 1 873 513",
+      "quantity": 1,
+      "description": "Covering outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 1 873 514",
+      "quantity": 1,
+      "description": "Covering outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 1 912 381",
+      "quantity": 1,
+      "description": "Covering outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 1 912 382",
+      "quantity": 1,
+      "description": "Covering outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 1 912 383",
+      "quantity": 1,
+      "description": "Covering outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 1 912 384",
+      "quantity": 1,
+      "description": "Covering outer right",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

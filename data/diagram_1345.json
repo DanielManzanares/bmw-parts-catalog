@@ -1,0 +1,845 @@
+{
+  "id": 1345,
+  "diagram_title": "Lubrication system/Oil pump with drive",
+  "image_url": "http://ills.bmwfans.info/cs.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1,
+  "category_name": "Engine",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "11 41 1 271 128",
+      "quantity": 1,
+      "description": "Oil pump housing",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 41 1 271 128",
+      "quantity": 1,
+      "description": "Oil pump housing",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 41 1 271 128",
+      "quantity": 1,
+      "description": "Oil pump housing",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 41 1 271 128",
+      "quantity": 1,
+      "description": "Oil pump housing",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 41 1 275 095",
+      "quantity": 1,
+      "description": "Oil pump cover",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 41 1 275 095",
+      "quantity": 1,
+      "description": "Oil pump cover",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 41 1 275 095",
+      "quantity": 1,
+      "description": "Oil pump cover",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 41 1 275 095",
+      "quantity": 1,
+      "description": "Oil pump cover",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 41 1 706 896",
+      "quantity": 1,
+      "description": "Oil strainer",
+      "price_eur": null,
+      "compatible_models": "E21, E28, E30, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 41 1 706 896",
+      "quantity": 1,
+      "description": "Oil strainer",
+      "price_eur": null,
+      "compatible_models": "E21, E28, E30, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 41 1 706 896",
+      "quantity": 1,
+      "description": "Oil strainer",
+      "price_eur": null,
+      "compatible_models": "E21, E28, E30, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 41 1 706 896",
+      "quantity": 1,
+      "description": "Oil strainer",
+      "price_eur": null,
+      "compatible_models": "E21, E28, E30, E34"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 41 1 275 100",
+      "quantity": 1,
+      "description": "Protective COVER",
+      "price_eur": null,
+      "compatible_models": "E21, E28, E30, E34"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 41 1 720 897",
+      "quantity": 1,
+      "description": "Protective COVER",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 41 1 275 100",
+      "quantity": 1,
+      "description": "Protective COVER",
+      "price_eur": null,
+      "compatible_models": "E21, E28, E30, E34"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 41 1 720 897",
+      "quantity": 1,
+      "description": "Protective COVER",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 41 1 275 100",
+      "quantity": 1,
+      "description": "Protective COVER",
+      "price_eur": null,
+      "compatible_models": "E21, E28, E30, E34"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 41 1 720 897",
+      "quantity": 1,
+      "description": "Protective COVER",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 41 1 275 100",
+      "quantity": 1,
+      "description": "Protective COVER",
+      "price_eur": null,
+      "compatible_models": "E21, E28, E30, E34"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 41 1 720 897",
+      "quantity": 1,
+      "description": "Protective COVER",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 11 9 932 099",
+      "quantity": 4,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E9, NK, V8, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 11 9 904 496",
+      "quantity": 4,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, 700, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E9, NK, Z1"
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 11 9 932 099",
+      "quantity": 4,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E9, NK, V8, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 11 9 904 496",
+      "quantity": 4,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, 700, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E9, NK, Z1"
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 11 9 932 099",
+      "quantity": 4,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E9, NK, V8, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 11 9 904 496",
+      "quantity": 4,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, 700, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E9, NK, Z1"
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 11 9 932 099",
+      "quantity": 4,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E9, NK, V8, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 11 9 904 496",
+      "quantity": 4,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, 700, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E9, NK, Z1"
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 11 9 913 575",
+      "quantity": 3,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E52, E9, NK"
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 11 9 904 116",
+      "quantity": 3,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F18, F18 Facelift, NK"
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 11 9 913 575",
+      "quantity": 3,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E52, E9, NK"
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 11 9 904 116",
+      "quantity": 3,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F18, F18 Facelift, NK"
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 11 9 913 575",
+      "quantity": 3,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E52, E9, NK"
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 11 9 904 116",
+      "quantity": 3,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F18, F18 Facelift, NK"
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 11 9 913 575",
+      "quantity": 3,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E52, E9, NK"
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 11 9 904 116",
+      "quantity": 3,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F18, F18 Facelift, NK"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 901 189",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": 1.48,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E85, E9, NK"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 901 189",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": 1.48,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E85, E9, NK"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 901 189",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": 1.48,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E85, E9, NK"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 901 189",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": 1.48,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E85, E9, NK"
+    },
+    {
+      "position_number": "8",
+      "part_number": "11 41 1 271 135",
+      "quantity": 1,
+      "description": "Gear wheel",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "8",
+      "part_number": "11 41 1 271 135",
+      "quantity": 1,
+      "description": "Gear wheel",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "8",
+      "part_number": "11 41 1 271 135",
+      "quantity": 1,
+      "description": "Gear wheel",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "8",
+      "part_number": "11 41 1 271 135",
+      "quantity": 1,
+      "description": "Gear wheel",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "9",
+      "part_number": "11 41 1 271 132",
+      "quantity": 1,
+      "description": "Gear wheel",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "9",
+      "part_number": "11 41 1 271 132",
+      "quantity": 1,
+      "description": "Gear wheel",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "9",
+      "part_number": "11 41 1 271 132",
+      "quantity": 1,
+      "description": "Gear wheel",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "9",
+      "part_number": "11 41 1 271 132",
+      "quantity": 1,
+      "description": "Gear wheel",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "10",
+      "part_number": "11 41 1 267 796",
+      "quantity": 1,
+      "description": "Connection piece",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34"
+    },
+    {
+      "position_number": "10",
+      "part_number": "11 41 1 267 796",
+      "quantity": 1,
+      "description": "Connection piece",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34"
+    },
+    {
+      "position_number": "10",
+      "part_number": "11 41 1 267 796",
+      "quantity": 1,
+      "description": "Connection piece",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34"
+    },
+    {
+      "position_number": "10",
+      "part_number": "11 41 1 267 796",
+      "quantity": 1,
+      "description": "Connection piece",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34"
+    },
+    {
+      "position_number": "11",
+      "part_number": "11 41 1 280 950",
+      "quantity": 2,
+      "description": "Stopper",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E46, Z1"
+    },
+    {
+      "position_number": "11",
+      "part_number": "11 41 1 280 950",
+      "quantity": 2,
+      "description": "Stopper",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E46, Z1"
+    },
+    {
+      "position_number": "11",
+      "part_number": "11 41 1 280 950",
+      "quantity": 2,
+      "description": "Stopper",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E46, Z1"
+    },
+    {
+      "position_number": "11",
+      "part_number": "11 41 1 280 950",
+      "quantity": 2,
+      "description": "Stopper",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E46, Z1"
+    },
+    {
+      "position_number": "12",
+      "part_number": "11 41 1 713 428",
+      "quantity": 1,
+      "description": "Gear wheel",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, Z1"
+    },
+    {
+      "position_number": "12",
+      "part_number": "11 41 1 713 428",
+      "quantity": 1,
+      "description": "Gear wheel",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, Z1"
+    },
+    {
+      "position_number": "12",
+      "part_number": "11 41 1 713 428",
+      "quantity": 1,
+      "description": "Gear wheel",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, Z1"
+    },
+    {
+      "position_number": "12",
+      "part_number": "11 41 1 713 428",
+      "quantity": 1,
+      "description": "Gear wheel",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, Z1"
+    },
+    {
+      "position_number": "13",
+      "part_number": "11 11 1 265 412",
+      "quantity": 1,
+      "description": "Needle sleeve",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, Z1"
+    },
+    {
+      "position_number": "13",
+      "part_number": "11 11 1 265 180",
+      "quantity": 1,
+      "description": "Needle sleeve",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, Z1"
+    },
+    {
+      "position_number": "13",
+      "part_number": "11 11 1 265 412",
+      "quantity": 1,
+      "description": "Needle sleeve",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, Z1"
+    },
+    {
+      "position_number": "13",
+      "part_number": "11 11 1 265 180",
+      "quantity": 1,
+      "description": "Needle sleeve",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, Z1"
+    },
+    {
+      "position_number": "13",
+      "part_number": "11 11 1 265 412",
+      "quantity": 1,
+      "description": "Needle sleeve",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, Z1"
+    },
+    {
+      "position_number": "13",
+      "part_number": "11 11 1 265 180",
+      "quantity": 1,
+      "description": "Needle sleeve",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, Z1"
+    },
+    {
+      "position_number": "13",
+      "part_number": "11 11 1 265 412",
+      "quantity": 1,
+      "description": "Needle sleeve",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, Z1"
+    },
+    {
+      "position_number": "13",
+      "part_number": "11 11 1 265 180",
+      "quantity": 1,
+      "description": "Needle sleeve",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, Z1"
+    },
+    {
+      "position_number": "14",
+      "part_number": "12 11 1 363 190",
+      "quantity": 1,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, Z1"
+    },
+    {
+      "position_number": "14",
+      "part_number": "12 11 1 363 190",
+      "quantity": 1,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, Z1"
+    },
+    {
+      "position_number": "14",
+      "part_number": "12 11 1 363 190",
+      "quantity": 1,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, Z1"
+    },
+    {
+      "position_number": "14",
+      "part_number": "12 11 1 363 190",
+      "quantity": 1,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, Z1"
+    },
+    {
+      "position_number": "15",
+      "part_number": "11 41 1 275 867",
+      "quantity": 1,
+      "description": "Bearing cover",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "15",
+      "part_number": "11 41 1 275 867",
+      "quantity": 1,
+      "description": "Bearing cover",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "15",
+      "part_number": "11 41 1 275 867",
+      "quantity": 1,
+      "description": "Bearing cover",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "15",
+      "part_number": "11 41 1 275 867",
+      "quantity": 1,
+      "description": "Bearing cover",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 11 9 932 095",
+      "quantity": 3,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E53, E9, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 11 9 932 095",
+      "quantity": 3,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E53, E9, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 11 9 932 095",
+      "quantity": 3,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E53, E9, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 11 9 932 095",
+      "quantity": 3,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E53, E9, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "17",
+      "part_number": "07 11 9 913 653",
+      "quantity": 3,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E53, Z1, Z3"
+    },
+    {
+      "position_number": "17",
+      "part_number": "07 11 9 913 653",
+      "quantity": 3,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E53, Z1, Z3"
+    },
+    {
+      "position_number": "17",
+      "part_number": "07 11 9 913 653",
+      "quantity": 3,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E53, Z1, Z3"
+    },
+    {
+      "position_number": "17",
+      "part_number": "07 11 9 913 653",
+      "quantity": 3,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E53, Z1, Z3"
+    },
+    {
+      "position_number": "18",
+      "part_number": "11 41 1 275 097",
+      "quantity": 1,
+      "description": "Valve",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "18",
+      "part_number": "11 41 1 275 097",
+      "quantity": 1,
+      "description": "Valve",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "18",
+      "part_number": "11 41 1 275 097",
+      "quantity": 1,
+      "description": "Valve",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "18",
+      "part_number": "11 41 1 275 097",
+      "quantity": 1,
+      "description": "Valve",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "19",
+      "part_number": "11 41 1 287 250",
+      "quantity": 1,
+      "description": "Compression spring",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "19",
+      "part_number": "11 41 1 287 250",
+      "quantity": 1,
+      "description": "Compression spring",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "19",
+      "part_number": "11 41 1 287 250",
+      "quantity": 1,
+      "description": "Compression spring",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "19",
+      "part_number": "11 41 1 287 250",
+      "quantity": 1,
+      "description": "Compression spring",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "20",
+      "part_number": "11 41 1 275 099",
+      "quantity": 1,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "20",
+      "part_number": "11 41 1 275 099",
+      "quantity": 1,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "20",
+      "part_number": "11 41 1 275 099",
+      "quantity": 1,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "20",
+      "part_number": "11 41 1 275 099",
+      "quantity": 1,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "21",
+      "part_number": "07 11 9 934 640",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": "114, E12, E28, E3, E9, NK"
+    },
+    {
+      "position_number": "21",
+      "part_number": "33 30 7 745 110",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": "114, E12, E28, E3, E30, E34, E9, NK"
+    },
+    {
+      "position_number": "21",
+      "part_number": "07 11 9 934 640",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": "114, E12, E28, E3, E9, NK"
+    },
+    {
+      "position_number": "21",
+      "part_number": "33 30 7 745 110",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": "114, E12, E28, E3, E30, E34, E9, NK"
+    },
+    {
+      "position_number": "21",
+      "part_number": "07 11 9 934 640",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": "114, E12, E28, E3, E9, NK"
+    },
+    {
+      "position_number": "21",
+      "part_number": "33 30 7 745 110",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": "114, E12, E28, E3, E30, E34, E9, NK"
+    },
+    {
+      "position_number": "21",
+      "part_number": "07 11 9 934 640",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": "114, E12, E28, E3, E9, NK"
+    },
+    {
+      "position_number": "21",
+      "part_number": "33 30 7 745 110",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": "114, E12, E28, E3, E30, E34, E9, NK"
+    }
+  ]
+}

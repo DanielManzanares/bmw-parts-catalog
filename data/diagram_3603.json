@@ -1,0 +1,253 @@
+{
+  "id": 3603,
+  "diagram_title": "Seat, front, head restraint, base seat",
+  "image_url": "http://ills.bmwfans.info/hdk.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 267 622",
+      "quantity": 1,
+      "description": "Headrest cloth-leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 267 626",
+      "quantity": 1,
+      "description": "Headrest cloth-leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 267 625",
+      "quantity": 1,
+      "description": "Headrest cloth-leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 267 620",
+      "quantity": 1,
+      "description": "Headrest cloth-leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 7 026 074",
+      "quantity": 1,
+      "description": "Headrest cloth-leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 235 881",
+      "quantity": 1,
+      "description": "Headrest cloth-leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 235 882",
+      "quantity": 1,
+      "description": "Headrest cloth-leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 235 874",
+      "quantity": 1,
+      "description": "Headrest cloth-leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 267 624",
+      "quantity": 1,
+      "description": "Headrest cloth-leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 7 048 411",
+      "quantity": 1,
+      "description": "Headrest leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 7 048 410",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 7 047 008",
+      "quantity": 1,
+      "description": "Head rest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 7 048 412",
+      "quantity": 1,
+      "description": "Headrest leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 7 043 132",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 7 045 629",
+      "quantity": 1,
+      "description": "Head rest cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 7 045 630",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 7 047 006",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 7 047 007",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 235 854",
+      "quantity": 1,
+      "description": "Headrest cloth-leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 235 855",
+      "quantity": 1,
+      "description": "Headrest cloth-leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 235 856",
+      "quantity": 1,
+      "description": "Headrest cloth-leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 235 866",
+      "quantity": 1,
+      "description": "Headrest cloth-leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 235 853",
+      "quantity": 1,
+      "description": "Headrest cloth-leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 235 871",
+      "quantity": 1,
+      "description": "Headrest cloth-leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 235 872",
+      "quantity": 1,
+      "description": "Headrest cloth-leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 235 873",
+      "quantity": 1,
+      "description": "Headrest cloth-leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 226 262",
+      "quantity": 1,
+      "description": "Guide right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 226 266",
+      "quantity": 1,
+      "description": "Guide right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 226 261",
+      "quantity": 1,
+      "description": "Guide left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 226 265",
+      "quantity": 1,
+      "description": "Guide left",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

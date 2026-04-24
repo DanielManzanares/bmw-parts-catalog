@@ -1,0 +1,85 @@
+{
+  "id": 6425,
+  "diagram_title": "Front seat frame mech./el./singl.parts",
+  "image_url": "http://ills.bmwfans.info/15dm.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 226 420",
+      "quantity": 2,
+      "description": "Seat pan",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 260 868",
+      "quantity": 2,
+      "description": "Elastic mat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 8 260 845",
+      "quantity": 2,
+      "description": "Left set of covers",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 8 260 846",
+      "quantity": 2,
+      "description": "Right set of covers",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 8 260 847",
+      "quantity": 2,
+      "description": "Left set of covers",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 8 260 848",
+      "quantity": 2,
+      "description": "Right set of covers",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 8 260 849",
+      "quantity": 2,
+      "description": "Left set of covers",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 8 260 850",
+      "quantity": 2,
+      "description": "Right set of covers",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 10 8 240 499",
+      "quantity": 2,
+      "description": "Set of fittings for seat shell",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

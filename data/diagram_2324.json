@@ -1,0 +1,29 @@
+{
+  "id": 2324,
+  "diagram_title": "Installing set heated seat front",
+  "image_url": "http://ills.bmwfans.info/1xua.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 11 9 402 814",
+      "quantity": 1,
+      "description": "Inst.kit for seat heating on both sides",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 11 9 402 813",
+      "quantity": 1,
+      "description": "Inst.kit for seat heating on both sides",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id": 5834,
+  "diagram_title": "Outside mirror",
+  "image_url": "http://ills.bmwfans.info/2sa4.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 153 133",
+      "quantity": 1,
+      "description": "Heated outside mirror, memory bus, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 153 134",
+      "quantity": 1,
+      "description": "Heated outside mirror, memory bus, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 153 159",
+      "quantity": 1,
+      "description": "Heated outside mirror, memory bus, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 153 160",
+      "quantity": 1,
+      "description": "Heated outside mirror, memory bus, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 7 153 143",
+      "quantity": 1,
+      "description": "Heated outside mirror, memory bus, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 7 153 144",
+      "quantity": 1,
+      "description": "Heated outside mirror, memory bus, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 7 153 169",
+      "quantity": 1,
+      "description": "Heated outside mirror, memory bus, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 7 153 170",
+      "quantity": 1,
+      "description": "Heated outside mirror, memory bus, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 7 074 235",
+      "quantity": 1,
+      "description": "Cover cap, primed, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 7 074 236",
+      "quantity": 1,
+      "description": "Cover cap, primed, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 0 143 404",
+      "quantity": 1,
+      "description": "Cover cap, primed, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 0 143 405",
+      "quantity": 1,
+      "description": "Cover cap, primed, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 8 220 001",
+      "quantity": 8,
+      "description": "Screw self-tapping",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "67 13 6 961 406",
+      "quantity": 1,
+      "description": "Rep.kit f memory drive driver's side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "67 13 6 961 407",
+      "quantity": 1,
+      "description": "Rep.kit f memory drive driver's side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 16 0 016 547",
+      "quantity": 8,
+      "description": "Clip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 16 7 002 913",
+      "quantity": 1,
+      "description": "Supporting ring left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 16 7 002 914",
+      "quantity": 1,
+      "description": "Supporting ring left",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

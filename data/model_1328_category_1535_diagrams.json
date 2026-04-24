@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1922,
+    "diagram_title": "Accelerator pedal",
+    "image_url": "http://ills.bmwfans.info/1ke.png",
+    "parts_count": 88
+  },
+  {
+    "id": 1926,
+    "diagram_title": "Diesel injection pump",
+    "image_url": "http://ills.bmwfans.info/1kc.png",
+    "parts_count": 72
+  },
+  {
+    "id": 1923,
+    "diagram_title": "Fuel strainer with heating",
+    "image_url": "http://ills.bmwfans.info/1kf.png",
+    "parts_count": 80
+  },
+  {
+    "id": 1925,
+    "diagram_title": "Insert injection nozzle",
+    "image_url": "http://ills.bmwfans.info/1kn.png",
+    "parts_count": 40
+  },
+  {
+    "id": 1924,
+    "diagram_title": "Mechanical regulation",
+    "image_url": "http://ills.bmwfans.info/1kj.png",
+    "parts_count": 128
+  },
+  {
+    "id": 1927,
+    "diagram_title": "Nozzles/pipes of fuel injection system",
+    "image_url": "http://ills.bmwfans.info/1kg.png",
+    "parts_count": 108
+  },
+  {
+    "id": 1928,
+    "diagram_title": "Suction silencer/Filter cartridge",
+    "image_url": "http://ills.bmwfans.info/17n.png",
+    "parts_count": 56
+  },
+  {
+    "id": 1921,
+    "diagram_title": "Supporting bracket",
+    "image_url": "http://ills.bmwfans.info/1kd.png",
+    "parts_count": 80
+  }
+]

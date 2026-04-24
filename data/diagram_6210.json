@@ -1,0 +1,229 @@
+{
+  "id": 6210,
+  "diagram_title": "Storing partition mounting parts",
+  "image_url": "http://ills.bmwfans.info/1vdo.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 038 323",
+      "quantity": 1,
+      "description": "Insert with roller cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 038 324",
+      "quantity": 1,
+      "description": "Insert with roller cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 038 325",
+      "quantity": 1,
+      "description": "Insert with roller cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 7 038 328",
+      "quantity": 1,
+      "description": "Floor carpet, front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 7 038 329",
+      "quantity": 1,
+      "description": "Floor carpet, front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 8 242 846",
+      "quantity": 1,
+      "description": "Rear tray",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 8 242 847",
+      "quantity": 1,
+      "description": "Rear tray",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 7 040 608",
+      "quantity": 1,
+      "description": "Pin holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 16 7 038 333",
+      "quantity": 1,
+      "description": "Roller cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 16 7 038 334",
+      "quantity": 1,
+      "description": "Roller cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 16 8 217 927",
+      "quantity": 1,
+      "description": "Console insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 16 8 217 929",
+      "quantity": 1,
+      "description": "Console insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 16 8 248 498",
+      "quantity": 1,
+      "description": "Console insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 16 8 242 843",
+      "quantity": 1,
+      "description": "Front tray",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 16 8 242 844",
+      "quantity": 1,
+      "description": "Front tray",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 16 8 217 953",
+      "quantity": 1,
+      "description": "Cup holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 16 8 217 955",
+      "quantity": 1,
+      "description": "Cup holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 16 8 248 504",
+      "quantity": 1,
+      "description": "Cup holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 16 8 242 861",
+      "quantity": 1,
+      "description": "Tension spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 16 8 217 957",
+      "quantity": 1,
+      "description": "Oddments tray with coinbox",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 16 8 217 959",
+      "quantity": 1,
+      "description": "Oddments tray with coinbox",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 16 8 248 505",
+      "quantity": 1,
+      "description": "Oddments tray with coinbox",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 16 8 242 859",
+      "quantity": 1,
+      "description": "Cup",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 16 8 242 860",
+      "quantity": 1,
+      "description": "Cup",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 16 7 043 093",
+      "quantity": 1,
+      "description": "Insert with roller cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 16 7 043 094",
+      "quantity": 1,
+      "description": "Insert with roller cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 16 7 043 095",
+      "quantity": 1,
+      "description": "Insert with roller cover",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

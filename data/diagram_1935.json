@@ -1,0 +1,61 @@
+{
+  "id": 1935,
+  "diagram_title": "Wide-angle mirror glass heata.plugged-in",
+  "image_url": "http://ills.bmwfans.info/d6d.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 1 926 853",
+      "quantity": 1,
+      "description": "Wide-angle mirror glass heata.plugged-in",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 1 926 853",
+      "quantity": 1,
+      "description": "Wide-angle mirror glass heata.plugged-in",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 1 926 853",
+      "quantity": 1,
+      "description": "Wide-angle mirror glass heata.plugged-in",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 1 926 845",
+      "quantity": 1,
+      "description": "Plugged-in wide-angle mirror glass",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 1 926 845",
+      "quantity": 1,
+      "description": "Plugged-in wide-angle mirror glass",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 1 926 845",
+      "quantity": 1,
+      "description": "Plugged-in wide-angle mirror glass",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

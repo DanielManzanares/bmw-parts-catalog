@@ -1,0 +1,69 @@
+{
+  "id": 5436,
+  "diagram_title": "Wiring harness, engine trans. module",
+  "image_url": "http://ills.bmwfans.info/36jn.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 51 7 512 079",
+      "quantity": 1,
+      "description": "Wiring harness, engine trans. module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 51 7 515 238",
+      "quantity": 1,
+      "description": "Wiring harness, engine trans. module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 51 7 506 028",
+      "quantity": 1,
+      "description": "Wiring harness, engine trans. module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 51 7 512 077",
+      "quantity": 1,
+      "description": "Wiring harness, engine trans. module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 51 7 512 077",
+      "quantity": 1,
+      "description": "Wiring harness, engine trans. module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 51 7 515 714",
+      "quantity": 1,
+      "description": "Wiring harness, engine trans. module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 51 7 515 715",
+      "quantity": 1,
+      "description": "Wiring harness, engine trans. module",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

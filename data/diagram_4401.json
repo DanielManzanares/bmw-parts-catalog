@@ -1,0 +1,125 @@
+{
+  "id": 4401,
+  "diagram_title": "Retrofit kit PDC II",
+  "image_url": "http://ills.bmwfans.info/2wim.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "66 21 0 395 007",
+      "quantity": 1,
+      "description": "Retrofit kit PDC-low front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 21 0 395 009",
+      "quantity": 1,
+      "description": "Retrofit kit PDC-low front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 21 0 392 377",
+      "quantity": 1,
+      "description": "Retrofit kit PDC-low front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 21 0 303 094",
+      "quantity": 1,
+      "description": "Retrofit kit PDC-low front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 21 0 306 587",
+      "quantity": 1,
+      "description": "Retrofit kit PDC-low front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 21 0 397 620",
+      "quantity": 1,
+      "description": "Retrofit kit PDC-low front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 21 0 401 097",
+      "quantity": 1,
+      "description": "Retrofit kit PDC-low front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 21 0 395 007",
+      "quantity": 1,
+      "description": "Retrofit kit PDC-low front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 21 0 395 009",
+      "quantity": 1,
+      "description": "Retrofit kit PDC-low front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 21 0 392 377",
+      "quantity": 1,
+      "description": "Retrofit kit PDC-low front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 21 0 303 094",
+      "quantity": 1,
+      "description": "Retrofit kit PDC-low front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 21 0 306 587",
+      "quantity": 1,
+      "description": "Retrofit kit PDC-low front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 21 0 397 620",
+      "quantity": 1,
+      "description": "Retrofit kit PDC-low front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "66 21 0 401 097",
+      "quantity": 1,
+      "description": "Retrofit kit PDC-low front",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

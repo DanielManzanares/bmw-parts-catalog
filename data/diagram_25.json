@@ -1,0 +1,173 @@
+{
+  "id": 25,
+  "diagram_title": "Waterpump — Thermostat",
+  "image_url": "http://ills.bmwfans.info/da.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1,
+  "category_name": "Engine",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "11 51 0 393 338",
+      "quantity": 1,
+      "description": "Coolant pump, mechanical",
+      "price_eur": null,
+      "compatible_models": "E30, E34, E36, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 51 0 393 338",
+      "quantity": 1,
+      "description": "Coolant pump, mechanical",
+      "price_eur": null,
+      "compatible_models": "E30, E34, E36, E46, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 51 1 714 519",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E30, E34, E36, E46, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 51 1 714 519",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E30, E34, E36, E46, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 904 527",
+      "quantity": 3,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F45, F46, F48, F85, F86, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 904 527",
+      "quantity": 3,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F45, F46, F48, F85, F86, G11, G12, I01, I12, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 901 036",
+      "quantity": 1,
+      "description": "Fillister-head screw",
+      "price_eur": 7.86,
+      "compatible_models": "E30, E34, E36, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "23 01 7 840 338",
+      "quantity": 1,
+      "description": "96",
+      "price_eur": null,
+      "compatible_models": "E36, E60, E61 Facelift, E63, E64, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 901 036",
+      "quantity": 1,
+      "description": "Fillister-head screw",
+      "price_eur": 7.86,
+      "compatible_models": "E30, E34, E36, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "23 01 7 840 338",
+      "quantity": 1,
+      "description": "96",
+      "price_eur": null,
+      "compatible_models": "E36, E60, E61 Facelift, E63, E64, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 53 1 721 966",
+      "quantity": 1,
+      "description": "Connection flange",
+      "price_eur": null,
+      "compatible_models": "E30, E36"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 53 1 721 966",
+      "quantity": 1,
+      "description": "Connection flange",
+      "price_eur": null,
+      "compatible_models": "E30, E36"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 53 7 511 083",
+      "quantity": 1,
+      "description": "Thermostat",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E38, E39, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 53 7 511 083",
+      "quantity": 1,
+      "description": "Thermostat",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E38, E39, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 53 1 721 218",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E30, E36"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 53 1 721 218",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E30, E36"
+    },
+    {
+      "position_number": "8",
+      "part_number": "11 53 1 721 172",
+      "quantity": 1,
+      "description": "Gasket Asbestos Free",
+      "price_eur": null,
+      "compatible_models": "E30, E36"
+    },
+    {
+      "position_number": "8",
+      "part_number": "11 53 1 721 172",
+      "quantity": 1,
+      "description": "Gasket Asbestos Free",
+      "price_eur": null,
+      "compatible_models": "E30, E36"
+    },
+    {
+      "position_number": "9",
+      "part_number": "07 11 9 906 123",
+      "quantity": 4,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70 Facelift, E71, E81, E82, E83 Facelift, E84, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F36, F45, F46, F48, F85, F86, G11, G12, I01, Z1, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "07 11 9 906 123",
+      "quantity": 4,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70 Facelift, E71, E81, E82, E83 Facelift, E84, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F36, F45, F46, F48, F85, F86, G11, G12, I01, Z1, Z3"
+    }
+  ]
+}

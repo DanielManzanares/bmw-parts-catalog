@@ -1,0 +1,21 @@
+{
+  "id": 1171,
+  "diagram_title": "basic_control_unit_egs_2",
+  "image_url": "/static/images/diagrams/E46_330Ci-M54_automatic_transmission_basic_control_unit_egs_2.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 456,
+  "category_name": "Automatic Transmission",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "12 52 1 744 630",
+      "quantity": 1,
+      "description": "Socket housing",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E65, E66, E67, E83, E85, E86, Z3"
+    }
+  ]
+}

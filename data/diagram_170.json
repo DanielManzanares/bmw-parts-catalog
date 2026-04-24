@@ -1,0 +1,573 @@
+{
+  "id": 170,
+  "diagram_title": "Front seat rail",
+  "image_url": "http://ills.bmwfans.info/bmb.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 144 065",
+      "quantity": 1,
+      "description": "Seat rail left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 144 066",
+      "quantity": 1,
+      "description": "Seat rail right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 144 065",
+      "quantity": 1,
+      "description": "Seat rail left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 144 066",
+      "quantity": 1,
+      "description": "Seat rail right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 932 110",
+      "quantity": 4,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "E30, E36, V8"
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 932 112",
+      "quantity": 4,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E46, E52, E53, E63, E63 Facelift, E83, E83 Facelift, E85, E86, E9, ISE, NK, V8, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 932 122",
+      "quantity": 4,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E63, E63 Facelift, E83, E83 Facelift, E85, E86, E9, ISE, NK, V8, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 904 201",
+      "quantity": 4,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "CMSP, E24, E26, E36, E38, E39, E46, E53, E60, E61, E63, E63 Facelift, E64, E65, E66, E67, E83, E83 Facelift, E85, E86, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F07, F07 Facelift, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 932 110",
+      "quantity": 4,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "E30, E36, V8"
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 932 112",
+      "quantity": 4,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E46, E52, E53, E63, E63 Facelift, E83, E83 Facelift, E85, E86, E9, ISE, NK, V8, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 932 122",
+      "quantity": 4,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E63, E63 Facelift, E83, E83 Facelift, E85, E86, E9, ISE, NK, V8, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 904 201",
+      "quantity": 4,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "CMSP, E24, E26, E36, E38, E39, E46, E53, E60, E61, E63, E63 Facelift, E64, E65, E66, E67, E83, E83 Facelift, E85, E86, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F07, F07 Facelift, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 900 036",
+      "quantity": 4,
+      "description": "Hex nut",
+      "price_eur": 89.9,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 8 265 533",
+      "quantity": 4,
+      "description": "Hex nut with ribs",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 14 9 156 956",
+      "quantity": 4,
+      "description": "99",
+      "price_eur": null,
+      "compatible_models": "E36, E46, E52, E53, E63, E63 Facelift, E64, E64 Facelift, E83, E83 Facelift, E85, E86"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 900 036",
+      "quantity": 4,
+      "description": "Hex nut",
+      "price_eur": 89.9,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 8 265 533",
+      "quantity": 4,
+      "description": "Hex nut with ribs",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 14 9 156 956",
+      "quantity": 4,
+      "description": "99",
+      "price_eur": null,
+      "compatible_models": "E36, E46, E52, E53, E63, E63 Facelift, E64, E64 Facelift, E83, E83 Facelift, E85, E86"
+    },
+    {
+      "position_number": "4",
+      "part_number": "67 31 8 357 057",
+      "quantity": 2,
+      "description": "Actuator inclination adjusting",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "67 31 8 357 057",
+      "quantity": 2,
+      "description": "Actuator inclination adjusting",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 8 151 153",
+      "quantity": 8,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 8 151 153",
+      "quantity": 8,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 157 465",
+      "quantity": 2,
+      "description": "Gearbox, seat tilt adjustment",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 8 157 465",
+      "quantity": 2,
+      "description": "Gearbox, seat tilt adjustment",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 8 151 154",
+      "quantity": 4,
+      "description": "Knirled nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 8 151 154",
+      "quantity": 4,
+      "description": "Knirled nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 151 152",
+      "quantity": 8,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 8 151 152",
+      "quantity": 8,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "07 11 9 900 035",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": 156.5,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "9",
+      "part_number": "52 10 8 211 438",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "07 11 9 900 035",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": 156.5,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "9",
+      "part_number": "52 10 8 211 438",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "52 10 8 157 463",
+      "quantity": 1,
+      "description": "Gear unit, longitudinal adjustment, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "52 10 8 157 464",
+      "quantity": 1,
+      "description": "Gear unit, longitudinal adjustment, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "52 10 8 157 463",
+      "quantity": 1,
+      "description": "Gear unit, longitudinal adjustment, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "52 10 8 157 464",
+      "quantity": 1,
+      "description": "Gear unit, longitudinal adjustment, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "52 10 8 151 151",
+      "quantity": 4,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "52 10 8 151 151",
+      "quantity": 4,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "52 10 8 157 467",
+      "quantity": 1,
+      "description": "Drive shaft left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "52 10 8 157 467",
+      "quantity": 1,
+      "description": "Drive shaft left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "67 31 8 353 225",
+      "quantity": 1,
+      "description": "Actuator horizontal adjustement",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "67 31 8 353 225",
+      "quantity": 1,
+      "description": "Actuator horizontal adjustement",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "52 10 8 157 466",
+      "quantity": 1,
+      "description": "Drive shaft right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "52 10 8 157 466",
+      "quantity": 1,
+      "description": "Drive shaft right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "52 10 8 119 601",
+      "quantity": 1,
+      "description": "Exterior left seat rail cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "52 10 8 119 602",
+      "quantity": 1,
+      "description": "Exterior right seat rail cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "52 10 8 119 601",
+      "quantity": 1,
+      "description": "Exterior left seat rail cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "52 10 8 119 602",
+      "quantity": 1,
+      "description": "Exterior right seat rail cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "52 10 8 151 597",
+      "quantity": 2,
+      "description": "Clip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "52 10 8 151 597",
+      "quantity": 2,
+      "description": "Clip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "51 11 1 944 537",
+      "quantity": 2,
+      "description": "Expanding rivet, black",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E52, E53, E81, E82, E83, E83 Facelift, E87, E87 Facelift, E88, Z1, Z3"
+    },
+    {
+      "position_number": "17",
+      "part_number": "51 11 1 944 537",
+      "quantity": 2,
+      "description": "Expanding rivet, black",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E52, E53, E81, E82, E83, E83 Facelift, E87, E87 Facelift, E88, Z1, Z3"
+    },
+    {
+      "position_number": "18",
+      "part_number": "52 10 8 169 015",
+      "quantity": 4,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "52 10 8 169 015",
+      "quantity": 4,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "52 10 8 156 224",
+      "quantity": 2,
+      "description": "Stopper",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "52 10 8 156 224",
+      "quantity": 2,
+      "description": "Stopper",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "52 10 8 165 727",
+      "quantity": 1,
+      "description": "Spring for left seat inclinat.adjustm.",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "52 10 8 165 728",
+      "quantity": 1,
+      "description": "Spring for right seat inclinat.adjustm.",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "52 10 8 165 727",
+      "quantity": 1,
+      "description": "Spring for left seat inclinat.adjustm.",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "52 10 8 165 728",
+      "quantity": 1,
+      "description": "Spring for right seat inclinat.adjustm.",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "52 20 8 132 174",
+      "quantity": 2,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "52 20 8 132 174",
+      "quantity": 2,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "07 11 9 931 020",
+      "quantity": 4,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E46, E52, E53, E83, E83 Facelift, E85, E86, E9, ISE, NK, Z1"
+    },
+    {
+      "position_number": "22",
+      "part_number": "07 11 9 904 198",
+      "quantity": 4,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E67, E83, E83 Facelift, E85, E86, E9, ISE, NK, Z1"
+    },
+    {
+      "position_number": "22",
+      "part_number": "07 11 9 931 020",
+      "quantity": 4,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E46, E52, E53, E83, E83 Facelift, E85, E86, E9, ISE, NK, Z1"
+    },
+    {
+      "position_number": "22",
+      "part_number": "07 11 9 904 198",
+      "quantity": 4,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E67, E83, E83 Facelift, E85, E86, E9, ISE, NK, Z1"
+    },
+    {
+      "position_number": "23",
+      "part_number": "52 10 8 171 806",
+      "quantity": 2,
+      "description": "Guide",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "52 10 8 171 806",
+      "quantity": 1,
+      "description": "Guide",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "24",
+      "part_number": "52 10 8 191 181",
+      "quantity": 4,
+      "description": "Seat rail extension adapter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "24",
+      "part_number": "52 10 8 191 181",
+      "quantity": 4,
+      "description": "Seat rail extension adapter",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 3679,
+  "diagram_title": "Microfilter",
+  "image_url": "http://ills.bmwfans.info/coi.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 11 9 069 895",
+      "quantity": 1,
+      "description": "Microfilter",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

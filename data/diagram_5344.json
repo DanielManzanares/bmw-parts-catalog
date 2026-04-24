@@ -1,0 +1,21 @@
+{
+  "id": 5344,
+  "diagram_title": "Service Kit for Inspection II",
+  "image_url": "http://ills.bmwfans.info/av0m.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1,
+  "category_name": "Engine",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "88 00 2 157 530",
+      "quantity": 1,
+      "description": "Service Kit for Inspection II",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

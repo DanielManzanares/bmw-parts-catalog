@@ -1,0 +1,101 @@
+{
+  "id": 6250,
+  "diagram_title": "Fine wood trim",
+  "image_url": "http://ills.bmwfans.info/ral.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 45 7 001 157",
+      "quantity": 1,
+      "description": "Wood panel, light maple, instr. panel, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 45 8 203 825",
+      "quantity": 1,
+      "description": "Wood panel, light maple, instr. panel, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 45 7 001 159",
+      "quantity": 1,
+      "description": "Wood panel, light maple, instr. panel, cntr",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 45 8 203 827",
+      "quantity": 1,
+      "description": "Wood panel, light maple, instr. panel, cntr",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 45 7 001 163",
+      "quantity": 1,
+      "description": "Wood panel, light maple, instr. panel, ri.",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 45 8 203 826",
+      "quantity": 1,
+      "description": "Wood panel, light maple, instr. panel, ri.",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 45 8 237 204",
+      "quantity": 1,
+      "description": "Set of wooden covers, cockpit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 45 8 214 679",
+      "quantity": 1,
+      "description": "Set of wooden covers, cockpit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 45 8 266 814",
+      "quantity": 7,
+      "description": "Insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 45 8 266 808",
+      "quantity": 1,
+      "description": "Pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 45 8 266 813",
+      "quantity": 1,
+      "description": "Threaded bolt",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

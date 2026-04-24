@@ -1,0 +1,29 @@
+{
+  "id": 7599,
+  "diagram_title": "Indiv.multi-f.armrest, load-thr.Alcantara",
+  "image_url": "http://ills.bmwfans.info/18t2.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 890 430",
+      "quantity": 1,
+      "description": "Armrest rear, Alcantara uni",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 8 016 150",
+      "quantity": 1,
+      "description": "Armrest rear, Alcantara uni",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

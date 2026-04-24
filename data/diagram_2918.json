@@ -1,0 +1,141 @@
+{
+  "id": 2918,
+  "diagram_title": "Wiring connections",
+  "image_url": "http://ills.bmwfans.info/v64.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 52 1 706 091",
+      "quantity": 1,
+      "description": "Plug housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "12 52 1 706 096",
+      "quantity": 1,
+      "description": "Plug housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "12 52 1 724 478",
+      "quantity": 6,
+      "description": "Plug housing",
+      "price_eur": null,
+      "compatible_models": "E30, E31, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "12 52 1 711 218",
+      "quantity": 1,
+      "description": "Plug housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "12 52 1 732 742",
+      "quantity": 1,
+      "description": "Plug housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "12 52 1 724 690",
+      "quantity": 1,
+      "description": "Cover, diagnostics plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "12 52 1 713 508",
+      "quantity": 1,
+      "description": "Protection cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "12 52 1 719 733",
+      "quantity": 1,
+      "description": "Protection cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "61 13 1 388 867",
+      "quantity": 1,
+      "description": "Diagnosis plug bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "12 52 1 711 219",
+      "quantity": 1,
+      "description": "Nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 13 1 389 113",
+      "quantity": 3,
+      "description": "Relay holder, black white",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "12 52 1 724 452",
+      "quantity": 1,
+      "description": "Rubber grommet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "12 52 1 732 634",
+      "quantity": 1,
+      "description": "Protection cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "12 52 1 732 694",
+      "quantity": 1,
+      "description": "Protection cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "12 52 1 732 593",
+      "quantity": 1,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "61 13 1 358 604",
+      "quantity": 1,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

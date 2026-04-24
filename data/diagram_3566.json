@@ -1,0 +1,45 @@
+{
+  "id": 3566,
+  "diagram_title": "Front aggregate protective plate",
+  "image_url": "http://ills.bmwfans.info/3ass.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 71 8 218 384",
+      "quantity": 1,
+      "description": "Front aggregate protective plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "41 13 2 291 403",
+      "quantity": 2,
+      "description": "Blind rivet nut, flat headed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 71 1 909 942",
+      "quantity": 2,
+      "description": "Blind rivet nut, flat headed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 71 8 205 286",
+      "quantity": 4,
+      "description": "Securing bolt",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

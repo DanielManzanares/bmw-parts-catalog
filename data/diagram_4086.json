@@ -1,0 +1,45 @@
+{
+  "id": 4086,
+  "diagram_title": "Single parts f V-Series centre console",
+  "image_url": "http://ills.bmwfans.info/227g.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1648,
+  "category_name": "Communication systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "84 21 6 907 045",
+      "quantity": 1,
+      "description": "Eject box, mobile telephone",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 12 0 025 612",
+      "quantity": 1,
+      "description": "Cable adapter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "84 21 6 916 564",
+      "quantity": 1,
+      "description": "Interface",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "84 21 6 919 778",
+      "quantity": 1,
+      "description": "Interface",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

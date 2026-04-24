@@ -1,0 +1,205 @@
+{
+  "id": 1386,
+  "diagram_title": "Drive flange suspension/gasket ring",
+  "image_url": "http://ills.bmwfans.info/3he.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 58,
+  "category_name": "Rear Axle",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "33 12 1 200 284",
+      "quantity": 1,
+      "description": "Dustcover plate",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E3, E30, E32, E34, E36, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "33 12 1 200 284",
+      "quantity": 1,
+      "description": "Dustcover plate",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E3, E30, E32, E34, E36, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "33 12 1 200 284",
+      "quantity": 1,
+      "description": "Dustcover plate",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E3, E30, E32, E34, E36, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "23 21 1 490 120",
+      "quantity": 1,
+      "description": "Securing plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "23 21 1 490 120",
+      "quantity": 1,
+      "description": "Securing plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "23 21 1 490 120",
+      "quantity": 1,
+      "description": "Securing plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "33 10 1 214 099",
+      "quantity": 1,
+      "description": "Shaft seal",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E3, E30, E32, E34, E36, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "33 10 1 214 099",
+      "quantity": 1,
+      "description": "Shaft seal",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E3, E30, E32, E34, E36, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "33 10 1 214 099",
+      "quantity": 1,
+      "description": "Shaft seal",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E3, E30, E32, E34, E36, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 12 1 203 615",
+      "quantity": 1,
+      "description": "Tapered roller bearing",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E3, E30, E32, E34, E36, E9, NK, Z1"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 12 1 203 615",
+      "quantity": 1,
+      "description": "Tapered roller bearing",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E3, E30, E32, E34, E36, E9, NK, Z1"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 12 1 203 615",
+      "quantity": 1,
+      "description": "Tapered roller bearing",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E3, E30, E32, E34, E36, E9, NK, Z1"
+    },
+    {
+      "position_number": "7",
+      "part_number": "33 12 1 203 616",
+      "quantity": 1,
+      "description": "Tapered roller bearing",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E3, E30, E32, E34, E36, E9, NK, Z1"
+    },
+    {
+      "position_number": "7",
+      "part_number": "33 12 1 203 616",
+      "quantity": 1,
+      "description": "Tapered roller bearing",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E3, E30, E32, E34, E36, E9, NK, Z1"
+    },
+    {
+      "position_number": "7",
+      "part_number": "33 12 1 203 616",
+      "quantity": 1,
+      "description": "Tapered roller bearing",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E3, E30, E32, E34, E36, E9, NK, Z1"
+    },
+    {
+      "position_number": "8",
+      "part_number": "33 12 1 744 368",
+      "quantity": 1,
+      "description": "Clamping bush",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E3, E30, E32, E34, E36, E9, NK, Z1"
+    },
+    {
+      "position_number": "8",
+      "part_number": "33 12 1 744 368",
+      "quantity": 1,
+      "description": "Clamping bush",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E3, E30, E32, E34, E36, E9, NK, Z1"
+    },
+    {
+      "position_number": "8",
+      "part_number": "33 12 1 744 368",
+      "quantity": 1,
+      "description": "Clamping bush",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E3, E30, E32, E34, E36, E9, NK, Z1"
+    },
+    {
+      "position_number": "9",
+      "part_number": "33 12 9 065 179",
+      "quantity": 1,
+      "description": "Spacer rings set",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34, E36, Z1"
+    },
+    {
+      "position_number": "9",
+      "part_number": "33 12 9 065 180",
+      "quantity": 1,
+      "description": "Spacer rings set",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34, E36, Z1"
+    },
+    {
+      "position_number": "9",
+      "part_number": "33 12 9 065 179",
+      "quantity": 1,
+      "description": "Spacer rings set",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34, E36, Z1"
+    },
+    {
+      "position_number": "9",
+      "part_number": "33 12 9 065 180",
+      "quantity": 1,
+      "description": "Spacer rings set",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34, E36, Z1"
+    },
+    {
+      "position_number": "9",
+      "part_number": "33 12 9 065 179",
+      "quantity": 1,
+      "description": "Spacer rings set",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34, E36, Z1"
+    },
+    {
+      "position_number": "9",
+      "part_number": "33 12 9 065 180",
+      "quantity": 1,
+      "description": "Spacer rings set",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34, E36, Z1"
+    }
+  ]
+}

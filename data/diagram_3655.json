@@ -1,0 +1,349 @@
+{
+  "id": 3655,
+  "diagram_title": "Seat rear, center armrest, multifunction",
+  "image_url": "http://ills.bmwfans.info/1su2.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 041 800",
+      "quantity": 1,
+      "description": "Armrest lower cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 041 802",
+      "quantity": 1,
+      "description": "Armrest lower cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 041 804",
+      "quantity": 1,
+      "description": "Armrest lower cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 047 382",
+      "quantity": 1,
+      "description": "Armrest lower cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 041 796",
+      "quantity": 1,
+      "description": "Armrest lower cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 041 797",
+      "quantity": 1,
+      "description": "Armrest lower cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 041 798",
+      "quantity": 1,
+      "description": "Armrest lower cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 047 383",
+      "quantity": 1,
+      "description": "Armrest lower cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 057 356",
+      "quantity": 1,
+      "description": "Armrest lower cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 041 783",
+      "quantity": 1,
+      "description": "Armrest lower cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 041 784",
+      "quantity": 1,
+      "description": "Armrest lower cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 041 786",
+      "quantity": 1,
+      "description": "Armrest lower cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 047 385",
+      "quantity": 1,
+      "description": "Armrest lower cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 041 781",
+      "quantity": 1,
+      "description": "Armrest lower cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 041 782",
+      "quantity": 1,
+      "description": "Armrest lower cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 041 792",
+      "quantity": 1,
+      "description": "Armrest lower cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 041 793",
+      "quantity": 1,
+      "description": "Armrest lower cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 041 794",
+      "quantity": 1,
+      "description": "Armrest lower cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 041 787",
+      "quantity": 1,
+      "description": "Armrest lower cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 041 789",
+      "quantity": 1,
+      "description": "Armrest lower cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 041 791",
+      "quantity": 1,
+      "description": "Armrest lower cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 7 041 825",
+      "quantity": 1,
+      "description": "Armrest upper cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 7 041 827",
+      "quantity": 1,
+      "description": "Armrest upper cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 7 041 829",
+      "quantity": 1,
+      "description": "Armrest upper cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 7 047 386",
+      "quantity": 1,
+      "description": "Armrest upper cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 7 041 821",
+      "quantity": 1,
+      "description": "Armrest upper cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 7 041 822",
+      "quantity": 1,
+      "description": "Armrest upper cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 7 041 823",
+      "quantity": 1,
+      "description": "Armrest upper cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 7 047 387",
+      "quantity": 1,
+      "description": "Armrest upper cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 7 057 357",
+      "quantity": 1,
+      "description": "Armrest upper cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 7 041 808",
+      "quantity": 1,
+      "description": "Armrest upper cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 7 041 809",
+      "quantity": 1,
+      "description": "Armrest upper cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 7 041 811",
+      "quantity": 1,
+      "description": "Armrest upper cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 7 041 806",
+      "quantity": 1,
+      "description": "Armrest upper cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 7 041 807",
+      "quantity": 1,
+      "description": "Armrest upper cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 7 041 817",
+      "quantity": 1,
+      "description": "Armrest upper cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 7 041 818",
+      "quantity": 1,
+      "description": "Armrest upper cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 7 041 819",
+      "quantity": 1,
+      "description": "Armrest upper cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 7 041 812",
+      "quantity": 1,
+      "description": "Armrest upper cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 7 041 814",
+      "quantity": 1,
+      "description": "Armrest upper cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 7 041 816",
+      "quantity": 1,
+      "description": "Armrest upper cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 7 041 830",
+      "quantity": 1,
+      "description": "Cup holder",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": 3988,
+  "diagram_title": "Air-conditioner compressor",
+  "image_url": "http://ills.bmwfans.info/1x9m.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 52 6 910 458",
+      "quantity": 1,
+      "description": "Air-conditioner compressor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "64 52 6 911 340",
+      "quantity": 1,
+      "description": "Air-conditioner compressor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 52 8 375 442",
+      "quantity": 1,
+      "description": "Temperature switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 52 8 375 418",
+      "quantity": 1,
+      "description": "Relief valve",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 52 6 910 463",
+      "quantity": 1,
+      "description": "Relief valve",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

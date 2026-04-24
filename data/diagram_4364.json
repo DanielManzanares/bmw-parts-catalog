@@ -1,0 +1,173 @@
+{
+  "id": 4364,
+  "diagram_title": "Retrofit, M outside mirror",
+  "image_url": "http://ills.bmwfans.info/1w51.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 901 765",
+      "quantity": 1,
+      "description": "Left primed el.exterior heatable mirror",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 901 766",
+      "quantity": 1,
+      "description": "Left primed el.exterior heatable mirror",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 893 468",
+      "quantity": 1,
+      "description": "Left primed el.exterior heatable mirror",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 893 597",
+      "quantity": 1,
+      "description": "Left primed el.exterior heatable mirror",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 901 765",
+      "quantity": 1,
+      "description": "Left primed el.exterior heatable mirror",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 901 766",
+      "quantity": 1,
+      "description": "Left primed el.exterior heatable mirror",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 901 765",
+      "quantity": 1,
+      "description": "Left primed el.exterior heatable mirror",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 901 766",
+      "quantity": 1,
+      "description": "Left primed el.exterior heatable mirror",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 893 468",
+      "quantity": 1,
+      "description": "Left primed el.exterior heatable mirror",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 893 597",
+      "quantity": 1,
+      "description": "Left primed el.exterior heatable mirror",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 901 765",
+      "quantity": 1,
+      "description": "Left primed el.exterior heatable mirror",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 901 766",
+      "quantity": 1,
+      "description": "Left primed el.exterior heatable mirror",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 7 893 567",
+      "quantity": 1,
+      "description": "Left primed el.exterior heatable mirror",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 7 893 568",
+      "quantity": 1,
+      "description": "Left primed el.exterior heatable mirror",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 7 893 567",
+      "quantity": 1,
+      "description": "Left primed el.exterior heatable mirror",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 7 893 568",
+      "quantity": 1,
+      "description": "Left primed el.exterior heatable mirror",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 71 1 976 999",
+      "quantity": 1,
+      "description": "Adhesive tape",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 71 1 976 999",
+      "quantity": 1,
+      "description": "Adhesive tape",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 8 220 001",
+      "quantity": 3,
+      "description": "Screw self-tapping",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 8 220 001",
+      "quantity": 3,
+      "description": "Screw self-tapping",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

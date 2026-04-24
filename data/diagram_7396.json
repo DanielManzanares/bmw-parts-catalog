@@ -1,0 +1,149 @@
+{
+  "id": 7396,
+  "diagram_title": "Summer tires",
+  "image_url": "http://ills.bmwfans.info/38kn.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1649,
+  "category_name": "Complete wheel and tyre sets",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 535 015",
+      "quantity": 1,
+      "description": "Bridgestone Potenza RE 040",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 535 018",
+      "quantity": 1,
+      "description": "Bridgestone Potenza RE 040",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 535 418",
+      "quantity": 1,
+      "description": "Bridgestone Potenza RE 040",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 535 413",
+      "quantity": 1,
+      "description": "Bridgestone Turanza ER 30",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 546 189",
+      "quantity": 1,
+      "description": "Bridgestone Potenza RE 040",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 535 811",
+      "quantity": 1,
+      "description": "Bridgestone Turanza ER 30",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 535 415",
+      "quantity": 1,
+      "description": "Bridgestone Turanza ER 30",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 535 419",
+      "quantity": 1,
+      "description": "Bridgestone Turanza ER 30",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 535 815",
+      "quantity": 1,
+      "description": "Bridgestone Potenza RE 040",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 543 842",
+      "quantity": 1,
+      "description": "Bridgestone Potenza RE 040",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 536 717",
+      "quantity": 1,
+      "description": "Bridgestone Potenza RE 040",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 535 816",
+      "quantity": 1,
+      "description": "Bridgestone Potenza RE 040",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 541 605",
+      "quantity": 1,
+      "description": "Bridgestone Potenza RE 040",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 536 716",
+      "quantity": 1,
+      "description": "Bridgestone Potenza RE 040",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 536 776",
+      "quantity": 1,
+      "description": "Bridgestone Turanza ER 30",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 543 760",
+      "quantity": 1,
+      "description": "Bridgestone Turanza ER 30",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "85 45 2 536 773",
+      "quantity": 1,
+      "description": "Bridgestone Turanza ER 30",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

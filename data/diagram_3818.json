@@ -1,0 +1,85 @@
+{
+  "id": 3818,
+  "diagram_title": "Antenna accessories",
+  "image_url": "http://ills.bmwfans.info/d1b.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "65 21 1 376 010",
+      "quantity": 1,
+      "description": "Telescope chrom",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 12 9 410 308",
+      "quantity": 1,
+      "description": "Set of fittings rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "65 21 1 376 009",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "16 13 1 176 747",
+      "quantity": 2,
+      "description": "Plastic nut",
+      "price_eur": null,
+      "compatible_models": "CMSP, E23, E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E64, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F46, F48, F80, F80 Facelift, F82, F83, F85, F86, F87, G11, G12, I01, I12, Z1, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "65 21 1 376 008",
+      "quantity": 1,
+      "description": "Grommet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 922 824",
+      "quantity": 1,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 11 9 932 099",
+      "quantity": 1,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E9, NK, V8, Z1, Z3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 11 9 904 496",
+      "quantity": 1,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "114, 700, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E9, NK, Z1"
+    },
+    {
+      "position_number": "9",
+      "part_number": "65 21 1 394 200",
+      "quantity": 1,
+      "description": "Antenna cable",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

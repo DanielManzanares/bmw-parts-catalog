@@ -1,0 +1,21 @@
+{
+  "id": 4157,
+  "diagram_title": "Individual armrest, front, leather",
+  "image_url": "http://ills.bmwfans.info/22sf.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 009 038",
+      "quantity": 1,
+      "description": "Armrest leather",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

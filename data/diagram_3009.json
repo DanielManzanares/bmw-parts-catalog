@@ -1,0 +1,69 @@
+{
+  "id": 3009,
+  "diagram_title": "A5S325Z oil pan",
+  "image_url": "http://ills.bmwfans.info/6kr.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 456,
+  "category_name": "Automatic Transmission",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "24 11 7 507 556",
+      "quantity": 1,
+      "description": "Oil Pan",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, E85"
+    },
+    {
+      "position_number": "1",
+      "part_number": "24 11 7 507 556",
+      "quantity": 1,
+      "description": "Oil Pan",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, E85"
+    },
+    {
+      "position_number": "2",
+      "part_number": "24 11 1 206 468",
+      "quantity": 8,
+      "description": "Magnet",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E85, NK"
+    },
+    {
+      "position_number": "3",
+      "part_number": "24 11 7 507 555",
+      "quantity": 1,
+      "description": "Screw plug",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, E85"
+    },
+    {
+      "position_number": "4",
+      "part_number": "24 10 1 423 380",
+      "quantity": 1,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, E85"
+    },
+    {
+      "position_number": "5",
+      "part_number": "24 10 1 423 273",
+      "quantity": 22,
+      "description": "Torx bolt",
+      "price_eur": null,
+      "compatible_models": "E31, E38, E39, E46, E52, E53, E85"
+    },
+    {
+      "position_number": "6",
+      "part_number": "24 11 1 423 619",
+      "quantity": 1,
+      "description": "Stick-on label",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, E85"
+    }
+  ]
+}

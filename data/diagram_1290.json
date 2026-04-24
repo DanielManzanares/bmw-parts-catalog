@@ -1,0 +1,189 @@
+{
+  "id": 1290,
+  "diagram_title": "front_seat_backrest_frame_rear_panel",
+  "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_front_seat_backrest_frame_rear_panel.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 226 421",
+      "quantity": 2,
+      "description": "Backrest frame",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 7 043 136",
+      "quantity": 2,
+      "description": "Rear panel with net bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 7 043 139",
+      "quantity": 2,
+      "description": "Rear panel without net bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 235 900",
+      "quantity": 2,
+      "description": "Rear panel with net bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 235 901",
+      "quantity": 2,
+      "description": "Rear panel with net bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 235 902",
+      "quantity": 2,
+      "description": "Rear panel with net bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 235 903",
+      "quantity": 2,
+      "description": "Rear panel with net bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 235 904",
+      "quantity": 2,
+      "description": "Rear panel with net bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 235 905",
+      "quantity": 2,
+      "description": "Rear panel with net bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 240 380",
+      "quantity": 2,
+      "description": "Rear panel without net bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 240 381",
+      "quantity": 2,
+      "description": "Rear panel without net bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 240 382",
+      "quantity": 2,
+      "description": "Rear panel without net bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 240 383",
+      "quantity": 2,
+      "description": "Rear panel without net bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 240 384",
+      "quantity": 2,
+      "description": "Rear panel without net bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 240 385",
+      "quantity": 2,
+      "description": "Rear panel without net bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 267 633",
+      "quantity": 2,
+      "description": "Rear panel with net bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 7 048 629",
+      "quantity": 2,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 267 632",
+      "quantity": 2,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 267 634",
+      "quantity": 2,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 7 004 689",
+      "quantity": 2,
+      "description": "Valve unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 10 8 099 008",
+      "quantity": 2,
+      "description": "Lumbar support pump",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 8 099 007",
+      "quantity": 2,
+      "description": "Lordosis pad",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

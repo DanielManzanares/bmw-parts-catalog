@@ -1,0 +1,173 @@
+{
+  "id": 2197,
+  "diagram_title": "Sound insulation",
+  "image_url": "http://ills.bmwfans.info/b0m.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 48 1 932 987",
+      "quantity": 1,
+      "description": "Sound insulating dash panel engine room",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 48 1 909 394",
+      "quantity": 1,
+      "description": "Sound insulation, bulkhead, interior",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 48 1 904 310",
+      "quantity": 1,
+      "description": "Sound insulating heater center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 48 1 920 858",
+      "quantity": 1,
+      "description": "Sound insulating heater center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 48 1 900 215",
+      "quantity": 1,
+      "description": "Sound insulating heater panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 48 1 900 216",
+      "quantity": 1,
+      "description": "Sound insulating heater panel left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 48 1 885 039",
+      "quantity": 1,
+      "description": "Sound insulating roof front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 48 1 883 029",
+      "quantity": 1,
+      "description": "Sound insulating roof rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 48 1 815 887",
+      "quantity": 1,
+      "description": "Sound insulating rear window frame left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 48 1 815 888",
+      "quantity": 1,
+      "description": "Sound insulating rear window frame left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 48 1 909 395",
+      "quantity": 1,
+      "description": "Front floor panel sound insulation",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 48 1 887 669",
+      "quantity": 1,
+      "description": "Sound insulation floor rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 48 1 887 670",
+      "quantity": 1,
+      "description": "Sound insulation floor rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 48 1 873 568",
+      "quantity": 1,
+      "description": "Sound insulating front trunk panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "61 66 1 368 599",
+      "quantity": 1,
+      "description": "Push-button",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 48 1 900 729",
+      "quantity": 1,
+      "description": "Push-button",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 48 1 923 999",
+      "quantity": 1,
+      "description": "Push-button",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "51 48 1 904 142",
+      "quantity": 6,
+      "description": "Expanding rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "51 48 1 864 964",
+      "quantity": 1,
+      "description": "Sound deadener",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "51 48 8 165 271",
+      "quantity": 1,
+      "description": "Sound deadener",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

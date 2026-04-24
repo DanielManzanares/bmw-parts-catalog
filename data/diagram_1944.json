@@ -1,0 +1,37 @@
+{
+  "id": 1944,
+  "diagram_title": "Gear shift knob",
+  "image_url": "http://ills.bmwfans.info/d5m.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "3",
+      "part_number": "82 11 9 413 231",
+      "quantity": 1,
+      "description": "Shifting knob, wood nussbaum-wurzel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 11 9 413 231",
+      "quantity": 1,
+      "description": "Shifting knob, wood nussbaum-wurzel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 11 9 413 231",
+      "quantity": 1,
+      "description": "Shifting knob, wood nussbaum-wurzel",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

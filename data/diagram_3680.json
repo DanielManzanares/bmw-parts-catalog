@@ -1,0 +1,93 @@
+{
+  "id": 3680,
+  "diagram_title": "Wiring set seat",
+  "image_url": "http://ills.bmwfans.info/341x.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 255 704",
+      "quantity": 2,
+      "description": "Wire, seat belt tensioner/seat plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 240 500",
+      "quantity": 2,
+      "description": "Wiring set, seat occupancy identificat.",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 8 226 434",
+      "quantity": 1,
+      "description": "Wiring co-drivers side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 8 226 430",
+      "quantity": 1,
+      "description": "Wiring co-drivers side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 8 226 434",
+      "quantity": 1,
+      "description": "Wiring co-drivers side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 10 8 226 401",
+      "quantity": 1,
+      "description": "Wiring set f left seat adjustm./lordosis",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 10 8 226 402",
+      "quantity": 1,
+      "description": "Wiring set f left seat adjustm./lordosis",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 10 8 226 403",
+      "quantity": 1,
+      "description": "Wiring set f left seat adjustm./lordosis",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 10 8 226 404",
+      "quantity": 1,
+      "description": "Wiring set f left seat adjustm./lordosis",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "61 13 8 373 310",
+      "quantity": 1,
+      "description": "Socket housing, yellow",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

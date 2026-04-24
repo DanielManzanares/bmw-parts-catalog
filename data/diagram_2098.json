@@ -1,0 +1,205 @@
+{
+  "id": 2098,
+  "diagram_title": "BMW assembly instructions",
+  "image_url": "http://ills.bmwfans.info/3iqh.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1531,
+  "category_name": "Technical Literature",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "01 39 9 783 028",
+      "quantity": 1,
+      "description": "Mounting instruction",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 39 9 784 697",
+      "quantity": 1,
+      "description": "Mounting instruction",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 39 9 784 698",
+      "quantity": 1,
+      "description": "Mounting instruction",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 39 9 783 028",
+      "quantity": 1,
+      "description": "Mounting instruction",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 39 9 784 697",
+      "quantity": 1,
+      "description": "Mounting instruction",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 39 9 784 698",
+      "quantity": 1,
+      "description": "Mounting instruction",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 39 9 783 028",
+      "quantity": 1,
+      "description": "Mounting instruction",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 39 9 784 697",
+      "quantity": 1,
+      "description": "Mounting instruction",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 39 9 784 698",
+      "quantity": 1,
+      "description": "Mounting instruction",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 39 9 783 028",
+      "quantity": 1,
+      "description": "Mounting instruction",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 39 9 784 697",
+      "quantity": 1,
+      "description": "Mounting instruction",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 39 9 784 698",
+      "quantity": 1,
+      "description": "Mounting instruction",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 39 9 783 028",
+      "quantity": 1,
+      "description": "Mounting instruction",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 39 9 784 697",
+      "quantity": 1,
+      "description": "Mounting instruction",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 39 9 784 698",
+      "quantity": 1,
+      "description": "Mounting instruction",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 39 9 783 028",
+      "quantity": 1,
+      "description": "Mounting instruction",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 39 9 784 697",
+      "quantity": 1,
+      "description": "Mounting instruction",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 39 9 784 698",
+      "quantity": 1,
+      "description": "Mounting instruction",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 39 9 783 028",
+      "quantity": 1,
+      "description": "Mounting instruction",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 39 9 784 697",
+      "quantity": 1,
+      "description": "Mounting instruction",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 39 9 784 698",
+      "quantity": 1,
+      "description": "Mounting instruction",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "01 39 9 783 028",
+      "quantity": 1,
+      "description": "Mounting instruction",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "01 39 9 784 697",
+      "quantity": 1,
+      "description": "Mounting instruction",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "01 39 9 784 698",
+      "quantity": 1,
+      "description": "Mounting instruction",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

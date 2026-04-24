@@ -1,0 +1,37 @@
+{
+  "id": 7018,
+  "diagram_title": "Air-conditioner compressor",
+  "image_url": "http://ills.bmwfans.info/1x9m.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 52 9 175 669",
+      "quantity": 1,
+      "description": "Rmfd air cond.compessor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "64 50 9 182 795",
+      "quantity": 1,
+      "description": "Rmfd air cond.compessor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "64 52 6 912 400",
+      "quantity": 1,
+      "description": "Plug",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

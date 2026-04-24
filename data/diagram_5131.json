@@ -1,0 +1,77 @@
+{
+  "id": 5131,
+  "diagram_title": "Retrofit kit, CD-changer",
+  "image_url": "http://ills.bmwfans.info/1spx.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 12 0 137 913",
+      "quantity": 1,
+      "description": "Retrofit kit, CD-changer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 0 410 840",
+      "quantity": 1,
+      "description": "Retrofit kit, CD-changer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 0 137 912",
+      "quantity": 1,
+      "description": "Retrofit kit, CD-changer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 0 410 839",
+      "quantity": 1,
+      "description": "Retrofit kit, CD-changer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 0 137 913",
+      "quantity": 1,
+      "description": "Retrofit kit, CD-changer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 0 410 840",
+      "quantity": 1,
+      "description": "Retrofit kit, CD-changer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 0 137 912",
+      "quantity": 1,
+      "description": "Retrofit kit, CD-changer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 0 410 839",
+      "quantity": 1,
+      "description": "Retrofit kit, CD-changer",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

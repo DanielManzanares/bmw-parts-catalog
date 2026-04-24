@@ -1,0 +1,21 @@
+{
+  "id": 3922,
+  "diagram_title": "Headlight",
+  "image_url": "http://ills.bmwfans.info/2d2z.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 184,
+  "category_name": "Lighting",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "63 12 9 071 750",
+      "quantity": 1,
+      "description": "Set masking foil f headlight",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "id": 5345,
+  "diagram_title": "Crankshaft with bearing shells",
+  "image_url": "http://ills.bmwfans.info/1vfs.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1,
+  "category_name": "Engine",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "11 21 0 142 288",
+      "quantity": 1,
+      "description": "At-crankshaft with bearing shells",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 439 944",
+      "quantity": 4,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 439 945",
+      "quantity": 4,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 439 946",
+      "quantity": 4,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 7 512 509",
+      "quantity": 4,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 7 512 508",
+      "quantity": 4,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 7 512 507",
+      "quantity": 4,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 439 958",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 439 957",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 439 956",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 7 512 506",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 7 512 505",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 7 512 504",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 7 512 518",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 7 512 517",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 7 512 516",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 439 952",
+      "quantity": 1,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 439 953",
+      "quantity": 1,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 439 954",
+      "quantity": 1,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 7 512 515",
+      "quantity": 1,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 7 512 514",
+      "quantity": 1,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 7 512 513",
+      "quantity": 1,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 439 948",
+      "quantity": 4,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 439 949",
+      "quantity": 4,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 439 950",
+      "quantity": 4,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 7 512 510",
+      "quantity": 4,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 7 512 511",
+      "quantity": 4,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 7 512 512",
+      "quantity": 4,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 504 426",
+      "quantity": 8,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 504 427",
+      "quantity": 8,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 506 276",
+      "quantity": 8,
+      "description": "Bearing shell",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 506 277",
+      "quantity": 8,
+      "description": "04",
+      "price_eur": null,
+      "compatible_models": "E46"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": 2021,
+  "diagram_title": "Front body bracket",
+  "image_url": "http://ills.bmwfans.info/3x0.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "41 11 1 875 009",
+      "quantity": 1,
+      "description": "Covering plate left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "41 11 1 881 422",
+      "quantity": 1,
+      "description": "Covering plate right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "41 14 1 915 722",
+      "quantity": 1,
+      "description": "Bracket fuel strainer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "41 14 1 883 711",
+      "quantity": 1,
+      "description": "Cooling water compensation tank bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "41 14 1 871 979",
+      "quantity": 1,
+      "description": "Support fluid container windshield wash",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "41 14 1 900 678",
+      "quantity": 1,
+      "description": "Bracket regulator pressure accumulator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "41 14 1 900 691",
+      "quantity": 1,
+      "description": "Bracket expansion tank",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "41 14 1 901 519",
+      "quantity": 2,
+      "description": "Supporting bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 71 1 889 477",
+      "quantity": 1,
+      "description": "Support front apron",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "07 11 9 907 812",
+      "quantity": 2,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 13 1 914 097",
+      "quantity": 2,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "41 14 1 900 690",
+      "quantity": 1,
+      "description": "Bracket expansion tank",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "41 14 1 936 986",
+      "quantity": 1,
+      "description": "Bracket f.sensor",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 2225,
+  "diagram_title": "BMW Performance selector lever handle",
+  "image_url": "http://ills.bmwfans.info/a1ql.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "25 16 2 155 637",
+      "quantity": 1,
+      "description": "BMW Performance selector lever handle",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "25 16 2 153 763",
+      "quantity": 1,
+      "description": "Selector lever boot Performance",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

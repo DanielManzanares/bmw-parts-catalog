@@ -1,0 +1,61 @@
+{
+  "id": 2204,
+  "diagram_title": "Rear light, white turn indicator",
+  "image_url": "http://ills.bmwfans.info/dlq.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 19 9 405 442",
+      "quantity": 1,
+      "description": "Left rear light, white turn indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 19 9 405 443",
+      "quantity": 1,
+      "description": "Right rear light, white turn indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 19 9 404 237",
+      "quantity": 2,
+      "description": "Bulb yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 900 673",
+      "quantity": 2,
+      "description": "Bulb yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 904 754",
+      "quantity": 2,
+      "description": "Bulb yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 21 7 176 025",
+      "quantity": 2,
+      "description": "Longlife bulb, Gelb",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

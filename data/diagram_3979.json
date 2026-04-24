@@ -1,0 +1,69 @@
+{
+  "id": 3979,
+  "diagram_title": "Water hoses/water valve",
+  "image_url": "http://ills.bmwfans.info/1sos.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 21 8 376 999",
+      "quantity": 1,
+      "description": "Hose f engine inlet and water valve",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 11 8 369 805",
+      "quantity": 1,
+      "description": "Water valve",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 21 8 363 198",
+      "quantity": 1,
+      "description": "Hose f water valve and radiator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "64 21 8 376 153",
+      "quantity": 1,
+      "description": "Hose f radiator and expansion tank",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "64 21 8 367 179",
+      "quantity": 2,
+      "description": "Hose clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "64 21 8 386 477",
+      "quantity": 1,
+      "description": "Hose clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "64 21 6 911 339",
+      "quantity": 1,
+      "description": "Hose clamp",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": 6500,
+  "diagram_title": "Repair cable, airbag",
+  "image_url": "http://ills.bmwfans.info/1wxw.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 12 9 118 089",
+      "quantity": 1,
+      "description": "Rep.cable f airbag and control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 12 9 118 085",
+      "quantity": 1,
+      "description": "Rep.cable f airbag and control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 12 6 824 837",
+      "quantity": 1,
+      "description": "Rep.cable f airbag and control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 12 9 118 090",
+      "quantity": 1,
+      "description": "Rep.cable f airbag and control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 13 8 353 746",
+      "quantity": 1,
+      "description": "Cable connector",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "61 13 1 379 833",
+      "quantity": 1,
+      "description": "Shrinking hose",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 12 8 386 371",
+      "quantity": 1,
+      "description": "Rep.cable f airbag and control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 12 9 118 091",
+      "quantity": 1,
+      "description": "Rep.cable f airbag and control unit",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

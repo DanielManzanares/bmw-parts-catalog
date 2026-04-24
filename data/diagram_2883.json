@@ -1,0 +1,85 @@
+{
+  "id": 2883,
+  "diagram_title": "BMW Click & Drive System",
+  "image_url": "http://ills.bmwfans.info/ftfy.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 90 2 343 876",
+      "quantity": 1,
+      "description": "BMW Click & Drive System",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 90 2 406 452",
+      "quantity": 1,
+      "description": "BMW Click & Drive System",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 90 2 406 734",
+      "quantity": 1,
+      "description": "BMW Click & Drive System",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 41 2 346 596",
+      "quantity": 1,
+      "description": "Adapter for power supply",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 90 2 406 733",
+      "quantity": 1,
+      "description": "Universal",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "65 90 2 347 722",
+      "quantity": 1,
+      "description": "Cradle clip for Samsung with NFC",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "65 90 2 347 725",
+      "quantity": 1,
+      "description": "Cradle clip for Samsung with NFC",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "65 90 2 352 228",
+      "quantity": 1,
+      "description": "Cradle clip for Samsung with NFC",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "65 90 2 352 233",
+      "quantity": 1,
+      "description": "Adhesive pad",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

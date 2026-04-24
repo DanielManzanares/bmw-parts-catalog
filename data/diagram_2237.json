@@ -1,0 +1,77 @@
+{
+  "id": 2237,
+  "diagram_title": "Aerodynamics package",
+  "image_url": "http://ills.bmwfans.info/3b8z.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 61 9 410 903",
+      "quantity": 1,
+      "description": "Aerodynamics package",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 62 9 410 896",
+      "quantity": 1,
+      "description": "Spoiler front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 65 9 410 897",
+      "quantity": 1,
+      "description": "Installing set outer kick panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 64 9 410 899",
+      "quantity": 1,
+      "description": "Rear apron",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "82 63 9 410 900",
+      "quantity": 1,
+      "description": "Rear spoiler",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "82 69 9 408 866",
+      "quantity": 1,
+      "description": "Adhesive 1K",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "82 64 9 416 905",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 71 0 154 308",
+      "quantity": 1,
+      "description": "Set of fittings, rear spoiler",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

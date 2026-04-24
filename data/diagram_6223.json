@@ -1,0 +1,85 @@
+{
+  "id": 6223,
+  "diagram_title": "Exterior trim / grill",
+  "image_url": "http://ills.bmwfans.info/1sm7.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 13 8 208 447",
+      "quantity": 1,
+      "description": "Moulding fender front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 13 8 208 448",
+      "quantity": 1,
+      "description": "Moulding fender front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 8 208 449",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 13 8 208 450",
+      "quantity": 1,
+      "description": "Moulding door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 13 8 208 451",
+      "quantity": 1,
+      "description": "Moulding door rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 13 8 208 452",
+      "quantity": 1,
+      "description": "Moulding door rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 13 8 231 179",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 13 8 231 130",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 13 1 960 127",
+      "quantity": 1,
+      "description": "Grommet",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

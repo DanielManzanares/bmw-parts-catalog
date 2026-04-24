@@ -1,0 +1,181 @@
+{
+  "id": 663,
+  "diagram_title": "clutch_control",
+  "image_url": "/static/images/diagrams/E46_318i-N42_clutch_clutch_control.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 39,
+  "category_name": "Clutch",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "21 52 6 773 670",
+      "quantity": 1,
+      "description": "Input cylinder clutch",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E52, E53, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F80, F80 Facelift, F82, F83, F87"
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 902 997",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "CMSP, E26, E36, E38, E39, E46, E83, E83 Facelift, E85, E86, E89, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 902 976",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "E31, E39, E46, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F80, F80 Facelift, F82, F83, F87, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 12 9 905 817",
+      "quantity": 1,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F46, F48, F80, F80 Facelift, F82, F83, F85, F86, F87, G11, G12, I01, I12, NK, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "35 31 6 854 283",
+      "quantity": 1,
+      "description": "Pin, master cylinder",
+      "price_eur": null,
+      "compatible_models": "E46, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F06, F06 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F80, F80 Facelift, F82, F83, F87"
+    },
+    {
+      "position_number": "6",
+      "part_number": "21 52 1 165 451",
+      "quantity": 1,
+      "description": "Repair kit clutch plug-in connector",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F06, F06 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "21 52 6 863 043",
+      "quantity": 1,
+      "description": "03",
+      "price_eur": null,
+      "compatible_models": "CMSP, E36, E46, E53, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F25, F26, Z3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "21 52 1 163 714",
+      "quantity": 1,
+      "description": "Hose",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F06, F06 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F18, F18 Facelift, F25, F26, F45, F46, F80, F80 Facelift, F82, F83, F87, NK, Z1, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "21 52 6 774 274",
+      "quantity": 1,
+      "description": "Pipe",
+      "price_eur": null,
+      "compatible_models": "E46, E83, E83 Facelift"
+    },
+    {
+      "position_number": "10",
+      "part_number": "21 52 6 774 267",
+      "quantity": 1,
+      "description": "Pressure hose assy",
+      "price_eur": null,
+      "compatible_models": "E46, E83, E83 Facelift"
+    },
+    {
+      "position_number": "11",
+      "part_number": "21 52 1 163 906",
+      "quantity": 1,
+      "description": "Support pressure hose assy",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "13",
+      "part_number": "34 34 1 163 565",
+      "quantity": 1,
+      "description": "Clip",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F46, F48, F80, F80 Facelift, F82, F83, F85, F86, F87, G11, G12, I01, I12, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "14",
+      "part_number": "21 52 6 774 230",
+      "quantity": 1,
+      "description": "Pipe",
+      "price_eur": null,
+      "compatible_models": "E46, E83, E83 Facelift, E85, E86"
+    },
+    {
+      "position_number": "15",
+      "part_number": "21 52 6 755 892",
+      "quantity": 1,
+      "description": "Lock valve",
+      "price_eur": null,
+      "compatible_models": "E46, E83, E83 Facelift, E85, E86"
+    },
+    {
+      "position_number": "16",
+      "part_number": "21 52 1 116 360",
+      "quantity": 1,
+      "description": "Vent screw",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, Z1, Z3"
+    },
+    {
+      "position_number": "17",
+      "part_number": "34 11 1 153 198",
+      "quantity": 1,
+      "description": "Dust cap",
+      "price_eur": null,
+      "compatible_models": "114, 700, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F30, F35, Z1, Z3"
+    },
+    {
+      "position_number": "18",
+      "part_number": "21 52 6 785 966",
+      "quantity": 1,
+      "description": "Output cylinder, clutch",
+      "price_eur": null,
+      "compatible_models": "E46, E83, E83 Facelift, E85, E86"
+    },
+    {
+      "position_number": "19",
+      "part_number": "21 51 1 203 012",
+      "quantity": 2,
+      "description": "Knurled bolt",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F06, F06 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F36, F80, F80 Facelift, F82, F83, Z1, Z3"
+    },
+    {
+      "position_number": "20",
+      "part_number": "07 12 9 906 196",
+      "quantity": 2,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F46, F48, F80, F80 Facelift, F82, F83, F85, F86, F87, I01, I12, NK, Z1, Z3"
+    },
+    {
+      "position_number": "21",
+      "part_number": "21 52 1 163 894",
+      "quantity": 1,
+      "description": "Grommet",
+      "price_eur": null,
+      "compatible_models": "E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E81, E82, E83, E83 Facelift, E84, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F06, F06 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F80, F80 Facelift, F82, F83, F87"
+    },
+    {
+      "position_number": "24",
+      "part_number": "61 31 9 231 129",
+      "quantity": 1,
+      "description": "Module, clutch switch",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

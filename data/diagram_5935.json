@@ -1,0 +1,253 @@
+{
+  "id": 5935,
+  "diagram_title": "Glove box",
+  "image_url": "http://ills.bmwfans.info/1wtt.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 141 585",
+      "quantity": 1,
+      "description": "Glove box",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 141 583",
+      "quantity": 1,
+      "description": "Glove box",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 141 581",
+      "quantity": 1,
+      "description": "Glove box",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 196 111",
+      "quantity": 1,
+      "description": "Glove box housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 8 224 806",
+      "quantity": 1,
+      "description": "Glove box damper",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 8 163 017",
+      "quantity": 1,
+      "description": "Glove box lock upper part",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 16 8 163 018",
+      "quantity": 1,
+      "description": "Glove box lock lower part",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 16 8 200 678",
+      "quantity": 1,
+      "description": "Glove box catch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 12 9 904 220",
+      "quantity": 2,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 11 9 904 176",
+      "quantity": 5,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 11 9 904 310",
+      "quantity": 2,
+      "description": "Sheet metal screw",
+      "price_eur": null,
+      "compatible_models": "E23, E30, E32, E34, E36, E39, E46, E60, E60 Facelift, E61, E61 Facelift, E70, E70 Facelift, E71, E83, E83 Facelift, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 14 6 959 925",
+      "quantity": 1,
+      "description": "Phillips screw f plastic material",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 16 8 244 385",
+      "quantity": 4,
+      "description": "Rubber buffer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 905 564",
+      "quantity": 2,
+      "description": "Countersunk screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 14 9 115 641",
+      "quantity": 4,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 16 8 214 378",
+      "quantity": 1,
+      "description": "Bush",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 16 8 209 276",
+      "quantity": 1,
+      "description": "Glove box axle",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 16 8 209 278",
+      "quantity": 2,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "63 12 9 904 300",
+      "quantity": 2,
+      "description": "Circlip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 16 1 828 956",
+      "quantity": 2,
+      "description": "Pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "51 16 8 200 677",
+      "quantity": 1,
+      "description": "Catch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "51 16 8 161 589",
+      "quantity": 1,
+      "description": "Blind plate, hand lamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "51 11 1 964 186",
+      "quantity": 1,
+      "description": "Expanding rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "07 14 9 156 627",
+      "quantity": 6,
+      "description": "Sheet metal screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "51 16 7 001 461",
+      "quantity": 1,
+      "description": "Lock barrel with code as desired",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "51 16 7 001 461",
+      "quantity": 1,
+      "description": "Lock barrel with code as desired",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "51 16 8 268 260",
+      "quantity": 1,
+      "description": "Lock barrel with code as desired",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "51 16 8 268 995",
+      "quantity": 1,
+      "description": "Reinforcement plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "24",
+      "part_number": "51 16 7 044 401",
+      "quantity": 1,
+      "description": "Cable harness",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "25",
+      "part_number": "07 14 9 139 223",
+      "quantity": 1,
+      "description": "Cable clamp",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

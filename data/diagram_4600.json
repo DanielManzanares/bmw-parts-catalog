@@ -1,0 +1,77 @@
+{
+  "id": 4600,
+  "diagram_title": "Retrofit universal remote control",
+  "image_url": "http://ills.bmwfans.info/1ydj.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 9 134 444",
+      "quantity": 1,
+      "description": "Rearview mirror EC / LED / GTO / remote",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 9 134 444",
+      "quantity": 1,
+      "description": "Rearview mirror EC / LED / GTO / remote",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 9 134 444",
+      "quantity": 1,
+      "description": "Rearview mirror EC / LED / GTO / remote",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 9 134 444",
+      "quantity": 1,
+      "description": "Rearview mirror EC / LED / GTO / remote",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 9 134 444",
+      "quantity": 1,
+      "description": "Rearview mirror EC / LED / GTO / remote",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 9 134 444",
+      "quantity": 1,
+      "description": "Rearview mirror EC / LED / GTO / remote",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 29 0 415 578",
+      "quantity": 1,
+      "description": "Operating instructions",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 29 0 415 578",
+      "quantity": 1,
+      "description": "Operating instructions",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

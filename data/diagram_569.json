@@ -1,0 +1,125 @@
+{
+  "id": 569,
+  "diagram_title": "M sports strng whl, leather, airbag-smart",
+  "image_url": "http://ills.bmwfans.info/1qb1.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 137,
+  "category_name": "Steering",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "32 34 2 282 021",
+      "quantity": 1,
+      "description": "M sports steer.-wheel, airbag, leather",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 34 2 282 021",
+      "quantity": 1,
+      "description": "M sports steer.-wheel, airbag, leather",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 31 8 383 366",
+      "quantity": 1,
+      "description": "Cover cap, sports steering wheel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 31 8 383 366",
+      "quantity": 1,
+      "description": "Cover cap, sports steering wheel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "32 34 7 833 355",
+      "quantity": 1,
+      "description": "M cover",
+      "price_eur": null,
+      "compatible_models": "E39, E46"
+    },
+    {
+      "position_number": "3",
+      "part_number": "32 34 7 833 355",
+      "quantity": 1,
+      "description": "M cover",
+      "price_eur": null,
+      "compatible_models": "E39, E46"
+    },
+    {
+      "position_number": "4",
+      "part_number": "32 30 1 097 246",
+      "quantity": 1,
+      "description": "Connecting line, airbag / slip ring",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E53, E85, E86"
+    },
+    {
+      "position_number": "4",
+      "part_number": "32 30 1 097 246",
+      "quantity": 1,
+      "description": "Connecting line, airbag / slip ring",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E53, E85, E86"
+    },
+    {
+      "position_number": "5",
+      "part_number": "32 30 6 756 573",
+      "quantity": 6,
+      "description": "Screw for plastic",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "32 30 6 756 573",
+      "quantity": 6,
+      "description": "Screw for plastic",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "32 30 1 096 838",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "32 30 1 096 838",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "32 30 6 757 891",
+      "quantity": 1,
+      "description": "Hub cap, airbag",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E53"
+    },
+    {
+      "position_number": "8",
+      "part_number": "32 30 6 757 891",
+      "quantity": 1,
+      "description": "Hub cap, airbag",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E53"
+    }
+  ]
+}

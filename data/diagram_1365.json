@@ -1,0 +1,269 @@
+{
+  "id": 1365,
+  "diagram_title": "Zf 4hp22/24-h control unit+attach.parts",
+  "image_url": "http://ills.bmwfans.info/27s.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 456,
+  "category_name": "Automatic Transmission",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "24 34 1 219 460",
+      "quantity": 1,
+      "description": "Control unit",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "1",
+      "part_number": "24 34 1 219 460",
+      "quantity": 1,
+      "description": "Control unit",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "1",
+      "part_number": "24 34 1 219 460",
+      "quantity": 1,
+      "description": "Control unit",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "1",
+      "part_number": "24 34 1 219 460",
+      "quantity": 1,
+      "description": "Control unit",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "24 34 1 217 437",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "24 31 1 218 570",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "24 34 1 217 437",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "24 31 1 218 570",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "24 34 1 217 437",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "24 31 1 218 570",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "24 34 1 217 437",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "24 31 1 218 570",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "24 34 1 215 544",
+      "quantity": 1,
+      "description": "Oil strainer",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "24 31 1 218 550",
+      "quantity": 1,
+      "description": "Oil strainer",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "24 34 1 215 544",
+      "quantity": 1,
+      "description": "Oil strainer",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "24 31 1 218 550",
+      "quantity": 1,
+      "description": "Oil strainer",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "24 34 1 215 544",
+      "quantity": 1,
+      "description": "Oil strainer",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "24 31 1 218 550",
+      "quantity": 1,
+      "description": "Oil strainer",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "24 34 1 215 544",
+      "quantity": 1,
+      "description": "Oil strainer",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "24 31 1 218 550",
+      "quantity": 1,
+      "description": "Oil strainer",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "11",
+      "part_number": "24 34 1 215 492",
+      "quantity": 5,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "11",
+      "part_number": "24 34 1 215 492",
+      "quantity": 5,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "11",
+      "part_number": "24 34 1 215 492",
+      "quantity": 5,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "11",
+      "part_number": "24 34 1 215 492",
+      "quantity": 5,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "12",
+      "part_number": "24 34 1 422 672",
+      "quantity": 3,
+      "description": "Torx bolt",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34, E38, E39, E53"
+    },
+    {
+      "position_number": "12",
+      "part_number": "24 34 1 422 672",
+      "quantity": 3,
+      "description": "Torx bolt",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34, E38, E39, E53"
+    },
+    {
+      "position_number": "12",
+      "part_number": "24 34 1 422 672",
+      "quantity": 3,
+      "description": "Torx bolt",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34, E38, E39, E53"
+    },
+    {
+      "position_number": "12",
+      "part_number": "24 34 1 422 672",
+      "quantity": 3,
+      "description": "Torx bolt",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34, E38, E39, E53"
+    },
+    {
+      "position_number": "13",
+      "part_number": "24 34 1 421 078",
+      "quantity": 6,
+      "description": "Torx bolt",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34, E36, E38, E39, E53"
+    },
+    {
+      "position_number": "13",
+      "part_number": "24 34 1 421 078",
+      "quantity": 6,
+      "description": "Torx bolt",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34, E36, E38, E39, E53"
+    },
+    {
+      "position_number": "13",
+      "part_number": "24 34 1 421 078",
+      "quantity": 6,
+      "description": "Torx bolt",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34, E36, E38, E39, E53"
+    },
+    {
+      "position_number": "13",
+      "part_number": "24 34 1 421 078",
+      "quantity": 6,
+      "description": "Torx bolt",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34, E36, E38, E39, E53"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": 2478,
+  "diagram_title": "Wiring sets",
+  "image_url": "http://ills.bmwfans.info/bwg.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 12 1 373 139",
+      "quantity": 1,
+      "description": "Wiring connection to additional mirror",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 12 1 376 292",
+      "quantity": 1,
+      "description": "Wiring electr.ext.mirror co-driver side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 12 1 376 294",
+      "quantity": 1,
+      "description": "Wiring drivers side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 12 1 375 238",
+      "quantity": 1,
+      "description": "Wiring drivers side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 12 1 380 229",
+      "quantity": 1,
+      "description": "Wiring co-drivers side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 12 1 376 299",
+      "quantity": 1,
+      "description": "Wiring rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 12 1 375 291",
+      "quantity": 1,
+      "description": "Current supply wiring set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 12 1 375 292",
+      "quantity": 1,
+      "description": "Current supply wiring set",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

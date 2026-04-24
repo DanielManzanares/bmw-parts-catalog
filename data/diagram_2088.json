@@ -1,0 +1,117 @@
+{
+  "id": 2088,
+  "diagram_title": "BMW type approval",
+  "image_url": "http://ills.bmwfans.info/3iqh.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1531,
+  "category_name": "Technical Literature",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "01 20 9 787 648",
+      "quantity": 1,
+      "description": "General Operating Permit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 9 787 649",
+      "quantity": 1,
+      "description": "General Operating Permit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 9 787 918",
+      "quantity": 1,
+      "description": "General Operating Permit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 9 788 231",
+      "quantity": 1,
+      "description": "General Operating Permit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 9 788 235",
+      "quantity": 1,
+      "description": "General Operating Permit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 9 787 735",
+      "quantity": 1,
+      "description": "General Operating Permit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 9 787 734",
+      "quantity": 1,
+      "description": "General Operating Permit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 9 786 214",
+      "quantity": 1,
+      "description": "General Operating Permit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 9 787 739",
+      "quantity": 1,
+      "description": "General Operating Permit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 9 787 755",
+      "quantity": 1,
+      "description": "General Operating Permit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 9 786 647",
+      "quantity": 1,
+      "description": "General Operating Permit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 9 786 648",
+      "quantity": 1,
+      "description": "General Operating Permit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 9 786 649",
+      "quantity": 1,
+      "description": "General Operating Permit",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

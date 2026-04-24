@@ -1,0 +1,157 @@
+{
+  "id": 16,
+  "diagram_title": "Crankshaft-Pistons",
+  "image_url": "http://ills.bmwfans.info/95.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1,
+  "category_name": "Engine",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "11 25 1 739 451",
+      "quantity": 4,
+      "description": "Piston",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 25 1 739 452",
+      "quantity": 4,
+      "description": "92",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 25 1 739 453",
+      "quantity": 4,
+      "description": "92",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 25 1 739 454",
+      "quantity": 4,
+      "description": "92",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 25 1 739 451",
+      "quantity": 4,
+      "description": "Piston",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 25 1 739 452",
+      "quantity": 4,
+      "description": "92",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 25 1 739 453",
+      "quantity": 4,
+      "description": "92",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 25 1 739 454",
+      "quantity": 4,
+      "description": "92",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 934 460",
+      "quantity": 8,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E61, E65, E66, E83, E85, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 934 460",
+      "quantity": 8,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E61, E65, E66, E83, E85, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 25 1 727 461",
+      "quantity": 4,
+      "description": "Repair kit piston rings",
+      "price_eur": null,
+      "compatible_models": "E30, E34, E36"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 25 1 727 462",
+      "quantity": 4,
+      "description": "Repair kit piston rings",
+      "price_eur": null,
+      "compatible_models": "E30, E34, E36"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 25 1 727 463",
+      "quantity": 4,
+      "description": "Repair kit piston rings",
+      "price_eur": null,
+      "compatible_models": "E30, E34, E36"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 25 1 727 464",
+      "quantity": 4,
+      "description": "Repair kit piston rings",
+      "price_eur": null,
+      "compatible_models": "E30, E34, E36"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 25 1 727 461",
+      "quantity": 4,
+      "description": "Repair kit piston rings",
+      "price_eur": null,
+      "compatible_models": "E30, E34, E36"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 25 1 727 462",
+      "quantity": 4,
+      "description": "Repair kit piston rings",
+      "price_eur": null,
+      "compatible_models": "E30, E34, E36"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 25 1 727 463",
+      "quantity": 4,
+      "description": "Repair kit piston rings",
+      "price_eur": null,
+      "compatible_models": "E30, E34, E36"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 25 1 727 464",
+      "quantity": 4,
+      "description": "Repair kit piston rings",
+      "price_eur": null,
+      "compatible_models": "E30, E34, E36"
+    }
+  ]
+}

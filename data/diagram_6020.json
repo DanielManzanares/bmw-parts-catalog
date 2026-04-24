@@ -1,0 +1,157 @@
+{
+  "id": 6020,
+  "diagram_title": "Body-side frame",
+  "image_url": "http://ills.bmwfans.info/3cy8.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "41 21 7 111 425",
+      "quantity": 1,
+      "description": "Body-side frame left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "41 21 7 111 426",
+      "quantity": 1,
+      "description": "Body-side frame left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "41 21 7 111 421",
+      "quantity": 1,
+      "description": "Left exterior column a",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "41 21 7 111 422",
+      "quantity": 1,
+      "description": "Left exterior column a",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "41 21 8 243 103",
+      "quantity": 1,
+      "description": "Roof frame left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "41 21 8 243 104",
+      "quantity": 1,
+      "description": "Roof frame left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "41 21 8 243 099",
+      "quantity": 1,
+      "description": "Left rear side panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "41 21 8 243 100",
+      "quantity": 1,
+      "description": "Left rear side panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "41 21 7 111 423",
+      "quantity": 1,
+      "description": "Column b with left rocker panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "41 21 7 111 424",
+      "quantity": 1,
+      "description": "Column b with left rocker panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "41 21 8 228 243",
+      "quantity": 1,
+      "description": "Connect.plate f.left side panel frame",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "41 21 8 228 244",
+      "quantity": 1,
+      "description": "Connect.plate f.left side panel frame",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "41 21 7 022 409",
+      "quantity": 1,
+      "description": "Covering plate column front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "41 21 7 022 410",
+      "quantity": 1,
+      "description": "Covering plate column front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "41 13 8 230 551",
+      "quantity": 1,
+      "description": "Left interior column a",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "41 13 8 245 120",
+      "quantity": 1,
+      "description": "Left interior column a",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 24 7 010 221",
+      "quantity": 2,
+      "description": "Ball pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "41 31 8 199 941",
+      "quantity": 1,
+      "description": "Threaded plug",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

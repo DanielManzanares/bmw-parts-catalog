@@ -1,0 +1,69 @@
+{
+  "id": 7322,
+  "diagram_title": "Sing.parts Nokia 6000Series cent.console",
+  "image_url": "http://ills.bmwfans.info/2ecm.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1648,
+  "category_name": "Communication systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "84 63 0 021 261",
+      "quantity": 1,
+      "description": "Cellular phone holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "84 31 0 148 266",
+      "quantity": 1,
+      "description": "Hands free telephone microphone",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "84 31 9 405 408",
+      "quantity": 1,
+      "description": "Hands free telephone microphone",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "84 31 0 148 267",
+      "quantity": 1,
+      "description": "Loudspeaker hands free telephone",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "84 63 0 021 260",
+      "quantity": 1,
+      "description": "Hands-free box",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "84 32 0 021 202",
+      "quantity": 1,
+      "description": "Cable adapter hands-free box",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "84 13 0 021 163",
+      "quantity": 1,
+      "description": "Bracket",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

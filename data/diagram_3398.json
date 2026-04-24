@@ -1,0 +1,53 @@
+{
+  "id": 3398,
+  "diagram_title": "Trim and seals for door, rear",
+  "image_url": "http://ills.bmwfans.info/kbb.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 34 8 222 413",
+      "quantity": 1,
+      "description": "Cover, window frame with speaker, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 34 8 222 414",
+      "quantity": 1,
+      "description": "Cover, window frame with speaker, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 34 8 212 523",
+      "quantity": 1,
+      "description": "Cover, window frame with speaker, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 34 8 212 524",
+      "quantity": 1,
+      "description": "Cover, window frame with speaker, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 14 6 957 034",
+      "quantity": 6,
+      "description": "Plug-in retainer",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

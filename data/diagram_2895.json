@@ -1,0 +1,21 @@
+{
+  "id": 2895,
+  "diagram_title": "Sound Modul system",
+  "image_url": "http://ills.bmwfans.info/2pca.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 83 0 152 701",
+      "quantity": 1,
+      "description": "Sound Modul system",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

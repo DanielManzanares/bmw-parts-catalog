@@ -1,0 +1,29 @@
+{
+  "id": 2876,
+  "diagram_title": "ALTERNATOR PARTS 70A Bosch",
+  "image_url": "http://ills.bmwfans.info/1fc.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 31 1 247 312",
+      "quantity": 1,
+      "description": "Pulley",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "12 31 1 739 365",
+      "quantity": 1,
+      "description": "Voltage regulator",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

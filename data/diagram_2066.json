@@ -1,0 +1,109 @@
+{
+  "id": 2066,
+  "diagram_title": "Ornamental strips",
+  "image_url": "http://ills.bmwfans.info/aq1.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 14 9 056 521",
+      "quantity": 1,
+      "description": "Set decorating stripes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 9 056 522",
+      "quantity": 1,
+      "description": "Set decorating stripes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 14 1 866 635",
+      "quantity": 1,
+      "description": "Ornamental strips, black front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 14 1 866 636",
+      "quantity": 1,
+      "description": "Ornamental strips, black front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 14 1 866 637",
+      "quantity": 1,
+      "description": "Ornamental strips, black front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 14 1 866 638",
+      "quantity": 1,
+      "description": "Ornamental strips, black front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 14 9 057 104",
+      "quantity": 2,
+      "description": "Ornamental strips, black",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 14 9 057 106",
+      "quantity": 2,
+      "description": "Ornamental strips, black",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 14 1 866 643",
+      "quantity": 1,
+      "description": "Ornamental strips, black left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 14 1 866 644",
+      "quantity": 1,
+      "description": "Ornamental strips, black left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 14 1 866 645",
+      "quantity": 1,
+      "description": "Ornamental strips, black left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 14 1 866 646",
+      "quantity": 1,
+      "description": "Ornamental strips, black left",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

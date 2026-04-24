@@ -1,0 +1,14 @@
+[
+  {
+    "id": 4040,
+    "diagram_title": "Park Distance Control (PDC)",
+    "image_url": "http://ills.bmwfans.info/b2ql.png",
+    "parts_count": 10
+  },
+  {
+    "id": 4041,
+    "diagram_title": "Ultrasonic-sensor",
+    "image_url": "http://ills.bmwfans.info/bxb4.png",
+    "parts_count": 1
+  }
+]

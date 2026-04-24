@@ -1,0 +1,45 @@
+{
+  "id": 4431,
+  "diagram_title": "Footmat update",
+  "image_url": "http://ills.bmwfans.info/a0vc.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 47 2 148 729",
+      "quantity": 1,
+      "description": "Footmat update",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 2 148 729",
+      "quantity": 1,
+      "description": "Footmat update",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 14 9 166 609",
+      "quantity": 1,
+      "description": "Velcro element with bayonet fastener",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 14 9 166 609",
+      "quantity": 1,
+      "description": "Velcro element with bayonet fastener",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

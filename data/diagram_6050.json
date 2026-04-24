@@ -1,0 +1,133 @@
+{
+  "id": 6050,
+  "diagram_title": "Front door-hinge/door brake",
+  "image_url": "http://ills.bmwfans.info/1sbe.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "41 51 7 038 091",
+      "quantity": 1,
+      "description": "Door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "41 51 7 038 092",
+      "quantity": 1,
+      "description": "Door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "41 51 8 240 079",
+      "quantity": 1,
+      "description": "Left upper front door hinge",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "41 51 8 240 080",
+      "quantity": 1,
+      "description": "Left upper front door hinge",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "41 51 8 240 081",
+      "quantity": 1,
+      "description": "Left lower front door hinge",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "41 51 8 240 082",
+      "quantity": 1,
+      "description": "Left lower front door hinge",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "41 51 7 202 047",
+      "quantity": 1,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "41 51 8 173 321",
+      "quantity": 1,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 21 8 246 870",
+      "quantity": 2,
+      "description": "Front door brake gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 14 7 184 168",
+      "quantity": 4,
+      "description": "Torx-bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 14 7 248 303",
+      "quantity": 2,
+      "description": "Torx-bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 21 8 177 670",
+      "quantity": 2,
+      "description": "Protection cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 14 6 970 706",
+      "quantity": 8,
+      "description": "Hex nut with plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 21 8 235 768",
+      "quantity": 2,
+      "description": "Plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 11 9 906 263",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

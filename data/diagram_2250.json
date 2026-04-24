@@ -1,0 +1,173 @@
+{
+  "id": 2250,
+  "diagram_title": "Floor mats city",
+  "image_url": "http://ills.bmwfans.info/dpx.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 11 9 410 451",
+      "quantity": 1,
+      "description": "Set of floor mats City",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 9 410 452",
+      "quantity": 1,
+      "description": "Set of floor mats City",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 9 410 453",
+      "quantity": 1,
+      "description": "Set of floor mats City",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 52 9 401 961",
+      "quantity": 1,
+      "description": "Set of floor mats City",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 52 9 401 962",
+      "quantity": 1,
+      "description": "Set of floor mats City",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 52 9 401 963",
+      "quantity": 1,
+      "description": "Set of floor mats City",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 52 9 401 964",
+      "quantity": 1,
+      "description": "Set of floor mats City",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 52 9 401 965",
+      "quantity": 1,
+      "description": "Set of floor mats City",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 52 9 401 966",
+      "quantity": 1,
+      "description": "Set of floor mats City",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 52 9 401 960",
+      "quantity": 1,
+      "description": "Set of floor mats City",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 146 827",
+      "quantity": 1,
+      "description": "Floor mat velours driver side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 161 713",
+      "quantity": 1,
+      "description": "Floor mat velours driver side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 161 715",
+      "quantity": 1,
+      "description": "Floor mat velours driver side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 161 717",
+      "quantity": 1,
+      "description": "Floor mat velours driver side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 187 645",
+      "quantity": 1,
+      "description": "Floor mat velours driver side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 187 647",
+      "quantity": 1,
+      "description": "Floor mat velours driver side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 187 649",
+      "quantity": 1,
+      "description": "Floor mat velours driver side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 187 651",
+      "quantity": 1,
+      "description": "Floor mat velours driver side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 187 653",
+      "quantity": 1,
+      "description": "Floor mat velours driver side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 47 8 187 643",
+      "quantity": 1,
+      "description": "Floor mat velours driver side",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1608,
+  "diagram_title": "Compact alternator",
+  "image_url": "http://ills.bmwfans.info/1fo.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 31 1 432 980",
+      "quantity": 1,
+      "description": "At-compact alternator",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 31 7 501 599",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 31 7 501 690",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, E53"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 31 1 432 980",
+      "quantity": 1,
+      "description": "At-compact alternator",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 31 7 501 599",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 31 7 501 690",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, E53"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+[
+  {
+    "id": 5678,
+    "diagram_title": "Hydro steering-oil pipes",
+    "image_url": "http://ills.bmwfans.info/2dud.png",
+    "parts_count": 17
+  },
+  {
+    "id": 5712,
+    "diagram_title": "M sports strng whl, airb.-smart, multifunc",
+    "image_url": "http://ills.bmwfans.info/1q2g.png",
+    "parts_count": 9
+  },
+  {
+    "id": 5709,
+    "diagram_title": "M sports strng whl, leather, airbag-smart",
+    "image_url": "http://ills.bmwfans.info/1qb1.png",
+    "parts_count": 8
+  },
+  {
+    "id": 5681,
+    "diagram_title": "Manually adjust. steering column",
+    "image_url": "http://ills.bmwfans.info/20fh.png",
+    "parts_count": 12
+  },
+  {
+    "id": 5675,
+    "diagram_title": "Oil carrier / Single parts",
+    "image_url": "http://ills.bmwfans.info/1wjv.png",
+    "parts_count": 10
+  },
+  {
+    "id": 5667,
+    "diagram_title": "Power steering",
+    "image_url": "http://ills.bmwfans.info/2byl.png",
+    "parts_count": 4
+  },
+  {
+    "id": 5672,
+    "diagram_title": "Power steering pump",
+    "image_url": "http://ills.bmwfans.info/2zcs.png",
+    "parts_count": 5
+  },
+  {
+    "id": 5698,
+    "diagram_title": "Sport st.whl.airbag-smart / decor.cover",
+    "image_url": "http://ills.bmwfans.info/1ic7.png",
+    "parts_count": 12
+  },
+  {
+    "id": 5707,
+    "diagram_title": "Sport st.whl.airbag-smart / decor.cover",
+    "image_url": "http://ills.bmwfans.info/1ic7.png",
+    "parts_count": 21
+  },
+  {
+    "id": 5701,
+    "diagram_title": "Sport st.whl.airbag-smart MF/decor.cover",
+    "image_url": "http://ills.bmwfans.info/1fp1.png",
+    "parts_count": 23
+  },
+  {
+    "id": 5705,
+    "diagram_title": "Sport st.whl.airbag-smart MF/decor.cover",
+    "image_url": "http://ills.bmwfans.info/1fp1.png",
+    "parts_count": 23
+  },
+  {
+    "id": 5683,
+    "diagram_title": "Steer.col.-lower joint assy",
+    "image_url": "http://ills.bmwfans.info/1kp2.png",
+    "parts_count": 3
+  },
+  {
+    "id": 5686,
+    "diagram_title": "Steering column-adjustable/single parts",
+    "image_url": "http://ills.bmwfans.info/gwv.png",
+    "parts_count": 19
+  },
+  {
+    "id": 5669,
+    "diagram_title": "Steering linkage/tie rods",
+    "image_url": "http://ills.bmwfans.info/o4m.png",
+    "parts_count": 11
+  },
+  {
+    "id": 5689,
+    "diagram_title": "Steering lock/ignition switch",
+    "image_url": "http://ills.bmwfans.info/a2m0.png",
+    "parts_count": 8
+  },
+  {
+    "id": 5692,
+    "diagram_title": "Steering wheel Airbag-Smart",
+    "image_url": "http://ills.bmwfans.info/zmt.png",
+    "parts_count": 6
+  },
+  {
+    "id": 5695,
+    "diagram_title": "Steering wheel Airbag-Smart multifunct.",
+    "image_url": "http://ills.bmwfans.info/1go1.png",
+    "parts_count": 9
+  },
+  {
+    "id": 790,
+    "diagram_title": "hydro_steering_oil_pipes",
+    "image_url": "/static/images/diagrams/E46_318i-N42_steering_hydro_steering_oil_pipes.png",
+    "parts_count": 17
+  },
+  {
+    "id": 797,
+    "diagram_title": "m_sports_strng_whl_airb_smart_multifunc",
+    "image_url": "/static/images/diagrams/E46_318i-N42_steering_m_sports_strng_whl_airb_smart_multifunc.png",
+    "parts_count": 9
+  },
+  {
+    "id": 796,
+    "diagram_title": "m_sports_strng_whl_leather_airbag_smart",
+    "image_url": "/static/images/diagrams/E46_318i-N42_steering_m_sports_strng_whl_leather_airbag_smart.png",
+    "parts_count": 8
+  },
+  {
+    "id": 791,
+    "diagram_title": "manually_adjust_steering_column",
+    "image_url": "/static/images/diagrams/E46_318i-N42_steering_manually_adjust_steering_column.png",
+    "parts_count": 12
+  },
+  {
+    "id": 788,
+    "diagram_title": "oil_carrier_single_parts",
+    "image_url": "/static/images/diagrams/E46_318i-N42_steering_oil_carrier_single_parts.png",
+    "parts_count": 10
+  },
+  {
+    "id": 783,
+    "diagram_title": "power_steering",
+    "image_url": "/static/images/diagrams/E46_318i-N42_steering_power_steering.png",
+    "parts_count": 4
+  },
+  {
+    "id": 785,
+    "diagram_title": "power_steering_pump",
+    "image_url": "/static/images/diagrams/E46_318i-N42_steering_power_steering_pump.png",
+    "parts_count": 5
+  },
+  {
+    "id": 794,
+    "diagram_title": "sport_st_whl_airbag_smart_decor_cover",
+    "image_url": "/static/images/diagrams/E46_318i-N42_steering_sport_st_whl_airbag_smart_decor_cover.png",
+    "parts_count": 11
+  },
+  {
+    "id": 801,
+    "diagram_title": "sport_st_whl_airbag_smart_decor_cover_2",
+    "image_url": "/static/images/diagrams/E46_318i-N42_steering_sport_st_whl_airbag_smart_decor_cover_2.png",
+    "parts_count": 20
+  },
+  {
+    "id": 800,
+    "diagram_title": "sport_st_whl_airbag_smart_mf_decor_cover",
+    "image_url": "/static/images/diagrams/E46_318i-N42_steering_sport_st_whl_airbag_smart_mf_decor_cover.png",
+    "parts_count": 22
+  },
+  {
+    "id": 799,
+    "diagram_title": "sport_st_whl_airbag_smart_mf_decor_cover_2",
+    "image_url": "/static/images/diagrams/E46_318i-N42_steering_sport_st_whl_airbag_smart_mf_decor_cover_2.png",
+    "parts_count": 22
+  },
+  {
+    "id": 787,
+    "diagram_title": "steer_col_lower_joint_assy",
+    "image_url": "/static/images/diagrams/E46_318i-N42_steering_steer_col_lower_joint_assy.png",
+    "parts_count": 3
+  },
+  {
+    "id": 789,
+    "diagram_title": "steering_column_adjustable_single_parts",
+    "image_url": "/static/images/diagrams/E46_318i-N42_steering_steering_column_adjustable_single_parts.png",
+    "parts_count": 19
+  },
+  {
+    "id": 786,
+    "diagram_title": "steering_linkage_tie_rods",
+    "image_url": "/static/images/diagrams/E46_318i-N42_steering_steering_linkage_tie_rods.png",
+    "parts_count": 11
+  },
+  {
+    "id": 792,
+    "diagram_title": "steering_lock_ignition_switch",
+    "image_url": "/static/images/diagrams/E46_318i-N42_steering_steering_lock_ignition_switch.png",
+    "parts_count": 8
+  },
+  {
+    "id": 793,
+    "diagram_title": "steering_wheel_airbag_smart",
+    "image_url": "/static/images/diagrams/E46_318i-N42_steering_steering_wheel_airbag_smart.png",
+    "parts_count": 6
+  },
+  {
+    "id": 795,
+    "diagram_title": "steering_wheel_airbag_smart_multifunct",
+    "image_url": "/static/images/diagrams/E46_318i-N42_steering_steering_wheel_airbag_smart_multifunct.png",
+    "parts_count": 9
+  }
+]

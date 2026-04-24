@@ -1,0 +1,45 @@
+{
+  "id": 2462,
+  "diagram_title": "Retrofit fine wood trim, myrtle",
+  "image_url": "http://ills.bmwfans.info/14zg.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 45 8 214 679",
+      "quantity": 1,
+      "description": "Set of wooden covers, cockpit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 8 213 597",
+      "quantity": 1,
+      "description": "Set of wooden covers",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 8 208 718",
+      "quantity": 1,
+      "description": "Bottom panel depositing box wood",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 8 209 456",
+      "quantity": 1,
+      "description": "Bottom panel depositing box wood",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

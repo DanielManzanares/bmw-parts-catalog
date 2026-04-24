@@ -1,0 +1,29 @@
+{
+  "id": 4174,
+  "diagram_title": "Indiv.cover, sports seat, Alcantara/Online",
+  "image_url": "http://ills.bmwfans.info/2bev.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 014 981",
+      "quantity": 2,
+      "description": "Cover, sports seat, Alcantara Online",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 014 982",
+      "quantity": 2,
+      "description": "Cover, bckrst, sprts seat, Alcantara Online",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

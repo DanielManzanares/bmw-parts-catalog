@@ -1,0 +1,125 @@
+{
+  "id": 2825,
+  "diagram_title": "Towing hitch, detachable",
+  "image_url": "http://ills.bmwfans.info/dcy.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1645,
+  "category_name": "Equipment Parts",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "71 60 1 130 314",
+      "quantity": 1,
+      "description": "Removable ball with colored ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 60 1 176 239",
+      "quantity": 1,
+      "description": "Removable ball with colored ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "71 60 1 127 697",
+      "quantity": 1,
+      "description": "Nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "71 60 1 245 137",
+      "quantity": 1,
+      "description": "Lock",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "71 60 1 245 135",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "71 60 1 175 408",
+      "quantity": 1,
+      "description": "Repair kit detacheable ball (tow.device)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "71 60 1 127 698",
+      "quantity": 1,
+      "description": "Key",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "71 60 1 138 600",
+      "quantity": 1,
+      "description": "Repair kit detacheable ball (tow.device)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "71 60 1 138 601",
+      "quantity": 1,
+      "description": "Repair kit detacheable ball (tow.device)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "71 60 1 246 153",
+      "quantity": 1,
+      "description": "Cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "71 60 1 175 891",
+      "quantity": 1,
+      "description": "Tensioning lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "71 60 1 129 090",
+      "quantity": 1,
+      "description": "Repair kit detacheable ball (tow.device)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "71 60 1 175 809",
+      "quantity": 1,
+      "description": "Set securing hooks",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "71 60 1 129 334",
+      "quantity": 1,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 7196,
+  "diagram_title": "Safety belt adjuster",
+  "image_url": "http://ills.bmwfans.info/ivh.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1646,
+  "category_name": "Restraint system and Accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "72 11 8 207 957",
+      "quantity": 2,
+      "description": "Safety belt adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "72 11 8 215 818",
+      "quantity": 2,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "72 11 1 977 518",
+      "quantity": 2,
+      "description": "Torx bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 14 9 153 503",
+      "quantity": 2,
+      "description": "Torx bolt",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

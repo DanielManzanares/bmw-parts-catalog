@@ -1,0 +1,21 @@
+{
+  "id": 7073,
+  "diagram_title": "Individual leather boot",
+  "image_url": "http://ills.bmwfans.info/1m0y.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "25 11 8 014 118",
+      "quantity": 1,
+      "description": "Leather boot",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

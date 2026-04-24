@@ -1,0 +1,29 @@
+{
+  "id": 4173,
+  "diagram_title": "Indi. cover, base seat, Alcantara/Online",
+  "image_url": "http://ills.bmwfans.info/2bfl.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 10 8 011 936",
+      "quantity": 2,
+      "description": "Cover, seat, front Alcantara Online",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 8 011 937",
+      "quantity": 2,
+      "description": "Backrest cover, front Alcantara Online",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

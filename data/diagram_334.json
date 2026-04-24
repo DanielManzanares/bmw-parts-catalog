@@ -1,0 +1,237 @@
+{
+  "id": 334,
+  "diagram_title": "Balance weight, lead",
+  "image_url": "http://ills.bmwfans.info/3rd.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 86,
+  "category_name": "Wheels",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "36 11 1 111 831",
+      "quantity": 1,
+      "description": "Balance weight, lead",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 1 111 832",
+      "quantity": 1,
+      "description": "Balance weight, lead",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 1 111 833",
+      "quantity": 1,
+      "description": "Balance weight, lead",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 1 111 834",
+      "quantity": 1,
+      "description": "Balance weight, lead",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 1 111 835",
+      "quantity": 1,
+      "description": "Balance weight, lead",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 1 111 836",
+      "quantity": 1,
+      "description": "Balance weight, lead",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 1 111 837",
+      "quantity": 1,
+      "description": "Balance weight, lead",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 1 111 838",
+      "quantity": 1,
+      "description": "Balance weight, lead",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 1 113 508",
+      "quantity": 1,
+      "description": "Balance weight, lead",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 1 113 509",
+      "quantity": 1,
+      "description": "Balance weight, lead",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 1 113 966",
+      "quantity": 1,
+      "description": "Balance weight, lead",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 1 113 967",
+      "quantity": 1,
+      "description": "Balance weight, lead",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 1 113 968",
+      "quantity": 1,
+      "description": "Balance weight, lead",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 1 113 969",
+      "quantity": 1,
+      "description": "Balance weight, lead",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 1 111 831",
+      "quantity": 1,
+      "description": "Balance weight, lead",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 1 111 832",
+      "quantity": 1,
+      "description": "Balance weight, lead",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 1 111 833",
+      "quantity": 1,
+      "description": "Balance weight, lead",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 1 111 834",
+      "quantity": 1,
+      "description": "Balance weight, lead",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 1 111 835",
+      "quantity": 1,
+      "description": "Balance weight, lead",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 1 111 836",
+      "quantity": 1,
+      "description": "Balance weight, lead",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 1 111 837",
+      "quantity": 1,
+      "description": "Balance weight, lead",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 1 111 838",
+      "quantity": 1,
+      "description": "Balance weight, lead",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 1 113 508",
+      "quantity": 1,
+      "description": "Balance weight, lead",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 1 113 509",
+      "quantity": 1,
+      "description": "Balance weight, lead",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 1 113 966",
+      "quantity": 1,
+      "description": "Balance weight, lead",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 1 113 967",
+      "quantity": 1,
+      "description": "Balance weight, lead",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 1 113 968",
+      "quantity": 1,
+      "description": "Balance weight, lead",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 1 113 969",
+      "quantity": 1,
+      "description": "Balance weight, lead",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, E38, E39, E46, Z3"
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "id": 3772,
+  "diagram_title": "Radio Bavaria C",
+  "image_url": "http://ills.bmwfans.info/1f75.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 12 8 368 543",
+      "quantity": 1,
+      "description": "Rmfd radio BAVARIA CR DIGITAL",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 8 368 320",
+      "quantity": 1,
+      "description": "Rmfd radio BAVARIA CR DIGITAL",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 8 375 666",
+      "quantity": 1,
+      "description": "Rmfd radio BAVARIA CR DIGITAL",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 909 885",
+      "quantity": 1,
+      "description": "Rmfd radio BAVARIA CR DIGITAL",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 402 082",
+      "quantity": 1,
+      "description": "Radio BMW Reverse RDS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 405 379",
+      "quantity": 1,
+      "description": "Rmfd radio BMW REVERSE RDS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 1 391 389",
+      "quantity": 1,
+      "description": "Rmfd radio BAVARIA CR DIGITAL",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 1 391 392",
+      "quantity": 1,
+      "description": "Rmfd radio BAVARIA CR DIGITAL",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 8 353 561",
+      "quantity": 1,
+      "description": "Rmfd radio BAVARIA CR DIGITAL",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 8 368 543",
+      "quantity": 1,
+      "description": "Rmfd radio BAVARIA CR DIGITAL",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 8 353 563",
+      "quantity": 1,
+      "description": "Rmfd radio BAVARIA CR DIGITAL",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 8 368 543",
+      "quantity": 1,
+      "description": "Rmfd radio BAVARIA CR DIGITAL",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 8 353 565",
+      "quantity": 1,
+      "description": "Rmfd radio BMW REVERSE RDS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 8 368 543",
+      "quantity": 1,
+      "description": "Rmfd radio BAVARIA CR DIGITAL",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 8 360 764",
+      "quantity": 1,
+      "description": "Rmfd radio BAVARIA CR DIGITAL",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 8 368 543",
+      "quantity": 1,
+      "description": "Rmfd radio BAVARIA CR DIGITAL",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 060 612",
+      "quantity": 1,
+      "description": "Radio Bavaria Electronic CD II",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 060 613",
+      "quantity": 1,
+      "description": "Radio Bavaria Electronic CD II",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 060 614",
+      "quantity": 1,
+      "description": "Radio Bavaria Electronic CD II",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 061 563",
+      "quantity": 1,
+      "description": "Rmfd radio BMW REVERSE RDS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 061 564",
+      "quantity": 1,
+      "description": "Rmfd radio BMW REVERSE RDS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 402 083",
+      "quantity": 1,
+      "description": "Radio BMW Reverse RDS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 8 360 791",
+      "quantity": 1,
+      "description": "Rmfd radio BMW REVERSE RDS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 12 8 375 666",
+      "quantity": 1,
+      "description": "Rmfd radio BAVARIA CR DIGITAL",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 12 6 909 885",
+      "quantity": 1,
+      "description": "Rmfd radio BAVARIA CR DIGITAL",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 12 6 909 885",
+      "quantity": 1,
+      "description": "Rmfd radio BAVARIA CR DIGITAL",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": 2061,
+  "diagram_title": "Emblems / letterings",
+  "image_url": "http://ills.bmwfans.info/aqy.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 872 324",
+      "quantity": 1,
+      "description": "Badge",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 8 132 375",
+      "quantity": 1,
+      "description": "Badge",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 872 969",
+      "quantity": 1,
+      "description": "Badge",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 14 1 902 279",
+      "quantity": 1,
+      "description": "Grommet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 14 1 946 166",
+      "quantity": 1,
+      "description": "Emblem adhered",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 14 1 917 430",
+      "quantity": 1,
+      "description": "Emblem adhered rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 14 1 884 015",
+      "quantity": 1,
+      "description": "Letter \"m\" front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 14 1 917 739",
+      "quantity": 1,
+      "description": "Letter \"m\" rear",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

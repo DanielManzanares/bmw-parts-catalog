@@ -1,0 +1,45 @@
+{
+  "id": 3367,
+  "diagram_title": "Various wiring connectors",
+  "image_url": "http://ills.bmwfans.info/bwy.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "61 13 1 370 691",
+      "quantity": 1,
+      "description": "Double leaf spring contact",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 13 1 370 692",
+      "quantity": 1,
+      "description": "Double leaf spring contact",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 13 8 377 732",
+      "quantity": 1,
+      "description": "Double leaf spring contact",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 13 8 377 734",
+      "quantity": 1,
+      "description": "Double leaf spring contact",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

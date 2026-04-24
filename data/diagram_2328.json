@@ -1,0 +1,37 @@
+{
+  "id": 2328,
+  "diagram_title": "Retrofit M aluminum foot rest",
+  "image_url": "http://ills.bmwfans.info/1ier.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 43 7 902 389",
+      "quantity": 1,
+      "description": "Lateral trim panel, M foot rest, frnt lft",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 7 902 390",
+      "quantity": 1,
+      "description": "Lateral trim panel, M foot rest, frnt lft",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 7 902 391",
+      "quantity": 1,
+      "description": "Lateral trim panel, M foot rest, frnt lft",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

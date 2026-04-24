@@ -1,0 +1,445 @@
+{
+  "id": 2011,
+  "diagram_title": "Gearshift manual transmission",
+  "image_url": "http://ills.bmwfans.info/29k.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1635,
+  "category_name": "Gearshift",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "25 11 1 208 580",
+      "quantity": 2,
+      "description": "Supporting bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 1 208 580",
+      "quantity": 2,
+      "description": "Supporting bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "25 11 1 208 580",
+      "quantity": 2,
+      "description": "Supporting bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "25 11 1 205 659",
+      "quantity": 2,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "25 11 1 205 659",
+      "quantity": 2,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "25 11 1 205 659",
+      "quantity": 2,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "25 11 1 220 483",
+      "quantity": 2,
+      "description": "Hex nut with plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "25 11 1 220 483",
+      "quantity": 2,
+      "description": "Hex nut with plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "25 11 1 220 483",
+      "quantity": 2,
+      "description": "Hex nut with plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 913 676",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 913 676",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 913 676",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "25 11 1 207 113",
+      "quantity": 1,
+      "description": "Bow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "25 11 1 207 113",
+      "quantity": 1,
+      "description": "Bow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "25 11 1 207 113",
+      "quantity": 1,
+      "description": "Bow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "25 11 1 204 422",
+      "quantity": 1,
+      "description": "Stop buffer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "25 11 1 204 422",
+      "quantity": 1,
+      "description": "Stop buffer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "25 11 1 204 422",
+      "quantity": 1,
+      "description": "Stop buffer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "25 11 1 220 439",
+      "quantity": 2,
+      "description": "Plastic washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "25 11 1 220 439",
+      "quantity": 2,
+      "description": "Plastic washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "25 11 1 220 439",
+      "quantity": 2,
+      "description": "Plastic washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "25 11 1 220 379",
+      "quantity": 1,
+      "description": "Circlip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "25 11 7 571 899",
+      "quantity": 1,
+      "description": "Circlip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "25 11 1 220 379",
+      "quantity": 1,
+      "description": "Circlip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "25 11 7 571 899",
+      "quantity": 1,
+      "description": "Circlip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "25 11 1 220 379",
+      "quantity": 1,
+      "description": "Circlip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "25 11 7 571 899",
+      "quantity": 1,
+      "description": "Circlip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "25 11 1 221 243",
+      "quantity": 2,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "25 11 1 221 243",
+      "quantity": 2,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "25 11 1 221 243",
+      "quantity": 2,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "25 11 1 220 199",
+      "quantity": 2,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "25 11 1 220 199",
+      "quantity": 2,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "25 11 1 220 199",
+      "quantity": 2,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 11 9 932 863",
+      "quantity": 1,
+      "description": "Circlip",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E32, E34, E36, E9, NK, Z3"
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 11 9 902 293",
+      "quantity": 1,
+      "description": "Circlip",
+      "price_eur": null,
+      "compatible_models": "CMSP, E28, E30, E32, E34, E36, Z3"
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 11 9 932 863",
+      "quantity": 1,
+      "description": "Circlip",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E32, E34, E36, E9, NK, Z3"
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 11 9 902 293",
+      "quantity": 1,
+      "description": "Circlip",
+      "price_eur": null,
+      "compatible_models": "CMSP, E28, E30, E32, E34, E36, Z3"
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 11 9 932 863",
+      "quantity": 1,
+      "description": "Circlip",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E32, E34, E36, E9, NK, Z3"
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 11 9 902 293",
+      "quantity": 1,
+      "description": "Circlip",
+      "price_eur": null,
+      "compatible_models": "CMSP, E28, E30, E32, E34, E36, Z3"
+    },
+    {
+      "position_number": "13",
+      "part_number": "25 11 1 203 682",
+      "quantity": 1,
+      "description": "Tension bush",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "25 11 1 203 682",
+      "quantity": 1,
+      "description": "Tension bush",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "25 11 1 203 682",
+      "quantity": 1,
+      "description": "Tension bush",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "25 11 1 434 194",
+      "quantity": 1,
+      "description": "Plastic washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "25 11 1 434 194",
+      "quantity": 1,
+      "description": "Plastic washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "25 11 1 434 194",
+      "quantity": 1,
+      "description": "Plastic washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "23 41 1 466 134",
+      "quantity": 1,
+      "description": "Dowel pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "23 41 1 466 134",
+      "quantity": 1,
+      "description": "Dowel pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "23 41 1 466 134",
+      "quantity": 1,
+      "description": "Dowel pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "25 11 7 503 525",
+      "quantity": 1,
+      "description": "Gearshift rod joint",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "25 11 7 501 309",
+      "quantity": 1,
+      "description": "Gearshift rod joint",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "25 11 7 503 525",
+      "quantity": 1,
+      "description": "Gearshift rod joint",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "25 11 7 501 309",
+      "quantity": 1,
+      "description": "Gearshift rod joint",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "25 11 7 503 525",
+      "quantity": 1,
+      "description": "Gearshift rod joint",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "25 11 7 501 309",
+      "quantity": 1,
+      "description": "Gearshift rod joint",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

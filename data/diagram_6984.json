@@ -1,0 +1,21 @@
+{
+  "id": 6984,
+  "diagram_title": "Water hoses/water valve",
+  "image_url": "http://ills.bmwfans.info/1sos.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "64 11 8 369 805",
+      "quantity": 1,
+      "description": "Water valve",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

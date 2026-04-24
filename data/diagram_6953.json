@@ -1,0 +1,181 @@
+{
+  "id": 6953,
+  "diagram_title": "Interior lights",
+  "image_url": "http://ills.bmwfans.info/3hiv.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 184,
+  "category_name": "Lighting",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "63 31 6 962 141",
+      "quantity": 1,
+      "description": "Interior light",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 21 7 160 805",
+      "quantity": 2,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 31 6 962 046",
+      "quantity": 1,
+      "description": "Interior reading light front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "63 21 7 160 908",
+      "quantity": 2,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "63 25 8 389 736",
+      "quantity": 2,
+      "description": "Bulb socket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 31 6 961 998",
+      "quantity": 1,
+      "description": "Interior reading light, rear center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "63 21 7 160 908",
+      "quantity": 2,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "63 25 8 389 736",
+      "quantity": 2,
+      "description": "Bulb socket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 31 6 962 569",
+      "quantity": 1,
+      "description": "Luggage compartment light/Trunk lid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "63 21 7 160 912",
+      "quantity": 1,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 44 8 181 426",
+      "quantity": 2,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E39, E46, E81, E87, E87 Facelift"
+    },
+    {
+      "position_number": "12",
+      "part_number": "63 31 6 961 991",
+      "quantity": 1,
+      "description": "Left mirror lamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "63 31 6 961 992",
+      "quantity": 1,
+      "description": "Right mirror lamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "63 31 6 961 995",
+      "quantity": 1,
+      "description": "Left mirror lamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "63 31 6 961 996",
+      "quantity": 1,
+      "description": "Right mirror lamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "63 31 6 962 001",
+      "quantity": 1,
+      "description": "Left mirror lamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "63 31 6 962 002",
+      "quantity": 1,
+      "description": "Right mirror lamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "63 31 6 962 003",
+      "quantity": 1,
+      "description": "Left mirror lamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "63 31 6 962 004",
+      "quantity": 1,
+      "description": "Right mirror lamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "63 21 7 160 912",
+      "quantity": 2,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "61 13 8 377 072",
+      "quantity": 1,
+      "description": "Universal socket housing uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

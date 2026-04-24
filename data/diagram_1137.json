@@ -1,0 +1,85 @@
+{
+  "id": 1137,
+  "diagram_title": "suspension_parts_exhaust_2",
+  "image_url": "/static/images/diagrams/E46_330Ci-M54_exhaust_system_suspension_parts_exhaust_2.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 40,
+  "category_name": "Exhaust System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "18 20 7 502 344",
+      "quantity": 1,
+      "description": "Bracket",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 903 039",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E83, E83 Facelift, E85, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F10, F11, NK, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "18 20 7 546 579",
+      "quantity": 4,
+      "description": "Joint sleeve",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E32, E34, E36, E38, E39, E46, E52, E53, E60, E61, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E81, E82, E83, E83 Facelift, E84, E85, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F06, F06 Facelift, F07, F10, F10 Facelift, F11, F12, F12 Facelift, F13, F13 Facelift, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 11 9 904 252",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, 700, E34, E36, E38, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E65, E66, E83, E83 Facelift, ISE, NK, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 11 9 906 650",
+      "quantity": 2,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E65, E66, E70, E70 Facelift, E71, E83, E83 Facelift, E85, E86, F15, F16, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "31 31 6 769 731",
+      "quantity": 2,
+      "description": "Self-locking collar nut",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F02"
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 11 9 902 957",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E65, E66, E83, E85, E86, E9, F80, F80 Facelift, F82, F83, NK, Z1, Z3"
+    },
+    {
+      "position_number": "13",
+      "part_number": "18 10 1 433 250",
+      "quantity": 1,
+      "description": "Clamp lower",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39, E46"
+    },
+    {
+      "position_number": "14",
+      "part_number": "18 30 1 436 331",
+      "quantity": 1,
+      "description": "Exhaust support",
+      "price_eur": null,
+      "compatible_models": "E46"
+    }
+  ]
+}

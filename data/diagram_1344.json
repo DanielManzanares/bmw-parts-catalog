@@ -1,0 +1,2925 @@
+{
+  "id": 1344,
+  "diagram_title": "Crankshaft with bearing shells",
+  "image_url": "http://ills.bmwfans.info/5a.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1,
+  "category_name": "Engine",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "11 21 2 242 002",
+      "quantity": 1,
+      "description": "At-crankshaft with bearing shells",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 21 2 242 003",
+      "quantity": 1,
+      "description": "Crankshaft with bearing shells",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 21 2 242 002",
+      "quantity": 1,
+      "description": "At-crankshaft with bearing shells",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 21 2 242 003",
+      "quantity": 1,
+      "description": "Crankshaft with bearing shells",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 21 2 242 002",
+      "quantity": 1,
+      "description": "At-crankshaft with bearing shells",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 21 2 242 003",
+      "quantity": 1,
+      "description": "Crankshaft with bearing shells",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 21 2 242 002",
+      "quantity": 1,
+      "description": "At-crankshaft with bearing shells",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 21 2 242 003",
+      "quantity": 1,
+      "description": "Crankshaft with bearing shells",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 541",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 829",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 542",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 830",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 543",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 831",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 544",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 832",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 545",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 833",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 546",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 654",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 855",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 655",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 856",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 656",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 857",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 541",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 829",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 542",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 830",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 543",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 831",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 544",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 832",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 545",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 833",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 546",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 654",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 855",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 655",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 856",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 656",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 857",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 541",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 829",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 542",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 830",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 543",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 831",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 544",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 832",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 545",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 833",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 546",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 654",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 855",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 655",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 856",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 656",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 857",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 541",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 829",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 542",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 830",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 543",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 831",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 544",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 832",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 545",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 833",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 546",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 654",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 855",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 655",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 856",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 285 656",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 21 1 706 857",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 556",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 2 241 936",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 554",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 555",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 557",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 2 241 937",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 558",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 2 241 938",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 559",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 2 241 939",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 651",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 2 241 940",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 652",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 2 241 941",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 653",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 2 241 942",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 556",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 2 241 936",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 554",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 555",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 557",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 2 241 937",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 558",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 2 241 938",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 559",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 2 241 939",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 651",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 2 241 940",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 652",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 2 241 941",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 653",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 2 241 942",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 556",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 2 241 936",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 554",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 555",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 557",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 2 241 937",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 558",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 2 241 938",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 559",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 2 241 939",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 651",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 2 241 940",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 652",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 2 241 941",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 653",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 2 241 942",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 556",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 2 241 936",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 554",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 555",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 557",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 2 241 937",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 558",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 2 241 938",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 559",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 2 241 939",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 651",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 2 241 940",
+      "quantity": 1,
+      "description": "Guide-bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 652",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 2 241 941",
+      "quantity": 1,
+      "description": "Guide-bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 1 285 653",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 21 2 241 942",
+      "quantity": 1,
+      "description": "Guide-bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 567",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 568",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 569",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 706 849",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 570",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 706 850",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 571",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 706 851",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 572",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 706 852",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 648",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 706 864",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 649",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 706 865",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 650",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 706 866",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 567",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 568",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 569",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 706 849",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 570",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 706 850",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 571",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 706 851",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 572",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 706 852",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 648",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 706 864",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 649",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 706 865",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 650",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 706 866",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 567",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 568",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 569",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 706 849",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 570",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 706 850",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 571",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 706 851",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 572",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 706 852",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 648",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 706 864",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 649",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 706 865",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 650",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 706 866",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 567",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 568",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 569",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 706 849",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 570",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 706 850",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 571",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 706 851",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 572",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 706 852",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 648",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 706 864",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 649",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 706 865",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 285 650",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 21 1 706 866",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 580",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 526",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 581",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 582",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 528",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 583",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 779",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 584",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 780",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 585",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 781",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 645",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 782",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 646",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 783",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 647",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 784",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 580",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 526",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 581",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 582",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 528",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 583",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 779",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 584",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 780",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 585",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 781",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 645",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 782",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 646",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 783",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 647",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 784",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 580",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 526",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 581",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 582",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 528",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 583",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 779",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 584",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 780",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 585",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 781",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 645",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 782",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 646",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 783",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 647",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 784",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 580",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 526",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 581",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 582",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 528",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 583",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 779",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 584",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 780",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 585",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 781",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, E86, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 645",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 782",
+      "quantity": 6,
+      "description": "Bearing shell yellow",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 646",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 783",
+      "quantity": 6,
+      "description": "Bearing shell green",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 285 647",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 21 1 717 784",
+      "quantity": 6,
+      "description": "Bearing shell white",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 1 285 594",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 787 129",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 792 535",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 1 285 630",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 787 131",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 792 537",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 810 881",
+      "quantity": 6,
+      "description": "Bearing shell",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E83, E83 Facelift, E87, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 1 285 632",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 787 774",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 792 539",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 810 882",
+      "quantity": 6,
+      "description": "Bearing shell",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E83, E83 Facelift, E87, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 1 285 594",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 787 129",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 792 535",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 1 285 630",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 787 131",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 792 537",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 810 881",
+      "quantity": 6,
+      "description": "Bearing shell",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E83, E83 Facelift, E87, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 1 285 632",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 787 774",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 792 539",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 810 882",
+      "quantity": 6,
+      "description": "Bearing shell",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E83, E83 Facelift, E87, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 1 285 594",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 787 129",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 792 535",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 1 285 630",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 787 131",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 792 537",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 810 881",
+      "quantity": 6,
+      "description": "Bearing shell",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E83, E83 Facelift, E87, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 1 285 632",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 787 774",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 792 539",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 810 882",
+      "quantity": 6,
+      "description": "Bearing shell",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E83, E83 Facelift, E87, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 1 285 594",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 787 129",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 792 535",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 1 285 630",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 787 131",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 792 537",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 810 881",
+      "quantity": 6,
+      "description": "Bearing shell",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E83, E83 Facelift, E87, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 1 285 632",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 787 774",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 792 539",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 24 7 810 882",
+      "quantity": 6,
+      "description": "Bearing shell",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E83, E83 Facelift, E87, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 1 285 593",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 787 128",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 792 534",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 810 426",
+      "quantity": 6,
+      "description": "Bearing shell",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E83, E83 Facelift, E87, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 1 285 595",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 787 130",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 792 536",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 810 881",
+      "quantity": 6,
+      "description": "Bearing shell",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E83, E83 Facelift, E87, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 1 285 631",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 787 773",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 792 538",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 810 882",
+      "quantity": 6,
+      "description": "Bearing shell",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E83, E83 Facelift, E87, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 1 285 593",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 787 128",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 792 534",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 810 426",
+      "quantity": 6,
+      "description": "Bearing shell",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E83, E83 Facelift, E87, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 1 285 595",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 787 130",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 792 536",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 810 881",
+      "quantity": 6,
+      "description": "Bearing shell",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E83, E83 Facelift, E87, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 1 285 631",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 787 773",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 792 538",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 810 882",
+      "quantity": 6,
+      "description": "Bearing shell",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E83, E83 Facelift, E87, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 1 285 593",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 787 128",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 792 534",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 810 426",
+      "quantity": 6,
+      "description": "Bearing shell",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E83, E83 Facelift, E87, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 1 285 595",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 787 130",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 792 536",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 810 881",
+      "quantity": 6,
+      "description": "Bearing shell",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E83, E83 Facelift, E87, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 1 285 631",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 787 773",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 792 538",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 810 882",
+      "quantity": 6,
+      "description": "Bearing shell",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E83, E83 Facelift, E87, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 1 285 593",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 787 128",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 792 534",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 810 426",
+      "quantity": 6,
+      "description": "Bearing shell",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E83, E83 Facelift, E87, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 1 285 595",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 787 130",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 792 536",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 810 881",
+      "quantity": 6,
+      "description": "Bearing shell",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E83, E83 Facelift, E87, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 1 285 631",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 787 773",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 792 538",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 24 7 810 882",
+      "quantity": 6,
+      "description": "Bearing shell",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E83, E83 Facelift, E87, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93"
+    }
+  ]
+}

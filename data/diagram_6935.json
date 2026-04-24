@@ -1,0 +1,29 @@
+{
+  "id": 6935,
+  "diagram_title": "Automatic air conditioning control",
+  "image_url": "http://ills.bmwfans.info/tc7.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 11 6 956 319",
+      "quantity": 1,
+      "description": "Control unit, automatic air cond., AUC",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 11 8 387 642",
+      "quantity": 1,
+      "description": "Front plate, contr. auto air conditioner",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

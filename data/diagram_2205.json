@@ -1,0 +1,101 @@
+{
+  "id": 2205,
+  "diagram_title": "Heat insulat./engine compartm.screening",
+  "image_url": "http://ills.bmwfans.info/b0z.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 48 1 875 998",
+      "quantity": 1,
+      "description": "Heat insulation tunnel bottom",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 48 1 881 581",
+      "quantity": 1,
+      "description": "Heat insulation tunnel bottom",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 48 1 832 850",
+      "quantity": 1,
+      "description": "Heat resistant plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 48 1 840 109",
+      "quantity": 6,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 48 1 841 216",
+      "quantity": 6,
+      "description": "Stop nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "23 71 1 130 250",
+      "quantity": 1,
+      "description": "Square headed bolt",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E32, E34, E9, NK"
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 11 9 922 856",
+      "quantity": 1,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "114, 700, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E53, E9, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 11 9 904 032",
+      "quantity": 1,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E53, E61, E61 Facelift, E70, E70 Facelift, E71, E81, E83, E83 Facelift, E84, E87, E87 Facelift, E9, E91, E91 Facelift, F11, F11 Facelift, F25, F31, F31 Facelift, G11, G12, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "13",
+      "part_number": "23 71 1 246 623",
+      "quantity": 1,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E9, NK, Z1"
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 14 7 201 571",
+      "quantity": 1,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "37 13 1 121 089",
+      "quantity": 1,
+      "description": "Covering plate",
+      "price_eur": null,
+      "compatible_models": "E12, E24, E28"
+    }
+  ]
+}

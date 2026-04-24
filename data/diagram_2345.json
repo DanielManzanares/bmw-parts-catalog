@@ -1,0 +1,53 @@
+{
+  "id": 2345,
+  "diagram_title": "Chargeable hand lamp",
+  "image_url": "http://ills.bmwfans.info/doe.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 11 9 413 147",
+      "quantity": 1,
+      "description": "Chargeable hand lamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 11 9 413 237",
+      "quantity": 1,
+      "description": "Chargeable hand lamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 11 9 413 148",
+      "quantity": 1,
+      "description": "Lens",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 11 9 413 149",
+      "quantity": 1,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "63 21 7 167 019",
+      "quantity": 1,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

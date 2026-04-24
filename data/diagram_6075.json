@@ -1,0 +1,157 @@
+{
+  "id": 6075,
+  "diagram_title": "Body-side frame",
+  "image_url": "http://ills.bmwfans.info/1wwf.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "41 21 7 062 571",
+      "quantity": 1,
+      "description": "Body-side frame left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "41 21 7 062 572",
+      "quantity": 1,
+      "description": "Body-side frame left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "41 21 8 228 227",
+      "quantity": 1,
+      "description": "Left exterior column a",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "41 21 8 228 228",
+      "quantity": 1,
+      "description": "Left exterior column a",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "41 21 8 228 231",
+      "quantity": 1,
+      "description": "Roof frame left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "41 21 8 228 232",
+      "quantity": 1,
+      "description": "Roof frame left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "41 13 7 062 573",
+      "quantity": 1,
+      "description": "Left rear side panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "41 13 7 062 574",
+      "quantity": 1,
+      "description": "Left rear side panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "41 21 8 228 235",
+      "quantity": 1,
+      "description": "Column b with left rocker panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "41 21 8 228 236",
+      "quantity": 1,
+      "description": "Column b with left rocker panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "41 21 8 228 243",
+      "quantity": 1,
+      "description": "Connect.plate f.left side panel frame",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "41 21 8 228 244",
+      "quantity": 1,
+      "description": "Connect.plate f.left side panel frame",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "41 13 8 230 551",
+      "quantity": 1,
+      "description": "Left interior column a",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "41 13 8 245 120",
+      "quantity": 1,
+      "description": "Left interior column a",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 24 7 010 221",
+      "quantity": 2,
+      "description": "Ball pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "41 31 8 199 941",
+      "quantity": 1,
+      "description": "Threaded plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "41 21 7 057 389",
+      "quantity": 1,
+      "description": "Section of rear left fender",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "41 21 7 057 390",
+      "quantity": 1,
+      "description": "Section of rear left fender",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1339,
+    "diagram_title": "Belt Drive-Vibration Damper",
+    "image_url": "http://ills.bmwfans.info/3w.png",
+    "parts_count": 60
+  },
+  {
+    "id": 1353,
+    "diagram_title": "Cooling System Water Hoses",
+    "image_url": "http://ills.bmwfans.info/fp.png",
+    "parts_count": 56
+  },
+  {
+    "id": 1349,
+    "diagram_title": "Cooling system-fan/fan coupling",
+    "image_url": "http://ills.bmwfans.info/d7.png",
+    "parts_count": 36
+  },
+  {
+    "id": 1351,
+    "diagram_title": "Cooling system-thermostat/water hoses",
+    "image_url": "http://ills.bmwfans.info/fn.png",
+    "parts_count": 88
+  },
+  {
+    "id": 1350,
+    "diagram_title": "Cooling system-water pump",
+    "image_url": "http://ills.bmwfans.info/df.png",
+    "parts_count": 60
+  },
+  {
+    "id": 1338,
+    "diagram_title": "Crankcase-Ventilation/oil separator",
+    "image_url": "http://ills.bmwfans.info/ct.png",
+    "parts_count": 56
+  },
+  {
+    "id": 1340,
+    "diagram_title": "Crankshaft Connecting Rod",
+    "image_url": "http://ills.bmwfans.info/5b.png",
+    "parts_count": 108
+  },
+  {
+    "id": 1344,
+    "diagram_title": "Crankshaft with bearing shells",
+    "image_url": "http://ills.bmwfans.info/5a.png",
+    "parts_count": 364
+  },
+  {
+    "id": 1341,
+    "diagram_title": "Crankshaft-Pistons",
+    "image_url": "http://ills.bmwfans.info/an.png",
+    "parts_count": 28
+  },
+  {
+    "id": 1337,
+    "diagram_title": "Cylinder Head",
+    "image_url": "http://ills.bmwfans.info/2z.png",
+    "parts_count": 176
+  },
+  {
+    "id": 1336,
+    "diagram_title": "Cylinder head cover",
+    "image_url": "http://ills.bmwfans.info/2y.png",
+    "parts_count": 60
+  },
+  {
+    "id": 1329,
+    "diagram_title": "Dipstick",
+    "image_url": "http://ills.bmwfans.info/cp.png",
+    "parts_count": 32
+  },
+  {
+    "id": 1332,
+    "diagram_title": "Engine Block Mounting Parts",
+    "image_url": "http://ills.bmwfans.info/1q.png",
+    "parts_count": 40
+  },
+  {
+    "id": 1333,
+    "diagram_title": "Engine Suspension / Damper",
+    "image_url": "http://ills.bmwfans.info/13.png",
+    "parts_count": 52
+  },
+  {
+    "id": 1335,
+    "diagram_title": "Engine block",
+    "image_url": "http://ills.bmwfans.info/18.png",
+    "parts_count": 136
+  },
+  {
+    "id": 1354,
+    "diagram_title": "Exhaust manifold",
+    "image_url": "http://ills.bmwfans.info/kd.png",
+    "parts_count": 20
+  },
+  {
+    "id": 1343,
+    "diagram_title": "Flywheel / Twin Mass Flywheel",
+    "image_url": "http://ills.bmwfans.info/3y.png",
+    "parts_count": 76
+  },
+  {
+    "id": 1352,
+    "diagram_title": "Intake manifold system",
+    "image_url": "http://ills.bmwfans.info/gt.png",
+    "parts_count": 80
+  },
+  {
+    "id": 1348,
+    "diagram_title": "Lubrication system-Oil filter",
+    "image_url": "http://ills.bmwfans.info/ci.png",
+    "parts_count": 64
+  },
+  {
+    "id": 1342,
+    "diagram_title": "Lubrication system/Oil pump",
+    "image_url": "http://ills.bmwfans.info/b9.png",
+    "parts_count": 4
+  },
+  {
+    "id": 1345,
+    "diagram_title": "Lubrication system/Oil pump with drive",
+    "image_url": "http://ills.bmwfans.info/cs.png",
+    "parts_count": 104
+  },
+  {
+    "id": 1330,
+    "diagram_title": "Oil pan/oil level indicator",
+    "image_url": "http://ills.bmwfans.info/2h.png",
+    "parts_count": 28
+  },
+  {
+    "id": 1328,
+    "diagram_title": "Short Engine",
+    "image_url": "http://ills.bmwfans.info/e.png",
+    "parts_count": 8
+  },
+  {
+    "id": 1347,
+    "diagram_title": "Timimg gear — rocker arm/valves",
+    "image_url": "http://ills.bmwfans.info/30.png",
+    "parts_count": 60
+  },
+  {
+    "id": 1331,
+    "diagram_title": "Timing cover lower",
+    "image_url": "http://ills.bmwfans.info/1p.png",
+    "parts_count": 44
+  },
+  {
+    "id": 1334,
+    "diagram_title": "Timing cover upper",
+    "image_url": "http://ills.bmwfans.info/bd.png",
+    "parts_count": 60
+  },
+  {
+    "id": 1346,
+    "diagram_title": "Timing+valve train-tooth belt/camshaft",
+    "image_url": "http://ills.bmwfans.info/bc.png",
+    "parts_count": 140
+  },
+  {
+    "id": 1356,
+    "diagram_title": "Turbo charger with lubrication",
+    "image_url": "http://ills.bmwfans.info/ki.png",
+    "parts_count": 104
+  }
+]

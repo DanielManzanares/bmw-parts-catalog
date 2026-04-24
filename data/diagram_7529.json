@@ -1,0 +1,189 @@
+{
+  "id": 7529,
+  "diagram_title": "Individual armrest, front and rear",
+  "image_url": "http://ills.bmwfans.info/2jgh.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 41 8 013 002",
+      "quantity": 1,
+      "description": "Armrest, front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 8 013 003",
+      "quantity": 1,
+      "description": "Armrest, front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 8 013 004",
+      "quantity": 1,
+      "description": "Armrest, front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 8 013 005",
+      "quantity": 1,
+      "description": "Armrest, front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 8 013 494",
+      "quantity": 1,
+      "description": "Armrest, front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 8 024 875",
+      "quantity": 1,
+      "description": "Armrest, front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 8 010 261",
+      "quantity": 1,
+      "description": "Armrest, front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 8 018 233",
+      "quantity": 1,
+      "description": "Armrest, front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 8 018 234",
+      "quantity": 1,
+      "description": "Armrest, front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 8 018 420",
+      "quantity": 1,
+      "description": "Armrest, front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 8 013 495",
+      "quantity": 1,
+      "description": "Armrest, rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 43 8 013 006",
+      "quantity": 1,
+      "description": "Armrest, rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 43 8 013 007",
+      "quantity": 1,
+      "description": "Armrest, rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 43 8 013 008",
+      "quantity": 1,
+      "description": "Armrest, rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 43 8 013 009",
+      "quantity": 1,
+      "description": "Armrest, rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 43 8 024 876",
+      "quantity": 1,
+      "description": "Armrest, rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 8 010 262",
+      "quantity": 1,
+      "description": "Armrest, rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 43 8 018 235",
+      "quantity": 1,
+      "description": "Armrest, rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 43 8 018 236",
+      "quantity": 1,
+      "description": "Armrest, rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 43 8 018 421",
+      "quantity": 1,
+      "description": "Armrest, rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 41 8 020 232",
+      "quantity": 1,
+      "description": "Cover, primed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 41 0 151 639",
+      "quantity": 1,
+      "description": "Cover, primed",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

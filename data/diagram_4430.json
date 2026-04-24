@@ -1,0 +1,29 @@
+{
+  "id": 4430,
+  "diagram_title": "Woodrimmed sport steer. wheel Airb.-Smar",
+  "image_url": "http://ills.bmwfans.info/1tjb.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "32 34 9 408 632",
+      "quantity": 1,
+      "description": "Sports st.wheel rim, wood, myrtle",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 34 9 408 632",
+      "quantity": 1,
+      "description": "Sports st.wheel rim, wood, myrtle",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

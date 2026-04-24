@@ -1,0 +1,437 @@
+{
+  "id": 2791,
+  "diagram_title": "Single components sound system",
+  "image_url": "http://ills.bmwfans.info/cza.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 058 545",
+      "quantity": 1,
+      "description": "Installing set sound system",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 12 1 375 982",
+      "quantity": 1,
+      "description": "Fader control with flat-type connector",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 11 9 416 306",
+      "quantity": 1,
+      "description": "Adapter lead",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 12 1 386 161",
+      "quantity": 1,
+      "description": "Adapter lead",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "65 11 1 367 160",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 12 1 381 654",
+      "quantity": 1,
+      "description": "Wiring set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 12 1 373 548",
+      "quantity": 2,
+      "description": "Wiring door",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 48 1 921 099",
+      "quantity": 2,
+      "description": "Sound insulation",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "65 11 1 360 120",
+      "quantity": 8,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "65 11 1 374 608",
+      "quantity": 4,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "65 13 1 377 771",
+      "quantity": 2,
+      "description": "Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "65 12 1 367 715",
+      "quantity": 2,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "65 12 1 367 716",
+      "quantity": 2,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "65 12 1 370 199",
+      "quantity": 2,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "65 12 1 373 235",
+      "quantity": 2,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "65 12 1 373 236",
+      "quantity": 2,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "65 12 1 377 741",
+      "quantity": 2,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "65 12 1 381 529",
+      "quantity": 2,
+      "description": "Cover Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 11 9 902 473",
+      "quantity": 8,
+      "description": "Recessed oval head sheet-metal screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 48 1 904 007",
+      "quantity": 2,
+      "description": "Absorbing piece",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "65 13 1 380 581",
+      "quantity": 1,
+      "description": "Loudspeaker left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "65 13 1 380 582",
+      "quantity": 1,
+      "description": "Loudspeaker right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "65 11 1 368 790",
+      "quantity": 1,
+      "description": "Guide rail",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "65 11 1 363 622",
+      "quantity": 1,
+      "description": "Bracket rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "65 11 1 369 658",
+      "quantity": 1,
+      "description": "Support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "07 11 9 907 951",
+      "quantity": 2,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "51 45 1 944 647",
+      "quantity": 2,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "07 12 9 901 634",
+      "quantity": 2,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "07 11 9 916 914",
+      "quantity": 4,
+      "description": "Hex head screw",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E36, E38, E39"
+    },
+    {
+      "position_number": "23",
+      "part_number": "65 12 1 375 983",
+      "quantity": 1,
+      "description": "Amplifier",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "24",
+      "part_number": "65 12 1 380 533",
+      "quantity": 1,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "25",
+      "part_number": "07 11 9 906 816",
+      "quantity": 4,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28, E30, E32, E34, E36, Z3"
+    },
+    {
+      "position_number": "26",
+      "part_number": "65 13 1 381 473",
+      "quantity": 2,
+      "description": "Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "26",
+      "part_number": "65 13 1 381 474",
+      "quantity": 2,
+      "description": "Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "26",
+      "part_number": "65 13 1 381 475",
+      "quantity": 2,
+      "description": "Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "26",
+      "part_number": "65 13 1 381 476",
+      "quantity": 2,
+      "description": "Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "26",
+      "part_number": "65 13 1 381 477",
+      "quantity": 2,
+      "description": "Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "26",
+      "part_number": "65 13 1 381 478",
+      "quantity": 2,
+      "description": "Loudspeaker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "27",
+      "part_number": "07 12 9 925 710",
+      "quantity": 8,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "27",
+      "part_number": "07 12 9 904 144",
+      "quantity": 8,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "28",
+      "part_number": "07 11 9 906 749",
+      "quantity": 8,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "29",
+      "part_number": "65 13 1 381 467",
+      "quantity": 2,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "29",
+      "part_number": "65 13 1 381 468",
+      "quantity": 2,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "29",
+      "part_number": "65 13 1 381 469",
+      "quantity": 2,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "29",
+      "part_number": "65 13 1 381 470",
+      "quantity": 2,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "29",
+      "part_number": "65 13 1 381 471",
+      "quantity": 2,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "29",
+      "part_number": "65 13 1 381 472",
+      "quantity": 2,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "30",
+      "part_number": "65 13 1 381 461",
+      "quantity": 2,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "30",
+      "part_number": "65 13 1 381 462",
+      "quantity": 2,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "30",
+      "part_number": "65 13 1 381 463",
+      "quantity": 2,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "30",
+      "part_number": "65 13 1 381 464",
+      "quantity": 2,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "30",
+      "part_number": "65 13 1 381 465",
+      "quantity": 2,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "30",
+      "part_number": "65 13 1 381 466",
+      "quantity": 2,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

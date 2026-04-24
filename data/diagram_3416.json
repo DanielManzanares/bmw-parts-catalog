@@ -1,0 +1,85 @@
+{
+  "id": 3416,
+  "diagram_title": "Cover door sill / wheel arch",
+  "image_url": "http://ills.bmwfans.info/3hqi.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 71 8 211 943",
+      "quantity": 1,
+      "description": "Primed left outer kick panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 71 8 211 944",
+      "quantity": 1,
+      "description": "Primed left outer kick panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 71 9 071 632",
+      "quantity": 1,
+      "description": "Primed left outer kick panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 71 9 071 633",
+      "quantity": 1,
+      "description": "Primed left outer kick panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 71 1 932 996",
+      "quantity": 1,
+      "description": "Grommet, green",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 11 8 174 185",
+      "quantity": 1,
+      "description": "Expanding rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 71 8 184 574",
+      "quantity": 12,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 71 8 219 167",
+      "quantity": 1,
+      "description": "Covering left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 71 8 219 168",
+      "quantity": 1,
+      "description": "Covering left",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

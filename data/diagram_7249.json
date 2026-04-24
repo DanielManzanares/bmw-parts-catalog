@@ -1,0 +1,37 @@
+{
+  "id": 7249,
+  "diagram_title": "Ski bag",
+  "image_url": "http://ills.bmwfans.info/l87.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1646,
+  "category_name": "Restraint system and Accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "72 60 8 215 262",
+      "quantity": 1,
+      "description": "Ski bag cassette",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "72 60 8 179 197",
+      "quantity": 1,
+      "description": "Ski bag cassette",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 915 041",
+      "quantity": 1,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

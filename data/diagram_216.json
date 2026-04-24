@@ -1,0 +1,221 @@
+{
+  "id": 216,
+  "diagram_title": "Crankshaft-Pistons",
+  "image_url": "http://ills.bmwfans.info/95.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1,
+  "category_name": "Engine",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "11 25 1 738 747",
+      "quantity": 6,
+      "description": "Borgo piston",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 25 1 738 748",
+      "quantity": 6,
+      "description": "92",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 25 1 738 749",
+      "quantity": 6,
+      "description": "92",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 25 1 738 750",
+      "quantity": 6,
+      "description": "92",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 25 1 748 458",
+      "quantity": 6,
+      "description": "Mahle piston",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 25 1 748 459",
+      "quantity": 6,
+      "description": "92",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 25 1 738 747",
+      "quantity": 6,
+      "description": "Borgo piston",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 25 1 738 748",
+      "quantity": 6,
+      "description": "92",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 25 1 738 749",
+      "quantity": 6,
+      "description": "92",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 25 1 738 750",
+      "quantity": 6,
+      "description": "92",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 25 1 748 458",
+      "quantity": 6,
+      "description": "Mahle piston",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 25 1 748 459",
+      "quantity": 6,
+      "description": "92",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 934 460",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E61, E65, E66, E83, E85, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 934 460",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E61, E65, E66, E83, E85, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 25 9 065 185",
+      "quantity": 6,
+      "description": "Repair kit piston rings-mahle",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 25 9 065 186",
+      "quantity": 6,
+      "description": "92",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 25 1 738 767",
+      "quantity": 6,
+      "description": "Repair kit piston rings borgo",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 25 1 738 768",
+      "quantity": 6,
+      "description": "92",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 25 1 738 769",
+      "quantity": 6,
+      "description": "92",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 25 1 738 770",
+      "quantity": 6,
+      "description": "92",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 25 9 065 185",
+      "quantity": 6,
+      "description": "Repair kit piston rings-mahle",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 25 9 065 186",
+      "quantity": 6,
+      "description": "92",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 25 1 738 767",
+      "quantity": 6,
+      "description": "Repair kit piston rings borgo",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 25 1 738 768",
+      "quantity": 6,
+      "description": "92",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 25 1 738 769",
+      "quantity": 6,
+      "description": "92",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 25 1 738 770",
+      "quantity": 6,
+      "description": "92",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 7484,
+  "diagram_title": "Individual leather gear shift knob",
+  "image_url": "http://ills.bmwfans.info/3ah3.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "25 11 8 012 965",
+      "quantity": 1,
+      "description": "Gearshift knob, leather/5-speed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "25 11 8 019 064",
+      "quantity": 1,
+      "description": "Gearshift knob, leather/M plaque/5-speed",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

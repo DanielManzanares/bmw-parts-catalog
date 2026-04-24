@@ -1,0 +1,69 @@
+{
+  "id": 2484,
+  "diagram_title": "Trailer coupling",
+  "image_url": "http://ills.bmwfans.info/d8p.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "71 60 1 094 120",
+      "quantity": 1,
+      "description": "Towing hitch, detachable",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 60 1 094 121",
+      "quantity": 1,
+      "description": "Towing hitch, detachable",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 60 1 094 139",
+      "quantity": 1,
+      "description": "Towing hitch, detachable",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 60 9 433 033",
+      "quantity": 1,
+      "description": "Set of mounting electric parts",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 60 9 433 003",
+      "quantity": 1,
+      "description": "Set of mounting electric parts",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 60 9 433 033",
+      "quantity": 1,
+      "description": "Set of mounting electric parts",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 60 9 433 003",
+      "quantity": 1,
+      "description": "Set of mounting electric parts",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

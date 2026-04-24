@@ -1,0 +1,141 @@
+{
+  "id": 6483,
+  "diagram_title": "Yarded material, leather Oregon",
+  "image_url": "http://ills.bmwfans.info/1rgy.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 92 7 000 244",
+      "quantity": 1,
+      "description": "Leather upholstery, Oregon uni",
+      "price_eur": null,
+      "compatible_models": "E36, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 223 116",
+      "quantity": 1,
+      "description": "Leather upholstery, Oregon uni",
+      "price_eur": null,
+      "compatible_models": "E36, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 223 117",
+      "quantity": 1,
+      "description": "Leather upholstery, Oregon uni",
+      "price_eur": null,
+      "compatible_models": "E36, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 223 118",
+      "quantity": 1,
+      "description": "Leather upholstery, Oregon uni",
+      "price_eur": null,
+      "compatible_models": "E36, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 223 119",
+      "quantity": 1,
+      "description": "Leather upholstery, Oregon uni",
+      "price_eur": null,
+      "compatible_models": "E36, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 237 362",
+      "quantity": 1,
+      "description": "Leather upholstery, Oregon uni",
+      "price_eur": null,
+      "compatible_models": "E36, E46, E85, E86, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 264 962",
+      "quantity": 1,
+      "description": "Leather upholstery, Oregon uni",
+      "price_eur": null,
+      "compatible_models": "E36, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 8 265 083",
+      "quantity": 1,
+      "description": "Leather upholstery, Oregon uni",
+      "price_eur": null,
+      "compatible_models": "E36, E46, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 7 000 245",
+      "quantity": 1,
+      "description": "Leather upholstery, Oregon Point",
+      "price_eur": null,
+      "compatible_models": "E36, E46, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 237 249",
+      "quantity": 1,
+      "description": "Leather upholstery, Oregon Point",
+      "price_eur": null,
+      "compatible_models": "E36, E46, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 237 250",
+      "quantity": 1,
+      "description": "Leather upholstery, Oregon Point",
+      "price_eur": null,
+      "compatible_models": "E36, E46, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 237 251",
+      "quantity": 1,
+      "description": "Leather upholstery, Oregon Point",
+      "price_eur": null,
+      "compatible_models": "E36, E46, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 237 252",
+      "quantity": 1,
+      "description": "Leather upholstery, Oregon Point",
+      "price_eur": null,
+      "compatible_models": "E36, E46, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 237 363",
+      "quantity": 1,
+      "description": "Leather upholstery, Oregon Point",
+      "price_eur": null,
+      "compatible_models": "E36, E46, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 265 088",
+      "quantity": 1,
+      "description": "Leather upholstery, Oregon Point",
+      "price_eur": null,
+      "compatible_models": "E36, E46, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 8 265 089",
+      "quantity": 1,
+      "description": "Leather upholstery, Oregon Point",
+      "price_eur": null,
+      "compatible_models": "E36, E46, Z3"
+    }
+  ]
+}

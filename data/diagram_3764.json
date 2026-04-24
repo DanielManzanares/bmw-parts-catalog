@@ -1,0 +1,45 @@
+{
+  "id": 3764,
+  "diagram_title": "Heater closing panel",
+  "image_url": "http://ills.bmwfans.info/cna.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 71 8 122 360",
+      "quantity": 1,
+      "description": "Heater closing panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 17 1 367 868",
+      "quantity": 3,
+      "description": "Expanding nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 916 808",
+      "quantity": 3,
+      "description": "Hex head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 71 1 960 628",
+      "quantity": 1,
+      "description": "Heater panel bracket",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

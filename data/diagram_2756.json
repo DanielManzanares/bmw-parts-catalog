@@ -1,0 +1,77 @@
+{
+  "id": 2756,
+  "diagram_title": "Radio Bavaria Mono Digital",
+  "image_url": "http://ills.bmwfans.info/cze.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 11 1 379 234",
+      "quantity": 1,
+      "description": "Rmfd radio BAVARIA MONO",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 11 9 058 621",
+      "quantity": 1,
+      "description": "Radio Bavaria Mono",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 11 9 061 281",
+      "quantity": 1,
+      "description": "Radio Bavaria Mono",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 11 1 388 398",
+      "quantity": 1,
+      "description": "Rmfd radio BAVARIA MONO DIGITAL II",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 11 1 388 398",
+      "quantity": 1,
+      "description": "Rmfd radio BAVARIA MONO DIGITAL II",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 11 9 061 281",
+      "quantity": 1,
+      "description": "Radio Bavaria Mono",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "65 11 9 057 163",
+      "quantity": 1,
+      "description": "Radio installing kit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "65 11 9 057 163",
+      "quantity": 1,
+      "description": "Radio installing kit",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": 1471,
+  "diagram_title": "Bmw sports seat",
+  "image_url": "http://ills.bmwfans.info/bpu.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 945 123",
+      "quantity": 1,
+      "description": "Seat cloth left with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 945 124",
+      "quantity": 1,
+      "description": "Seat cloth right with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 945 125",
+      "quantity": 1,
+      "description": "Seat cloth left with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 945 126",
+      "quantity": 1,
+      "description": "Seat cloth right with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 945 127",
+      "quantity": 1,
+      "description": "Seat cloth left with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 945 128",
+      "quantity": 1,
+      "description": "Seat cloth right with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 945 129",
+      "quantity": 1,
+      "description": "Seat cloth left with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 945 130",
+      "quantity": 1,
+      "description": "Seat cloth right with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 945 131",
+      "quantity": 1,
+      "description": "Seat cloth left with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 945 132",
+      "quantity": 1,
+      "description": "Seat cloth right with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 945 123",
+      "quantity": 1,
+      "description": "Seat cloth left with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 945 124",
+      "quantity": 1,
+      "description": "Seat cloth right with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 945 125",
+      "quantity": 1,
+      "description": "Seat cloth left with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 945 126",
+      "quantity": 1,
+      "description": "Seat cloth right with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 945 127",
+      "quantity": 1,
+      "description": "Seat cloth left with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 945 128",
+      "quantity": 1,
+      "description": "Seat cloth right with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 945 129",
+      "quantity": 1,
+      "description": "Seat cloth left with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 945 130",
+      "quantity": 1,
+      "description": "Seat cloth right with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 945 131",
+      "quantity": 1,
+      "description": "Seat cloth left with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 945 132",
+      "quantity": 1,
+      "description": "Seat cloth right with adjuster",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

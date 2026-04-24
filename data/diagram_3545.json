@@ -1,0 +1,173 @@
+{
+  "id": 3545,
+  "diagram_title": "Sound insulating front",
+  "image_url": "http://ills.bmwfans.info/3c03.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 48 8 193 941",
+      "quantity": 1,
+      "description": "Sound insulating engine hood",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 48 1 915 964",
+      "quantity": 11,
+      "description": "Expanding rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 71 7 001 494",
+      "quantity": 1,
+      "description": "Expanding rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 48 7 007 997",
+      "quantity": 1,
+      "description": "Sound insulating dash panel engine room",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 48 1 923 999",
+      "quantity": 6,
+      "description": "Push-button",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 14 6 949 380",
+      "quantity": 2,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 48 8 193 827",
+      "quantity": 1,
+      "description": "Sound insulation, tunnel, exterior",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 48 8 193 821",
+      "quantity": 1,
+      "description": "Upper sound insulating dash panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 48 8 231 193",
+      "quantity": 1,
+      "description": "Bracket left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 48 8 231 194",
+      "quantity": 1,
+      "description": "Bracket left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 48 8 231 195",
+      "quantity": 1,
+      "description": "Bracket center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 48 8 126 849",
+      "quantity": 1,
+      "description": "Push-button, gray",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 48 8 193 939",
+      "quantity": 1,
+      "description": "Sound insulating roof front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 48 7 114 713",
+      "quantity": 1,
+      "description": "Sound insulating door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 48 7 114 714",
+      "quantity": 1,
+      "description": "Sound insulating door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 48 8 252 749",
+      "quantity": 9,
+      "description": "Clip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 48 7 007 972",
+      "quantity": 1,
+      "description": "Sound insulating right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 48 8 238 409",
+      "quantity": 1,
+      "description": "Sound insulating right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 48 1 923 969",
+      "quantity": 4,
+      "description": "Sound deadener, door",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 48 7 011 784",
+      "quantity": 2,
+      "description": "Sound deadener, door",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "id": 3123,
+  "diagram_title": "Door window lifting mechanism front",
+  "image_url": "http://ills.bmwfans.info/2rho.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 32 8 146 801",
+      "quantity": 1,
+      "description": "Window lifter front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 32 8 146 802",
+      "quantity": 1,
+      "description": "Window lifter front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 33 1 977 609",
+      "quantity": 1,
+      "description": "Window lifter front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 33 1 977 610",
+      "quantity": 1,
+      "description": "Window lifter front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 32 1 938 884",
+      "quantity": 4,
+      "description": "Sliding piece",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 915 042",
+      "quantity": 2,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 34 1 950 474",
+      "quantity": 2,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 12 7 070 202",
+      "quantity": 2,
+      "description": "Nut holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "67 62 1 387 435",
+      "quantity": 1,
+      "description": "Electr.drive",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "67 62 1 387 436",
+      "quantity": 1,
+      "description": "Electr.drive",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 37 1 952 879",
+      "quantity": 1,
+      "description": "Countersunk head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 32 8 122 503",
+      "quantity": 2,
+      "description": "Crank, window lifter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "54 12 1 907 282",
+      "quantity": 2,
+      "description": "Torx-bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 32 8 186 712",
+      "quantity": 2,
+      "description": "Stop disk",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 32 8 213 981",
+      "quantity": 1,
+      "description": "Left window guide",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 32 8 213 982",
+      "quantity": 1,
+      "description": "Left window guide",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 32 1 960 555",
+      "quantity": 1,
+      "description": "Window guide rail left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 32 1 960 556",
+      "quantity": 1,
+      "description": "Window guide rail left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 32 1 960 413",
+      "quantity": 2,
+      "description": "Window guide",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "07 11 9 915 123",
+      "quantity": 2,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 32 1 960 885",
+      "quantity": 1,
+      "description": "Covering inner left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 32 1 960 886",
+      "quantity": 1,
+      "description": "Covering inner left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "51 41 7 053 138",
+      "quantity": 6,
+      "description": "Locknut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "07 11 9 915 041",
+      "quantity": 6,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "24",
+      "part_number": "67 62 8 360 569",
+      "quantity": 1,
+      "description": "Rmfd-LEFT DRIVE UNIT",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "24",
+      "part_number": "67 62 8 360 570",
+      "quantity": 1,
+      "description": "Rmfd-LEFT DRIVE UNIT",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

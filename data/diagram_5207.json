@@ -1,0 +1,285 @@
+{
+  "id": 5207,
+  "diagram_title": "Contact system MLK",
+  "image_url": "http://ills.bmwfans.info/a2mg.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 52 7 510 672",
+      "quantity": 1,
+      "description": "Terminal socket for MLK 1, 2",
+      "price_eur": null,
+      "compatible_models": "E46, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 7 510 674",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 7 510 673",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46, E60, E60 Facelift, E61, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E70, E71, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 7 560 455",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46, E60 Facelift, E61 Facelift, E63 Facelift, E64 Facelift, E70, E70 Facelift, E71, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F02, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F25, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 7 510 670",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 7 510 671",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E70, E71, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 7 502 929",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 7 510 668",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F02, F03, F03 Facelift, F04, F07, F10, F11, F12, F13, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 7 502 932",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F07, F10, F11, F12, F13, F18, F18 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 7 564 537",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F02, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 7 532 371",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46, E60, E60 Facelift, E61, E63, E64, E65, E66, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 0 030 685",
+      "quantity": 1,
+      "description": "Bushing contact",
+      "price_eur": null,
+      "compatible_models": "E46, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 0 143 438",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E70, E71, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F10, F18, F18 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 0 143 439",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 7 560 453",
+      "quantity": 1,
+      "description": "Terminal socket for MLK 1, 2",
+      "price_eur": null,
+      "compatible_models": "E46, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 7 510 672",
+      "quantity": 1,
+      "description": "Terminal socket for MLK 1, 2",
+      "price_eur": null,
+      "compatible_models": "E46, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 7 510 674",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 7 510 673",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46, E60, E60 Facelift, E61, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E70, E71, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 7 560 455",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46, E60 Facelift, E61 Facelift, E63 Facelift, E64 Facelift, E70, E70 Facelift, E71, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F02, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F25, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 7 510 670",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 7 510 671",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E70, E71, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 7 502 929",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 7 510 668",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F02, F03, F03 Facelift, F04, F07, F10, F11, F12, F13, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 7 502 932",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F07, F10, F11, F12, F13, F18, F18 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 7 564 537",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F02, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 7 532 371",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46, E60, E60 Facelift, E61, E63, E64, E65, E66, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 0 030 685",
+      "quantity": 1,
+      "description": "Bushing contact",
+      "price_eur": null,
+      "compatible_models": "E46, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 0 143 438",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E70, E71, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F10, F18, F18 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 0 143 439",
+      "quantity": 1,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E46, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 52 7 560 453",
+      "quantity": 1,
+      "description": "Terminal socket for MLK 1, 2",
+      "price_eur": null,
+      "compatible_models": "E46, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    },
+    {
+      "position_number": "2",
+      "part_number": "12 52 7 503 411",
+      "quantity": 1,
+      "description": "Rubber grommet",
+      "price_eur": null,
+      "compatible_models": "E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F02, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    },
+    {
+      "position_number": "2",
+      "part_number": "12 52 7 503 411",
+      "quantity": 1,
+      "description": "Rubber grommet",
+      "price_eur": null,
+      "compatible_models": "E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F02, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    },
+    {
+      "position_number": "3",
+      "part_number": "12 52 7 512 135",
+      "quantity": 1,
+      "description": "Flat plug terminal MLK 1.2",
+      "price_eur": null,
+      "compatible_models": "E46, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    },
+    {
+      "position_number": "3",
+      "part_number": "12 52 7 512 135",
+      "quantity": 1,
+      "description": "Flat plug terminal MLK 1.2",
+      "price_eur": null,
+      "compatible_models": "E46, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F20, F21, F22, F25, F30, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift"
+    }
+  ]
+}

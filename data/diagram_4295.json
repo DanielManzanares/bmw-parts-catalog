@@ -1,0 +1,189 @@
+{
+  "id": 4295,
+  "diagram_title": "Templates BMW",
+  "image_url": "http://ills.bmwfans.info/2sax.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1531,
+  "category_name": "Technical Literature",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "01 29 0 021 961",
+      "quantity": 1,
+      "description": "Template",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 29 0 411 425",
+      "quantity": 1,
+      "description": "Template",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 29 0 027 358",
+      "quantity": 1,
+      "description": "Template",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 29 0 136 496",
+      "quantity": 1,
+      "description": "Template",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 39 9 791 462",
+      "quantity": 1,
+      "description": "Template",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 0 021 182",
+      "quantity": 1,
+      "description": "Template",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 39 9 791 460",
+      "quantity": 1,
+      "description": "Template",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 39 9 791 459",
+      "quantity": 1,
+      "description": "Template",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 29 0 021 972",
+      "quantity": 1,
+      "description": "Template",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 39 9 791 461",
+      "quantity": 1,
+      "description": "Template",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 29 0 026 908",
+      "quantity": 1,
+      "description": "Template",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 29 0 021 961",
+      "quantity": 1,
+      "description": "Template",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 29 0 411 425",
+      "quantity": 1,
+      "description": "Template",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 29 0 027 358",
+      "quantity": 1,
+      "description": "Template",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 29 0 136 496",
+      "quantity": 1,
+      "description": "Template",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 39 9 791 462",
+      "quantity": 1,
+      "description": "Template",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 0 021 182",
+      "quantity": 1,
+      "description": "Template",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 39 9 791 460",
+      "quantity": 1,
+      "description": "Template",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 39 9 791 459",
+      "quantity": 1,
+      "description": "Template",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 29 0 021 972",
+      "quantity": 1,
+      "description": "Template",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 39 9 791 461",
+      "quantity": 1,
+      "description": "Template",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 29 0 026 908",
+      "quantity": 1,
+      "description": "Template",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

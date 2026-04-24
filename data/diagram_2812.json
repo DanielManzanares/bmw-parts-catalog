@@ -1,0 +1,21 @@
+{
+  "id": 2812,
+  "diagram_title": "Snow chains",
+  "image_url": "http://ills.bmwfans.info/d6l.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "36 11 2 296 311",
+      "quantity": 1,
+      "description": "Snow chains BMW Comfort",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

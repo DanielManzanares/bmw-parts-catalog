@@ -1,0 +1,77 @@
+{
+  "id": 4390,
+  "diagram_title": "Mud flaps",
+  "image_url": "http://ills.bmwfans.info/2qck.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 16 9 408 655",
+      "quantity": 1,
+      "description": "Set mud flaps, front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 16 9 408 655",
+      "quantity": 1,
+      "description": "Set mud flaps, front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 16 9 408 656",
+      "quantity": 1,
+      "description": "Set mud flaps, rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 16 9 408 656",
+      "quantity": 1,
+      "description": "Set mud flaps, rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 19 9 413 965",
+      "quantity": 1,
+      "description": "Set mounting parts front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 19 9 413 965",
+      "quantity": 1,
+      "description": "Set mounting parts front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 19 9 413 978",
+      "quantity": 1,
+      "description": "Set mounting parts rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 19 9 413 978",
+      "quantity": 1,
+      "description": "Set mounting parts rear",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

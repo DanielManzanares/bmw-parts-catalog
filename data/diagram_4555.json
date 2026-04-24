@@ -1,0 +1,61 @@
+{
+  "id": 4555,
+  "diagram_title": "BMW Baby Seat 0+",
+  "image_url": "http://ills.bmwfans.info/dyv5.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 22 2 348 230",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 2 348 231",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 2 348 230",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 22 2 348 231",
+      "quantity": 1,
+      "description": "BMW Baby Seat 0+",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 22 2 348 233",
+      "quantity": 1,
+      "description": "Isofix Base 0+/1",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 22 2 348 233",
+      "quantity": 1,
+      "description": "Isofix Base 0+/1",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": 2874,
+  "diagram_title": "Snap-in adapter for NOKIA devices",
+  "image_url": "http://ills.bmwfans.info/bzo0.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "84 21 0 413 036",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 6 973 983",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 10 9 143 740",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 0 444 643",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 2 160 142",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 6 930 108",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 2 208 720",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 2 219 364",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 2 221 945",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 0 442 787",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 0 445 593",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "84 21 2 160 141",
+      "quantity": 1,
+      "description": "Snap-in adapter, Basic",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

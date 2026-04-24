@@ -1,0 +1,157 @@
+{
+  "id": 3970,
+  "diagram_title": "Individual insert, frnt door",
+  "image_url": "http://ills.bmwfans.info/jbb.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 41 2 430 197",
+      "quantity": 1,
+      "description": "Left front door trim panel insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 2 430 198",
+      "quantity": 1,
+      "description": "Left front door trim panel insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 2 430 231",
+      "quantity": 1,
+      "description": "Left front door trim panel insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 2 430 232",
+      "quantity": 1,
+      "description": "Left front door trim panel insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 9 071 464",
+      "quantity": 1,
+      "description": "Left front door trim panel insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 9 071 465",
+      "quantity": 1,
+      "description": "Left front door trim panel insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 9 071 622",
+      "quantity": 1,
+      "description": "Left front door trim panel insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 9 071 623",
+      "quantity": 1,
+      "description": "Left front door trim panel insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 2 491 631",
+      "quantity": 1,
+      "description": "Left front door trim panel insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 2 491 632",
+      "quantity": 1,
+      "description": "Left front door trim panel insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 2 491 633",
+      "quantity": 1,
+      "description": "Left front door trim panel insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 2 491 634",
+      "quantity": 1,
+      "description": "Left front door trim panel insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 2 491 635",
+      "quantity": 1,
+      "description": "Left front door trim panel insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 2 491 636",
+      "quantity": 1,
+      "description": "Left front door trim panel insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 2 491 637",
+      "quantity": 1,
+      "description": "Left front door trim panel insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 2 491 638",
+      "quantity": 1,
+      "description": "Left front door trim panel insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 2 493 133",
+      "quantity": 1,
+      "description": "Left front door trim panel insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 2 493 134",
+      "quantity": 1,
+      "description": "Left front door trim panel insert",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

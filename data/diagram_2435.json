@@ -1,0 +1,69 @@
+{
+  "id": 2435,
+  "diagram_title": "Glass cover",
+  "image_url": "http://ills.bmwfans.info/bso.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1639,
+  "category_name": "Sliding Roof / Folding Top",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "54 12 1 907 246",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 902 524",
+      "quantity": 1,
+      "description": "Recessed oval head sheet-metal screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "54 12 1 907 272",
+      "quantity": 1,
+      "description": "Recessed handle",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "54 12 1 905 699",
+      "quantity": 1,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 11 9 907 910",
+      "quantity": 1,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "54 12 1 907 273",
+      "quantity": 1,
+      "description": "Stopper",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 12 9 948 747",
+      "quantity": 1,
+      "description": "Blind rivet",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

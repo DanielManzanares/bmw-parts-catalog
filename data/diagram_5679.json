@@ -1,0 +1,45 @@
+{
+  "id": 5679,
+  "diagram_title": "Wheel bearing",
+  "image_url": "http://ills.bmwfans.info/2q6.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 49,
+  "category_name": "Front Axle",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "31 22 6 757 024",
+      "quantity": 2,
+      "description": "Wheel hub, front, symmetric",
+      "price_eur": null,
+      "compatible_models": "E36, E46, E85, E86, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "31 20 6 777 788",
+      "quantity": 2,
+      "description": "Dust protection collar",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E46, E85, E86, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "31 21 1 128 336",
+      "quantity": 2,
+      "description": "Collar nut",
+      "price_eur": null,
+      "compatible_models": "CMSP, E24, E28, E30, E31, E32, E34, E36, E38, E46, E85, E86, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "31 20 6 777 789",
+      "quantity": 2,
+      "description": "Cap",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E31, E32, E34, E36, E38, E46, E85, E86, Z3"
+    }
+  ]
+}

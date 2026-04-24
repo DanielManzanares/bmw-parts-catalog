@@ -1,0 +1,189 @@
+{
+  "id": 908,
+  "diagram_title": "s5d_g_inner_gear_shifting_parts_2",
+  "image_url": "/static/images/diagrams/E46_320Ci-M54_manual_transmission_s5d_g_inner_gear_shifting_parts_2.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 42,
+  "category_name": "Manual Transmission",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "23 31 1 222 321",
+      "quantity": 1,
+      "description": "Selector shaft",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "23 31 7 539 086",
+      "quantity": 4,
+      "description": "Roll pin",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E28, E3, E30, E32, E34, E36, E39, E46, E85, E87, E9, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "23 31 1 205 113",
+      "quantity": 1,
+      "description": "Locking pin",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E28, E3, E30, E32, E34, E36, E39, E46, E85, E87, E9, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "23 31 7 511 337",
+      "quantity": 1,
+      "description": "Compression spring",
+      "price_eur": null,
+      "compatible_models": "E31, E34, E36, E38, E39, E46, E52, E85, E87, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "23 31 7 545 771",
+      "quantity": 1,
+      "description": "Blind plug",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E85, E87, E9, Z1, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "23 31 1 228 463",
+      "quantity": 1,
+      "description": "Shifting rod 5st and reverse gear",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "23 31 1 228 375",
+      "quantity": 1,
+      "description": "Shifting rod 1.and 2.gear",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "23 31 7 525 595",
+      "quantity": 1,
+      "description": "Shifting rod w/driving dog 3rd/4th gear",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "23 31 1 228 385",
+      "quantity": 1,
+      "description": "Deflection lever",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "10",
+      "part_number": "23 31 1 228 386",
+      "quantity": 1,
+      "description": "Pin",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "11",
+      "part_number": "23 31 1 228 388",
+      "quantity": 1,
+      "description": "Shifting rail",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "12",
+      "part_number": "23 31 1 228 390",
+      "quantity": 1,
+      "description": "Suspension",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "13",
+      "part_number": "23 22 7 545 704",
+      "quantity": 1,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "14",
+      "part_number": "23 31 7 545 739",
+      "quantity": 1,
+      "description": "Deflection pin",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "15",
+      "part_number": "07 11 9 986 298",
+      "quantity": 1,
+      "description": "Ball",
+      "price_eur": null,
+      "compatible_models": "E12, E24, E3, E34, E36, E39, E46, E85, E87, E9, Z3"
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 11 9 986 280",
+      "quantity": 5,
+      "description": "Ball",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E85, E87, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "17",
+      "part_number": "23 31 1 224 142",
+      "quantity": 1,
+      "description": "Locking pin",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28, E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    },
+    {
+      "position_number": "18",
+      "part_number": "23 31 1 228 396",
+      "quantity": 2,
+      "description": "Dowel pin",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "19",
+      "part_number": "23 31 1 228 405",
+      "quantity": 3,
+      "description": "Compression spring",
+      "price_eur": null,
+      "compatible_models": "E31, E34, E36, E38, E39, E46, E52, E85, E87, Z3"
+    },
+    {
+      "position_number": "20",
+      "part_number": "23 31 1 228 470",
+      "quantity": 1,
+      "description": "Cap",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    },
+    {
+      "position_number": "21",
+      "part_number": "23 31 7 545 769",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E85, E87, E9, ISE, NK, V8, Z1, Z3"
+    },
+    {
+      "position_number": "22",
+      "part_number": "23 31 7 545 770",
+      "quantity": 2,
+      "description": "Wave washer",
+      "price_eur": null,
+      "compatible_models": "E26, E31, E34, E36, E38, E39, E46, E52, E85, E87, ISE, Z3"
+    }
+  ]
+}

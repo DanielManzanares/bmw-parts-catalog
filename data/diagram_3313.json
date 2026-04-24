@@ -1,0 +1,197 @@
+{
+  "id": 3313,
+  "diagram_title": "Side panel/tail trim",
+  "image_url": "http://ills.bmwfans.info/1wwe.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "41 13 7 062 573",
+      "quantity": 1,
+      "description": "Left rear side panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "41 13 7 062 574",
+      "quantity": 1,
+      "description": "Left rear side panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "41 34 7 063 570",
+      "quantity": 1,
+      "description": "Complete tail trim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 17 8 208 246",
+      "quantity": 1,
+      "description": "Fill-in flap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 17 1 888 374",
+      "quantity": 1,
+      "description": "Spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 17 8 151 955",
+      "quantity": 1,
+      "description": "Hinge",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 17 1 888 394",
+      "quantity": 2,
+      "description": "Spacer sleeve",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 901 721",
+      "quantity": 2,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 17 1 911 306",
+      "quantity": 2,
+      "description": "Stop buffer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 17 8 156 239",
+      "quantity": 2,
+      "description": "Stop buffer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 71 8 208 646",
+      "quantity": 1,
+      "description": "Tank filler pot",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 25 8 151 536",
+      "quantity": 1,
+      "description": "Sleeve",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 25 8 151 799",
+      "quantity": 1,
+      "description": "Rubber boot",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "67 11 6 988 090",
+      "quantity": 1,
+      "description": "Filler flap actuator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 14 9 113 701",
+      "quantity": 2,
+      "description": "Torx-bolt for plastic material",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 25 8 234 140",
+      "quantity": 1,
+      "description": "Pulling strip f emergency mechanism",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 17 8 228 939",
+      "quantity": 1,
+      "description": "Buffer stop with ejector",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 17 1 928 699",
+      "quantity": 1,
+      "description": "Cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "51 25 8 234 143",
+      "quantity": 1,
+      "description": "Emergency mechanism",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "41 21 7 021 955",
+      "quantity": 1,
+      "description": "Rear lights cup, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "41 21 7 021 956",
+      "quantity": 1,
+      "description": "Rear lights cup, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "41 21 7 057 389",
+      "quantity": 1,
+      "description": "Section of rear left fender",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "41 21 7 057 390",
+      "quantity": 1,
+      "description": "Section of rear left fender",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

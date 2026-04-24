@@ -1,0 +1,29 @@
+{
+  "id": 4351,
+  "diagram_title": "Moulding rocker panels",
+  "image_url": "http://ills.bmwfans.info/165c.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 10 0 009 971",
+      "quantity": 1,
+      "description": "Moulding rocker panels",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 10 0 009 971",
+      "quantity": 1,
+      "description": "Moulding rocker panels",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "id": 1515,
+  "diagram_title": "Cover material, running meter",
+  "image_url": "http://ills.bmwfans.info/bpx.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "51 92 1 883 780",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E23, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 1 883 781",
+      "quantity": 1,
+      "description": "86",
+      "price_eur": null,
+      "compatible_models": "E23, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 1 883 784",
+      "quantity": 1,
+      "description": "86",
+      "price_eur": null,
+      "compatible_models": "E23, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 1 911 615",
+      "quantity": 1,
+      "description": "86",
+      "price_eur": null,
+      "compatible_models": "E23, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 1 911 616",
+      "quantity": 1,
+      "description": "86",
+      "price_eur": null,
+      "compatible_models": "E23, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 1 883 780",
+      "quantity": 1,
+      "description": "Upholstery cloth",
+      "price_eur": null,
+      "compatible_models": "E23, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 1 883 781",
+      "quantity": 1,
+      "description": "86",
+      "price_eur": null,
+      "compatible_models": "E23, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 1 883 784",
+      "quantity": 1,
+      "description": "86",
+      "price_eur": null,
+      "compatible_models": "E23, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 1 911 615",
+      "quantity": 1,
+      "description": "86",
+      "price_eur": null,
+      "compatible_models": "E23, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 1 911 616",
+      "quantity": 1,
+      "description": "86",
+      "price_eur": null,
+      "compatible_models": "E23, E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 1 875 767",
+      "quantity": 1,
+      "description": "Upholstery cloth anthrazit",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28, E30"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 7 038 066",
+      "quantity": 1,
+      "description": "Upholstery cloth anthrazit",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 1 875 768",
+      "quantity": 1,
+      "description": "Upholstery cloth pacific",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28, E30"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 1 883 778",
+      "quantity": 1,
+      "description": "Upholstery cloth piniengruen",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 1 911 232",
+      "quantity": 1,
+      "description": "Upholstery cloth nutria",
+      "price_eur": null,
+      "compatible_models": "E23, E28, E30"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 1 911 233",
+      "quantity": 1,
+      "description": "Upholstery cloth perlbeige",
+      "price_eur": null,
+      "compatible_models": "E23, E28, E30"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 1 875 767",
+      "quantity": 1,
+      "description": "Upholstery cloth anthrazit",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28, E30"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 7 038 066",
+      "quantity": 1,
+      "description": "Upholstery cloth anthrazit",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 1 875 768",
+      "quantity": 1,
+      "description": "Upholstery cloth pacific",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28, E30"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 1 883 778",
+      "quantity": 1,
+      "description": "Upholstery cloth piniengruen",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 1 911 232",
+      "quantity": 1,
+      "description": "Upholstery cloth nutria",
+      "price_eur": null,
+      "compatible_models": "E23, E28, E30"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 1 911 233",
+      "quantity": 1,
+      "description": "Upholstery cloth perlbeige",
+      "price_eur": null,
+      "compatible_models": "E23, E28, E30"
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 92 1 875 739",
+      "quantity": 1,
+      "description": "Upholstery vinyl pacific",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 92 1 883 772",
+      "quantity": 1,
+      "description": "Upholstery vinyl piniengruen",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 92 1 905 498",
+      "quantity": 1,
+      "description": "Upholstery vinyl schwarz",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E9"
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 92 1 911 617",
+      "quantity": 1,
+      "description": "Upholstery vinyl nutria",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 92 1 911 618",
+      "quantity": 1,
+      "description": "Upholstery vinyl perlbeige",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 92 1 875 739",
+      "quantity": 1,
+      "description": "Upholstery vinyl pacific",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 92 1 883 772",
+      "quantity": 1,
+      "description": "Upholstery vinyl piniengruen",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 92 1 905 498",
+      "quantity": 1,
+      "description": "Upholstery vinyl schwarz",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E9"
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 92 1 911 617",
+      "quantity": 1,
+      "description": "Upholstery vinyl nutria",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 92 1 911 618",
+      "quantity": 1,
+      "description": "Upholstery vinyl perlbeige",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    }
+  ]
+}

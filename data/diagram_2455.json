@@ -1,0 +1,85 @@
+{
+  "id": 2455,
+  "diagram_title": "Retrofit, aluminum decor strips, pillars",
+  "image_url": "http://ills.bmwfans.info/1z5o.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 45 7 047 130",
+      "quantity": 1,
+      "description": "Decorative strip, alum., I-panel, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 45 7 047 131",
+      "quantity": 1,
+      "description": "Decorative strip, alum., I-panel, center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 45 7 047 132",
+      "quantity": 1,
+      "description": "Decorative strip, alum., I-panel, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 7 052 060",
+      "quantity": 1,
+      "description": "Bottom panel, storage partition, alumin.",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 16 7 052 062",
+      "quantity": 1,
+      "description": "Bottom panel, storage partition, alumin.",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 45 7 047 155",
+      "quantity": 1,
+      "description": "Aluminum decor strip, front left door",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 45 7 047 156",
+      "quantity": 1,
+      "description": "Aluminum decor strip, front left door",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 45 7 047 157",
+      "quantity": 1,
+      "description": "Aluminum decor strip, rear left door",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 45 7 047 158",
+      "quantity": 1,
+      "description": "Aluminum decor strip, rear left door",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

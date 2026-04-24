@@ -1,0 +1,237 @@
+{
+  "id": 2782,
+  "diagram_title": "Radio-installation parts",
+  "image_url": "http://ills.bmwfans.info/cyg.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 11 1 366 342",
+      "quantity": 1,
+      "description": "Cover plate radio with station buttons",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 11 1 367 854",
+      "quantity": 1,
+      "description": "Cover plate radio with station buttons",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 11 1 367 855",
+      "quantity": 1,
+      "description": "Cover plate radio with station buttons",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 11 1 379 334",
+      "quantity": 1,
+      "description": "Cover plate radio with station buttons",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 1 375 940",
+      "quantity": 1,
+      "description": "Cover plate radio with station buttons",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 1 375 950",
+      "quantity": 1,
+      "description": "Cover plate radio with station buttons",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 1 376 101",
+      "quantity": 1,
+      "description": "Cover plate radio with station buttons",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 1 376 102",
+      "quantity": 1,
+      "description": "Cover plate radio with station buttons",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 1 379 335",
+      "quantity": 1,
+      "description": "Cover plate radio with station buttons",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 1 379 336",
+      "quantity": 1,
+      "description": "Cover plate radio with station buttons",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 1 379 987",
+      "quantity": 1,
+      "description": "Cover plate radio with station buttons",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 976 100",
+      "quantity": 1,
+      "description": "Fuse",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 976 101",
+      "quantity": 1,
+      "description": "Fuse",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 976 102",
+      "quantity": 1,
+      "description": "Fuse",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 976 103",
+      "quantity": 1,
+      "description": "Fuse",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 11 1 366 117",
+      "quantity": 1,
+      "description": "Fuse",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "65 11 1 372 059",
+      "quantity": 1,
+      "description": "Tone control handle",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "65 11 1 366 435",
+      "quantity": 1,
+      "description": "Tone control handle",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "65 11 1 366 183",
+      "quantity": 1,
+      "description": "Tone control handle",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "65 11 1 369 117",
+      "quantity": 2,
+      "description": "Rotary knob",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "65 11 1 376 876",
+      "quantity": 1,
+      "description": "Rotary knob",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "65 11 1 364 566",
+      "quantity": 1,
+      "description": "Decorative washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "65 11 1 366 184",
+      "quantity": 1,
+      "description": "Decorative washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "65 12 1 377 999",
+      "quantity": 1,
+      "description": "Rotary knob",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "65 12 1 375 947",
+      "quantity": 1,
+      "description": "Tone control handle",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "65 12 8 386 127",
+      "quantity": 1,
+      "description": "Radio supporting frame",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "65 12 1 375 737",
+      "quantity": 1,
+      "description": "Radio supporting frame",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "65 12 1 375 948",
+      "quantity": 1,
+      "description": "Decorative washer",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

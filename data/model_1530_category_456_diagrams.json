@@ -1,0 +1,134 @@
+[
+  {
+    "id": 3011,
+    "diagram_title": "A5S325Z Output",
+    "image_url": "http://ills.bmwfans.info/5fw.png",
+    "parts_count": 9
+  },
+  {
+    "id": 3013,
+    "diagram_title": "A5S325Z control unit",
+    "image_url": "http://ills.bmwfans.info/5fz.png",
+    "parts_count": 2
+  },
+  {
+    "id": 3010,
+    "diagram_title": "A5S325Z lubrication system",
+    "image_url": "http://ills.bmwfans.info/a20h.png",
+    "parts_count": 11
+  },
+  {
+    "id": 3009,
+    "diagram_title": "A5S325Z oil pan",
+    "image_url": "http://ills.bmwfans.info/6kr.png",
+    "parts_count": 7
+  },
+  {
+    "id": 3014,
+    "diagram_title": "A5S325Z pressure regulat./solenoid valve",
+    "image_url": "http://ills.bmwfans.info/58d.png",
+    "parts_count": 7
+  },
+  {
+    "id": 3015,
+    "diagram_title": "A5S325Z wiring/oil filt./pulse generator",
+    "image_url": "http://ills.bmwfans.info/5hh.png",
+    "parts_count": 14
+  },
+  {
+    "id": 3018,
+    "diagram_title": "A5S360R/390R Output",
+    "image_url": "http://ills.bmwfans.info/1u5k.png",
+    "parts_count": 7
+  },
+  {
+    "id": 3020,
+    "diagram_title": "A5S360R/390R ctrl unit with mount.parts",
+    "image_url": "http://ills.bmwfans.info/36ju.png",
+    "parts_count": 12
+  },
+  {
+    "id": 3019,
+    "diagram_title": "A5S360R/390R gear shifting part",
+    "image_url": "http://ills.bmwfans.info/1ynj.png",
+    "parts_count": 3
+  },
+  {
+    "id": 3017,
+    "diagram_title": "A5S360R/390R oil pan/oil strainer",
+    "image_url": "http://ills.bmwfans.info/1yn5.png",
+    "parts_count": 8
+  },
+  {
+    "id": 3016,
+    "diagram_title": "A5S360R/390R seals/speed sensor",
+    "image_url": "http://ills.bmwfans.info/1ymn.png",
+    "parts_count": 7
+  },
+  {
+    "id": 3008,
+    "diagram_title": "A5s325z housing with mounting parts",
+    "image_url": "http://ills.bmwfans.info/3hkh.png",
+    "parts_count": 15
+  },
+  {
+    "id": 3012,
+    "diagram_title": "A5s325z parking lock",
+    "image_url": "http://ills.bmwfans.info/5fx.png",
+    "parts_count": 6
+  },
+  {
+    "id": 3003,
+    "diagram_title": "Automatic transmission A5S325Z",
+    "image_url": "http://ills.bmwfans.info/dqnt.png",
+    "parts_count": 5
+  },
+  {
+    "id": 3004,
+    "diagram_title": "Automatic transmission A5S360R / A5S390R",
+    "image_url": "http://ills.bmwfans.info/dqnu.png",
+    "parts_count": 5
+  },
+  {
+    "id": 3022,
+    "diagram_title": "Basic control unit egs",
+    "image_url": "http://ills.bmwfans.info/j5t.png",
+    "parts_count": 1
+  },
+  {
+    "id": 3024,
+    "diagram_title": "Basic control unit egs",
+    "image_url": "http://ills.bmwfans.info/3htb.png",
+    "parts_count": 2
+  },
+  {
+    "id": 3021,
+    "diagram_title": "Control unit EGS, programmed",
+    "image_url": "http://ills.bmwfans.info/j5s.png",
+    "parts_count": 2
+  },
+  {
+    "id": 3023,
+    "diagram_title": "Control unit EGS, programmed",
+    "image_url": "http://ills.bmwfans.info/j5v.png",
+    "parts_count": 1
+  },
+  {
+    "id": 3006,
+    "diagram_title": "Fluid-change kit, autom. transmission",
+    "image_url": "http://ills.bmwfans.info/c4tx.png",
+    "parts_count": 4
+  },
+  {
+    "id": 3007,
+    "diagram_title": "Fluid-change kit, autom. transmission",
+    "image_url": "http://ills.bmwfans.info/c5cr.png",
+    "parts_count": 3
+  },
+  {
+    "id": 3005,
+    "diagram_title": "Gearbox mounting",
+    "image_url": "http://ills.bmwfans.info/jkw.png",
+    "parts_count": 6
+  }
+]

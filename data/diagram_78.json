@@ -1,0 +1,269 @@
+{
+  "id": 78,
+  "diagram_title": "Handbrake lever",
+  "image_url": "http://ills.bmwfans.info/3cy5.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 68,
+  "category_name": "Brakes",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "34 41 1 158 620",
+      "quantity": 1,
+      "description": "Plastic handbrake lever",
+      "price_eur": null,
+      "compatible_models": "E36, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 41 1 158 620",
+      "quantity": 1,
+      "description": "Plastic handbrake lever",
+      "price_eur": null,
+      "compatible_models": "E36, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 2 227 557",
+      "quantity": 1,
+      "description": "Leather handbrake lever, walk-nappa",
+      "price_eur": null,
+      "compatible_models": "E36, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 2 227 557",
+      "quantity": 1,
+      "description": "Leather handbrake lever, walk-nappa",
+      "price_eur": null,
+      "compatible_models": "E36, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "34 41 1 116 435",
+      "quantity": 1,
+      "description": "Plastic handbrake handle",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E3, E34, E36, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "34 41 1 116 435",
+      "quantity": 1,
+      "description": "Plastic handbrake handle",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E3, E34, E36, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "34 41 1 158 013",
+      "quantity": 1,
+      "description": "Base",
+      "price_eur": null,
+      "compatible_models": "E31, E36, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "34 41 1 158 013",
+      "quantity": 1,
+      "description": "Base",
+      "price_eur": null,
+      "compatible_models": "E31, E36, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "34 41 1 155 210",
+      "quantity": 1,
+      "description": "Compression spring",
+      "price_eur": null,
+      "compatible_models": "E31, E36, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "34 41 1 155 210",
+      "quantity": 1,
+      "description": "Compression spring",
+      "price_eur": null,
+      "compatible_models": "E31, E36, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "34 41 1 152 393",
+      "quantity": 1,
+      "description": "Push-button",
+      "price_eur": null,
+      "compatible_models": "E30, E31, E32, E34, E36, Z1, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "34 41 1 152 393",
+      "quantity": 1,
+      "description": "Push-button",
+      "price_eur": null,
+      "compatible_models": "E30, E31, E32, E34, E36, Z1, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 913 617",
+      "quantity": 3,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "E30, E34, E36, E38, E39, E46, E53"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 913 617",
+      "quantity": 3,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "E30, E34, E36, E38, E39, E46, E53"
+    },
+    {
+      "position_number": "8",
+      "part_number": "34 41 2 227 560",
+      "quantity": 1,
+      "description": "Walk-nappa handbrake lever cover",
+      "price_eur": null,
+      "compatible_models": "E36, Z3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "34 41 2 260 905",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "8",
+      "part_number": "34 41 9 066 447",
+      "quantity": 1,
+      "description": "Walk-nappa handbrake lever cover",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "8",
+      "part_number": "34 41 9 066 681",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "8",
+      "part_number": "34 41 2 260 926",
+      "quantity": 1,
+      "description": "Walk-nappa handbrake lever cover",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "8",
+      "part_number": "34 41 2 227 560",
+      "quantity": 1,
+      "description": "Walk-nappa handbrake lever cover",
+      "price_eur": null,
+      "compatible_models": "E36, Z3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "34 41 2 260 905",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "8",
+      "part_number": "34 41 9 066 447",
+      "quantity": 1,
+      "description": "Walk-nappa handbrake lever cover",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "8",
+      "part_number": "34 41 9 066 681",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "8",
+      "part_number": "34 41 2 260 926",
+      "quantity": 1,
+      "description": "Walk-nappa handbrake lever cover",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "9",
+      "part_number": "34 41 1 160 134",
+      "quantity": 2,
+      "description": "Bowden cable",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "9",
+      "part_number": "34 41 1 160 134",
+      "quantity": 1,
+      "description": "Bowden cable",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "10",
+      "part_number": "34 41 1 151 209",
+      "quantity": 2,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "E23, E31, E36, E39, E52, E53, Z3"
+    },
+    {
+      "position_number": "10",
+      "part_number": "34 41 1 151 209",
+      "quantity": 2,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "E23, E31, E36, E39, E52, E53, Z3"
+    },
+    {
+      "position_number": "11",
+      "part_number": "34 41 1 151 208",
+      "quantity": 2,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "E23, E31, E36, E53, Z3"
+    },
+    {
+      "position_number": "11",
+      "part_number": "34 41 1 151 208",
+      "quantity": 2,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "E23, E31, E36, E53, Z3"
+    },
+    {
+      "position_number": "15",
+      "part_number": "34 41 1 160 117",
+      "quantity": 2,
+      "description": "Rubber grommet",
+      "price_eur": null,
+      "compatible_models": "E31, E36, E38, E83 Facelift"
+    },
+    {
+      "position_number": "15",
+      "part_number": "34 41 1 160 117",
+      "quantity": 2,
+      "description": "Rubber grommet",
+      "price_eur": null,
+      "compatible_models": "E31, E36, E38, E83 Facelift"
+    }
+  ]
+}

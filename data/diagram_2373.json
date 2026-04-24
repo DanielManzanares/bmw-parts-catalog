@@ -1,0 +1,69 @@
+{
+  "id": 2373,
+  "diagram_title": "\"Economic\"aircond. syst. single parts II",
+  "image_url": "http://ills.bmwfans.info/jad.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "5",
+      "part_number": "64 53 8 373 922",
+      "quantity": 4,
+      "description": "Sheet metal screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "64 53 8 372 977",
+      "quantity": 1,
+      "description": "Drying container",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "64 53 8 362 055",
+      "quantity": 1,
+      "description": "Safety pressure switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "17 12 9 401 991",
+      "quantity": 1,
+      "description": "Hose connector 108 C",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "61 31 9 401 973",
+      "quantity": 1,
+      "description": "Temperature switch 108 C",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "61 31 8 363 677",
+      "quantity": 1,
+      "description": "Double temperature switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 11 9 963 201",
+      "quantity": 2,
+      "description": "Gasket ring",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E70, E70 Facelift, E71, E72, E9, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F85, F86, G11, G12, NK, Z1, Z3"
+    }
+  ]
+}

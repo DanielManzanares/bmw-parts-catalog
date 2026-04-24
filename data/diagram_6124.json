@@ -1,0 +1,61 @@
+{
+  "id": 6124,
+  "diagram_title": "Mirror glas, M wing mirror",
+  "image_url": "http://ills.bmwfans.info/1r8p.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 145 267",
+      "quantity": 1,
+      "description": "Mirror glas, heated, wide-angle, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 145 268",
+      "quantity": 1,
+      "description": "Mirror glas, heated, wide-angle, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 893 555",
+      "quantity": 1,
+      "description": "Mirror glas, heated, wide-angle, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 893 556",
+      "quantity": 1,
+      "description": "Mirror glas, heated, wide-angle, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 7 157 247",
+      "quantity": 1,
+      "description": "Mirror glas, heated, wide-angle, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 7 157 246",
+      "quantity": 1,
+      "description": "Mirror glas heated convex right",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

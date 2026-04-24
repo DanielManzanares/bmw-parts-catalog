@@ -1,0 +1,157 @@
+{
+  "id": 2626,
+  "diagram_title": "Trailer, individual parts, plastic parts",
+  "image_url": "http://ills.bmwfans.info/vtx.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "86 19 9 416 693",
+      "quantity": 1,
+      "description": "Left apron",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "86 19 9 416 692",
+      "quantity": 1,
+      "description": "Right apron",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "86 19 9 416 695",
+      "quantity": 1,
+      "description": "Wheelhouse left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "86 19 9 416 694",
+      "quantity": 1,
+      "description": "Wheelhouse right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "86 19 9 416 696",
+      "quantity": 1,
+      "description": "Rear apron",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "86 19 9 416 697",
+      "quantity": 1,
+      "description": "Front apron",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "86 19 9 416 699",
+      "quantity": 1,
+      "description": "Left lamp housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "86 19 9 416 698",
+      "quantity": 1,
+      "description": "Right lamp housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "86 19 9 416 783",
+      "quantity": 1,
+      "description": "Sealing tape",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "86 19 9 416 785",
+      "quantity": 1,
+      "description": "Blind rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "86 19 9 416 786",
+      "quantity": 1,
+      "description": "Blind rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 71 2 234 084",
+      "quantity": 2,
+      "description": "Primed jack fixture flap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 71 8 108 229",
+      "quantity": 2,
+      "description": "Pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "81 22 9 407 313",
+      "quantity": 1,
+      "description": "Polyurethane sealing compound",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "83 19 0 414 598",
+      "quantity": 1,
+      "description": "Polyurethane sealing compound",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "83 19 2 210 419",
+      "quantity": 1,
+      "description": "Polyurethane sealing compound",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "86 19 0 004 552",
+      "quantity": 4,
+      "description": "Plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "86 19 0 004 872",
+      "quantity": 1,
+      "description": "Repair kit",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

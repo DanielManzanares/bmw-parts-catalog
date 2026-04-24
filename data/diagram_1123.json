@@ -1,0 +1,101 @@
+{
+  "id": 1123,
+  "diagram_title": "air_pump_f_vacuum_control",
+  "image_url": "/static/images/diagrams/E46_330Ci-M54_engine_air_pump_f_vacuum_control.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1,
+  "category_name": "Engine",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "11 72 7 553 063",
+      "quantity": 1,
+      "description": "Valve",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 72 7 505 259",
+      "quantity": 1,
+      "description": "Gasket Asbestos Free",
+      "price_eur": null,
+      "compatible_models": "E31, E34, E36, E38, E39, E46, E52, E53, E85, E86, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 72 7 574 490",
+      "quantity": 1,
+      "description": "Vacuum pipe",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 65 7 803 732",
+      "quantity": 1,
+      "description": "Vacuum hose black",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, E53, E60 Facelift, E61 Facelift, E63 Facelift, E64 Facelift, E70, E70 Facelift, E71, E72, E82, E83 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F36, G11, G12, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 72 7 545 323",
+      "quantity": 1,
+      "description": "Vacuum hose black",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E81, E82, E83, E83 Facelift, E85, E87, E87 Facelift, E88, E89, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F12, F12 Facelift, F13, F13 Facelift, F18 Facelift, F25, F26, NK, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 74 7 810 831",
+      "quantity": 1,
+      "description": "Electr.valve",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E81, E82, E83, E83 Facelift, E84, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F36, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 61 1 312 737",
+      "quantity": 1,
+      "description": "Non-return valve",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E31, E34, E36, E38, E39, E46, E52, E53, E60, E61 Facelift, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 65 7 803 732",
+      "quantity": 1,
+      "description": "Vacuum hose black",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, E53, E60 Facelift, E61 Facelift, E63 Facelift, E64 Facelift, E70, E70 Facelift, E71, E72, E82, E83 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F36, G11, G12, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 72 7 545 323",
+      "quantity": 1,
+      "description": "Vacuum hose black",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E81, E82, E83, E83 Facelift, E85, E87, E87 Facelift, E88, E89, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F12, F12 Facelift, F13, F13 Facelift, F18 Facelift, F25, F26, NK, Z1, Z3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "11 72 1 742 644",
+      "quantity": 2,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E83 Facelift, E84, E85, E87 Facelift, E90, E90 Facelift, E92, E93, Z3"
+    },
+    {
+      "position_number": "13",
+      "part_number": "61 13 8 350 836",
+      "quantity": 1,
+      "description": "Cable clip",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

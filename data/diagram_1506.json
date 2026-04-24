@@ -1,0 +1,77 @@
+{
+  "id": 1506,
+  "diagram_title": "Seat cover rear",
+  "image_url": "http://ills.bmwfans.info/bqh.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "52 20 1 936 633",
+      "quantity": 1,
+      "description": "Cover backrest, leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 1 936 634",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 1 936 635",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 1 936 636",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 1 936 633",
+      "quantity": 1,
+      "description": "Cover backrest, leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 1 936 634",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 1 936 635",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 1 936 636",
+      "quantity": 1,
+      "description": "85",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

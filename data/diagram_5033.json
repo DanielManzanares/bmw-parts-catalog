@@ -1,0 +1,45 @@
+{
+  "id": 5033,
+  "diagram_title": "Snow chains",
+  "image_url": "http://ills.bmwfans.info/d6l.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "36 11 0 392 171",
+      "quantity": 1,
+      "description": "Snow chain system Rud-Matic Disc",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 0 004 471",
+      "quantity": 1,
+      "description": "Snowchain system Rud-Matic",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 0 392 171",
+      "quantity": 1,
+      "description": "Snow chain system Rud-Matic Disc",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "36 11 0 004 471",
+      "quantity": 1,
+      "description": "Snowchain system Rud-Matic",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

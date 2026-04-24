@@ -1,0 +1,74 @@
+[
+  {
+    "id": 80,
+    "diagram_title": "Brake master cylinder/expansion tank",
+    "image_url": "http://ills.bmwfans.info/36z.png",
+    "parts_count": 16
+  },
+  {
+    "id": 75,
+    "diagram_title": "Brake pipe front abs",
+    "image_url": "http://ills.bmwfans.info/37t.png",
+    "parts_count": 22
+  },
+  {
+    "id": 76,
+    "diagram_title": "Brake pipe rear disk brake",
+    "image_url": "http://ills.bmwfans.info/358.png",
+    "parts_count": 32
+  },
+  {
+    "id": 68,
+    "diagram_title": "Front brake / brake disc",
+    "image_url": "http://ills.bmwfans.info/3jm.png",
+    "parts_count": 12
+  },
+  {
+    "id": 73,
+    "diagram_title": "Front brake pad wear sensor",
+    "image_url": "http://ills.bmwfans.info/aeha.png",
+    "parts_count": 34
+  },
+  {
+    "id": 78,
+    "diagram_title": "Handbrake lever",
+    "image_url": "http://ills.bmwfans.info/3cy5.png",
+    "parts_count": 32
+  },
+  {
+    "id": 79,
+    "diagram_title": "Hydro unit ABS/ASC/control unit/support",
+    "image_url": "http://ills.bmwfans.info/3o52.png",
+    "parts_count": 24
+  },
+  {
+    "id": 81,
+    "diagram_title": "Parking brake/brake shoes",
+    "image_url": "http://ills.bmwfans.info/351.png",
+    "parts_count": 20
+  },
+  {
+    "id": 82,
+    "diagram_title": "Power brake unit depression",
+    "image_url": "http://ills.bmwfans.info/rlt.png",
+    "parts_count": 18
+  },
+  {
+    "id": 77,
+    "diagram_title": "Power brake unit sound insulation",
+    "image_url": "http://ills.bmwfans.info/35s.png",
+    "parts_count": 4
+  },
+  {
+    "id": 74,
+    "diagram_title": "Rear brake / brake pad / wear sensor",
+    "image_url": "http://ills.bmwfans.info/10dm.png",
+    "parts_count": 48
+  },
+  {
+    "id": 72,
+    "diagram_title": "Service Kit for brake pads / Value Line",
+    "image_url": "http://ills.bmwfans.info/av2h.png",
+    "parts_count": 4
+  }
+]

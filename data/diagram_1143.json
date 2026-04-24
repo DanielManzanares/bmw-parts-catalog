@@ -1,0 +1,61 @@
+{
+  "id": 1143,
+  "diagram_title": "manual_transmission_gs5s31bz_smg",
+  "image_url": "/static/images/diagrams/E46_330Ci-M54_manual_transmission_manual_transmission_gs5s31bz_smg.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 42,
+  "category_name": "Manual Transmission",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "23 01 7 594 341",
+      "quantity": 1,
+      "description": "Rmfd-5 speed sequential gearbox",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "23 01 7 507 019",
+      "quantity": 1,
+      "description": "Heat shield",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 12 9 904 870",
+      "quantity": 2,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, E53, E60, E60 Facelift, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E71, E83, E83 Facelift, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07 Facelift, F10 Facelift, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F46, F48, F80, F80 Facelift, F82, F83, F85, F86, F87, G11, G12, I01, I12"
+    },
+    {
+      "position_number": "4",
+      "part_number": "23 01 7 507 043",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "5",
+      "part_number": "23 01 7 507 042",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "6",
+      "part_number": "83 22 2 339 219",
+      "quantity": 1,
+      "description": "Oil for manual transmission MTF LT-2",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2184,
+  "diagram_title": "Engine compartment light",
+  "image_url": "http://ills.bmwfans.info/dog.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "63 31 9 401 943",
+      "quantity": 1,
+      "description": "Installing set engine room light",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

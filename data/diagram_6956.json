@@ -1,0 +1,53 @@
+{
+  "id": 6956,
+  "diagram_title": "Addit.turn indicator lamp, trunk lid",
+  "image_url": "http://ills.bmwfans.info/1jdd.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 184,
+  "category_name": "Lighting",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "63 23 8 379 679",
+      "quantity": 2,
+      "description": "Addit.turn indicator lamp, trunk lid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 50 9 063 574",
+      "quantity": 2,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E53, E65, E66, E67, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 21 7 160 789",
+      "quantity": 2,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 21 6 926 920",
+      "quantity": 2,
+      "description": "Longlife bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 21 7 160 790",
+      "quantity": 2,
+      "description": "04",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": 4136,
+  "diagram_title": "Installation kit, bumper",
+  "image_url": "http://ills.bmwfans.info/ey42.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1650,
+  "category_name": "Inspection kits",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 11 2 293 996",
+      "quantity": 1,
+      "description": "Set of mounted parts, bumper, front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 11 2 293 995",
+      "quantity": 1,
+      "description": "Set of mounted parts, bumper, front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 12 2 293 990",
+      "quantity": 1,
+      "description": "Set of mounted parts, bumper, rear",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

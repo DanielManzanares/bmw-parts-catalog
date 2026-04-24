@@ -1,0 +1,117 @@
+{
+  "id": 2555,
+  "diagram_title": "Horn",
+  "image_url": "http://ills.bmwfans.info/c10.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 33 1 368 068",
+      "quantity": 1,
+      "description": "Horn",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 33 1 369 823",
+      "quantity": 1,
+      "description": "Horn",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 33 1 369 824",
+      "quantity": 1,
+      "description": "Horn",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 33 1 371 914",
+      "quantity": 1,
+      "description": "Horn",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 33 7 163 972",
+      "quantity": 1,
+      "description": "Horn",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 33 1 372 945",
+      "quantity": 1,
+      "description": "Horn",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 33 1 376 189",
+      "quantity": 1,
+      "description": "Horn",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 33 1 376 194",
+      "quantity": 1,
+      "description": "Horn",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 33 7 163 975",
+      "quantity": 1,
+      "description": "Horn",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 33 1 377 815",
+      "quantity": 1,
+      "description": "Horn",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 33 1 377 816",
+      "quantity": 1,
+      "description": "Horn",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 13 1 375 697",
+      "quantity": 4,
+      "description": "Protection cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 33 1 357 455",
+      "quantity": 4,
+      "description": "Protection cap",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

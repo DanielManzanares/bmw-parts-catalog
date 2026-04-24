@@ -1,0 +1,477 @@
+{
+  "id": 3938,
+  "diagram_title": "Individual handbrake lever and cover",
+  "image_url": "http://ills.bmwfans.info/evn.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "34 41 2 267 379",
+      "quantity": 1,
+      "description": "Leather handbrake lever, walk-nappa",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 41 2 421 905",
+      "quantity": 1,
+      "description": "Leather handbrake lever, walk-nappa",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 41 2 421 915",
+      "quantity": 1,
+      "description": "Leather handbrake lever, walk-nappa",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 41 2 426 529",
+      "quantity": 1,
+      "description": "Leather handbrake lever, walk-nappa",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 41 2 227 557",
+      "quantity": 1,
+      "description": "Leather handbrake lever, walk-nappa",
+      "price_eur": null,
+      "compatible_models": "E36, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 41 9 067 715",
+      "quantity": 1,
+      "description": "Leather handbrake lever, walk-nappa",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 41 9 067 717",
+      "quantity": 1,
+      "description": "Leather handbrake lever, walk-nappa",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 41 9 068 662",
+      "quantity": 1,
+      "description": "Leather handbrake lever, walk-nappa",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 41 9 070 985",
+      "quantity": 1,
+      "description": "Leather handbrake lever, walk-nappa",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 41 9 071 130",
+      "quantity": 1,
+      "description": "Leather handbrake lever, walk-nappa",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 41 9 071 880",
+      "quantity": 1,
+      "description": "Leather handbrake lever, walk-nappa",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 2 430 210",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 0 005 322",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 2 227 585",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 2 227 595",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 2 227 603",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 2 260 905",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 2 426 839",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 2 428 014",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 2 430 230",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 2 493 337",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 2 494 618",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 066 681",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 067 714",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 067 925",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 068 325",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 068 522",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 070 279",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 071 131",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 071 157",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 071 158",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 071 159",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 071 160",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 071 161",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 071 162",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 071 163",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 071 164",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 071 165",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 071 166",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 071 168",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 071 169",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 071 170",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 071 171",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 071 173",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 071 174",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 071 175",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 071 176",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 071 177",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 071 178",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 071 179",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 071 180",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 071 181",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 071 182",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 9 071 184",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 2 421 904",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 2 421 914",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 2 426 935",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 41 2 433 073",
+      "quantity": 1,
+      "description": "Handbrake lever cover, nappa leather",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

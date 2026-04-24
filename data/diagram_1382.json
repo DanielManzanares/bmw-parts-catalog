@@ -1,0 +1,301 @@
+{
+  "id": 1382,
+  "diagram_title": "Front coil spring",
+  "image_url": "http://ills.bmwfans.info/2rw.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 49,
+  "category_name": "Front Axle",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 125 726",
+      "quantity": 2,
+      "description": "Coil spring",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 126 904",
+      "quantity": 2,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 127 503",
+      "quantity": 2,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 126 904",
+      "quantity": 2,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 125 726",
+      "quantity": 2,
+      "description": "Coil spring",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 126 904",
+      "quantity": 2,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 125 726",
+      "quantity": 2,
+      "description": "Coil spring",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 125 726",
+      "quantity": 2,
+      "description": "Coil spring",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 126 904",
+      "quantity": 2,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 125 726",
+      "quantity": 2,
+      "description": "Coil spring",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 126 904",
+      "quantity": 2,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 127 503",
+      "quantity": 1,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 126 904",
+      "quantity": 1,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 125 726",
+      "quantity": 1,
+      "description": "Coil spring",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 126 904",
+      "quantity": 1,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 125 726",
+      "quantity": 1,
+      "description": "Coil spring",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 125 726",
+      "quantity": 1,
+      "description": "Coil spring",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 126 904",
+      "quantity": 1,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 125 726",
+      "quantity": 2,
+      "description": "Coil spring",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 126 904",
+      "quantity": 2,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 127 503",
+      "quantity": 1,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 126 904",
+      "quantity": 1,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 125 726",
+      "quantity": 1,
+      "description": "Coil spring",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 126 904",
+      "quantity": 1,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 125 726",
+      "quantity": 1,
+      "description": "Coil spring",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 125 726",
+      "quantity": 1,
+      "description": "Coil spring",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 126 904",
+      "quantity": 1,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 125 726",
+      "quantity": 2,
+      "description": "Coil spring",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 126 904",
+      "quantity": 2,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 127 503",
+      "quantity": 1,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 126 904",
+      "quantity": 1,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 125 726",
+      "quantity": 1,
+      "description": "Coil spring",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 126 904",
+      "quantity": 1,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 125 726",
+      "quantity": 1,
+      "description": "Coil spring",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 125 726",
+      "quantity": 1,
+      "description": "Coil spring",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    },
+    {
+      "position_number": "1",
+      "part_number": "31 33 1 126 904",
+      "quantity": 1,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30"
+    }
+  ]
+}

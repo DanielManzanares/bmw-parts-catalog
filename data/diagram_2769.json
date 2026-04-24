@@ -1,0 +1,21 @@
+{
+  "id": 2769,
+  "diagram_title": "Cassette box",
+  "image_url": "http://ills.bmwfans.info/do6.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 14 9 433 034",
+      "quantity": 1,
+      "description": "Retrofit kit, cassette box",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

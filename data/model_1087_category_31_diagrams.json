@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5445,
+    "diagram_title": "Exp.tank/activated carbon container",
+    "image_url": "http://ills.bmwfans.info/1us6.png",
+    "parts_count": 4
+  },
+  {
+    "id": 5449,
+    "diagram_title": "Exp.tank/activated carbon container",
+    "image_url": "http://ills.bmwfans.info/1zr7.png",
+    "parts_count": 21
+  },
+  {
+    "id": 5442,
+    "diagram_title": "Expansion tank",
+    "image_url": "http://ills.bmwfans.info/4pn.png",
+    "parts_count": 9
+  },
+  {
+    "id": 5454,
+    "diagram_title": "Fuel pipe and mounting parts",
+    "image_url": "http://ills.bmwfans.info/8de.png",
+    "parts_count": 13
+  },
+  {
+    "id": 5452,
+    "diagram_title": "Fuel pump and fuel level sensor",
+    "image_url": "http://ills.bmwfans.info/a4z3.png",
+    "parts_count": 8
+  },
+  {
+    "id": 5439,
+    "diagram_title": "Fuel tank/attaching parts",
+    "image_url": "http://ills.bmwfans.info/272s.png",
+    "parts_count": 24
+  },
+  {
+    "id": 1132,
+    "diagram_title": "exp_tank_activated_carbon_container",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_fuel_supply_exp_tank_activated_carbon_container.png",
+    "parts_count": 18
+  },
+  {
+    "id": 1133,
+    "diagram_title": "exp_tank_activated_carbon_container_2",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_fuel_supply_exp_tank_activated_carbon_container_2.png",
+    "parts_count": 15
+  },
+  {
+    "id": 1126,
+    "diagram_title": "expansion_tank",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_fuel_supply_expansion_tank.png",
+    "parts_count": 8
+  },
+  {
+    "id": 1130,
+    "diagram_title": "fuel_pipe_and_mounting_parts",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_fuel_supply_fuel_pipe_and_mounting_parts.png",
+    "parts_count": 13
+  },
+  {
+    "id": 1127,
+    "diagram_title": "fuel_pump_and_fuel_level_sensor",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_fuel_supply_fuel_pump_and_fuel_level_sensor.png",
+    "parts_count": 7
+  },
+  {
+    "id": 1124,
+    "diagram_title": "fuel_tank_attaching_parts",
+    "image_url": "/static/images/diagrams/E46_330Ci-M54_fuel_supply_fuel_tank_attaching_parts.png",
+    "parts_count": 22
+  }
+]

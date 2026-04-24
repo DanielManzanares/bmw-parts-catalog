@@ -1,0 +1,173 @@
+{
+  "id": 5785,
+  "diagram_title": "Key with accumulator battery(from 09/99)",
+  "image_url": "http://ills.bmwfans.info/a5pe.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 21 8 236 596",
+      "quantity": 1,
+      "description": "Universal key",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 21 7 127 047",
+      "quantity": 1,
+      "description": "Door and ignition key",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 21 8 374 933",
+      "quantity": 1,
+      "description": "Universal key with remote control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "66 12 6 955 747",
+      "quantity": 1,
+      "description": "Universal key with remote control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "66 12 6 955 748",
+      "quantity": 1,
+      "description": "Universal key with remote control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "66 12 6 955 746",
+      "quantity": 1,
+      "description": "Universal key with remote control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 21 8 201 225",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 21 8 201 226",
+      "quantity": 1,
+      "description": "Battery",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 21 8 354 417",
+      "quantity": 1,
+      "description": "Battery",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 21 8 354 414",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "66 21 8 354 639",
+      "quantity": 1,
+      "description": "Countersunk head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 21 8 354 415",
+      "quantity": 1,
+      "description": "Infrared remote control cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "71 23 6 906 390",
+      "quantity": 1,
+      "description": "Label \"Key Memory\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 21 8 213 607",
+      "quantity": 1,
+      "description": "Key case",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 21 7 006 821",
+      "quantity": 1,
+      "description": "Key case",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 21 0 303 365",
+      "quantity": 1,
+      "description": "Set of keys with ews control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 21 0 303 350",
+      "quantity": 1,
+      "description": "Set of keys with ews control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 21 0 303 363",
+      "quantity": 1,
+      "description": "Set of keys with ews control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 21 0 303 366",
+      "quantity": 1,
+      "description": "Set of keys with ews control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "66 12 2 155 753",
+      "quantity": 1,
+      "description": "Key emblem",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

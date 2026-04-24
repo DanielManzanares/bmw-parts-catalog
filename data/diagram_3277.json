@@ -1,0 +1,21 @@
+{
+  "id": 3277,
+  "diagram_title": "Set wheel locks",
+  "image_url": "http://ills.bmwfans.info/3i97.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 86,
+  "category_name": "Wheels",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "36 13 6 792 849",
+      "quantity": 1,
+      "description": "Set wheel locks",
+      "price_eur": null,
+      "compatible_models": "E30, E31, E32, E34, E36, E38, E39, E46, E52, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E81, E82, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, Z3"
+    }
+  ]
+}

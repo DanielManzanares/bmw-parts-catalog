@@ -1,0 +1,21 @@
+{
+  "id": 1084,
+  "diagram_title": "various_lamps",
+  "image_url": "/static/images/diagrams/E46_320Ci-M54_lighting_various_lamps.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 184,
+  "category_name": "Lighting",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "63 31 0 138 864",
+      "quantity": 1,
+      "description": "Chargeable hand lamp",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

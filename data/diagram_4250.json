@@ -1,0 +1,29 @@
+{
+  "id": 4250,
+  "diagram_title": "BMW type approval",
+  "image_url": "http://ills.bmwfans.info/3iqh.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1531,
+  "category_name": "Technical Literature",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "01 20 9 416 516",
+      "quantity": 1,
+      "description": "General Operating Permit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 9 416 516",
+      "quantity": 1,
+      "description": "General Operating Permit",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

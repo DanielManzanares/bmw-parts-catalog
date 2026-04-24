@@ -1,0 +1,182 @@
+[
+  {
+    "id": 3033,
+    "diagram_title": "Body skeleton",
+    "image_url": "http://ills.bmwfans.info/abi.png",
+    "parts_count": 4
+  },
+  {
+    "id": 3057,
+    "diagram_title": "Body-side frame",
+    "image_url": "http://ills.bmwfans.info/1xb0.png",
+    "parts_count": 22
+  },
+  {
+    "id": 3109,
+    "diagram_title": "Central locking system",
+    "image_url": "http://ills.bmwfans.info/ack.png",
+    "parts_count": 11
+  },
+  {
+    "id": 3098,
+    "diagram_title": "Closing system, door, rear",
+    "image_url": "http://ills.bmwfans.info/abu.png",
+    "parts_count": 18
+  },
+  {
+    "id": 3101,
+    "diagram_title": "Closing system, door, rear",
+    "image_url": "http://ills.bmwfans.info/abt.png",
+    "parts_count": 19
+  },
+  {
+    "id": 3081,
+    "diagram_title": "Door handle front/lock/key",
+    "image_url": "http://ills.bmwfans.info/t7j.png",
+    "parts_count": 1
+  },
+  {
+    "id": 3082,
+    "diagram_title": "Door handle front/lock/key",
+    "image_url": "http://ills.bmwfans.info/t7j.png",
+    "parts_count": 25
+  },
+  {
+    "id": 3089,
+    "diagram_title": "Door lock front",
+    "image_url": "http://ills.bmwfans.info/br23.png",
+    "parts_count": 15
+  },
+  {
+    "id": 3092,
+    "diagram_title": "Door weatherstrip front",
+    "image_url": "http://ills.bmwfans.info/abq.png",
+    "parts_count": 8
+  },
+  {
+    "id": 3105,
+    "diagram_title": "Door weatherstrip rear",
+    "image_url": "http://ills.bmwfans.info/abr.png",
+    "parts_count": 14
+  },
+  {
+    "id": 3075,
+    "diagram_title": "Engine hood/mounting parts",
+    "image_url": "http://ills.bmwfans.info/jea.png",
+    "parts_count": 34
+  },
+  {
+    "id": 3064,
+    "diagram_title": "Floor panel trunk/wheel housing rear",
+    "image_url": "http://ills.bmwfans.info/2o80.png",
+    "parts_count": 20
+  },
+  {
+    "id": 3041,
+    "diagram_title": "Front body bracket left",
+    "image_url": "http://ills.bmwfans.info/5fs.png",
+    "parts_count": 5
+  },
+  {
+    "id": 3045,
+    "diagram_title": "Front body bracket left",
+    "image_url": "http://ills.bmwfans.info/1g9t.png",
+    "parts_count": 5
+  },
+  {
+    "id": 3048,
+    "diagram_title": "Front body bracket right",
+    "image_url": "http://ills.bmwfans.info/5g0.png",
+    "parts_count": 3
+  },
+  {
+    "id": 3050,
+    "diagram_title": "Front body bracket right",
+    "image_url": "http://ills.bmwfans.info/109e.png",
+    "parts_count": 4
+  },
+  {
+    "id": 3035,
+    "diagram_title": "Front body parts",
+    "image_url": "http://ills.bmwfans.info/aef.png",
+    "parts_count": 26
+  },
+  {
+    "id": 3086,
+    "diagram_title": "Front door control/door lock",
+    "image_url": "http://ills.bmwfans.info/xpu.png",
+    "parts_count": 35
+  },
+  {
+    "id": 3078,
+    "diagram_title": "Front door-hinge/door brake",
+    "image_url": "http://ills.bmwfans.info/1rzb.png",
+    "parts_count": 18
+  },
+  {
+    "id": 3053,
+    "diagram_title": "Front side panel",
+    "image_url": "http://ills.bmwfans.info/vqm.png",
+    "parts_count": 23
+  },
+  {
+    "id": 3038,
+    "diagram_title": "Front wheelhouse",
+    "image_url": "http://ills.bmwfans.info/abo.png",
+    "parts_count": 12
+  },
+  {
+    "id": 3107,
+    "diagram_title": "Master key locking",
+    "image_url": "http://ills.bmwfans.info/t90.png",
+    "parts_count": 3
+  },
+  {
+    "id": 3114,
+    "diagram_title": "Mechanical connection elements",
+    "image_url": "http://ills.bmwfans.info/ac9.png",
+    "parts_count": 83
+  },
+  {
+    "id": 3061,
+    "diagram_title": "Partition trunk",
+    "image_url": "http://ills.bmwfans.info/ab8.png",
+    "parts_count": 7
+  },
+  {
+    "id": 3095,
+    "diagram_title": "Rear door — hinge/door brake",
+    "image_url": "http://ills.bmwfans.info/1rzd.png",
+    "parts_count": 18
+  },
+  {
+    "id": 3067,
+    "diagram_title": "Rear floor parts",
+    "image_url": "http://ills.bmwfans.info/1mpk.png",
+    "parts_count": 21
+  },
+  {
+    "id": 3072,
+    "diagram_title": "Roof",
+    "image_url": "http://ills.bmwfans.info/ed2.png",
+    "parts_count": 8
+  },
+  {
+    "id": 3070,
+    "diagram_title": "Side panel/tail trim",
+    "image_url": "http://ills.bmwfans.info/abl.png",
+    "parts_count": 27
+  },
+  {
+    "id": 3040,
+    "diagram_title": "Splash wall parts",
+    "image_url": "http://ills.bmwfans.info/1qzn.png",
+    "parts_count": 11
+  },
+  {
+    "id": 3111,
+    "diagram_title": "Trunk lid/closing system",
+    "image_url": "http://ills.bmwfans.info/e58.png",
+    "parts_count": 39
+  }
+]

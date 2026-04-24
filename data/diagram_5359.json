@@ -1,0 +1,117 @@
+{
+  "id": 5359,
+  "diagram_title": "Programmed DME control unit",
+  "image_url": "http://ills.bmwfans.info/1ac.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 545 670",
+      "quantity": 1,
+      "description": "RMFD control unit DME programmed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 545 670",
+      "quantity": 1,
+      "description": "RMFD control unit DME programmed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 545 670",
+      "quantity": 1,
+      "description": "RMFD control unit DME programmed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 545 670",
+      "quantity": 1,
+      "description": "RMFD control unit DME programmed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 545 552",
+      "quantity": 1,
+      "description": "RMFD control unit DME programmed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 545 670",
+      "quantity": 1,
+      "description": "RMFD control unit DME programmed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 512 187",
+      "quantity": 1,
+      "description": "RMFD control unit DME programmed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 545 552",
+      "quantity": 1,
+      "description": "RMFD control unit DME programmed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 545 552",
+      "quantity": 1,
+      "description": "RMFD control unit DME programmed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 545 552",
+      "quantity": 1,
+      "description": "RMFD control unit DME programmed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 545 552",
+      "quantity": 1,
+      "description": "RMFD control unit DME programmed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 545 671",
+      "quantity": 1,
+      "description": "RMFD control unit DME programmed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 14 7 545 671",
+      "quantity": 1,
+      "description": "RMFD control unit DME programmed",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

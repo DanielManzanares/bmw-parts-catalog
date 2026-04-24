@@ -1,0 +1,416 @@
+[
+  {
+    "id": 3554,
+    "diagram_title": "Air duct",
+    "image_url": "http://ills.bmwfans.info/djmi.png",
+    "parts_count": 23
+  },
+  {
+    "id": 3539,
+    "diagram_title": "Battery tray",
+    "image_url": "http://ills.bmwfans.info/1rdj.png",
+    "parts_count": 2
+  },
+  {
+    "id": 3401,
+    "diagram_title": "Carrier, front",
+    "image_url": "http://ills.bmwfans.info/1v39.png",
+    "parts_count": 13
+  },
+  {
+    "id": 3422,
+    "diagram_title": "Carrier, rear",
+    "image_url": "http://ills.bmwfans.info/k04.png",
+    "parts_count": 10
+  },
+  {
+    "id": 3474,
+    "diagram_title": "Center console cubbies",
+    "image_url": "http://ills.bmwfans.info/2q1t.png",
+    "parts_count": 53
+  },
+  {
+    "id": 3466,
+    "diagram_title": "Center console/armrest, support, trim pan.",
+    "image_url": "http://ills.bmwfans.info/1ulp.png",
+    "parts_count": 41
+  },
+  {
+    "id": 3501,
+    "diagram_title": "Color sample box",
+    "image_url": "http://ills.bmwfans.info/2agb.png",
+    "parts_count": 1
+  },
+  {
+    "id": 3416,
+    "diagram_title": "Cover door sill / wheel arch",
+    "image_url": "http://ills.bmwfans.info/3hqi.png",
+    "parts_count": 9
+  },
+  {
+    "id": 3504,
+    "diagram_title": "Door trim panel, front",
+    "image_url": "http://ills.bmwfans.info/1hd6.png",
+    "parts_count": 68
+  },
+  {
+    "id": 3507,
+    "diagram_title": "Door trim panel, front / side airbag",
+    "image_url": "http://ills.bmwfans.info/1hcy.png",
+    "parts_count": 68
+  },
+  {
+    "id": 3515,
+    "diagram_title": "Door trim panel, rear, side airbag",
+    "image_url": "http://ills.bmwfans.info/1hm6.png",
+    "parts_count": 58
+  },
+  {
+    "id": 3510,
+    "diagram_title": "Door trim, rear",
+    "image_url": "http://ills.bmwfans.info/1hm5.png",
+    "parts_count": 58
+  },
+  {
+    "id": 3384,
+    "diagram_title": "Door window lifting mechanism front",
+    "image_url": "http://ills.bmwfans.info/c4at.png",
+    "parts_count": 17
+  },
+  {
+    "id": 3389,
+    "diagram_title": "Door window lifting mechanism front",
+    "image_url": "http://ills.bmwfans.info/1064.png",
+    "parts_count": 8
+  },
+  {
+    "id": 3395,
+    "diagram_title": "Door window lifting mechanism rear",
+    "image_url": "http://ills.bmwfans.info/c4ea.png",
+    "parts_count": 29
+  },
+  {
+    "id": 3518,
+    "diagram_title": "Edge protector / Trim for entry",
+    "image_url": "http://ills.bmwfans.info/1xak.png",
+    "parts_count": 36
+  },
+  {
+    "id": 3442,
+    "diagram_title": "Emblems / letterings",
+    "image_url": "http://ills.bmwfans.info/1s6n.png",
+    "parts_count": 5
+  },
+  {
+    "id": 3436,
+    "diagram_title": "Exterior trim / grill",
+    "image_url": "http://ills.bmwfans.info/2vzt.png",
+    "parts_count": 45
+  },
+  {
+    "id": 3439,
+    "diagram_title": "Exterior trim / grill",
+    "image_url": "http://ills.bmwfans.info/1sm7.png",
+    "parts_count": 9
+  },
+  {
+    "id": 3498,
+    "diagram_title": "Fine wood trim",
+    "image_url": "http://ills.bmwfans.info/r8u.png",
+    "parts_count": 24
+  },
+  {
+    "id": 3524,
+    "diagram_title": "Floor covering",
+    "image_url": "http://ills.bmwfans.info/1r9g.png",
+    "parts_count": 18
+  },
+  {
+    "id": 3527,
+    "diagram_title": "Floor mats, velours",
+    "image_url": "http://ills.bmwfans.info/2rk6.png",
+    "parts_count": 10
+  },
+  {
+    "id": 3566,
+    "diagram_title": "Front aggregate protective plate",
+    "image_url": "http://ills.bmwfans.info/3ass.png",
+    "parts_count": 4
+  },
+  {
+    "id": 3560,
+    "diagram_title": "Front panel",
+    "image_url": "http://ills.bmwfans.info/1yps.png",
+    "parts_count": 28
+  },
+  {
+    "id": 3369,
+    "diagram_title": "Glazing",
+    "image_url": "http://ills.bmwfans.info/h6l.png",
+    "parts_count": 13
+  },
+  {
+    "id": 3454,
+    "diagram_title": "Glove box",
+    "image_url": "http://ills.bmwfans.info/1wtt.png",
+    "parts_count": 30
+  },
+  {
+    "id": 3480,
+    "diagram_title": "Handle",
+    "image_url": "http://ills.bmwfans.info/38gg.png",
+    "parts_count": 26
+  },
+  {
+    "id": 3477,
+    "diagram_title": "Headlining",
+    "image_url": "http://ills.bmwfans.info/1uyn.png",
+    "parts_count": 44
+  },
+  {
+    "id": 3413,
+    "diagram_title": "Installation kit, bumper",
+    "image_url": "http://ills.bmwfans.info/ey42.png",
+    "parts_count": 3
+  },
+  {
+    "id": 3542,
+    "diagram_title": "Insulation",
+    "image_url": "http://ills.bmwfans.info/3liq.png",
+    "parts_count": 23
+  },
+  {
+    "id": 3486,
+    "diagram_title": "Interior mirror",
+    "image_url": "http://ills.bmwfans.info/2sfz.png",
+    "parts_count": 20
+  },
+  {
+    "id": 3495,
+    "diagram_title": "Interior trim finishers",
+    "image_url": "http://ills.bmwfans.info/r8u.png",
+    "parts_count": 50
+  },
+  {
+    "id": 3533,
+    "diagram_title": "Lateral trunk floor trim panel",
+    "image_url": "http://ills.bmwfans.info/1zw4.png",
+    "parts_count": 28
+  },
+  {
+    "id": 3407,
+    "diagram_title": "M Trim, front",
+    "image_url": "http://ills.bmwfans.info/dogj.png",
+    "parts_count": 32
+  },
+  {
+    "id": 3410,
+    "diagram_title": "M Trim, front",
+    "image_url": "http://ills.bmwfans.info/dog6.png",
+    "parts_count": 25
+  },
+  {
+    "id": 3430,
+    "diagram_title": "M Trim, rear",
+    "image_url": "http://ills.bmwfans.info/doh6.png",
+    "parts_count": 4
+  },
+  {
+    "id": 3433,
+    "diagram_title": "M Trim, rear",
+    "image_url": "http://ills.bmwfans.info/dohi.png",
+    "parts_count": 22
+  },
+  {
+    "id": 3419,
+    "diagram_title": "M cover for rocker panel / wheel arch",
+    "image_url": "http://ills.bmwfans.info/3hqj.png",
+    "parts_count": 11
+  },
+  {
+    "id": 3383,
+    "diagram_title": "Mirror glass",
+    "image_url": "http://ills.bmwfans.info/89g.png",
+    "parts_count": 5
+  },
+  {
+    "id": 3392,
+    "diagram_title": "Mounting hardware kit, power window",
+    "image_url": "http://ills.bmwfans.info/chu9.png",
+    "parts_count": 2
+  },
+  {
+    "id": 3451,
+    "diagram_title": "Mounting parts, instr. panel",
+    "image_url": "http://ills.bmwfans.info/1c69.png",
+    "parts_count": 4
+  },
+  {
+    "id": 3375,
+    "diagram_title": "Outside mirror",
+    "image_url": "http://ills.bmwfans.info/12up.png",
+    "parts_count": 19
+  },
+  {
+    "id": 3379,
+    "diagram_title": "Outside mirror",
+    "image_url": "http://ills.bmwfans.info/12ux.png",
+    "parts_count": 21
+  },
+  {
+    "id": 3572,
+    "diagram_title": "Rear spoiler",
+    "image_url": "http://ills.bmwfans.info/29s3.png",
+    "parts_count": 3
+  },
+  {
+    "id": 3492,
+    "diagram_title": "Rear window shelf / sun blind electr.",
+    "image_url": "http://ills.bmwfans.info/zjw.png",
+    "parts_count": 40
+  },
+  {
+    "id": 3557,
+    "diagram_title": "Reinforcement, body",
+    "image_url": "http://ills.bmwfans.info/2qat.png",
+    "parts_count": 5
+  },
+  {
+    "id": 3578,
+    "diagram_title": "Repair kit, thread repair",
+    "image_url": "http://ills.bmwfans.info/dyzv.png",
+    "parts_count": 14
+  },
+  {
+    "id": 3581,
+    "diagram_title": "Repair kit, thread repair, thin-wall",
+    "image_url": "http://ills.bmwfans.info/ez05.png",
+    "parts_count": 7
+  },
+  {
+    "id": 3575,
+    "diagram_title": "Sealing cap/plug",
+    "image_url": "http://ills.bmwfans.info/1ypf.png",
+    "parts_count": 28
+  },
+  {
+    "id": 3545,
+    "diagram_title": "Sound insulating front",
+    "image_url": "http://ills.bmwfans.info/3c03.png",
+    "parts_count": 20
+  },
+  {
+    "id": 3548,
+    "diagram_title": "Sound insulating rear",
+    "image_url": "http://ills.bmwfans.info/1j6g.png",
+    "parts_count": 18
+  },
+  {
+    "id": 3445,
+    "diagram_title": "Sticker Police, Fire-brigade, Paramedic",
+    "image_url": "http://ills.bmwfans.info/3jih.png",
+    "parts_count": 52
+  },
+  {
+    "id": 3469,
+    "diagram_title": "Storing partit., mounting parts/teleph.",
+    "image_url": "http://ills.bmwfans.info/1vlz.png",
+    "parts_count": 17
+  },
+  {
+    "id": 3457,
+    "diagram_title": "Storing partition cover",
+    "image_url": "http://ills.bmwfans.info/3hzq.png",
+    "parts_count": 22
+  },
+  {
+    "id": 3460,
+    "diagram_title": "Storing partition mounting parts",
+    "image_url": "http://ills.bmwfans.info/1etj.png",
+    "parts_count": 23
+  },
+  {
+    "id": 3463,
+    "diagram_title": "Storing partition mounting parts",
+    "image_url": "http://ills.bmwfans.info/1vdo.png",
+    "parts_count": 27
+  },
+  {
+    "id": 3481,
+    "diagram_title": "Sun visors",
+    "image_url": "http://ills.bmwfans.info/lz9.png",
+    "parts_count": 23
+  },
+  {
+    "id": 3398,
+    "diagram_title": "Trim and seals for door, rear",
+    "image_url": "http://ills.bmwfans.info/kbb.png",
+    "parts_count": 5
+  },
+  {
+    "id": 3404,
+    "diagram_title": "Trim cover, front I",
+    "image_url": "http://ills.bmwfans.info/dogh.png",
+    "parts_count": 31
+  },
+  {
+    "id": 3427,
+    "diagram_title": "Trim cover, rear I",
+    "image_url": "http://ills.bmwfans.info/dogs.png",
+    "parts_count": 26
+  },
+  {
+    "id": 3489,
+    "diagram_title": "Trim panel A- / B- / C-Column",
+    "image_url": "http://ills.bmwfans.info/1chj.png",
+    "parts_count": 43
+  },
+  {
+    "id": 3448,
+    "diagram_title": "Trim panel dashboard",
+    "image_url": "http://ills.bmwfans.info/18gc.png",
+    "parts_count": 49
+  },
+  {
+    "id": 3521,
+    "diagram_title": "Trim panel leg room",
+    "image_url": "http://ills.bmwfans.info/1aar.png",
+    "parts_count": 20
+  },
+  {
+    "id": 3536,
+    "diagram_title": "Trunk lid trim panel",
+    "image_url": "http://ills.bmwfans.info/1kbm.png",
+    "parts_count": 5
+  },
+  {
+    "id": 3530,
+    "diagram_title": "Trunk trim panel",
+    "image_url": "http://ills.bmwfans.info/a40b.png",
+    "parts_count": 29
+  },
+  {
+    "id": 3569,
+    "diagram_title": "Underfloor coating",
+    "image_url": "http://ills.bmwfans.info/32p1.png",
+    "parts_count": 17
+  },
+  {
+    "id": 3563,
+    "diagram_title": "Various mounted parts",
+    "image_url": "http://ills.bmwfans.info/3ast.png",
+    "parts_count": 22
+  },
+  {
+    "id": 3551,
+    "diagram_title": "Wheelarch trim",
+    "image_url": "http://ills.bmwfans.info/1g1x.png",
+    "parts_count": 14
+  },
+  {
+    "id": 3372,
+    "diagram_title": "Window mounting parts",
+    "image_url": "http://ills.bmwfans.info/kbl.png",
+    "parts_count": 7
+  }
+]

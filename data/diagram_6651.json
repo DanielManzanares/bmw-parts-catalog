@@ -1,0 +1,21 @@
+{
+  "id": 6651,
+  "diagram_title": "Solar sensor",
+  "image_url": "http://ills.bmwfans.info/35ut.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 11 6 901 570",
+      "quantity": 1,
+      "description": "Solar sensor",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

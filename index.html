@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BMW Parts Catalog</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; background: #fafafa; color: #1a1a1a; line-height: 1.6; }
+        .app-header { background: #fff; border-bottom: 1px solid #e5e5e5; }
+        .header-content { max-width: 1400px; margin: 0 auto; padding: 16px 24px; display: flex; align-items: center; justify-content: space-between; }
+        .logo { display: flex; align-items: center; gap: 12px; cursor: pointer; text-decoration: none; color: inherit; }
+        .logo-icon { width: 32px; height: 32px; background: #1a1a1a; border-radius: 6px; display: flex; align-items: center; justify-content: center; color: white; font-weight: 700; font-size: 18px; }
+        .logo-text { font-size: 15px; font-weight: 600; letter-spacing: -0.01em; }
+        .lang-selector { display: flex; gap: 8px; background: #fafafa; padding: 4px; border-radius: 8px; border: 1px solid #e5e5e5; }
+        .lang-btn { padding: 6px 12px; background: transparent; border: none; border-radius: 6px; color: #666; font-size: 13px; font-weight: 600; cursor: pointer; transition: all 0.2s; }
+        .lang-btn:hover { color: #1a1a1a; background: #fff; }
+        .lang-btn.active { background: #1a1a1a; color: white; }
+        .container { max-width: 1400px; margin: 0 auto; padding: 32px 24px; }
+        .stats-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; margin-bottom: 32px; }
+        .stat-card { background: #fff; border: 1px solid #e5e5e5; border-radius: 12px; padding: 20px; }
+        .stat-value { font-size: 32px; font-weight: 700; margin-bottom: 4px; }
+        .stat-label { font-size: 13px; color: #666; font-weight: 500; }
+        .hero-section { background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); padding: 80px 24px 64px; text-align: center; position: relative; overflow: hidden; }
+        .hero-pattern { position: absolute; top: 0; left: 0; right: 0; bottom: 0; background-image: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(255,255,255,.02) 2px, rgba(255,255,255,.02) 4px); pointer-events: none; }
+        .hero-badge { display: inline-block; background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.2); padding: 8px 20px; border-radius: 50px; margin-bottom: 24px; backdrop-filter: blur(10px); }
+        .hero-title { font-size: 48px; font-weight: 800; color: white; margin-bottom: 16px; letter-spacing: -0.03em; line-height: 1.1; }
+        .hero-subtitle { font-size: 18px; color: rgba(255,255,255,0.7); max-width: 600px; margin: 0 auto 40px; line-height: 1.6; }
+        .hero-stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 32px; max-width: 500px; margin: 0 auto; }
+        .hero-stat-value { font-size: 36px; font-weight: 800; color: white; margin-bottom: 4px; }
+        .hero-stat-label { font-size: 13px; color: rgba(255,255,255,0.6); font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; }
+        .premium-card { text-decoration: none; display: block; background: white; border: 1px solid #e5e5e5; border-radius: 16px; overflow: hidden; transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1); position: relative; }
+        .premium-card:hover { transform: translateY(-4px); box-shadow: 0 12px 24px rgba(0,0,0,0.12); border-color: #1a1a1a; }
+        .premium-card-header { background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); padding: 32px 24px 24px; position: relative; overflow: hidden; }
+        .premium-card-glow { position: absolute; top: 0; right: 0; width: 200px; height: 200px; background: radial-gradient(circle, rgba(255,255,255,0.05) 0%, transparent 70%); pointer-events: none; }
+        .premium-badge { background: rgba(255,255,255,0.15); border: 1px solid rgba(255,255,255,0.25); display: inline-block; padding: 6px 16px; border-radius: 8px; margin-bottom: 16px; backdrop-filter: blur(10px); }
+        .premium-badge-text { color: white; font-weight: 700; font-size: 14px; letter-spacing: 0.05em; }
+        .premium-model-name { font-size: 28px; font-weight: 800; color: white; margin-bottom: 12px; letter-spacing: -0.02em; }
+        .premium-owner-badge { display: inline-block; background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.2); padding: 6px 14px; border-radius: 6px; backdrop-filter: blur(10px); }
+        .premium-owner-text { color: rgba(255,255,255,0.9); font-size: 13px; font-weight: 600; }
+        .premium-card-body { padding: 24px; }
+        .premium-stats-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 20px; }
+        .premium-stat-box { background: #fafafa; padding: 16px; border-radius: 10px; border: 1px solid #f0f0f0; }
+        .premium-stat-number { font-size: 24px; font-weight: 700; color: #1a1a1a; margin-bottom: 4px; }
+        .premium-stat-text { font-size: 12px; color: #666; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; }
+        .premium-cta { display: flex; align-items: center; justify-content: space-between; padding: 12px 16px; background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%); border-radius: 10px; }
+        .premium-cta-text { color: white; font-weight: 600; font-size: 14px; }
+        .premium-cta-arrow { color: white; font-size: 18px; }
+        .models-section { max-width: 1400px; margin: 0 auto; padding: 64px 24px; }
+        .section-header { margin-bottom: 40px; }
+        .section-title { font-size: 32px; font-weight: 700; color: #1a1a1a; margin-bottom: 8px; letter-spacing: -0.02em; }
+        .section-subtitle { font-size: 15px; color: #666; }
+        .premium-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 24px; }
+        .page-header { margin-bottom: 32px; }
+        .page-title { font-size: 28px; font-weight: 700; margin-bottom: 8px; letter-spacing: -0.02em; }
+        .page-subtitle { font-size: 14px; color: #666; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
+        .card { background: #fff; border: 1px solid #e5e5e5; border-radius: 12px; padding: 20px; text-decoration: none; color: inherit; display: block; transition: all 0.2s; cursor: pointer; }
+        .card:hover { border-color: #1a1a1a; box-shadow: 0 4px 12px rgba(0,0,0,0.08); }
+        .card-title { font-size: 18px; font-weight: 600; margin-bottom: 6px; }
+        .card-subtitle { font-size: 13px; color: #666; margin-bottom: 16px; }
+        .card-meta { display: flex; gap: 16px; font-size: 12px; color: #999; }
+        .breadcrumb { background: #fff; border-bottom: 1px solid #e5e5e5; padding: 12px 0; }
+        .breadcrumb-content { max-width: 1400px; margin: 0 auto; padding: 0 24px; display: flex; align-items: center; gap: 8px; font-size: 13px; }
+        .breadcrumb a { color: #666; text-decoration: none; cursor: pointer; }
+        .breadcrumb a:hover { color: #1a1a1a; }
+        .breadcrumb-sep { color: #d4d4d4; }
+        .breadcrumb-current { color: #1a1a1a; font-weight: 500; }
+        .btn-secondary { padding: 10px 20px; background: #fff; color: #1a1a1a; border: 1px solid #e5e5e5; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 8px; font-size: 14px; font-weight: 500; transition: all 0.2s; cursor: pointer; }
+        .btn-secondary:hover { background: #fafafa; border-color: #1a1a1a; }
+        table { width: 100%; border-collapse: separate; border-spacing: 0; background: #fff; border: 1px solid #e5e5e5; border-radius: 12px; overflow: hidden; }
+        table th { background: #fafafa; color: #666; padding: 12px 16px; text-align: left; font-weight: 600; font-size: 12px; text-transform: uppercase; letter-spacing: 0.05em; border-bottom: 1px solid #e5e5e5; }
+        table td { padding: 16px; border-bottom: 1px solid #f5f5f5; font-size: 14px; }
+        table tr:last-child td { border-bottom: none; }
+        table tr:hover td { background: #fafafa; }
+        .part-number { font-family: monospace; background: #f5f5f5; padding: 4px 8px; border-radius: 6px; font-weight: 500; font-size: 13px; }
+        img.diagram-img { width: 100%; height: auto; border-radius: 8px; }
+        .footer { text-align: center; padding: 48px 24px; color: #999; font-size: 13px; border-top: 1px solid #e5e5e5; margin-top: 64px; }
+        #app { min-height: calc(100vh - 200px); }
+    </style>
+</head>
+<body>
+    <header class="app-header">
+        <div class="header-content">
+            <div class="logo" onclick="router.navigate('')">
+                <div class="logo-icon">B</div>
+                <span class="logo-text">BMW Parts</span>
+            </div>
+            <div class="lang-selector">
+                <button class="lang-btn active" id="lang-en" onclick="setLanguage('en')">EN</button>
+                <button class="lang-btn" id="lang-es" onclick="setLanguage('es')">ES</button>
+            </div>
+        </div>
+    </header>
+    <div id="app"></div>
+    <footer class="footer">
+        <p>BMW Parts Catalog - Educational purposes only</p>
+        <p style="margin-top: 8px; font-size: 12px;">Data sourced from public BMW parts catalogs</p>
+    </footer>
+
+    <script>
+// Translation dictionary (compressed - same as webapp)
+const wordReplacements={Engine:'Motor',Block:'Bloque',Cylinder:'Cilindro',Head:'Culata',Cover:'Tapa',Pan:'Cárter',Oil:'Aceite',Filter:'Filtro',Pump:'Bomba',Water:'Agua',Timing:'Distribución',Belt:'Correa',Chain:'Cadena',Valve:'Válvula',Camshaft:'Árbol Levas',Crankshaft:'Cigüeñal',Piston:'Pistón',Gasket:'Junta',Seal:'Retén',Pulley:'Polea',Adjusting:'Ajuste',Tensioner:'Tensor',Deflection:'Deflexión',Ribbed:'Estriado',Driving:'Conducción',Sprocket:'Piñón',Woodruff:'Woodruff',Aggregate:'Agregado',Element:'Elemento',Sucking:'Aspiración',Jet:'Chorro',Insulating:'Aislante',Regulating:'Regulación',Radiator:'Radiador',Thermostat:'Termostato',Hose:'Manguera',Fan:'Ventilador',Coolant:'Refrigerante',Cooling:'Refrigeración',Fuel:'Combustible',Tank:'Depósito',Injector:'Inyector',Throttle:'Acelerador',Intake:'Admisión',Manifold:'Colector',Exhaust:'Escape',Muffler:'Silenciador',Catalytic:'Catalítico',Converter:'Convertidor',Pipe:'Tubo',Transmission:'Transmisión',Automatic:'Automática',Manual:'Manual',Clutch:'Embrague',Gearbox:'Caja Cambios',Gear:'Engranaje',Shift:'Cambio',Gearshift:'Palanca Cambios',Shaft:'Eje',Universal:'Universal',Front:'Delantero',Rear:'Trasero',Axle:'Eje',Shock:'Amortiguador',Absorber:'Amortiguador',Spring:'Muelle',Strut:'Montante',Arm:'Brazo',Wishbone:'Triángulo',Ball:'Rótula',Bushing:'Silent Block',Bush:'Casquillo',Stabilizer:'Estabilizadora',Support:'Soporte',Steering:'Dirección',Column:'Columna',Rack:'Cremallera',Pinion:'Piñón',Tie:'Barra',Rod:'Barra',Power:'Asistida',Hydro:'Hidráulico',Hydraulic:'Hidráulico',Bearing:'Rodamiento',Brake:'Freno',Disc:'Disco',Pad:'Pastilla',Caliper:'Pinza',Master:'Bomba',Booster:'Servofreno',Line:'Línea',ABS:'ABS',Handbrake:'Freno Mano',Lever:'Palanca',Sensor:'Sensor',Wear:'Desgaste',Service:'Servicio',Kit:'Kit',Wheels:'Ruedas',Rim:'Llanta',Steel:'Acero',Alloy:'Aleación',Light:'Ligera',Spoke:'Radio',Cross:'Cruz',Star:'Estrella',Double:'Doble',Styling:'Estilo',Composite:'Compuesta',Bodywork:'Carrocería',Body:'Carrocería',Shell:'Carrocería',Hood:'Capó',Trunk:'Maletero',Door:'Puerta',Fender:'Guardabarros',Mudguard:'Guardabarros',Bumper:'Parachoques',Mirror:'Espejo',Window:'Ventana',Glass:'Cristal',Handle:'Manija',Wave:'Onda',Skeleton:'Esqueleto',Wheelhouse:'Paso Rueda',Interior:'Interior',Equipment:'Equipamiento',Seat:'Asiento',Dashboard:'Salpicadero',Console:'Consola',Carpet:'Alfombra',Heater:'Calefacción',Air:'Aire',Conditioning:'Acondicionado',Climate:'Climatizador',Electrical:'Eléctrico',Battery:'Batería',Alternator:'Alternador',Starter:'Motor Arranque',Motor:'Motor',Fuse:'Fusible',Relay:'Relé',Wiring:'Cableado',Wire:'Cable',Instrument:'Instrumento',Instruments:'Instrumentos',Measuring:'Medición',Systems:'Sistemas',Lighting:'Iluminación',Headlight:'Faro',Tail:'Piloto',Fog:'Antiniebla',Turn:'Intermitente',Indicator:'Indicador',Lamp:'Lámpara',Bulb:'Bombilla',Audio:'Audio',Navigation:'Navegación',Electronic:'Electrónico',Radio:'Radio',Antenna:'Antena',Alarm:'Alarma',Pedals:'Pedales',Pedal:'Pedal',Accelerator:'Acelerador',Nut:'Tuerca',Bolt:'Perno',Screw:'Tornillo',Flange:'Brida',Washer:'Arandela',Collar:'Collar',Pin:'Pasador',Clip:'Clip',Aluminium:'Aluminio',Aluminum:'Aluminio',Plastic:'Plástico',Rubber:'Goma',Metal:'Metal',Leather:'Cuero',Chrome:'Cromo',Central:'Central',Center:'Centro',Middle:'Medio',Left:'Izquierdo',Right:'Derecho',Inner:'Interior',Outer:'Exterior',Top:'Superior',Bottom:'Inferior',Large:'Grande',Small:'Pequeño',Long:'Largo',Short:'Corto',Wide:'Ancho',Narrow:'Estrecho',Levelling:'Nivelación',Free:'Libre',Fixed:'Fijo',With:'Con',Without:'Sin',For:'Para',Blind:'Ciego',Needle:'Aguja',Additional:'Adicional',Extra:'Extra',Auxiliary:'Auxiliar',Main:'Principal',Primary:'Primario',Secondary:'Secundario',Standard:'Estándar',Optional:'Opcional',Special:'Especial',Universal:'Universal',Various:'Varios',Multiple:'Múltiple',Integrated:'Integrado',Separate:'Separado',Combined:'Combinado',Single:'Individual',Pair:'Par',Piece:'Pieza',Unit:'Unidad',Part:'Pieza',Component:'Componente',Assembly:'Conjunto',Module:'Módulo',Set:'Juego',Package:'Paquete',Complete:'Completo',Original:'Original',Genuine:'Genuino',Used:'Usado',New:'Nuevo',Holder:'Soporte',Bracket:'Soporte',Retainer:'Retenedor',Spacer:'Espaciador',Shim:'Calzo',Protector:'Protector',Guard:'Guardabarros',Shield:'Escudo',Insulator:'Aislante',Insulation:'Aislamiento',Padding:'Acolchado',Foam:'Espuma',Mat:'Alfombrilla',Lining:'Forro',Reinforcement:'Refuerzo',Brace:'Refuerzo',Plate:'Placa',Sheet:'Chapa',Strip:'Tira',Ring:'Anillo',Band:'Banda',Grommet:'Ojal',Sleeve:'Manguito',Stopper:'Tapón',Plug:'Tapón',Cap:'Tapa',Label:'Etiqueta',Sticker:'Pegatina',Emblem:'Emblema',Badge:'Insignia',Repair:'Reparación',Value:'Valor',Models:'Modelos',Version:'Versión',Mounting:'Montaje',Mount:'Montaje',Suspension:'Suspensión',Damper:'Amortiguador',Vibration:'Vibración',Ventilation:'Ventilación',Separator:'Separador',Drive:'Transmisión',Lubrication:'Lubricación',System:'Sistema',Preparation:'Preparación',Supply:'Suministro',Strainer:'Colador',Heating:'Calefacción',Mechanical:'Mecánico',Regulation:'Regulación',Insert:'Inserto',Injection:'Inyección',Nozzle:'Inyector',Nozzles:'Inyectores',Diesel:'Diésel',Suction:'Aspiración',Silencer:'Silenciador',Cartridge:'Cartucho',Linkage:'Varillaje',Driveshaft:'Árbol Transmisión',Differential:'Diferencial',Output:'Salida',Housing:'Carcasa',Parts:'Piezas',Control:'Control',Parking:'Estacionamiento',Lock:'Bloqueo',Pressure:'Presión',Joint:'Junta',Vane:'Paletas',Carrier:'Portador',Coil:'Helicoidal',Guide:'Guía',Wheel:'Rueda',Spin:'Giro',Upper:'Superior',Lower:'Inferior',Tube:'Tubo',Trim:'Moldura',Panel:'Panel',Ignition:'Encendido',Switch:'Interruptor',Sports:'Deportivo',Airbag:'Airbag',Depression:'Depresión',Expansion:'Expansión',Retrofitting:'Adaptación',Conversion:'Conversión',Technical:'Técnica',Literature:'Literatura',Sliding:'Deslizante',Folding:'Plegable',Distance:'Distancia',Cruise:'Control Velocidad',Restraint:'Retención',Safety:'Seguridad',Tool:'Herramienta',Lifting:'Elevación',Jack:'Gato',Trailer:'Remolque',Hitch:'Enganche',Towing:'Remolque',Detachable:'Desmontable',Coupling:'Acoplamiento',Attaching:'Fijación',Cable:'Cable',Harness:'Arnés',Socket:'Toma',Fluid:'Fluido',Liquid:'Líquido',Grease:'Grasa',Lubricant:'Lubricante',Additive:'Aditivo',Replacement:'Reemplazo',Maintenance:'Mantenimiento',Inspection:'Inspección',Specific:'Específico',Generic:'Genérico',Connection:'Conexión',Adapter:'Adaptador',Clamp:'Abrazadera',Hoses:'Mangueras',Pipes:'Tuberías'};
+
+let currentLang = localStorage.getItem('language') || 'en';
+
+function translateText(text, lang) {
+    if (lang === 'en' || !text) return text;
+    let translated = text;
+    const sorted = Object.entries(wordReplacements).sort((a,b) => b[0].length - a[0].length);
+    for (const [en, es] of sorted) {
+        const regex = new RegExp('\\b' + en + '\\b', 'gi');
+        translated = translated.replace(regex, es);
+    }
+    return translated;
+}
+
+function setLanguage(lang) {
+    currentLang = lang;
+    localStorage.setItem('language', lang);
+    document.querySelectorAll('.lang-btn').forEach(btn => btn.classList.remove('active'));
+    document.getElementById('lang-' + lang).classList.add('active');
+    document.querySelectorAll('.lang-text').forEach(el => {
+        const text = el.getAttribute('data-' + lang);
+        if (text) el.textContent = text;
+    });
+    document.querySelectorAll('[data-original]').forEach(el => {
+        const orig = el.getAttribute('data-original');
+        if (orig) el.textContent = translateText(orig, lang);
+    });
+}
+
+// Simple router
+const router = {
+    navigate(path) {
+        window.history.pushState({}, '', `#${path}`);
+        this.render();
+    },
+    render() {
+        const hash = window.location.hash.slice(1) || '';
+        const parts = hash.split('/');
+        
+        if (!hash) renderHome();
+        else if (parts[0] === 'model' && parts[1]) renderModel(parts[1]);
+        else if (parts[0] === 'model' && parts[1] && parts[2] === 'category' && parts[3]) renderCategory(parts[1], parts[3]);
+        else if (parts[0] === 'diagram' && parts[1]) renderDiagram(parts[1]);
+        else renderHome();
+        
+        setTimeout(() => setLanguage(currentLang), 100);
+    }
+};
+
+window.addEventListener('hashchange', () => router.render());
+window.addEventListener('load', () => router.render());
+
+// Views
+async function renderHome() {
+    const models = await fetch('data/models.json').then(r => r.json());
+    const stats = models.reduce((acc, m) => ({
+        diagrams: acc.diagrams + m.diagram_count,
+        parts: acc.parts + m.parts_count
+    }), {diagrams: 0, parts: 0});
+
+    document.getElementById('app').innerHTML = `
+        <!-- Hero Section -->
+        <div class="hero-section">
+            <div class="hero-pattern"></div>
+
+            <div style="max-width: 800px; margin: 0 auto; position: relative;">
+                <div class="hero-badge">
+                    <span style="color: rgba(255,255,255,0.8); font-size: 13px; font-weight: 600; letter-spacing: 0.05em;">PREMIUM PARTS CATALOG</span>
+                </div>
+
+                <h1 class="hero-title">
+                    <span class="lang-text" data-en="Classic BMW Collection" data-es="Colección BMW Clásica">Classic BMW Collection</span>
+                </h1>
+
+                <p class="hero-subtitle">
+                    <span class="lang-text" data-en="Explore detailed parts diagrams for E28, E36 & E46 series" data-es="Explora diagramas detallados de piezas para series E28, E36 y E46">Explore detailed parts diagrams for E28, E36 & E46 series</span>
+                </p>
+
+                <!-- Stats in Hero -->
+                <div class="hero-stats">
+                    <div>
+                        <div class="hero-stat-value">${models.length}</div>
+                        <div class="hero-stat-label lang-text" data-en="Models" data-es="Modelos">Models</div>
+                    </div>
+                    <div>
+                        <div class="hero-stat-value">${stats.diagrams}</div>
+                        <div class="hero-stat-label lang-text" data-en="Diagrams" data-es="Diagramas">Diagrams</div>
+                    </div>
+                    <div>
+                        <div class="hero-stat-value">${stats.parts}</div>
+                        <div class="hero-stat-label lang-text" data-en="Parts" data-es="Piezas">Parts</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Models Section -->
+        <div class="models-section">
+            <!-- Section Header -->
+            <div class="section-header">
+                <h2 class="section-title lang-text" data-en="Available Models" data-es="Modelos Disponibles">Available Models</h2>
+                <p class="section-subtitle lang-text" data-en="Select your BMW model to browse the complete parts catalog" data-es="Selecciona tu modelo BMW para explorar el catálogo completo">Select your BMW model to browse the complete parts catalog</p>
+            </div>
+
+            <!-- Models Grid -->
+            <div class="premium-grid">
+                ${models.map(m => `
+                    <div class="premium-card" onclick="router.navigate('model/${m.id}')">
+                        <!-- Card Header with Gradient -->
+                        <div class="premium-card-header">
+                            <div class="premium-card-glow"></div>
+
+                            <div style="position: relative;">
+                                <div class="premium-badge">
+                                    <span class="premium-badge-text">${m.series_code}</span>
+                                </div>
+
+                                <div class="premium-model-name">${m.model_code}</div>
+
+                                ${m.owner ? `
+                                <div class="premium-owner-badge">
+                                    <span class="premium-owner-text">${m.owner}</span>
+                                </div>
+                                ` : ''}
+                            </div>
+                        </div>
+
+                        <!-- Card Body -->
+                        <div class="premium-card-body">
+                            <!-- Stats Grid -->
+                            <div class="premium-stats-grid">
+                                <div class="premium-stat-box">
+                                    <div class="premium-stat-number">${m.diagram_count}</div>
+                                    <div class="premium-stat-text lang-text" data-en="Diagrams" data-es="Diagramas">Diagrams</div>
+                                </div>
+                                <div class="premium-stat-box">
+                                    <div class="premium-stat-number">${m.parts_count}</div>
+                                    <div class="premium-stat-text lang-text" data-en="Parts" data-es="Piezas">Parts</div>
+                                </div>
+                            </div>
+
+                            <!-- CTA Button -->
+                            <div class="premium-cta">
+                                <span class="premium-cta-text lang-text" data-en="View catalog" data-es="Ver catálogo">View catalog</span>
+                                <span class="premium-cta-arrow">→</span>
+                            </div>
+                        </div>
+                    </div>
+                `).join('')}
+            </div>
+        </div>
+    `;
+}
+
+async function renderModel(modelId) {
+    const models = await fetch('data/models.json').then(r => r.json());
+    const model = models.find(m => m.id == modelId);
+    const categories = await fetch(`data/model_${modelId}_categories.json`).then(r => r.json());
+
+    document.getElementById('app').innerHTML = `
+        <div class="breadcrumb">
+            <div class="breadcrumb-content">
+                <a onclick="router.navigate('')" class="lang-text" data-en="Home" data-es="Inicio">Home</a>
+                <span class="breadcrumb-sep">/</span>
+                <span class="breadcrumb-current">${model.series_code} ${model.model_code}</span>
+            </div>
+        </div>
+        <div class="container">
+            <div class="page-header">
+                <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 12px;">
+                    <div style="background: #1a1a1a; color: white; padding: 8px 16px; border-radius: 8px; font-weight: 700; font-size: 16px;">${model.series_code}</div>
+                    <h1 class="page-title" style="margin: 0;">${model.model_code}</h1>
+                </div>
+                <p class="page-subtitle">${model.engine_code || ''}</p>
+            </div>
+            <div class="stats-grid" style="margin-bottom: 32px;">
+                <div class="stat-card">
+                    <div class="stat-value">${categories.length}</div>
+                    <div class="stat-label lang-text" data-en="Categories" data-es="Categorías">Categories</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-value">${categories.reduce((sum, c) => sum + c.diagram_count, 0)}</div>
+                    <div class="stat-label lang-text" data-en="Diagrams" data-es="Diagramas">Diagrams</div>
+                </div>
+            </div>
+            <div style="margin-bottom: 24px;">
+                <h2 class="lang-text" style="font-size: 18px; font-weight: 600; margin-bottom: 16px;" data-en="Categories" data-es="Categorías">Categories</h2>
+            </div>
+            <div class="grid">
+                ${categories.map(c => `
+                    <div class="card" onclick="router.navigate('model/${modelId}/category/${c.id}')">
+                        ${c.representative_image ? `<img src="${c.representative_image}" alt="${c.name}" style="width: 100%; height: 140px; object-fit: cover; border-radius: 8px; margin-bottom: 16px; background: #fafafa;">` : `<div style="width: 100%; height: 140px; background: #fafafa; border-radius: 8px; margin-bottom: 16px; display: flex; align-items: center; justify-content: center; color: #d4d4d4; font-size: 48px;">📋</div>`}
+                        <div class="card-title" style="font-size: 15px; margin-bottom: 8px;" data-original="${c.name}">${c.name}</div>
+                        <div class="card-meta">
+                            <span>${c.diagram_count} <span class="lang-text" data-en="diagrams" data-es="diagramas">diagrams</span></span>
+                        </div>
+                    </div>
+                `).join('')}
+            </div>
+            <div style="margin-top: 48px;">
+                <button class="btn-secondary" onclick="router.navigate('')">
+                    <span>←</span>
+                    <span class="lang-text" data-en="Back to Models" data-es="Volver a Modelos">Back to Models</span>
+                </button>
+            </div>
+        </div>
+    `;
+}
+
+async function renderCategory(modelId, categoryId) {
+    const models = await fetch('data/models.json').then(r => r.json());
+    const model = models.find(m => m.id == modelId);
+    const categories = await fetch(`data/model_${modelId}_categories.json`).then(r => r.json());
+    const category = categories.find(c => c.id == categoryId);
+    const diagrams = await fetch(`data/model_${modelId}_category_${categoryId}_diagrams.json`).then(r => r.json());
+
+    document.getElementById('app').innerHTML = `
+        <div class="breadcrumb">
+            <div class="breadcrumb-content">
+                <a onclick="router.navigate('')" class="lang-text" data-en="Home" data-es="Inicio">Home</a>
+                <span class="breadcrumb-sep">/</span>
+                <a onclick="router.navigate('model/${modelId}')">${model.series_code} ${model.model_code}</a>
+                <span class="breadcrumb-sep">/</span>
+                <span class="breadcrumb-current" data-original="${category.name}">${category.name}</span>
+            </div>
+        </div>
+        <div class="container">
+            <div class="page-header">
+                <h1 class="page-title" data-original="${category.name}">${category.name}</h1>
+                <p class="page-subtitle">${model.series_code} ${model.model_code} · ${diagrams.length} <span class="lang-text" data-en="diagrams" data-es="diagramas">diagrams</span></p>
+            </div>
+            <div class="grid">
+                ${diagrams.map(d => `
+                    <div class="card" onclick="router.navigate('diagram/${d.id}')">
+                        ${d.image_url ? `<img src="${d.image_url}" alt="${d.diagram_title}" style="width: 100%; height: 180px; object-fit: cover; border-radius: 8px; margin-bottom: 16px; background: #fafafa;">` : `<div style="width: 100%; height: 180px; background: #fafafa; border-radius: 8px; margin-bottom: 16px; display: flex; align-items: center; justify-content: center; color: #d4d4d4; font-size: 48px;">📋</div>`}
+                        <div class="card-title" style="font-size: 15px; margin-bottom: 8px;" data-original="${d.diagram_title}">${d.diagram_title}</div>
+                        <div class="card-meta">
+                            <span>${d.parts_count} <span class="lang-text" data-en="parts" data-es="piezas">parts</span></span>
+                        </div>
+                    </div>
+                `).join('')}
+            </div>
+            <div style="margin-top: 48px;">
+                <button class="btn-secondary" onclick="router.navigate('model/${modelId}')">
+                    <span>←</span>
+                    <span class="lang-text" data-en="Back to Model" data-es="Volver al Modelo">Back to Model</span>
+                </button>
+            </div>
+        </div>
+    `;
+}
+
+async function renderDiagram(diagramId) {
+    const diagram = await fetch(`data/diagram_${diagramId}.json`).then(r => r.json());
+
+    document.getElementById('app').innerHTML = `
+        <div class="breadcrumb">
+            <div class="breadcrumb-content">
+                <a onclick="router.navigate('')" class="lang-text" data-en="Home" data-es="Inicio">Home</a>
+                <span class="breadcrumb-sep">/</span>
+                <a onclick="router.navigate('model/${diagram.model_id}')">${diagram.series_code} ${diagram.model_code}</a>
+                <span class="breadcrumb-sep">/</span>
+                <a onclick="router.navigate('model/${diagram.model_id}/category/${diagram.category_id}')" data-original="${diagram.category_name}">${diagram.category_name}</a>
+                <span class="breadcrumb-sep">/</span>
+                <span class="breadcrumb-current" data-original="${diagram.diagram_title}">${diagram.diagram_title}</span>
+            </div>
+        </div>
+        <div class="container">
+            <div class="page-header">
+                <h1 class="page-title" data-original="${diagram.diagram_title}">${diagram.diagram_title}</h1>
+                <p class="page-subtitle">${diagram.series_code} ${diagram.model_code} ${diagram.engine_code || ''} · ${diagram.parts.length} <span class="lang-text" data-en="parts" data-es="piezas">parts</span></p>
+            </div>
+            ${diagram.image_url ? `<div style="background: #fff; border: 1px solid #e5e5e5; border-radius: 12px; padding: 24px; margin-bottom: 32px;"><img src="${diagram.image_url}" alt="${diagram.diagram_title}" class="diagram-img"></div>` : ''}
+            ${diagram.parts.length > 0 ? `
+            <div style="background: #fff; border: 1px solid #e5e5e5; border-radius: 12px; padding: 24px; margin-bottom: 32px;">
+                <h2 class="lang-text" style="font-size: 18px; font-weight: 600; margin-bottom: 20px;" data-en="Parts List" data-es="Lista de Piezas">Parts List</h2>
+                <table>
+                    <thead>
+                        <tr>
+                            <th style="width: 60px;">Pos</th>
+                            <th class="lang-text" style="width: 150px;" data-en="Part Number" data-es="Nº Pieza">Part Number</th>
+                            <th class="lang-text" data-en="Description" data-es="Descripción">Description</th>
+                            <th class="lang-text" style="width: 200px;" data-en="Compatible" data-es="Compatible">Compatible</th>
+                            <th class="lang-text" style="width: 100px; text-align: right;" data-en="Price" data-es="Precio">Price</th>
+                            <th class="lang-text" style="width: 120px; text-align: center;" data-en="Search" data-es="Buscar">Search</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        ${diagram.parts.map(p => `
+                            <tr>
+                                <td style="text-align: center; color: #666; font-weight: 500;">${p.position_number}</td>
+                                <td><span class="part-number">${p.part_number.replace(/ /g, '')}</span></td>
+                                <td><span data-original="${p.description}">${p.description}</span></td>
+                                <td>
+                                    ${p.compatible_models ? `
+                                        <div style="display: flex; flex-wrap: wrap; gap: 4px;">
+                                            ${p.compatible_models.split(', ').filter(s => ['E28','E36','E46'].includes(s.trim())).map(s => `<span style="background: #1a1a1a; color: white; padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: 600;">${s.trim()}</span>`).join('')}
+                                            <span class="lang-text" style="color: #999; font-size: 12px; padding: 2px 4px;" data-en="+${p.compatible_models.split(', ').length} models" data-es="+${p.compatible_models.split(', ').length} modelos">+${p.compatible_models.split(', ').length} models</span>
+                                        </div>
+                                    ` : '<span style="color: #d4d4d4; font-size: 12px;">-</span>'}
+                                </td>
+                                <td style="text-align: right;">
+                                    ${p.price_eur && p.price_eur > 0 ? `<span style="font-weight: 600; color: #1a1a1a;">€${p.price_eur.toFixed(2)}</span>` : `<span class="lang-text" style="color: #999; font-size: 12px;" data-en="No price" data-es="Sin precio">No price</span>`}
+                                </td>
+                                <td style="text-align: center;">
+                                    <a href="https://www.autodoc.es/search?keyword=${p.part_number.replace(/ /g, '')}" target="_blank" class="lang-text" style="padding: 6px 16px; font-size: 12px; font-weight: 600; display: inline-block; background: #FF6C00; color: white; border-radius: 6px; text-decoration: none; transition: all 0.2s;" onmouseover="this.style.background='#E65C00'" onmouseout="this.style.background='#FF6C00'" data-en="Search" data-es="Buscar">Search</a>
+                                </td>
+                            </tr>
+                        `).join('')}
+                    </tbody>
+                </table>
+            </div>
+            ` : ''}
+            <div style="margin-top: 32px;">
+                <button class="btn-secondary" onclick="router.navigate('model/${diagram.model_id}/category/${diagram.category_id}')">
+                    <span>←</span>
+                    <span class="lang-text" data-en="Back to" data-es="Volver a">Back to</span>
+                    <span data-original="${diagram.category_name}">${diagram.category_name}</span>
+                </button>
+            </div>
+        </div>
+    `;
+}
+    </script>
+</body>
+</html>

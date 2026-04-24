@@ -1,0 +1,125 @@
+{
+  "id": 3288,
+  "diagram_title": "Front body bracket right",
+  "image_url": "http://ills.bmwfans.info/1pkj.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "41 11 8 209 652",
+      "quantity": 1,
+      "description": "Right shock absorber support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "41 11 8 199 614",
+      "quantity": 1,
+      "description": "Support for right radiator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "41 11 8 239 196",
+      "quantity": 1,
+      "description": "Right stabilizer support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "41 14 8 217 444",
+      "quantity": 1,
+      "description": "Console f battery carrier/indepen.heater",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "41 11 8 230 526",
+      "quantity": 1,
+      "description": "Supporting strut, front wall left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "41 11 8 230 548",
+      "quantity": 1,
+      "description": "Right partition reinforcement",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "41 11 8 230 528",
+      "quantity": 1,
+      "description": "Right engine compartment partition",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "41 11 8 230 532",
+      "quantity": 1,
+      "description": "Cover panel, engine compartment, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "41 14 8 199 630",
+      "quantity": 1,
+      "description": "Fluid container bracket, SWA/SRA",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "41 14 8 209 668",
+      "quantity": 1,
+      "description": "Diagnosis plug bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "41 14 8 209 666",
+      "quantity": 1,
+      "description": "Bracket brake pipe right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "41 14 8 209 102",
+      "quantity": 1,
+      "description": "Bracket side panel right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 71 7 036 781",
+      "quantity": 1,
+      "description": "Reinforcement, supporting bearing",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "17",
+      "part_number": "54 12 8 144 789",
+      "quantity": 1,
+      "description": "Blind rivet",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

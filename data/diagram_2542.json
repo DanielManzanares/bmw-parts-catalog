@@ -1,0 +1,109 @@
+{
+  "id": 2542,
+  "diagram_title": "Steering column switch",
+  "image_url": "http://ills.bmwfans.info/bzq.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 31 1 368 255",
+      "quantity": 1,
+      "description": "Wiper switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 31 1 369 932",
+      "quantity": 1,
+      "description": "Wiper switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 906 816",
+      "quantity": 4,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28, E30, E32, E34, E36, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 31 1 368 258",
+      "quantity": 1,
+      "description": "Switch turn signal, dip-dim control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 31 1 375 515",
+      "quantity": 1,
+      "description": "Light switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 31 1 362 306",
+      "quantity": 2,
+      "description": "Bulb socket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 31 1 369 933",
+      "quantity": 2,
+      "description": "Button",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 50 9 063 579",
+      "quantity": 1,
+      "description": "91",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E32, E34, E36, Z1, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "63 21 7 167 000",
+      "quantity": 1,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 11 9 920 320",
+      "quantity": 2,
+      "description": "Knurled head nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 31 1 369 947",
+      "quantity": 1,
+      "description": "Fog lamp switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 31 1 375 286",
+      "quantity": 1,
+      "description": "Fog lamp switch",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

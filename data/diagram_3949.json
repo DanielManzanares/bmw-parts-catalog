@@ -1,0 +1,85 @@
+{
+  "id": 3949,
+  "diagram_title": "Individual ornamental strips \"Deco-Line\"",
+  "image_url": "http://ills.bmwfans.info/uid.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 90 2 272 033",
+      "quantity": 1,
+      "description": "Ornamental strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 90 2 272 034",
+      "quantity": 1,
+      "description": "Ornamental strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 90 2 272 035",
+      "quantity": 1,
+      "description": "Ornamental strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 90 2 272 036",
+      "quantity": 1,
+      "description": "Ornamental strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 90 2 272 037",
+      "quantity": 1,
+      "description": "Ornamental strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 90 2 272 038",
+      "quantity": 1,
+      "description": "Ornamental strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 90 2 272 039",
+      "quantity": 1,
+      "description": "Ornamental strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 90 2 272 040",
+      "quantity": 1,
+      "description": "Ornamental strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 90 2 272 041",
+      "quantity": 1,
+      "description": "Ornamental strips",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

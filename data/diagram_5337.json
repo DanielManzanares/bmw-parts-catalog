@@ -1,0 +1,69 @@
+{
+  "id": 5337,
+  "diagram_title": "Lambda Probe Fixings",
+  "image_url": "http://ills.bmwfans.info/i92.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1,
+  "category_name": "Engine",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "11 78 1 742 050",
+      "quantity": 2,
+      "description": "Regulating lambda probe",
+      "price_eur": null,
+      "compatible_models": "E31, E38, E39, E46, E52, E53, E60, E61, E65, E66, E83, E85, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 78 1 433 940",
+      "quantity": 2,
+      "description": "Lambda Monitor sensor",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "12 52 1 436 023",
+      "quantity": 2,
+      "description": "Cable clamp",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F06, F06 Facelift, F07, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F18, F20, F21, F25, F30, F30 Facelift, F31, F31 Facelift, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 78 7 503 123",
+      "quantity": 4,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 78 7 570 482",
+      "quantity": 4,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": "E38, E39, E46, E53, E60, E61, E65, E66, E81, E82, E83, E85, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 78 1 437 782",
+      "quantity": 1,
+      "description": "Bracket for lambda probe cable",
+      "price_eur": null,
+      "compatible_models": "E46, E85, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 11 9 904 357",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E32, E34, E36, E38, E39, E46, E52, E53, E60, E61, E65, E66, E67, E85, E86, E9, E90, E90 Facelift, E92, E92 Facelift, E93, E93 Facelift, NK, Z1, Z3"
+    }
+  ]
+}

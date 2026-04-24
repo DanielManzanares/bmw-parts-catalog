@@ -1,0 +1,85 @@
+{
+  "id": 2139,
+  "diagram_title": "Aerodynamics package",
+  "image_url": "http://ills.bmwfans.info/d5f.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 11 9 410 488",
+      "quantity": 1,
+      "description": "Installing set spoiler front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 69 9 404 101",
+      "quantity": 1,
+      "description": "Installing set spoiler front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 69 9 404 102",
+      "quantity": 1,
+      "description": "Installing set spoiler front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 69 9 404 103",
+      "quantity": 1,
+      "description": "Mounting-kit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 69 9 404 104",
+      "quantity": 1,
+      "description": "Mounting-kit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 11 9 410 489",
+      "quantity": 1,
+      "description": "Mounting-kit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 11 9 410 494",
+      "quantity": 1,
+      "description": "Installing set rear spoiler",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 63 9 402 892",
+      "quantity": 1,
+      "description": "Installing set rear spoiler",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 69 9 404 105",
+      "quantity": 1,
+      "description": "Installing set rear spoiler",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

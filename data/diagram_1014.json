@@ -1,0 +1,45 @@
+{
+  "id": 1014,
+  "diagram_title": "wheel_bolt_lock_with_adaptor_2",
+  "image_url": "/static/images/diagrams/E46_320Ci-M54_wheels_wheel_bolt_lock_with_adaptor_2.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 86,
+  "category_name": "Wheels",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "36 13 6 786 419",
+      "quantity": 1,
+      "description": "Set wheel locks",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E46, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E81, E82, E85, E86, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, Z1"
+    },
+    {
+      "position_number": "2",
+      "part_number": "36 13 6 786 478",
+      "quantity": 4,
+      "description": "Wheel bolt with code",
+      "price_eur": null,
+      "compatible_models": "E46, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E81, E82, E85, E86, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "2",
+      "part_number": "36 13 6 786 479",
+      "quantity": 4,
+      "description": "Wheel bolt with code",
+      "price_eur": null,
+      "compatible_models": "E46, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E81, E82, E85, E86, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "2",
+      "part_number": "36 13 6 786 480",
+      "quantity": 4,
+      "description": "Wheel bolt with code",
+      "price_eur": null,
+      "compatible_models": "E46, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E81, E82, E85, E86, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    }
+  ]
+}

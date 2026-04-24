@@ -1,0 +1,61 @@
+{
+  "id": 6753,
+  "diagram_title": "Horn",
+  "image_url": "http://ills.bmwfans.info/209s.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 33 8 379 711",
+      "quantity": 1,
+      "description": "Horn, low pitch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 33 8 379 712",
+      "quantity": 1,
+      "description": "Horn, low pitch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 927 022",
+      "quantity": 1,
+      "description": "Collar nut",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E52, E65, E66, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 12 9 905 542",
+      "quantity": 1,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 13 2 359 999",
+      "quantity": 1,
+      "description": "Rep. kit for socket housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 901 515",
+      "quantity": 1,
+      "description": "Hex head screw with washer",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

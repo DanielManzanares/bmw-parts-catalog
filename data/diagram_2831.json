@@ -1,0 +1,117 @@
+{
+  "id": 2831,
+  "diagram_title": "Navigation system with route map (SZ)",
+  "image_url": "http://ills.bmwfans.info/21mn.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 90 0 151 635",
+      "quantity": 1,
+      "description": "Navigation installation set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 90 0 151 635",
+      "quantity": 1,
+      "description": "Navigation installation set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 90 0 028 275",
+      "quantity": 1,
+      "description": "Navigation CD computer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 18 0 015 949",
+      "quantity": 1,
+      "description": "Console, monitor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 82 0 015 950",
+      "quantity": 1,
+      "description": "Console, monitor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "84 44 0 151 053",
+      "quantity": 1,
+      "description": "Console, monitor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "84 44 0 151 053",
+      "quantity": 1,
+      "description": "Console, monitor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "65 90 0 028 276",
+      "quantity": 1,
+      "description": "Monitor wiring harness",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "65 90 0 028 867",
+      "quantity": 1,
+      "description": "Navigation wiring harness",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "01 29 0 140 891",
+      "quantity": 1,
+      "description": "Owner's handbook, multilinual",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "65 90 0 028 873",
+      "quantity": 1,
+      "description": "Additional kit, mounting components",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "84 43 0 141 487",
+      "quantity": 1,
+      "description": "Software-CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "65 12 8 370 924",
+      "quantity": 1,
+      "description": "Base support system, front",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "id": 2150,
+  "diagram_title": "Ornamental strips \"Universell\"",
+  "image_url": "http://ills.bmwfans.info/dlr.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 933 217",
+      "quantity": 1,
+      "description": "Ornamental strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 933 218",
+      "quantity": 1,
+      "description": "Ornamental strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 933 373",
+      "quantity": 1,
+      "description": "Ornamental strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 933 374",
+      "quantity": 1,
+      "description": "Ornamental strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 933 375",
+      "quantity": 1,
+      "description": "Ornamental strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 933 376",
+      "quantity": 1,
+      "description": "Ornamental strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 933 377",
+      "quantity": 1,
+      "description": "Ornamental strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 933 378",
+      "quantity": 1,
+      "description": "Ornamental strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 933 379",
+      "quantity": 1,
+      "description": "Ornamental strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 933 380",
+      "quantity": 1,
+      "description": "Ornamental strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 933 381",
+      "quantity": 1,
+      "description": "Ornamental strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 933 382",
+      "quantity": 1,
+      "description": "Ornamental strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 933 383",
+      "quantity": 1,
+      "description": "Ornamental strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 933 384",
+      "quantity": 1,
+      "description": "Ornamental strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 14 1 967 979",
+      "quantity": 1,
+      "description": "Ornamental strips",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

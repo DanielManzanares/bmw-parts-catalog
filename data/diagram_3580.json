@@ -1,0 +1,21 @@
+{
+  "id": 3580,
+  "diagram_title": "Secondary air injection pump relay K6304",
+  "image_url": "http://ills.bmwfans.info/e5gb.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 63 1 742 690",
+      "quantity": 1,
+      "description": "Relay changer salmon red",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

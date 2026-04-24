@@ -1,0 +1,21 @@
+{
+  "id": 6774,
+  "diagram_title": "Antenna line VICS",
+  "image_url": "http://ills.bmwfans.info/2seg.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 12 6 934 133",
+      "quantity": 1,
+      "description": "Antenna line VICS",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

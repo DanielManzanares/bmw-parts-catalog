@@ -1,0 +1,29 @@
+{
+  "id": 6992,
+  "diagram_title": "Earth strap for engine hood",
+  "image_url": "http://ills.bmwfans.info/hln.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 31 1 437 881",
+      "quantity": 1,
+      "description": "Earth strap for engine hood",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 10 3 451 068",
+      "quantity": 2,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "CMSP, E31, E32, E34, E36, E38, E46, E52, E53, E83, E83 Facelift, E85, E86, Z3"
+    }
+  ]
+}

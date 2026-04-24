@@ -1,0 +1,109 @@
+{
+  "id": 7520,
+  "diagram_title": "Individual decor panel SA 255",
+  "image_url": "http://ills.bmwfans.info/1yf6.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "32 30 0 151 599",
+      "quantity": 1,
+      "description": "Decor finisher, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 30 8 020 155",
+      "quantity": 1,
+      "description": "Decor finisher, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 30 8 020 204",
+      "quantity": 1,
+      "description": "Decor finisher, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 30 8 022 441",
+      "quantity": 1,
+      "description": "Decor finisher, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 30 8 020 207",
+      "quantity": 1,
+      "description": "Decor finisher, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 30 8 022 502",
+      "quantity": 1,
+      "description": "Decor finisher, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 30 8 020 210",
+      "quantity": 1,
+      "description": "Decor finisher, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 30 8 022 505",
+      "quantity": 1,
+      "description": "Decor finisher, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 30 8 020 213",
+      "quantity": 1,
+      "description": "Decor finisher, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 30 8 022 508",
+      "quantity": 1,
+      "description": "Decor finisher, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 30 8 020 216",
+      "quantity": 1,
+      "description": "Decor finisher, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 30 8 022 511",
+      "quantity": 1,
+      "description": "Decor finisher, painted",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

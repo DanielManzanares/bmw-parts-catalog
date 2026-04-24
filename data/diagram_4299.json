@@ -1,0 +1,285 @@
+{
+  "id": 4299,
+  "diagram_title": "BMW form",
+  "image_url": "http://ills.bmwfans.info/3thf.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1531,
+  "category_name": "Technical Literature",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "01 39 9 782 818",
+      "quantity": 1,
+      "description": "Claim Form pad",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 29 2 147 430",
+      "quantity": 1,
+      "description": "Claim Form pad",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 39 9 750 147",
+      "quantity": 1,
+      "description": "Claim Form pad",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 39 9 782 818",
+      "quantity": 1,
+      "description": "Claim Form pad",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 29 2 147 430",
+      "quantity": 1,
+      "description": "Claim Form pad",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 39 9 750 147",
+      "quantity": 1,
+      "description": "Claim Form pad",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 39 9 782 818",
+      "quantity": 1,
+      "description": "Claim Form pad",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 29 2 147 434",
+      "quantity": 1,
+      "description": "Claim Form pad",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 39 9 750 147",
+      "quantity": 1,
+      "description": "Claim Form pad",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 39 9 782 818",
+      "quantity": 1,
+      "description": "Claim Form pad",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 29 2 147 434",
+      "quantity": 1,
+      "description": "Claim Form pad",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 39 9 750 147",
+      "quantity": 1,
+      "description": "Claim Form pad",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 29 2 147 640",
+      "quantity": 1,
+      "description": "Form, Airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 39 9 750 147",
+      "quantity": 1,
+      "description": "Claim Form pad",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 29 2 147 640",
+      "quantity": 1,
+      "description": "Form, Airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 39 9 750 147",
+      "quantity": 1,
+      "description": "Claim Form pad",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 29 2 147 641",
+      "quantity": 1,
+      "description": "Form, Airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 39 9 750 147",
+      "quantity": 1,
+      "description": "Claim Form pad",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 29 2 147 641",
+      "quantity": 1,
+      "description": "Form, Airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 39 9 750 147",
+      "quantity": 1,
+      "description": "Claim Form pad",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 29 2 147 642",
+      "quantity": 1,
+      "description": "Form, Airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 29 2 147 642",
+      "quantity": 1,
+      "description": "Form, Airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 29 2 147 644",
+      "quantity": 1,
+      "description": "Form, Airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 29 2 147 644",
+      "quantity": 1,
+      "description": "Form, Airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 29 2 147 643",
+      "quantity": 1,
+      "description": "Form, Airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 29 2 147 643",
+      "quantity": 1,
+      "description": "Form, Airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "01 29 2 147 645",
+      "quantity": 1,
+      "description": "Form, Airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "01 29 2 147 645",
+      "quantity": 1,
+      "description": "Form, Airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "01 29 2 147 650",
+      "quantity": 1,
+      "description": "Form, Airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "01 29 2 147 650",
+      "quantity": 1,
+      "description": "Form, Airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "01 29 2 147 649",
+      "quantity": 1,
+      "description": "Form, Airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "01 29 2 147 649",
+      "quantity": 1,
+      "description": "Form, Airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "01 29 2 147 648",
+      "quantity": 1,
+      "description": "Form, Airbag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "01 29 2 147 648",
+      "quantity": 1,
+      "description": "Form, Airbag",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

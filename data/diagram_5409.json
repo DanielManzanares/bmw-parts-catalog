@@ -1,0 +1,85 @@
+{
+  "id": 5409,
+  "diagram_title": "Ignition coil/spark plug",
+  "image_url": "http://ills.bmwfans.info/21nt.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 13 0 495 289",
+      "quantity": 4,
+      "description": "Ignition coil",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 13 1 712 219",
+      "quantity": 1,
+      "description": "Ignition coil",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "12 13 1 437 986",
+      "quantity": 4,
+      "description": "Locking mechanism",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "12 12 0 141 871",
+      "quantity": 4,
+      "description": "Spark plug, High Power",
+      "price_eur": null,
+      "compatible_models": "E30, E31, E32, E34, E36, E38, E39, E46, E53, E60, E61, E63, E64, E65, E66, E67, E83, E85, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "12 12 0 037 607",
+      "quantity": 4,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E30, E31, E32, E34, E36, E38, E39, E46, E53, E60, E61, E63, E64, E65, E66, E67, E83, E85, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "12 12 9 071 003",
+      "quantity": 4,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E61, E63, E64, E65, E66, E67, E83, E85, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "12 12 0 037 607",
+      "quantity": 4,
+      "description": "$0.00",
+      "price_eur": null,
+      "compatible_models": "E30, E31, E32, E34, E36, E38, E39, E46, E53, E60, E61, E63, E64, E65, E66, E67, E83, E85, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "12 52 1 437 985",
+      "quantity": 1,
+      "description": "Socket housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "12 52 7 519 996",
+      "quantity": 1,
+      "description": "Socket housing",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "id": 1406,
+  "diagram_title": "Drum brake-brake shoes/brake carrier",
+  "image_url": "http://ills.bmwfans.info/3k3.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 68,
+  "category_name": "Brakes",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "34 21 1 154 705",
+      "quantity": 1,
+      "description": "Calliper carrier left",
+      "price_eur": null,
+      "compatible_models": "E28, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 21 1 154 706",
+      "quantity": 1,
+      "description": "Calliper carrier right",
+      "price_eur": null,
+      "compatible_models": "E28, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 21 1 154 705",
+      "quantity": 1,
+      "description": "Calliper carrier left",
+      "price_eur": null,
+      "compatible_models": "E28, E34"
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 21 1 154 706",
+      "quantity": 1,
+      "description": "Calliper carrier right",
+      "price_eur": null,
+      "compatible_models": "E28, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 21 1 150 886",
+      "quantity": 4,
+      "description": "Plug",
+      "price_eur": null,
+      "compatible_models": "E28, E34"
+    },
+    {
+      "position_number": "2",
+      "part_number": "34 21 1 150 886",
+      "quantity": 4,
+      "description": "Plug",
+      "price_eur": null,
+      "compatible_models": "E28, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 919 660",
+      "quantity": 1,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": "E12, E28, E30, E34, E36"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 919 660",
+      "quantity": 1,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": "E12, E28, E30, E34, E36"
+    },
+    {
+      "position_number": "4",
+      "part_number": "34 21 1 154 925",
+      "quantity": 1,
+      "description": "Brake shoe asbestos-free left",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "34 21 1 154 926",
+      "quantity": 1,
+      "description": "Brake shoe asbestos-free right",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "34 21 1 154 925",
+      "quantity": 1,
+      "description": "Brake shoe asbestos-free left",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "34 21 1 154 926",
+      "quantity": 1,
+      "description": "Brake shoe asbestos-free right",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "34 21 1 154 924",
+      "quantity": 2,
+      "description": "Brake shoe asbestos-free",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "34 21 1 154 924",
+      "quantity": 2,
+      "description": "Brake shoe asbestos-free",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "34 21 1 116 477",
+      "quantity": 4,
+      "description": "Roll pin",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E28, E34, NK"
+    },
+    {
+      "position_number": "6",
+      "part_number": "34 21 1 116 477",
+      "quantity": 4,
+      "description": "Roll pin",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E28, E34, NK"
+    },
+    {
+      "position_number": "7",
+      "part_number": "34 21 1 116 476",
+      "quantity": 4,
+      "description": "Compression spring",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E28, E34, NK"
+    },
+    {
+      "position_number": "7",
+      "part_number": "34 21 1 116 476",
+      "quantity": 4,
+      "description": "Compression spring",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E28, E34, NK"
+    },
+    {
+      "position_number": "8",
+      "part_number": "34 21 1 150 219",
+      "quantity": 1,
+      "description": "Linkage, left",
+      "price_eur": null,
+      "compatible_models": "E28, E34"
+    },
+    {
+      "position_number": "8",
+      "part_number": "34 21 1 150 220",
+      "quantity": 1,
+      "description": "Linkage, right",
+      "price_eur": null,
+      "compatible_models": "E28, E34"
+    },
+    {
+      "position_number": "8",
+      "part_number": "34 21 1 150 219",
+      "quantity": 1,
+      "description": "Linkage, left",
+      "price_eur": null,
+      "compatible_models": "E28, E34"
+    },
+    {
+      "position_number": "8",
+      "part_number": "34 21 1 150 220",
+      "quantity": 1,
+      "description": "Linkage, right",
+      "price_eur": null,
+      "compatible_models": "E28, E34"
+    },
+    {
+      "position_number": "9",
+      "part_number": "07 11 9 941 378",
+      "quantity": 1,
+      "description": "Roll pin",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "9",
+      "part_number": "07 11 9 941 378",
+      "quantity": 1,
+      "description": "Roll pin",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "10",
+      "part_number": "34 21 1 159 811",
+      "quantity": 1,
+      "description": "Lever",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "10",
+      "part_number": "34 21 1 159 812",
+      "quantity": 1,
+      "description": "86",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "10",
+      "part_number": "34 21 1 159 811",
+      "quantity": 1,
+      "description": "Lever",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "10",
+      "part_number": "34 21 1 159 812",
+      "quantity": 1,
+      "description": "86",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "11",
+      "part_number": "34 21 1 153 881",
+      "quantity": 2,
+      "description": "Tension spring",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "11",
+      "part_number": "34 21 9 064 272",
+      "quantity": 2,
+      "description": "Repair kit springs",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "11",
+      "part_number": "34 21 1 153 881",
+      "quantity": 2,
+      "description": "Tension spring",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "11",
+      "part_number": "34 21 9 064 272",
+      "quantity": 2,
+      "description": "Repair kit springs",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E34"
+    },
+    {
+      "position_number": "12",
+      "part_number": "34 21 1 121 856",
+      "quantity": 2,
+      "description": "Tension spring",
+      "price_eur": null,
+      "compatible_models": "E28, E34"
+    },
+    {
+      "position_number": "12",
+      "part_number": "34 21 1 121 856",
+      "quantity": 2,
+      "description": "Tension spring",
+      "price_eur": null,
+      "compatible_models": "E28, E34"
+    },
+    {
+      "position_number": "13",
+      "part_number": "34 21 1 120 884",
+      "quantity": 2,
+      "description": "Tension spring",
+      "price_eur": null,
+      "compatible_models": "E28, E34"
+    },
+    {
+      "position_number": "13",
+      "part_number": "34 21 1 120 884",
+      "quantity": 2,
+      "description": "Tension spring",
+      "price_eur": null,
+      "compatible_models": "E28, E34"
+    },
+    {
+      "position_number": "14",
+      "part_number": "34 21 9 064 271",
+      "quantity": 1,
+      "description": "Repair kit brake shoe with springs",
+      "price_eur": null,
+      "compatible_models": "E28, E34"
+    },
+    {
+      "position_number": "14",
+      "part_number": "34 21 9 064 271",
+      "quantity": 1,
+      "description": "Repair kit brake shoe with springs",
+      "price_eur": null,
+      "compatible_models": "E28, E34"
+    },
+    {
+      "position_number": "15",
+      "part_number": "34 21 9 064 273",
+      "quantity": 1,
+      "description": "Repair kit springs",
+      "price_eur": null,
+      "compatible_models": "E28, E34"
+    },
+    {
+      "position_number": "15",
+      "part_number": "34 21 9 064 273",
+      "quantity": 1,
+      "description": "Repair kit springs",
+      "price_eur": null,
+      "compatible_models": "E28, E34"
+    }
+  ]
+}

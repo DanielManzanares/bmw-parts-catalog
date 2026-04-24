@@ -1,0 +1,189 @@
+{
+  "id": 26,
+  "diagram_title": "Mounting parts f intake manifold system",
+  "image_url": "http://ills.bmwfans.info/nc.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1,
+  "category_name": "Engine",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "11 61 1 739 351",
+      "quantity": 1,
+      "description": "Support",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 61 1 739 351",
+      "quantity": 1,
+      "description": "Support",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 912 478",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E34, E36, E38, E39, E46, E85, E86, E9, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 912 478",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E34, E36, E38, E39, E46, E85, E86, E9, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 900 052",
+      "quantity": 6,
+      "description": "Washer",
+      "price_eur": 245.0,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E53, E85, E86, E9, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 900 052",
+      "quantity": 6,
+      "description": "Washer",
+      "price_eur": 245.0,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E53, E85, E86, E9, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 61 1 734 361",
+      "quantity": 1,
+      "description": "Shackle",
+      "price_eur": null,
+      "compatible_models": "E36, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 61 1 734 361",
+      "quantity": 1,
+      "description": "Shackle",
+      "price_eur": null,
+      "compatible_models": "E36, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 11 9 915 164",
+      "quantity": 2,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E39, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 11 9 915 164",
+      "quantity": 2,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E39, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 12 9 908 125",
+      "quantity": 1,
+      "description": "Stud bolt",
+      "price_eur": null,
+      "compatible_models": "E30, E34, E36, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 11 9 900 509",
+      "quantity": 1,
+      "description": "Hex bolt with washer",
+      "price_eur": 0.89,
+      "compatible_models": "E34, E36, E46, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 12 9 908 125",
+      "quantity": 1,
+      "description": "Stud bolt",
+      "price_eur": null,
+      "compatible_models": "E30, E34, E36, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 11 9 900 509",
+      "quantity": 1,
+      "description": "Hex bolt with washer",
+      "price_eur": 0.89,
+      "compatible_models": "E34, E36, E46, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 12 9 946 307",
+      "quantity": 1,
+      "description": "Hex nut with plate",
+      "price_eur": null,
+      "compatible_models": "E30, E36, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 12 9 946 307",
+      "quantity": 1,
+      "description": "Hex nut with plate",
+      "price_eur": null,
+      "compatible_models": "E30, E36, Z3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "11 61 1 247 643",
+      "quantity": 1,
+      "description": "Support",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "8",
+      "part_number": "11 61 1 247 643",
+      "quantity": 1,
+      "description": "Support",
+      "price_eur": null,
+      "compatible_models": "E34, E36"
+    },
+    {
+      "position_number": "9",
+      "part_number": "07 12 9 905 541",
+      "quantity": 1,
+      "description": "Hex nut with plate",
+      "price_eur": null,
+      "compatible_models": "E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F80, F80 Facelift, F82, F83, F85, F86, F87, I01, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "07 12 9 905 541",
+      "quantity": 1,
+      "description": "Hex nut with plate",
+      "price_eur": null,
+      "compatible_models": "E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E70, E70 Facelift, E71, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F80, F80 Facelift, F82, F83, F85, F86, F87, I01, Z3"
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 900 509",
+      "quantity": 1,
+      "description": "Hex bolt with washer",
+      "price_eur": 0.89,
+      "compatible_models": "E34, E36, E46, Z3"
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 900 509",
+      "quantity": 1,
+      "description": "Hex bolt with washer",
+      "price_eur": 0.89,
+      "compatible_models": "E34, E36, E46, Z3"
+    }
+  ]
+}

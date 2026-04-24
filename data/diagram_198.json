@@ -1,0 +1,333 @@
+{
+  "id": 198,
+  "diagram_title": "Rear light",
+  "image_url": "http://ills.bmwfans.info/c6h.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 184,
+  "category_name": "Lighting",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "63 21 1 387 657",
+      "quantity": 1,
+      "description": "Left tail light with rear fog light",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 21 1 387 658",
+      "quantity": 1,
+      "description": "Right tail light with rear fog light",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 19 9 405 442",
+      "quantity": 1,
+      "description": "Left rear light, white turn indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 19 9 405 443",
+      "quantity": 1,
+      "description": "Right rear light, white turn indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 21 1 387 657",
+      "quantity": 1,
+      "description": "Left tail light with rear fog light",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 21 1 387 658",
+      "quantity": 1,
+      "description": "Right tail light with rear fog light",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 19 9 405 442",
+      "quantity": 1,
+      "description": "Left rear light, white turn indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 19 9 405 443",
+      "quantity": 1,
+      "description": "Right rear light, white turn indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 21 1 387 896",
+      "quantity": 2,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 21 1 387 896",
+      "quantity": 2,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 21 8 360 031",
+      "quantity": 2,
+      "description": "Tail light gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 21 8 360 031",
+      "quantity": 2,
+      "description": "Tail light gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "63 21 1 387 659",
+      "quantity": 2,
+      "description": "Bulb socket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "63 21 1 387 659",
+      "quantity": 2,
+      "description": "Bulb socket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 11 9 905 336",
+      "quantity": 1,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E31, E32, E36, E38, E39, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 11 9 905 336",
+      "quantity": 1,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E31, E32, E36, E38, E39, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 21 1 387 655",
+      "quantity": 2,
+      "description": "Bulb socket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 21 1 387 655",
+      "quantity": 2,
+      "description": "Bulb socket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "63 21 7 160 792",
+      "quantity": 2,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "63 21 7 160 792",
+      "quantity": 2,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "63 21 1 387 697",
+      "quantity": 6,
+      "description": "Bulb socket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "63 21 1 387 697",
+      "quantity": 6,
+      "description": "Bulb socket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 21 7 176 025",
+      "quantity": 2,
+      "description": "Longlife bulb, Gelb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 21 7 160 789",
+      "quantity": 1,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 21 6 926 920",
+      "quantity": 1,
+      "description": "Longlife bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 21 7 160 790",
+      "quantity": 1,
+      "description": "04",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 21 7 160 791",
+      "quantity": 2,
+      "description": "Bulb yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 21 7 176 025",
+      "quantity": 2,
+      "description": "Longlife bulb, Gelb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 21 7 160 789",
+      "quantity": 1,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 21 6 926 920",
+      "quantity": 1,
+      "description": "Longlife bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 21 7 160 790",
+      "quantity": 1,
+      "description": "04",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 21 7 160 791",
+      "quantity": 2,
+      "description": "Bulb yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "63 25 9 128 043",
+      "quantity": 8,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "63 25 9 128 043",
+      "quantity": 8,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 47 8 119 235",
+      "quantity": 1,
+      "description": "Covering left",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 47 8 119 236",
+      "quantity": 1,
+      "description": "Covering right",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 47 8 119 235",
+      "quantity": 1,
+      "description": "Covering left",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 47 8 119 236",
+      "quantity": 1,
+      "description": "Covering right",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 47 8 120 281",
+      "quantity": 2,
+      "description": "Lock",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E85, F11 Facelift"
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 47 8 120 281",
+      "quantity": 2,
+      "description": "Lock",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E85, F11 Facelift"
+    }
+  ]
+}

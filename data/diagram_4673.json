@@ -1,0 +1,45 @@
+{
+  "id": 4673,
+  "diagram_title": "Flashlight, LED",
+  "image_url": "http://ills.bmwfans.info/acod.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "63 31 9 148 677",
+      "quantity": 1,
+      "description": "Flashlight, LED",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 31 9 148 677",
+      "quantity": 1,
+      "description": "Flashlight, LED",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 31 9 139 112",
+      "quantity": 1,
+      "description": "Flashlight, LED",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 31 9 139 112",
+      "quantity": 1,
+      "description": "Flashlight, LED",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

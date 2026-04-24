@@ -1,0 +1,69 @@
+{
+  "id": 2443,
+  "diagram_title": "Sliding lifting roof-manual operation",
+  "image_url": "http://ills.bmwfans.info/bs7.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1639,
+  "category_name": "Sliding Roof / Folding Top",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "54 12 1 857 958",
+      "quantity": 1,
+      "description": "Manual sliding-lifting roof transmission",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "54 12 1 867 575",
+      "quantity": 1,
+      "description": "Recessed handle",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 902 454",
+      "quantity": 2,
+      "description": "Recessed oval head sheet-metal screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 928 563",
+      "quantity": 1,
+      "description": "Csk.fillister head srew",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "54 12 1 867 887",
+      "quantity": 1,
+      "description": "Trim ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "54 12 1 932 688",
+      "quantity": 2,
+      "description": "Countersunk head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "54 12 1 859 594",
+      "quantity": 1,
+      "description": "Crank",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

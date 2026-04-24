@@ -1,0 +1,101 @@
+{
+  "id": 6718,
+  "diagram_title": "Original BMW battery (Warranty only)",
+  "image_url": "http://ills.bmwfans.info/2xjv.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 21 7 553 952",
+      "quantity": 1,
+      "description": "Battery from Exide (Warranty Only)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 21 8 376 451",
+      "quantity": 1,
+      "description": "Battery from Exide (Warranty Only)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 21 7 604 816",
+      "quantity": 1,
+      "description": "Battery from Exide (Warranty Only)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 21 8 381 776",
+      "quantity": 1,
+      "description": "Battery from Exide (Warranty Only)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 21 8 381 768",
+      "quantity": 1,
+      "description": "Battery from Exide (Warranty Only)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 21 7 604 822",
+      "quantity": 1,
+      "description": "Battery from Exide (Warranty Only)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 21 8 377 139",
+      "quantity": 1,
+      "description": "Battery from Exide (Warranty Only)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 21 8 381 730",
+      "quantity": 1,
+      "description": "Battery from Exide (Warranty Only)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 21 6 924 021",
+      "quantity": 1,
+      "description": "Battery from Exide (Warranty Only)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 21 7 555 719",
+      "quantity": 1,
+      "description": "Battery from Exide (Warranty Only)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 21 6 924 023",
+      "quantity": 1,
+      "description": "Battery from Exide (Warranty Only)",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

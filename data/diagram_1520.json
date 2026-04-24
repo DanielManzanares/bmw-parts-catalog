@@ -1,0 +1,237 @@
+{
+  "id": 1520,
+  "diagram_title": "Seat heating",
+  "image_url": "http://ills.bmwfans.info/bux.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 11 1 377 444",
+      "quantity": 2,
+      "description": "Heater element seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "64 11 1 376 034",
+      "quantity": 2,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "64 11 1 377 444",
+      "quantity": 1,
+      "description": "Heater element seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "64 11 1 376 034",
+      "quantity": 1,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 11 1 365 537",
+      "quantity": 2,
+      "description": "Heater element backrest",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 11 1 376 035",
+      "quantity": 2,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 11 1 365 537",
+      "quantity": 2,
+      "description": "Heater element backrest",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 11 1 376 035",
+      "quantity": 1,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 12 1 371 071",
+      "quantity": 1,
+      "description": "Wiring drivers side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 12 1 371 071",
+      "quantity": 1,
+      "description": "Wiring drivers side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 12 1 371 072",
+      "quantity": 1,
+      "description": "Wiring co-drivers side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 12 1 371 072",
+      "quantity": 1,
+      "description": "Wiring co-drivers side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "25 11 1 220 837",
+      "quantity": 2,
+      "description": "Cable clamp",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E28, E30, E32, E34, Z1"
+    },
+    {
+      "position_number": "6",
+      "part_number": "25 11 1 220 837",
+      "quantity": 2,
+      "description": "Cable clamp",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E28, E30, E32, E34, Z1"
+    },
+    {
+      "position_number": "7",
+      "part_number": "61 31 1 373 585",
+      "quantity": 1,
+      "description": "Relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "61 31 1 373 588",
+      "quantity": 1,
+      "description": "Mini-relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "61 31 1 373 585",
+      "quantity": 1,
+      "description": "Relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "61 31 1 373 588",
+      "quantity": 1,
+      "description": "Mini-relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "61 31 1 366 464",
+      "quantity": 2,
+      "description": "Seat heating switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "61 31 1 366 464",
+      "quantity": 2,
+      "description": "Seat heating switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 21 8 050 550",
+      "quantity": 2,
+      "description": "Grommet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 21 8 050 550",
+      "quantity": 2,
+      "description": "Grommet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "52 10 1 870 530",
+      "quantity": 2,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "52 10 1 870 530",
+      "quantity": 2,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "61 13 1 361 614",
+      "quantity": 2,
+      "description": "Plug housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "61 13 1 361 614",
+      "quantity": 2,
+      "description": "Plug housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "61 13 1 377 134",
+      "quantity": 1,
+      "description": "Cable tie",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "61 13 1 377 134",
+      "quantity": 1,
+      "description": "Cable tie",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

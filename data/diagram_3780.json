@@ -1,0 +1,141 @@
+{
+  "id": 3780,
+  "diagram_title": "Radio Bavaria C Business",
+  "image_url": "http://ills.bmwfans.info/1htq.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 402 063",
+      "quantity": 1,
+      "description": "Radio BMW Reverse RDS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 405 970",
+      "quantity": 1,
+      "description": "Radio Bavaria C Business RDS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 410 692",
+      "quantity": 1,
+      "description": "Radio Bavaria C Business RDS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 8 360 792",
+      "quantity": 1,
+      "description": "Radio Bavaria C Business RDS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 8 374 584",
+      "quantity": 1,
+      "description": "Radio Bavaria C Business RDS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 8 379 231",
+      "quantity": 1,
+      "description": "Radio Bavaria C Business RDS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 12 8 360 792",
+      "quantity": 1,
+      "description": "Radio Bavaria C Business RDS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 12 8 374 584",
+      "quantity": 1,
+      "description": "Radio Bavaria C Business RDS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 12 8 379 231",
+      "quantity": 1,
+      "description": "Radio Bavaria C Business RDS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 12 9 402 063",
+      "quantity": 1,
+      "description": "Radio BMW Reverse RDS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 12 9 405 970",
+      "quantity": 1,
+      "description": "Radio Bavaria C Business RDS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 12 9 410 692",
+      "quantity": 1,
+      "description": "Radio Bavaria C Business RDS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 12 6 907 821",
+      "quantity": 1,
+      "description": "Button",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "65 12 8 360 284",
+      "quantity": 1,
+      "description": "BMW 6 CD changer A",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "65 12 8 361 266",
+      "quantity": 1,
+      "description": "Rmfd bmw 6 cd changer a",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "65 12 8 361 130",
+      "quantity": 1,
+      "description": "Cd-magazine bmw 6 cd changer a",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

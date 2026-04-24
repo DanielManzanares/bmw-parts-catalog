@@ -1,0 +1,349 @@
+{
+  "id": 3135,
+  "diagram_title": "M Trim, front",
+  "image_url": "http://ills.bmwfans.info/bap.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 11 2 233 839",
+      "quantity": 1,
+      "description": "Primed front spoiler",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 11 9 066 203",
+      "quantity": 1,
+      "description": "Primed front spoiler",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 11 9 066 204",
+      "quantity": 1,
+      "description": "Primed front spoiler",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 11 2 233 352",
+      "quantity": 1,
+      "description": "Protective Mouldings",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 11 2 233 378",
+      "quantity": 1,
+      "description": "Protective Mouldings",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 11 2 233 779",
+      "quantity": 1,
+      "description": "Rubber strip left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 11 2 233 780",
+      "quantity": 1,
+      "description": "Rubber strip right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 11 2 233 354",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 11 8 122 335",
+      "quantity": 1,
+      "description": "Holding strap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 11 2 233 869",
+      "quantity": 1,
+      "description": "Cover, primed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 11 9 066 221",
+      "quantity": 1,
+      "description": "Cover, primed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 11 9 066 222",
+      "quantity": 1,
+      "description": "Cover, primed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 11 2 233 870",
+      "quantity": 1,
+      "description": "Cover, primed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 11 9 066 223",
+      "quantity": 1,
+      "description": "Cover, primed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 11 9 066 224",
+      "quantity": 1,
+      "description": "Cover, primed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "64 11 1 364 257",
+      "quantity": 8,
+      "description": "Spring nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 11 2 251 389",
+      "quantity": 1,
+      "description": "Sealing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 11 2 251 390",
+      "quantity": 1,
+      "description": "Sealing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "46 63 1 456 155",
+      "quantity": 2,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 12 9 904 150",
+      "quantity": 2,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": "CMSP, E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F46, F48, F80, F80 Facelift, F82, F83, F85, F86, F87, G11, G12, I12, Z1, Z3"
+    },
+    {
+      "position_number": "14",
+      "part_number": "07 14 7 137 416",
+      "quantity": 2,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 11 2 233 845",
+      "quantity": 1,
+      "description": "Support left",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 11 2 233 846",
+      "quantity": 1,
+      "description": "Support right",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 12 9 904 150",
+      "quantity": 2,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": "CMSP, E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F46, F48, F80, F80 Facelift, F82, F83, F85, F86, F87, G11, G12, I12, Z1, Z3"
+    },
+    {
+      "position_number": "17",
+      "part_number": "07 11 9 904 310",
+      "quantity": 4,
+      "description": "Sheet metal screw",
+      "price_eur": null,
+      "compatible_models": "E23, E30, E32, E34, E36, E39, E46, E60, E60 Facelift, E61, E61 Facelift, E70, E70 Facelift, E71, E83, E83 Facelift, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "18",
+      "part_number": "07 12 9 904 221",
+      "quantity": 4,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F46, F48, F80, F80 Facelift, F82, F83, F85, F86, F87, G11, G12, I01, Z1, Z3"
+    },
+    {
+      "position_number": "19",
+      "part_number": "07 11 9 916 949",
+      "quantity": 2,
+      "description": "Hex head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "51 71 2 233 361",
+      "quantity": 1,
+      "description": "Front left brake air duct",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "51 71 2 233 362",
+      "quantity": 1,
+      "description": "Front left brake air duct",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "51 71 2 250 641",
+      "quantity": 1,
+      "description": "Spacer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "51 71 2 250 642",
+      "quantity": 1,
+      "description": "Spacer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "61 13 1 378 641",
+      "quantity": 4,
+      "description": "Expanding rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "51 11 2 251 767",
+      "quantity": 1,
+      "description": "Spoiler front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "24",
+      "part_number": "51 11 1 908 077",
+      "quantity": 1,
+      "description": "Expanding rivet",
+      "price_eur": null,
+      "compatible_models": "CMSP, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F46, F48, F80, F80 Facelift, F82, F83, F85, F86, F87, G11, G12, I01, I12, Z1, Z3"
+    },
+    {
+      "position_number": "25",
+      "part_number": "51 11 2 252 200",
+      "quantity": 1,
+      "description": "Plug-in nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "26",
+      "part_number": "07 14 9 126 885",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39, E46, E60, E65, E66, E67, E81, E82, E84, E85, E86, E87 Facelift, E88, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F36, F87, G11, G12"
+    },
+    {
+      "position_number": "27",
+      "part_number": "51 71 1 977 117",
+      "quantity": 1,
+      "description": "Support left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "27",
+      "part_number": "51 71 1 977 118",
+      "quantity": 1,
+      "description": "Support left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "28",
+      "part_number": "07 11 9 916 949",
+      "quantity": 6,
+      "description": "Hex head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "29",
+      "part_number": "51 11 2 250 685",
+      "quantity": 1,
+      "description": "Cover, primed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "30",
+      "part_number": "51 71 2 261 343",
+      "quantity": 1,
+      "description": "Sealing front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "30",
+      "part_number": "51 71 2 261 344",
+      "quantity": 1,
+      "description": "Sealing front",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

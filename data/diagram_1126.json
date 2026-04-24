@@ -1,0 +1,77 @@
+{
+  "id": 1126,
+  "diagram_title": "expansion_tank",
+  "image_url": "/static/images/diagrams/E46_330Ci-M54_fuel_supply_expansion_tank.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 31,
+  "category_name": "Fuel Supply",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "16 13 6 752 640",
+      "quantity": 1,
+      "description": "Expansion tank",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "16 13 1 184 041",
+      "quantity": 1,
+      "description": "Vent pipe",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 12 9 952 104",
+      "quantity": 5,
+      "description": "Hose clamp",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63 Facelift, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E81, E82, E83, E83 Facelift, E84, E87, E87 Facelift, E88, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F20, F20 Facelift, F21, F21 Facelift, F22, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F36, G11, G12, NK, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "13 53 7 563 456",
+      "quantity": 1,
+      "description": "Fuel hose",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "16 12 1 180 409",
+      "quantity": 1,
+      "description": "Fuel hose",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 71 1 958 025",
+      "quantity": 2,
+      "description": "Plastic nut",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E46, E53, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F15, F16, F25, F26, F85, F86, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "16 12 7 175 977",
+      "quantity": 1,
+      "description": "Fuel hose",
+      "price_eur": null,
+      "compatible_models": "E36, E46"
+    },
+    {
+      "position_number": "7",
+      "part_number": "32 41 1 156 956",
+      "quantity": 2,
+      "description": "Hose clamp",
+      "price_eur": null,
+      "compatible_models": "E31, E32, E34, E36, E39, E46, E65, E66, E67, F06, F06 Facelift, F10, F12, F12 Facelift, F13, F13 Facelift, Z3"
+    }
+  ]
+}

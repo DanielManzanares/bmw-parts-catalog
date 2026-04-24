@@ -1,0 +1,77 @@
+{
+  "id": 2766,
+  "diagram_title": "Trailer, individual parts, handbrake",
+  "image_url": "http://ills.bmwfans.info/m5q.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "86 19 9 416 631",
+      "quantity": 1,
+      "description": "Brake lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "86 19 9 416 632",
+      "quantity": 1,
+      "description": "Pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "86 19 9 416 633",
+      "quantity": 1,
+      "description": "Shackle",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "86 19 9 416 634",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "86 19 9 416 635",
+      "quantity": 1,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "86 19 9 416 636",
+      "quantity": 1,
+      "description": "Brake lever flap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "86 19 9 416 637",
+      "quantity": 1,
+      "description": "Ripcord with ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "86 19 9 416 638",
+      "quantity": 1,
+      "description": "Ring",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

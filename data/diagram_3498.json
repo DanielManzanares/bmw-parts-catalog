@@ -1,0 +1,205 @@
+{
+  "id": 3498,
+  "diagram_title": "Fine wood trim",
+  "image_url": "http://ills.bmwfans.info/r8u.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 45 7 001 157",
+      "quantity": 1,
+      "description": "Wood panel, light maple, instr. panel, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 45 8 203 825",
+      "quantity": 1,
+      "description": "Wood panel, light maple, instr. panel, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 45 7 001 159",
+      "quantity": 1,
+      "description": "Wood panel, light maple, instr. panel, cntr",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 45 8 203 827",
+      "quantity": 1,
+      "description": "Wood panel, light maple, instr. panel, cntr",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 45 7 001 163",
+      "quantity": 1,
+      "description": "Wood panel, light maple, instr. panel, ri.",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 45 8 203 826",
+      "quantity": 1,
+      "description": "Wood panel, light maple, instr. panel, ri.",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 41 8 239 192",
+      "quantity": 1,
+      "description": "Wooden strip, door front right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 41 8 200 726",
+      "quantity": 1,
+      "description": "Wooden strip, door front right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 42 8 239 194",
+      "quantity": 1,
+      "description": "Wooden strip, door rear right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 42 8 200 754",
+      "quantity": 1,
+      "description": "Wooden strip, door rear right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 41 8 239 191",
+      "quantity": 1,
+      "description": "Wooden strip, door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 41 8 200 725",
+      "quantity": 1,
+      "description": "Wooden strip, door front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 42 8 239 193",
+      "quantity": 1,
+      "description": "Wooden strip, door rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 42 8 200 753",
+      "quantity": 1,
+      "description": "Wooden strip, door rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 45 8 237 204",
+      "quantity": 1,
+      "description": "Set of wooden covers, cockpit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 45 8 214 679",
+      "quantity": 1,
+      "description": "Set of wooden covers, cockpit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 41 8 239 227",
+      "quantity": 1,
+      "description": "Set of wooden covers",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 41 8 213 597",
+      "quantity": 1,
+      "description": "Set of wooden covers",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 45 8 266 814",
+      "quantity": 7,
+      "description": "Insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 14 9 158 194",
+      "quantity": 16,
+      "description": "Plug-in retainer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 41 6 976 220",
+      "quantity": 16,
+      "description": "Threaded bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 45 8 266 808",
+      "quantity": 7,
+      "description": "Pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 45 8 266 813",
+      "quantity": 23,
+      "description": "Threaded bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 41 8 233 225",
+      "quantity": 23,
+      "description": "Threaded bush",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

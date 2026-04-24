@@ -1,0 +1,109 @@
+{
+  "id": 1600,
+  "diagram_title": "Vacuum control — engine",
+  "image_url": "http://ills.bmwfans.info/neq.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1,
+  "category_name": "Engine",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "11 61 1 439 927",
+      "quantity": 1,
+      "description": "Sucking jet pump",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "11 61 1 439 927",
+      "quantity": 1,
+      "description": "Sucking jet pump",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 61 1 438 809",
+      "quantity": 1,
+      "description": "Hose elbow",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 61 1 438 809",
+      "quantity": 1,
+      "description": "Hose elbow",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 15 1 726 340",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39, E46, E52, E53, E83, E85, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 15 1 726 340",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39, E46, E52, E53, E83, E85, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 61 1 435 984",
+      "quantity": 1,
+      "description": "Grommet",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 61 1 435 984",
+      "quantity": 1,
+      "description": "Grommet",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 61 1 437 519",
+      "quantity": 1,
+      "description": "Bracket",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 61 1 437 519",
+      "quantity": 1,
+      "description": "Bracket",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 13 8 368 029",
+      "quantity": 1,
+      "description": "Cable clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 13 8 368 029",
+      "quantity": 1,
+      "description": "Cable clamp",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

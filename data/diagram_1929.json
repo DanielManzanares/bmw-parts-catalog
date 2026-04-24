@@ -1,0 +1,37 @@
+{
+  "id": 1929,
+  "diagram_title": "Owner's handbook E28",
+  "image_url": "http://ills.bmwfans.info/3iqh.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1531,
+  "category_name": "Technical Literature",
+  "parts": [
+    {
+      "position_number": "7",
+      "part_number": "01 46 9 699 366",
+      "quantity": 1,
+      "description": "Owner's handbook E28",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 46 9 699 366",
+      "quantity": 1,
+      "description": "Owner's handbook E28",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 46 9 699 366",
+      "quantity": 1,
+      "description": "Owner's handbook E28",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

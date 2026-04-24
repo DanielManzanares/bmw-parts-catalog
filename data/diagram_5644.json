@@ -1,0 +1,45 @@
+{
+  "id": 5644,
+  "diagram_title": "Drive shaft (constant-velocity joint)",
+  "image_url": "http://ills.bmwfans.info/1xxt.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1636,
+  "category_name": "Drive Shaft",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "26 11 7 505 206",
+      "quantity": 1,
+      "description": "Manual drive shaft transmission",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "26 11 7 505 211",
+      "quantity": 1,
+      "description": "Manual drive shaft transmission",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "26 11 7 505 211",
+      "quantity": 1,
+      "description": "Manual drive shaft transmission",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "26 11 7 505 211",
+      "quantity": 1,
+      "description": "Manual drive shaft transmission",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

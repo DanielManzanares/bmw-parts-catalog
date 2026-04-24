@@ -1,0 +1,317 @@
+{
+  "id": 1521,
+  "diagram_title": "Fog lights",
+  "image_url": "http://ills.bmwfans.info/c43.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 184,
+  "category_name": "Lighting",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "63 17 1 375 057",
+      "quantity": 1,
+      "description": "Fog lights, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 17 1 375 058",
+      "quantity": 1,
+      "description": "Fog lights, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 17 1 375 063",
+      "quantity": 1,
+      "description": "Fog lights, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 17 1 375 064",
+      "quantity": 1,
+      "description": "Fog lights, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 17 1 375 057",
+      "quantity": 1,
+      "description": "Fog lights, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 17 1 375 058",
+      "quantity": 1,
+      "description": "Fog lights, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 17 1 375 063",
+      "quantity": 1,
+      "description": "Fog lights, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 17 1 375 064",
+      "quantity": 1,
+      "description": "Fog lights, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 17 1 375 067",
+      "quantity": 1,
+      "description": "Lamp lens left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 17 1 375 068",
+      "quantity": 1,
+      "description": "Lamp lens right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 17 1 375 071",
+      "quantity": 1,
+      "description": "Left yellow lamp lens",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 17 1 375 072",
+      "quantity": 1,
+      "description": "Right yellow lamp lens",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 17 1 375 067",
+      "quantity": 1,
+      "description": "Lamp lens left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 17 1 375 068",
+      "quantity": 1,
+      "description": "Lamp lens right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 17 1 375 071",
+      "quantity": 1,
+      "description": "Left yellow lamp lens",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 17 1 375 072",
+      "quantity": 1,
+      "description": "Right yellow lamp lens",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 17 1 375 051",
+      "quantity": 2,
+      "description": "Glass holding frame",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 17 1 375 051",
+      "quantity": 2,
+      "description": "Glass holding frame",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "63 17 1 367 315",
+      "quantity": 4,
+      "description": "Sheet metal screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 14 6 977 197",
+      "quantity": 4,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "4",
+      "part_number": "63 17 1 367 315",
+      "quantity": 4,
+      "description": "Sheet metal screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 14 6 977 197",
+      "quantity": 4,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34"
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 11 9 978 390",
+      "quantity": 2,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": "E21, E28, Z1"
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 50 9 064 001",
+      "quantity": 2,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": "E21, E28, E3, E30, E9, Z1"
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 50 9 064 001",
+      "quantity": 1,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": "E21, E28, E3, E30, E9, Z1"
+    },
+    {
+      "position_number": "5",
+      "part_number": "63 21 6 926 908",
+      "quantity": 1,
+      "description": "02",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "63 21 7 160 777",
+      "quantity": 1,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 11 9 978 390",
+      "quantity": 2,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": "E21, E28, Z1"
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 50 9 064 001",
+      "quantity": 2,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": "E21, E28, E3, E30, E9, Z1"
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 50 9 064 001",
+      "quantity": 1,
+      "description": "93",
+      "price_eur": null,
+      "compatible_models": "E21, E28, E3, E30, E9, Z1"
+    },
+    {
+      "position_number": "5",
+      "part_number": "63 21 6 926 908",
+      "quantity": 1,
+      "description": "02",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "63 21 7 160 777",
+      "quantity": 1,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 11 9 907 957",
+      "quantity": 2,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34, E36, E38, Z1"
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 11 9 907 957",
+      "quantity": 2,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E31, E32, E34, E36, E38, Z1"
+    },
+    {
+      "position_number": "7",
+      "part_number": "63 17 1 367 868",
+      "quantity": 4,
+      "description": "Expanding nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "63 17 1 367 868",
+      "quantity": 4,
+      "description": "Expanding nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 31 1 380 014",
+      "quantity": 1,
+      "description": "Diode relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 31 1 380 014",
+      "quantity": 1,
+      "description": "Diode relay",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

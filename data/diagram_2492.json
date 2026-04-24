@@ -1,0 +1,29 @@
+{
+  "id": 2492,
+  "diagram_title": "Ski holder",
+  "image_url": "http://ills.bmwfans.info/d92.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 12 9 401 208",
+      "quantity": 1,
+      "description": "Set ski holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 79 9 404 147",
+      "quantity": 1,
+      "description": "Ski holder",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "id": 1401,
+  "diagram_title": "Levell.device/regulating valve/att.parts",
+  "image_url": "http://ills.bmwfans.info/3dy.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 58,
+  "category_name": "Rear Axle",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "33 55 1 127 433",
+      "quantity": 1,
+      "description": "Stabilizer, rear",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 55 1 127 433",
+      "quantity": 1,
+      "description": "Stabilizer, rear",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "33 55 1 124 436",
+      "quantity": 2,
+      "description": "Stabilizer rubber mounting",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "33 55 1 129 225",
+      "quantity": 2,
+      "description": "Stabilizer rubber mounting",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "33 55 1 129 677",
+      "quantity": 2,
+      "description": "Stabilizer rubber mounting",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "2",
+      "part_number": "33 55 1 124 436",
+      "quantity": 2,
+      "description": "Stabilizer rubber mounting",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "33 55 1 129 225",
+      "quantity": 2,
+      "description": "Stabilizer rubber mounting",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "33 55 1 129 677",
+      "quantity": 2,
+      "description": "Stabilizer rubber mounting",
+      "price_eur": null,
+      "compatible_models": "E28, E30"
+    },
+    {
+      "position_number": "3",
+      "part_number": "33 55 1 129 195",
+      "quantity": 2,
+      "description": "Stabilizer support",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E31, E36, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "33 55 1 129 195",
+      "quantity": 2,
+      "description": "Stabilizer support",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E31, E36, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 933 096",
+      "quantity": 2,
+      "description": "Spring washer",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E9, NK, Z1"
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 933 096",
+      "quantity": 2,
+      "description": "Spring washer",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E9, NK, Z1"
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 11 9 913 612",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E70, E71, E81, E82, E85, E86, E87, E87 Facelift, E88, E9, E90, E91, E92, E92 Facelift, E93, NK, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 11 9 913 612",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E70, E71, E81, E82, E85, E86, E87, E87 Facelift, E88, E9, E90, E91, E92, E92 Facelift, E93, NK, Z1, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 55 1 126 932",
+      "quantity": 2,
+      "description": "Stabilizer link",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E36, Z1"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 55 1 124 375",
+      "quantity": 2,
+      "description": "Stabilizer link",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E36, Z1"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 55 1 126 932",
+      "quantity": 2,
+      "description": "Stabilizer link",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E36, Z1"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 55 1 124 375",
+      "quantity": 1,
+      "description": "Stabilizer link",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E36, Z1"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 12 9 946 400",
+      "quantity": 2,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E9, NK, Z1"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 12 9 905 767",
+      "quantity": 2,
+      "description": "87",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E9, NK, Z1"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 12 9 906 196",
+      "quantity": 2,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F46, F48, F80, F80 Facelift, F82, F83, F85, F86, F87, I01, I12, NK, Z1, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 12 9 946 400",
+      "quantity": 2,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E9, NK, Z1"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 12 9 905 767",
+      "quantity": 2,
+      "description": "87",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E9, NK, Z1"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 12 9 906 196",
+      "quantity": 2,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F45, F46, F48, F80, F80 Facelift, F82, F83, F85, F86, F87, I01, I12, NK, Z1, Z3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 11 9 905 549",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E39, E46, E53, E60, E61, E83, E9, NK, Z3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 11 9 905 549",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E39, E46, E53, E60, E61, E83, E9, NK, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "37 12 1 125 025",
+      "quantity": 1,
+      "description": "Lever",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "9",
+      "part_number": "37 12 1 125 025",
+      "quantity": 1,
+      "description": "Lever",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 11 9 903 791",
+      "quantity": 2,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "114, 700, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E85, E86, E89, E9, E90, E91, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F12, F13, I12, NK, V8, Z3"
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 11 9 903 791",
+      "quantity": 2,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "114, 700, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E85, E86, E89, E9, E90, E91, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F12, F13, I12, NK, V8, Z3"
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 12 9 922 705",
+      "quantity": 2,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E53, E9, Z1, Z3"
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 12 9 922 705",
+      "quantity": 2,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E53, E9, Z1, Z3"
+    },
+    {
+      "position_number": "13",
+      "part_number": "37 12 1 125 023",
+      "quantity": 1,
+      "description": "Thrust rod, straight",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "13",
+      "part_number": "37 12 1 131 591",
+      "quantity": 1,
+      "description": "Rod",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "13",
+      "part_number": "37 12 1 125 023",
+      "quantity": 1,
+      "description": "Thrust rod, straight",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "13",
+      "part_number": "37 12 1 131 591",
+      "quantity": 1,
+      "description": "Rod",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "14",
+      "part_number": "35 41 1 150 432",
+      "quantity": 2,
+      "description": "Bush",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28"
+    },
+    {
+      "position_number": "14",
+      "part_number": "23 41 7 650 149",
+      "quantity": 2,
+      "description": "Plastic bush",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28"
+    },
+    {
+      "position_number": "14",
+      "part_number": "35 41 1 150 432",
+      "quantity": 2,
+      "description": "Bush",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28"
+    },
+    {
+      "position_number": "14",
+      "part_number": "23 41 7 650 149",
+      "quantity": 2,
+      "description": "Plastic bush",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28"
+    }
+  ]
+}

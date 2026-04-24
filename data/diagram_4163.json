@@ -1,0 +1,77 @@
+{
+  "id": 4163,
+  "diagram_title": "Individual sets of decor strips",
+  "image_url": "http://ills.bmwfans.info/vt5.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1651,
+  "category_name": "Individual equipment",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 41 8 008 983",
+      "quantity": 1,
+      "description": "Set of decorative strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 8 009 016",
+      "quantity": 1,
+      "description": "Set of decorative strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 8 010 989",
+      "quantity": 1,
+      "description": "Set of decorative strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 8 011 001",
+      "quantity": 1,
+      "description": "Set of decorative strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 8 011 013",
+      "quantity": 1,
+      "description": "Set of decorative strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 8 023 508",
+      "quantity": 1,
+      "description": "Set of decorative strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 8 020 156",
+      "quantity": 1,
+      "description": "Set of decorative strips",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 41 0 152 024",
+      "quantity": 1,
+      "description": "Set of decorative strips",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,692 @@
+[
+  {
+    "id": 5942,
+    "diagram_title": "BMW Composite wheel, cross spoke 78",
+    "image_url": "http://ills.bmwfans.info/1jb6.png",
+    "parts_count": 14
+  },
+  {
+    "id": 5999,
+    "diagram_title": "BMW LA Individual wheel V-spoke 152",
+    "image_url": "http://ills.bmwfans.info/2ukh.png",
+    "parts_count": 11
+  },
+  {
+    "id": 5911,
+    "diagram_title": "BMW LA wheel, V spoke 54",
+    "image_url": "http://ills.bmwfans.info/syr.png",
+    "parts_count": 9
+  },
+  {
+    "id": 5930,
+    "diagram_title": "BMW LA wheel, V spoke 72",
+    "image_url": "http://ills.bmwfans.info/12l0.png",
+    "parts_count": 12
+  },
+  {
+    "id": 5946,
+    "diagram_title": "BMW LA wheel, double spoke 79",
+    "image_url": "http://ills.bmwfans.info/1neg.png",
+    "parts_count": 9
+  },
+  {
+    "id": 5955,
+    "diagram_title": "BMW LA wheel, double spoke 88",
+    "image_url": "http://ills.bmwfans.info/1su7.png",
+    "parts_count": 9
+  },
+  {
+    "id": 5970,
+    "diagram_title": "BMW LA wheel, double spoke 98",
+    "image_url": "http://ills.bmwfans.info/1y5v.png",
+    "parts_count": 9
+  },
+  {
+    "id": 5948,
+    "diagram_title": "BMW LA wheel, parallel spoke 85",
+    "image_url": "http://ills.bmwfans.info/18fm.png",
+    "parts_count": 11
+  },
+  {
+    "id": 5934,
+    "diagram_title": "BMW LA wheel, radial spoke 73",
+    "image_url": "http://ills.bmwfans.info/12un.png",
+    "parts_count": 9
+  },
+  {
+    "id": 5977,
+    "diagram_title": "BMW LA wheel, star spoke 119",
+    "image_url": "http://ills.bmwfans.info/2nh2.png",
+    "parts_count": 9
+  },
+  {
+    "id": 5959,
+    "diagram_title": "BMW LA wheel, star spoke 89",
+    "image_url": "http://ills.bmwfans.info/1syn.png",
+    "parts_count": 10
+  },
+  {
+    "id": 5963,
+    "diagram_title": "BMW LA wheel, star spoke 96",
+    "image_url": "http://ills.bmwfans.info/1u0r.png",
+    "parts_count": 10
+  },
+  {
+    "id": 5981,
+    "diagram_title": "BMW LA wheel/double spoke 125",
+    "image_url": "http://ills.bmwfans.info/2dwl.png",
+    "parts_count": 10
+  },
+  {
+    "id": 6017,
+    "diagram_title": "BMW Performance LA wheel/double spoke269",
+    "image_url": "http://ills.bmwfans.info/35yc.png",
+    "parts_count": 11
+  },
+  {
+    "id": 5989,
+    "diagram_title": "BMW alloy wheel, M double spoke 135",
+    "image_url": "http://ills.bmwfans.info/2nha.png",
+    "parts_count": 13
+  },
+  {
+    "id": 5922,
+    "diagram_title": "BMW alloy wheel, M double spoke 68",
+    "image_url": "http://ills.bmwfans.info/12jb.png",
+    "parts_count": 12
+  },
+  {
+    "id": 5967,
+    "diagram_title": "BMW alloy wheel, M double spoke 97",
+    "image_url": "http://ills.bmwfans.info/22b8.png",
+    "parts_count": 12
+  },
+  {
+    "id": 5926,
+    "diagram_title": "BMW composite wheel, double spoke 71",
+    "image_url": "http://ills.bmwfans.info/u5f.png",
+    "parts_count": 21
+  },
+  {
+    "id": 5952,
+    "diagram_title": "BMW composite wheel, radial spoke 86",
+    "image_url": "http://ills.bmwfans.info/1s4x.png",
+    "parts_count": 10
+  },
+  {
+    "id": 5974,
+    "diagram_title": "BMW compound wheel M cross spoke 101",
+    "image_url": "http://ills.bmwfans.info/224d.png",
+    "parts_count": 14
+  },
+  {
+    "id": 5880,
+    "diagram_title": "BMW l-alloy wheel, cross spoke comp.II 42",
+    "image_url": "http://ills.bmwfans.info/3te.png",
+    "parts_count": 14
+  },
+  {
+    "id": 5985,
+    "diagram_title": "BMW light alloy wheel, cross spoke 133",
+    "image_url": "http://ills.bmwfans.info/2dwz.png",
+    "parts_count": 13
+  },
+  {
+    "id": 5876,
+    "diagram_title": "BMW light alloy wheel, cross spoke 42",
+    "image_url": "http://ills.bmwfans.info/el3.png",
+    "parts_count": 10
+  },
+  {
+    "id": 5938,
+    "diagram_title": "BMW light alloy wheel, cross spoke 78",
+    "image_url": "http://ills.bmwfans.info/1jb7.png",
+    "parts_count": 9
+  },
+  {
+    "id": 5898,
+    "diagram_title": "BMW light alloy wheel, double spoke 47",
+    "image_url": "http://ills.bmwfans.info/el2.png",
+    "parts_count": 13
+  },
+  {
+    "id": 5906,
+    "diagram_title": "BMW light alloy wheel, double spoke 51",
+    "image_url": "http://ills.bmwfans.info/hww.png",
+    "parts_count": 10
+  },
+  {
+    "id": 5894,
+    "diagram_title": "BMW light alloy wheel, ellips. styl. 46",
+    "image_url": "http://ills.bmwfans.info/hbn.png",
+    "parts_count": 9
+  },
+  {
+    "id": 5902,
+    "diagram_title": "BMW light alloy wheel, radial spoke 50",
+    "image_url": "http://ills.bmwfans.info/hwv.png",
+    "parts_count": 14
+  },
+  {
+    "id": 5992,
+    "diagram_title": "BMW light alloy wheel, spider spoke 136",
+    "image_url": "http://ills.bmwfans.info/2nhc.png",
+    "parts_count": 9
+  },
+  {
+    "id": 5995,
+    "diagram_title": "BMW light alloy wheel, spider spoke 137",
+    "image_url": "http://ills.bmwfans.info/2nh3.png",
+    "parts_count": 9
+  },
+  {
+    "id": 6003,
+    "diagram_title": "BMW light alloy wheel, star spoke 169",
+    "image_url": "http://ills.bmwfans.info/2vgs.png",
+    "parts_count": 7
+  },
+  {
+    "id": 6006,
+    "diagram_title": "BMW light alloy wheel, star spoke 170",
+    "image_url": "http://ills.bmwfans.info/2vrh.png",
+    "parts_count": 7
+  },
+  {
+    "id": 6010,
+    "diagram_title": "BMW light alloy wheel, star spoke 171",
+    "image_url": "http://ills.bmwfans.info/2vri.png",
+    "parts_count": 7
+  },
+  {
+    "id": 5915,
+    "diagram_title": "BMW light alloy wheel, star spoke 55",
+    "image_url": "http://ills.bmwfans.info/wz9.png",
+    "parts_count": 9
+  },
+  {
+    "id": 5918,
+    "diagram_title": "BMW light alloy wheel, star spoke 64",
+    "image_url": "http://ills.bmwfans.info/tv7.png",
+    "parts_count": 10
+  },
+  {
+    "id": 5883,
+    "diagram_title": "BMW light-alloy wheel star spokes 43",
+    "image_url": "http://ills.bmwfans.info/f4h.png",
+    "parts_count": 10
+  },
+  {
+    "id": 5887,
+    "diagram_title": "BMW light-alloy wheel star spokes 44",
+    "image_url": "http://ills.bmwfans.info/f4l.png",
+    "parts_count": 10
+  },
+  {
+    "id": 5890,
+    "diagram_title": "BMW light-alloy wheel star spokes 45",
+    "image_url": "http://ills.bmwfans.info/f44.png",
+    "parts_count": 10
+  },
+  {
+    "id": 6021,
+    "diagram_title": "Balance weight, lead",
+    "image_url": "http://ills.bmwfans.info/3rd.png",
+    "parts_count": 14
+  },
+  {
+    "id": 6024,
+    "diagram_title": "Balance weight, lead",
+    "image_url": "http://ills.bmwfans.info/19zv.png",
+    "parts_count": 14
+  },
+  {
+    "id": 6028,
+    "diagram_title": "Balance weight, zinc",
+    "image_url": "http://ills.bmwfans.info/2x25.png",
+    "parts_count": 32
+  },
+  {
+    "id": 5865,
+    "diagram_title": "Classic-styling (styl.25)",
+    "image_url": "http://ills.bmwfans.info/3tl.png",
+    "parts_count": 9
+  },
+  {
+    "id": 5869,
+    "diagram_title": "Double-spoke styling (styl.30)",
+    "image_url": "http://ills.bmwfans.info/3t6.png",
+    "parts_count": 10
+  },
+  {
+    "id": 5871,
+    "diagram_title": "Radial styling (styl.32)",
+    "image_url": "http://ills.bmwfans.info/3ue.png",
+    "parts_count": 14
+  },
+  {
+    "id": 5861,
+    "diagram_title": "Round-spoke styling (styl.18)",
+    "image_url": "http://ills.bmwfans.info/3u3.png",
+    "parts_count": 11
+  },
+  {
+    "id": 6037,
+    "diagram_title": "Set wheel locks",
+    "image_url": "http://ills.bmwfans.info/3i97.png",
+    "parts_count": 1
+  },
+  {
+    "id": 6040,
+    "diagram_title": "Set wheel locks",
+    "image_url": "http://ills.bmwfans.info/3i97.png",
+    "parts_count": 1
+  },
+  {
+    "id": 5849,
+    "diagram_title": "Steel rim styl.12",
+    "image_url": "http://ills.bmwfans.info/1s55.png",
+    "parts_count": 10
+  },
+  {
+    "id": 5853,
+    "diagram_title": "Steel rim styl.12",
+    "image_url": "http://ills.bmwfans.info/1xiu.png",
+    "parts_count": 11
+  },
+  {
+    "id": 5857,
+    "diagram_title": "Steel rim styl.12",
+    "image_url": "http://ills.bmwfans.info/1s55.png",
+    "parts_count": 10
+  },
+  {
+    "id": 6014,
+    "diagram_title": "Tire pressure control (RDC) — ctrl unit",
+    "image_url": "http://ills.bmwfans.info/1vrd.png",
+    "parts_count": 18
+  },
+  {
+    "id": 6031,
+    "diagram_title": "Wheel bolt lock with adaptor",
+    "image_url": "http://ills.bmwfans.info/3r5.png",
+    "parts_count": 41
+  },
+  {
+    "id": 6033,
+    "diagram_title": "Wheel bolt lock with adaptor",
+    "image_url": "http://ills.bmwfans.info/2rth.png",
+    "parts_count": 4
+  },
+  {
+    "id": 5874,
+    "diagram_title": "Z-star (styl.35)",
+    "image_url": "http://ills.bmwfans.info/3tx.png",
+    "parts_count": 7
+  },
+  {
+    "id": 723,
+    "diagram_title": "alloy_rim_styl_12",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_alloy_rim_styl_12.png",
+    "parts_count": 11
+  },
+  {
+    "id": 775,
+    "diagram_title": "balance_weight_lead",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_balance_weight_lead.png",
+    "parts_count": 14
+  },
+  {
+    "id": 776,
+    "diagram_title": "balance_weight_lead_2",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_balance_weight_lead_2.png",
+    "parts_count": 14
+  },
+  {
+    "id": 780,
+    "diagram_title": "balance_weight_zinc",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_balance_weight_zinc.png",
+    "parts_count": 32
+  },
+  {
+    "id": 770,
+    "diagram_title": "bmw_alloy_wheel_m_double_spoke_135",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_alloy_wheel_m_double_spoke_135.png",
+    "parts_count": 13
+  },
+  {
+    "id": 750,
+    "diagram_title": "bmw_alloy_wheel_m_double_spoke_68",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_alloy_wheel_m_double_spoke_68.png",
+    "parts_count": 12
+  },
+  {
+    "id": 763,
+    "diagram_title": "bmw_alloy_wheel_m_double_spoke_97",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_alloy_wheel_m_double_spoke_97.png",
+    "parts_count": 12
+  },
+  {
+    "id": 758,
+    "diagram_title": "bmw_composite_wheel_cross_spoke_78",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_composite_wheel_cross_spoke_78.png",
+    "parts_count": 14
+  },
+  {
+    "id": 752,
+    "diagram_title": "bmw_composite_wheel_double_spoke_71",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_composite_wheel_double_spoke_71.png",
+    "parts_count": 21
+  },
+  {
+    "id": 756,
+    "diagram_title": "bmw_composite_wheel_radial_spoke_86",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_composite_wheel_radial_spoke_86.png",
+    "parts_count": 10
+  },
+  {
+    "id": 765,
+    "diagram_title": "bmw_compound_wheel_m_cross_spoke_101",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_compound_wheel_m_cross_spoke_101.png",
+    "parts_count": 14
+  },
+  {
+    "id": 738,
+    "diagram_title": "bmw_l_alloy_wheel_cross_spoke_comp_ii_42",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_l_alloy_wheel_cross_spoke_comp_ii_42.png",
+    "parts_count": 14
+  },
+  {
+    "id": 771,
+    "diagram_title": "bmw_la_individual_wheel_v_spoke_152",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_la_individual_wheel_v_spoke_152.png",
+    "parts_count": 11
+  },
+  {
+    "id": 767,
+    "diagram_title": "bmw_la_wheel_double_spoke_125",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_la_wheel_double_spoke_125.png",
+    "parts_count": 10
+  },
+  {
+    "id": 757,
+    "diagram_title": "bmw_la_wheel_double_spoke_79",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_la_wheel_double_spoke_79.png",
+    "parts_count": 9
+  },
+  {
+    "id": 759,
+    "diagram_title": "bmw_la_wheel_double_spoke_88",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_la_wheel_double_spoke_88.png",
+    "parts_count": 9
+  },
+  {
+    "id": 762,
+    "diagram_title": "bmw_la_wheel_double_spoke_98",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_la_wheel_double_spoke_98.png",
+    "parts_count": 9
+  },
+  {
+    "id": 755,
+    "diagram_title": "bmw_la_wheel_parallel_spoke_85",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_la_wheel_parallel_spoke_85.png",
+    "parts_count": 11
+  },
+  {
+    "id": 753,
+    "diagram_title": "bmw_la_wheel_radial_spoke_73",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_la_wheel_radial_spoke_73.png",
+    "parts_count": 9
+  },
+  {
+    "id": 764,
+    "diagram_title": "bmw_la_wheel_star_spoke_119",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_la_wheel_star_spoke_119.png",
+    "parts_count": 9
+  },
+  {
+    "id": 760,
+    "diagram_title": "bmw_la_wheel_star_spoke_89",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_la_wheel_star_spoke_89.png",
+    "parts_count": 10
+  },
+  {
+    "id": 761,
+    "diagram_title": "bmw_la_wheel_star_spoke_96",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_la_wheel_star_spoke_96.png",
+    "parts_count": 10
+  },
+  {
+    "id": 746,
+    "diagram_title": "bmw_la_wheel_v_spoke_54",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_la_wheel_v_spoke_54.png",
+    "parts_count": 10
+  },
+  {
+    "id": 751,
+    "diagram_title": "bmw_la_wheel_v_spoke_72",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_la_wheel_v_spoke_72.png",
+    "parts_count": 12
+  },
+  {
+    "id": 766,
+    "diagram_title": "bmw_light_alloy_wheel_cross_spoke_133",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_light_alloy_wheel_cross_spoke_133.png",
+    "parts_count": 13
+  },
+  {
+    "id": 733,
+    "diagram_title": "bmw_light_alloy_wheel_cross_spoke_29",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_light_alloy_wheel_cross_spoke_29.png",
+    "parts_count": 11
+  },
+  {
+    "id": 737,
+    "diagram_title": "bmw_light_alloy_wheel_cross_spoke_42",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_light_alloy_wheel_cross_spoke_42.png",
+    "parts_count": 12
+  },
+  {
+    "id": 754,
+    "diagram_title": "bmw_light_alloy_wheel_cross_spoke_78",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_light_alloy_wheel_cross_spoke_78.png",
+    "parts_count": 9
+  },
+  {
+    "id": 743,
+    "diagram_title": "bmw_light_alloy_wheel_double_spoke_47",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_light_alloy_wheel_double_spoke_47.png",
+    "parts_count": 13
+  },
+  {
+    "id": 745,
+    "diagram_title": "bmw_light_alloy_wheel_double_spoke_51",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_light_alloy_wheel_double_spoke_51.png",
+    "parts_count": 10
+  },
+  {
+    "id": 747,
+    "diagram_title": "bmw_light_alloy_wheel_double_spoke_53",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_light_alloy_wheel_double_spoke_53.png",
+    "parts_count": 9
+  },
+  {
+    "id": 741,
+    "diagram_title": "bmw_light_alloy_wheel_ellips_styl_46",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_light_alloy_wheel_ellips_styl_46.png",
+    "parts_count": 10
+  },
+  {
+    "id": 744,
+    "diagram_title": "bmw_light_alloy_wheel_radial_spoke_50",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_light_alloy_wheel_radial_spoke_50.png",
+    "parts_count": 14
+  },
+  {
+    "id": 768,
+    "diagram_title": "bmw_light_alloy_wheel_spider_spoke_136",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_light_alloy_wheel_spider_spoke_136.png",
+    "parts_count": 9
+  },
+  {
+    "id": 769,
+    "diagram_title": "bmw_light_alloy_wheel_spider_spoke_137",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_light_alloy_wheel_spider_spoke_137.png",
+    "parts_count": 9
+  },
+  {
+    "id": 772,
+    "diagram_title": "bmw_light_alloy_wheel_star_spoke_169",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_light_alloy_wheel_star_spoke_169.png",
+    "parts_count": 7
+  },
+  {
+    "id": 773,
+    "diagram_title": "bmw_light_alloy_wheel_star_spoke_170",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_light_alloy_wheel_star_spoke_170.png",
+    "parts_count": 7
+  },
+  {
+    "id": 774,
+    "diagram_title": "bmw_light_alloy_wheel_star_spoke_171",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_light_alloy_wheel_star_spoke_171.png",
+    "parts_count": 7
+  },
+  {
+    "id": 748,
+    "diagram_title": "bmw_light_alloy_wheel_star_spoke_55",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_light_alloy_wheel_star_spoke_55.png",
+    "parts_count": 9
+  },
+  {
+    "id": 749,
+    "diagram_title": "bmw_light_alloy_wheel_star_spoke_64",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_light_alloy_wheel_star_spoke_64.png",
+    "parts_count": 10
+  },
+  {
+    "id": 739,
+    "diagram_title": "bmw_light_alloy_wheel_star_spokes_43",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_light_alloy_wheel_star_spokes_43.png",
+    "parts_count": 10
+  },
+  {
+    "id": 740,
+    "diagram_title": "bmw_light_alloy_wheel_star_spokes_44",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_light_alloy_wheel_star_spokes_44.png",
+    "parts_count": 10
+  },
+  {
+    "id": 742,
+    "diagram_title": "bmw_light_alloy_wheel_star_spokes_45",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_light_alloy_wheel_star_spokes_45.png",
+    "parts_count": 10
+  },
+  {
+    "id": 777,
+    "diagram_title": "bmw_performance_la_wheel_double_spoke269",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_performance_la_wheel_double_spoke269.png",
+    "parts_count": 11
+  },
+  {
+    "id": 730,
+    "diagram_title": "bmw_styling_styl_28",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_bmw_styling_styl_28.png",
+    "parts_count": 11
+  },
+  {
+    "id": 728,
+    "diagram_title": "classic_styling_styl_25",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_classic_styling_styl_25.png",
+    "parts_count": 9
+  },
+  {
+    "id": 735,
+    "diagram_title": "double_spoke_styling_styl_30",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_double_spoke_styling_styl_30.png",
+    "parts_count": 10
+  },
+  {
+    "id": 731,
+    "diagram_title": "radial_styling_styl_32",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_radial_styling_styl_32.png",
+    "parts_count": 19
+  },
+  {
+    "id": 727,
+    "diagram_title": "round_spoke_styling_styl_18",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_round_spoke_styling_styl_18.png",
+    "parts_count": 14
+  },
+  {
+    "id": 784,
+    "diagram_title": "set_wheel_locks",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_set_wheel_locks.png",
+    "parts_count": 1
+  },
+  {
+    "id": 782,
+    "diagram_title": "set_wheel_locks_2",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_set_wheel_locks_2.png",
+    "parts_count": 1
+  },
+  {
+    "id": 729,
+    "diagram_title": "sports_spoke_styling_ii_styl_27",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_sports_spoke_styling_ii_styl_27.png",
+    "parts_count": 8
+  },
+  {
+    "id": 724,
+    "diagram_title": "star_spoke_styling_styl_10",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_star_spoke_styling_styl_10.png",
+    "parts_count": 9
+  },
+  {
+    "id": 725,
+    "diagram_title": "steel_rim_styl_12",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_steel_rim_styl_12.png",
+    "parts_count": 13
+  },
+  {
+    "id": 726,
+    "diagram_title": "steel_rim_styl_12_2",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_steel_rim_styl_12_2.png",
+    "parts_count": 10
+  },
+  {
+    "id": 736,
+    "diagram_title": "streamline_styling_styl_41",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_streamline_styling_styl_41.png",
+    "parts_count": 7
+  },
+  {
+    "id": 778,
+    "diagram_title": "tire_pressure_control_rdc_ctrl_unit",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_tire_pressure_control_rdc_ctrl_unit.png",
+    "parts_count": 19
+  },
+  {
+    "id": 781,
+    "diagram_title": "wheel_bolt_lock_with_adaptor",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_wheel_bolt_lock_with_adaptor.png",
+    "parts_count": 41
+  },
+  {
+    "id": 779,
+    "diagram_title": "wheel_bolt_lock_with_adaptor_2",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_wheel_bolt_lock_with_adaptor_2.png",
+    "parts_count": 4
+  },
+  {
+    "id": 734,
+    "diagram_title": "z_line_styl_36",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_z_line_styl_36.png",
+    "parts_count": 7
+  },
+  {
+    "id": 732,
+    "diagram_title": "z_star_styl_35",
+    "image_url": "/static/images/diagrams/E46_318i-N42_wheels_z_star_styl_35.png",
+    "parts_count": 7
+  }
+]

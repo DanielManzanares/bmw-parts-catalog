@@ -1,0 +1,205 @@
+{
+  "id": 3184,
+  "diagram_title": "Sun visors",
+  "image_url": "http://ills.bmwfans.info/b3c.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 173 475",
+      "quantity": 1,
+      "description": "Left illuminated sun visor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 237 119",
+      "quantity": 1,
+      "description": "Left illuminated sun visor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 237 115",
+      "quantity": 1,
+      "description": "Left illuminated sun visor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 237 116",
+      "quantity": 1,
+      "description": "Left illuminated sun visor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 237 120",
+      "quantity": 1,
+      "description": "Left illuminated sun visor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 237 121",
+      "quantity": 1,
+      "description": "Left illuminated sun visor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 237 122",
+      "quantity": 1,
+      "description": "Left illuminated sun visor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 2 258 295",
+      "quantity": 1,
+      "description": "Left illuminated sun visor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 173 471",
+      "quantity": 1,
+      "description": "Left illuminated sun visor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 173 473",
+      "quantity": 1,
+      "description": "Left illuminated sun visor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 173 472",
+      "quantity": 1,
+      "description": "Left illuminated sun visor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 237 115",
+      "quantity": 1,
+      "description": "Left illuminated sun visor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 237 116",
+      "quantity": 1,
+      "description": "Left illuminated sun visor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 237 115",
+      "quantity": 1,
+      "description": "Left illuminated sun visor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 237 116",
+      "quantity": 1,
+      "description": "Left illuminated sun visor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 243 574",
+      "quantity": 2,
+      "description": "Sun visor bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 246 075",
+      "quantity": 2,
+      "description": "Sun visor bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 243 576",
+      "quantity": 1,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 243 574",
+      "quantity": 1,
+      "description": "Sun visor bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 246 075",
+      "quantity": 1,
+      "description": "Sun visor bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 1 927 476",
+      "quantity": 1,
+      "description": "Sun visor bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 219 048",
+      "quantity": 1,
+      "description": "Sun visor bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 219 049",
+      "quantity": 1,
+      "description": "Sun visor bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 902 483",
+      "quantity": 4,
+      "description": "Recessed oval head sheet-metal screw",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

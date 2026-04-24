@@ -1,0 +1,77 @@
+{
+  "id": 2152,
+  "diagram_title": "Retrofit, M outside mirror",
+  "image_url": "http://ills.bmwfans.info/d5a.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 2 253 827",
+      "quantity": 1,
+      "description": "Left primed el.exterior heatable mirror",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 2 253 828",
+      "quantity": 1,
+      "description": "Left primed el.exterior heatable mirror",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 9 066 225",
+      "quantity": 1,
+      "description": "Left primed el.exterior heatable mirror",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 9 066 226",
+      "quantity": 1,
+      "description": "Left primed el.exterior heatable mirror",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 9 066 227",
+      "quantity": 1,
+      "description": "Left primed el.exterior heatable mirror",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 9 066 228",
+      "quantity": 1,
+      "description": "Left primed el.exterior heatable mirror",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 2 267 191",
+      "quantity": 1,
+      "description": "Mirror glas heated (drivers side)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 2 267 224",
+      "quantity": 1,
+      "description": "Mirror glas heated (drivers side)",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

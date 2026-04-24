@@ -1,0 +1,21 @@
+{
+  "id": 3467,
+  "diagram_title": "Relay for starter lockout K6324",
+  "image_url": "http://ills.bmwfans.info/ev1q.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 36 8 373 700",
+      "quantity": 1,
+      "description": "Relay",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

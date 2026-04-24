@@ -1,0 +1,37 @@
+{
+  "id": 5484,
+  "diagram_title": "Exhaust system, rear",
+  "image_url": "http://ills.bmwfans.info/1zjm.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 40,
+  "category_name": "Exhaust System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "18 10 0 026 767",
+      "quantity": 1,
+      "description": "Sports rear silencer",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "18 10 1 439 722",
+      "quantity": 2,
+      "description": "Clamping bush",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E46, E53, E83, E83 Facelift"
+    },
+    {
+      "position_number": "2",
+      "part_number": "18 30 7 560 777",
+      "quantity": 2,
+      "description": "Clamping bush",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E65, E66, E83, E83 Facelift, E85, E86, F25, F45, F46, F48, Z3"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": 4131,
+  "diagram_title": "Repair kits, shock absorber rear",
+  "image_url": "http://ills.bmwfans.info/byqo.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1650,
+  "category_name": "Inspection kits",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "33 50 2 290 318",
+      "quantity": 2,
+      "description": "Repair kit, additional damper guard tube",
+      "price_eur": null,
+      "compatible_models": "E36, E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 53 1 091 640",
+      "quantity": 1,
+      "description": "Auxiliary damper, rear, with guard tube",
+      "price_eur": null,
+      "compatible_models": "E36, E46"
+    },
+    {
+      "position_number": "1",
+      "part_number": "33 50 2 290 348",
+      "quantity": 1,
+      "description": "Repair kit, additional damper guard tube",
+      "price_eur": null,
+      "compatible_models": "E36, E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "33 52 2 241 450",
+      "quantity": 2,
+      "description": "Repair kit for support bearing",
+      "price_eur": null,
+      "compatible_models": "E46"
+    }
+  ]
+}

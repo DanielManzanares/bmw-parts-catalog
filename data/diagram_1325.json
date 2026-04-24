@@ -1,0 +1,189 @@
+{
+  "id": 1325,
+  "diagram_title": "rear_light_in_the_side_panel",
+  "image_url": "/static/images/diagrams/E46_330Ci-M54_lighting_rear_light_in_the_side_panel.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 184,
+  "category_name": "Lighting",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "63 21 8 364 725",
+      "quantity": 1,
+      "description": "Rear light in the side panel, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 21 8 364 726",
+      "quantity": 1,
+      "description": "Rear light in the side panel, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 21 8 383 825",
+      "quantity": 1,
+      "description": "Rear light in the side panel, white left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 21 8 383 826",
+      "quantity": 1,
+      "description": "Rear light in the side panel, white right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 21 8 383 898",
+      "quantity": 2,
+      "description": "Tail light gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 21 8 364 729",
+      "quantity": 1,
+      "description": "Bulb socket, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 21 8 364 730",
+      "quantity": 1,
+      "description": "Bulb socket, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 21 8 383 827",
+      "quantity": 1,
+      "description": "Left bulb carrier f white turn indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 21 8 383 828",
+      "quantity": 1,
+      "description": "Rght bulb carrier f white turn indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "63 21 7 160 792",
+      "quantity": 2,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "63 21 7 160 789",
+      "quantity": 4,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "63 21 6 926 920",
+      "quantity": 4,
+      "description": "Longlife bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "63 21 7 160 790",
+      "quantity": 4,
+      "description": "04",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 21 7 160 789",
+      "quantity": 2,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 21 6 926 920",
+      "quantity": 2,
+      "description": "Longlife bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 21 7 160 790",
+      "quantity": 2,
+      "description": "04",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 21 7 160 791",
+      "quantity": 2,
+      "description": "Bulb yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 14 9 156 628",
+      "quantity": 6,
+      "description": "Hex nut with plate",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E85, E86, F06, F10, F10 Facelift, F11, F12, F13, F25, F26, Z1, Z3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 71 8 102 827",
+      "quantity": 2,
+      "description": "Protective adhesive film",
+      "price_eur": null,
+      "compatible_models": "E23, E46, E81, E82, E87, E87 Facelift, E88, E89"
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 21 6 933 017",
+      "quantity": 1,
+      "description": "Covering left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 21 6 933 018",
+      "quantity": 1,
+      "description": "Covering right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 31 1 925 433",
+      "quantity": 2,
+      "description": "Rubber buffer",
+      "price_eur": null,
+      "compatible_models": "E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E83, E83 Facelift, E84, E86, E87, E87 Facelift, E89, F10, F11, F15, F16, F18, F25, F26, F85, F86, Z1, Z3"
+    }
+  ]
+}

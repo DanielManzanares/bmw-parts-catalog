@@ -1,0 +1,61 @@
+{
+  "id": 3302,
+  "diagram_title": "Partition trunk",
+  "image_url": "http://ills.bmwfans.info/2slq.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "41 13 8 233 488",
+      "quantity": 1,
+      "description": "Partition trunk",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "41 13 8 233 489",
+      "quantity": 1,
+      "description": "Trunk partition for through-loading",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "41 12 8 240 628",
+      "quantity": 1,
+      "description": "Centre backrest bearing bracket",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "11",
+      "part_number": "41 11 8 240 141",
+      "quantity": 1,
+      "description": "Bracket backrest outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "41 11 8 240 142",
+      "quantity": 1,
+      "description": "Bracket backrest outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "24",
+      "part_number": "41 12 3 405 031",
+      "quantity": 1,
+      "description": "Bracket for propel. shaft center bearing",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

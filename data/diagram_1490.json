@@ -1,0 +1,221 @@
+{
+  "id": 1490,
+  "diagram_title": "Bmw sportseat seat rail",
+  "image_url": "http://ills.bmwfans.info/b6a.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 927 503",
+      "quantity": 1,
+      "description": "Seat rail outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 927 504",
+      "quantity": 1,
+      "description": "Seat rail outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 927 503",
+      "quantity": 1,
+      "description": "Seat rail outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 927 504",
+      "quantity": 1,
+      "description": "Seat rail outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 927 501",
+      "quantity": 1,
+      "description": "Seat rail inner left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 927 502",
+      "quantity": 1,
+      "description": "Seat rail inner right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 927 501",
+      "quantity": 1,
+      "description": "Seat rail inner left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 927 502",
+      "quantity": 1,
+      "description": "Seat rail inner right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 1 906 410",
+      "quantity": 2,
+      "description": "Connection rod, seat catch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 10 1 906 410",
+      "quantity": 2,
+      "description": "Connection rod, seat catch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 913 916",
+      "quantity": 8,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 913 916",
+      "quantity": 8,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 1 916 609",
+      "quantity": 3,
+      "description": "Spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 1 916 609",
+      "quantity": 3,
+      "description": "Spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "52 10 1 916 610",
+      "quantity": 1,
+      "description": "Spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "52 10 1 916 610",
+      "quantity": 1,
+      "description": "Spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "52 10 1 916 607",
+      "quantity": 1,
+      "description": "Spring left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "52 10 1 916 608",
+      "quantity": 1,
+      "description": "Spring right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "52 10 1 916 607",
+      "quantity": 1,
+      "description": "Spring left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "52 10 1 916 608",
+      "quantity": 1,
+      "description": "Spring right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "52 10 1 903 872",
+      "quantity": 2,
+      "description": "Grommet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "52 10 1 903 872",
+      "quantity": 2,
+      "description": "Grommet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "52 10 1 903 871",
+      "quantity": 2,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "52 10 1 903 871",
+      "quantity": 2,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "52 10 1 934 417",
+      "quantity": 2,
+      "description": "Handle",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "52 10 1 934 417",
+      "quantity": 2,
+      "description": "Handle",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

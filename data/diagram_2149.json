@@ -1,0 +1,29 @@
+{
+  "id": 2149,
+  "diagram_title": "Edge protection/coverings rockers",
+  "image_url": "http://ills.bmwfans.info/axi.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 72 1 904 328",
+      "quantity": 2,
+      "description": "Edge protection",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 72 1 904 327",
+      "quantity": 2,
+      "description": "Edge protection",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

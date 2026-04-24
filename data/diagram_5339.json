@@ -1,0 +1,29 @@
+{
+  "id": 5339,
+  "diagram_title": "Belt Drive Water Pump/Alternator",
+  "image_url": "http://ills.bmwfans.info/1su3.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1,
+  "category_name": "Engine",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "11 28 7 524 267",
+      "quantity": 1,
+      "description": "Mechanical belt tensioner",
+      "price_eur": null,
+      "compatible_models": "E46, E60 Facelift, E81, E82, E83, E83 Facelift, E84, E85, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 28 7 631 811",
+      "quantity": 1,
+      "description": "Ribbed v-belt",
+      "price_eur": null,
+      "compatible_models": "E46, E81, E82, E85, E87, E87 Facelift, E88"
+    }
+  ]
+}

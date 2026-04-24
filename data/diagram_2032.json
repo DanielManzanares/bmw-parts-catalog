@@ -1,0 +1,21 @@
+{
+  "id": 2032,
+  "diagram_title": "Hood",
+  "image_url": "http://ills.bmwfans.info/a17.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "24",
+      "part_number": "51 23 1 889 011",
+      "quantity": 1,
+      "description": "Sealing",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

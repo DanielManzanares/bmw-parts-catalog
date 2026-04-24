@@ -1,0 +1,29 @@
+{
+  "id": 7270,
+  "diagram_title": "Single parts, SA 633, center console",
+  "image_url": "http://ills.bmwfans.info/2fxs.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1648,
+  "category_name": "Communication systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "84 10 9 168 940",
+      "quantity": 1,
+      "description": "Eject box, mobile telephone",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "84 21 6 924 064",
+      "quantity": 1,
+      "description": "Oddments tray, telephone",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

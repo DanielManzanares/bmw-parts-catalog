@@ -1,0 +1,93 @@
+{
+  "id": 3976,
+  "diagram_title": "Outflow nozzles/covers",
+  "image_url": "http://ills.bmwfans.info/2i1h.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 22 8 361 895",
+      "quantity": 1,
+      "description": "Fresh air grille center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "64 22 8 363 199",
+      "quantity": 1,
+      "description": "Fresh air grille center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 11 8 370 992",
+      "quantity": 1,
+      "description": "Fresh air bowden cable",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 22 8 361 897",
+      "quantity": 1,
+      "description": "Fresh air grille, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 22 8 361 898",
+      "quantity": 1,
+      "description": "Fresh air grille, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "64 22 8 213 659",
+      "quantity": 1,
+      "description": "Covering defroster nozzle left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "64 22 8 213 660",
+      "quantity": 1,
+      "description": "Covering defroster nozzle left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 45 8 268 560",
+      "quantity": 1,
+      "description": "Repair kit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 11 9 904 175",
+      "quantity": 1,
+      "description": "Sheet metal screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 14 6 988 451",
+      "quantity": 1,
+      "description": "C-clip nut",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

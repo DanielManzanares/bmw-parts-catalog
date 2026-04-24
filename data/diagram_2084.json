@@ -1,0 +1,277 @@
+{
+  "id": 2084,
+  "diagram_title": "Radio, older BMW series (1986 — 1993)",
+  "image_url": "http://ills.bmwfans.info/dkpe.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1531,
+  "category_name": "Technical Literature",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "01 29 9 783 825",
+      "quantity": 1,
+      "description": "Operating instructions, radio \"de\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 9 786 060",
+      "quantity": 1,
+      "description": "Operating instructions, radio",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 9 786 070",
+      "quantity": 1,
+      "description": "Operating instructions, radio",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 9 786 080",
+      "quantity": 1,
+      "description": "Operating instructions, radio \"de\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 9 786 050",
+      "quantity": 1,
+      "description": "Operating instructions, radio",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 29 9 099 837",
+      "quantity": 1,
+      "description": "Operating instructions, radio \"de\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 20 9 786 090",
+      "quantity": 1,
+      "description": "Operating instructions, radio \"de\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 29 9 783 825",
+      "quantity": 1,
+      "description": "Operating instructions, radio \"de\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 21 9 786 071",
+      "quantity": 1,
+      "description": "Operating instructions, radio",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 21 9 786 081",
+      "quantity": 1,
+      "description": "Operating instructions, radio",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 21 9 786 051",
+      "quantity": 1,
+      "description": "Operating instructions, radio",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 29 9 099 837",
+      "quantity": 1,
+      "description": "Operating instructions, radio \"de\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 21 9 786 091",
+      "quantity": 1,
+      "description": "Operating instructions, radio",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 29 9 783 825",
+      "quantity": 1,
+      "description": "Operating instructions, radio \"de\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 22 9 786 072",
+      "quantity": 1,
+      "description": "Operating instructions, radio",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 22 9 786 082",
+      "quantity": 1,
+      "description": "Operating instructions, radio",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 29 9 099 837",
+      "quantity": 1,
+      "description": "Operating instructions, radio \"de\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 22 9 786 092",
+      "quantity": 1,
+      "description": "Operating instructions, radio",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 29 9 783 825",
+      "quantity": 1,
+      "description": "Operating instructions, radio \"de\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 23 9 786 083",
+      "quantity": 1,
+      "description": "Operating instructions, radio",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 29 9 099 837",
+      "quantity": 1,
+      "description": "Operating instructions, radio \"de\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 23 9 786 093",
+      "quantity": 1,
+      "description": "Operating instructions, radio",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 29 9 783 825",
+      "quantity": 1,
+      "description": "Operating instructions, radio \"de\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 24 9 786 054",
+      "quantity": 1,
+      "description": "Operating instructions, radio",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 29 9 099 837",
+      "quantity": 1,
+      "description": "Operating instructions, radio \"de\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 29 9 783 825",
+      "quantity": 1,
+      "description": "Operating instructions, radio \"de\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 29 9 099 837",
+      "quantity": 1,
+      "description": "Operating instructions, radio \"de\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 25 9 786 095",
+      "quantity": 1,
+      "description": "Operating instructions, radio",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 29 9 783 825",
+      "quantity": 1,
+      "description": "Operating instructions, radio \"de\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 29 9 099 837",
+      "quantity": 1,
+      "description": "Operating instructions, radio \"de\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 26 9 786 096",
+      "quantity": 1,
+      "description": "Operating instructions, radio \"nl\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "01 27 9 786 087",
+      "quantity": 1,
+      "description": "Operating instructions, radio \"da\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "01 27 9 786 097",
+      "quantity": 1,
+      "description": "Operating instructions, radio \"da\"",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

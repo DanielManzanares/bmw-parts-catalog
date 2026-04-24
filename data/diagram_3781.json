@@ -1,0 +1,117 @@
+{
+  "id": 3781,
+  "diagram_title": "Radio Bavaria C Professional",
+  "image_url": "http://ills.bmwfans.info/d0y.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 061 881",
+      "quantity": 1,
+      "description": "Radio Bavaria C Professional",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 400 872",
+      "quantity": 1,
+      "description": "Radio Bavaria C Professional RDS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 12 8 351 005",
+      "quantity": 1,
+      "description": "Radio bav. c-professional control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 12 8 351 006",
+      "quantity": 1,
+      "description": "Radio bav. c-professional control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 12 8 357 039",
+      "quantity": 1,
+      "description": "Radio bav. c-professional control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 12 8 357 040",
+      "quantity": 1,
+      "description": "Radio bav. c-professional control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 12 1 392 752",
+      "quantity": 1,
+      "description": "Radio bavaria c professional receiver",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 12 1 392 828",
+      "quantity": 1,
+      "description": "Radio bavaria c professional receiver",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 12 8 357 041",
+      "quantity": 1,
+      "description": "Radio bavaria c professional receiver",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 12 8 357 042",
+      "quantity": 1,
+      "description": "Radio bavaria c professional receiver",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "65 12 8 360 284",
+      "quantity": 1,
+      "description": "BMW 6 CD changer A",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "65 12 8 361 266",
+      "quantity": 1,
+      "description": "Rmfd bmw 6 cd changer a",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "65 12 8 361 130",
+      "quantity": 1,
+      "description": "Cd-magazine bmw 6 cd changer a",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

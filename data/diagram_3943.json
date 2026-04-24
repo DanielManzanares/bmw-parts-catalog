@@ -1,0 +1,37 @@
+{
+  "id": 3943,
+  "diagram_title": "BMW Power Lamps",
+  "image_url": "http://ills.bmwfans.info/c98j.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 184,
+  "category_name": "Lighting",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "63 11 2 338 066",
+      "quantity": 1,
+      "description": "BMW Power xenon lamps",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 11 2 338 079",
+      "quantity": 1,
+      "description": "BMW Power halogen bulbs",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "63 11 2 352 239",
+      "quantity": 1,
+      "description": "BMW Power halogen bulbs",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

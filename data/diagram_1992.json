@@ -1,0 +1,349 @@
+{
+  "id": 1992,
+  "diagram_title": "Relay motor",
+  "image_url": "http://ills.bmwfans.info/136.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 31 1 373 585",
+      "quantity": 1,
+      "description": "Relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 31 1 373 588",
+      "quantity": 1,
+      "description": "Mini-relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 31 1 373 585",
+      "quantity": 1,
+      "description": "Relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 31 1 373 588",
+      "quantity": 1,
+      "description": "Mini-relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 31 1 373 585",
+      "quantity": 1,
+      "description": "Relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 31 1 373 588",
+      "quantity": 1,
+      "description": "Mini-relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 31 1 373 916",
+      "quantity": 1,
+      "description": "Relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 31 1 373 916",
+      "quantity": 1,
+      "description": "Relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 31 1 373 916",
+      "quantity": 1,
+      "description": "Relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "13 90 1 311 772",
+      "quantity": 1,
+      "description": "Retarding relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "13 90 1 311 772",
+      "quantity": 1,
+      "description": "Retarding relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "13 90 1 311 772",
+      "quantity": 1,
+      "description": "Retarding relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "12 63 1 710 726",
+      "quantity": 1,
+      "description": "Diode relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "12 63 1 710 726",
+      "quantity": 1,
+      "description": "Diode relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "12 63 1 710 726",
+      "quantity": 1,
+      "description": "Diode relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "12 51 2 241 976",
+      "quantity": 1,
+      "description": "Relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 31 1 362 224",
+      "quantity": 1,
+      "description": "Relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "12 51 2 241 976",
+      "quantity": 1,
+      "description": "Relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 31 1 362 224",
+      "quantity": 1,
+      "description": "Relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "12 51 2 241 976",
+      "quantity": 1,
+      "description": "Relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 31 1 362 224",
+      "quantity": 1,
+      "description": "Relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "12 63 1 269 274",
+      "quantity": 1,
+      "description": "Diode relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "61 31 1 362 224",
+      "quantity": 1,
+      "description": "Relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "12 63 1 269 274",
+      "quantity": 1,
+      "description": "Diode relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "61 31 1 362 224",
+      "quantity": 1,
+      "description": "Relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "12 63 1 269 274",
+      "quantity": 1,
+      "description": "Diode relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "61 31 1 362 224",
+      "quantity": 1,
+      "description": "Relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "12 63 1 708 646",
+      "quantity": 1,
+      "description": "Diode relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "12 63 1 708 647",
+      "quantity": 1,
+      "description": "Diode relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "12 63 1 708 646",
+      "quantity": 1,
+      "description": "Diode relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "12 63 1 708 647",
+      "quantity": 1,
+      "description": "Diode relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "12 63 1 708 646",
+      "quantity": 1,
+      "description": "Diode relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "12 63 1 708 647",
+      "quantity": 1,
+      "description": "Diode relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 31 1 378 297",
+      "quantity": 1,
+      "description": "Relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 36 1 378 238",
+      "quantity": 1,
+      "description": "Relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 36 8 373 700",
+      "quantity": 1,
+      "description": "Relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 31 1 378 297",
+      "quantity": 1,
+      "description": "Relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 36 1 378 238",
+      "quantity": 1,
+      "description": "Relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 36 8 373 700",
+      "quantity": 1,
+      "description": "Relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 31 1 378 297",
+      "quantity": 1,
+      "description": "Relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 36 1 378 238",
+      "quantity": 1,
+      "description": "Relay",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 36 8 373 700",
+      "quantity": 1,
+      "description": "Relay",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

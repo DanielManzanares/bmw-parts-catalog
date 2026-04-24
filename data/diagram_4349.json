@@ -1,0 +1,29 @@
+{
+  "id": 4349,
+  "diagram_title": "BMW Performance Aluminum footrest",
+  "image_url": "http://ills.bmwfans.info/1vsm.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 47 0 027 792",
+      "quantity": 1,
+      "description": "Aluminum footrest",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 47 0 027 792",
+      "quantity": 1,
+      "description": "Aluminum footrest",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

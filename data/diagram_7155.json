@@ -1,0 +1,125 @@
+{
+  "id": 7155,
+  "diagram_title": "Car tool/Lifting jack",
+  "image_url": "http://ills.bmwfans.info/2t9q.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1645,
+  "category_name": "Equipment Parts",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "71 12 6 757 131",
+      "quantity": 1,
+      "description": "Articulated car jack, steel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 12 6 767 944",
+      "quantity": 1,
+      "description": "Articulated car jack, steel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "71 12 6 757 131",
+      "quantity": 1,
+      "description": "Articulated car jack, steel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "71 11 1 179 052",
+      "quantity": 1,
+      "description": "Chock, steel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "71 10 6 781 147",
+      "quantity": 1,
+      "description": "Wing nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "16 11 1 181 918",
+      "quantity": 1,
+      "description": "Base",
+      "price_eur": null,
+      "compatible_models": "E31, E36, E38, E39, E46, E52, E92, E92 Facelift, E93, E93 Facelift, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F35, F35 Facelift, F36, F82"
+    },
+    {
+      "position_number": "5",
+      "part_number": "71 15 1 180 625",
+      "quantity": 1,
+      "description": "Bracket for spare wheel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "71 10 6 781 144",
+      "quantity": 1,
+      "description": "Wing nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "71 11 1 092 276",
+      "quantity": 1,
+      "description": "Spare wheel oddments box",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "71 11 1 094 912",
+      "quantity": 1,
+      "description": "Spare wheel oddments box",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "71 11 1 095 393",
+      "quantity": 1,
+      "description": "Spare wheel oddments box",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "71 12 6 755 390",
+      "quantity": 1,
+      "description": "Mounting screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "71 12 6 764 999",
+      "quantity": 1,
+      "description": "Clamp, lifting jack",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 47 1 944 899",
+      "quantity": 1,
+      "description": "Pad",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

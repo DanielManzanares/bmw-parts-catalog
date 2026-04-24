@@ -1,0 +1,141 @@
+{
+  "id": 5181,
+  "diagram_title": "Wiring harness, engine trans. module",
+  "image_url": "http://ills.bmwfans.info/2v1z.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 53 7 540 368",
+      "quantity": 1,
+      "description": "Wiring harness, engine trans. module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 51 7 556 008",
+      "quantity": 1,
+      "description": "Wiring harness, engine trans. module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 51 7 556 010",
+      "quantity": 1,
+      "description": "Wiring harness, engine trans. module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 53 7 540 369",
+      "quantity": 1,
+      "description": "Wiring harness, engine trans. module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 53 7 540 367",
+      "quantity": 1,
+      "description": "Wiring harness, engine trans. module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 53 7 540 367",
+      "quantity": 1,
+      "description": "Wiring harness, engine trans. module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 51 7 556 004",
+      "quantity": 1,
+      "description": "Wiring harness, engine trans. module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 53 7 540 369",
+      "quantity": 1,
+      "description": "Wiring harness, engine trans. module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 53 7 540 368",
+      "quantity": 1,
+      "description": "Wiring harness, engine trans. module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 51 7 556 008",
+      "quantity": 1,
+      "description": "Wiring harness, engine trans. module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 51 7 556 010",
+      "quantity": 1,
+      "description": "Wiring harness, engine trans. module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 53 7 540 369",
+      "quantity": 1,
+      "description": "Wiring harness, engine trans. module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 53 7 540 367",
+      "quantity": 1,
+      "description": "Wiring harness, engine trans. module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 53 7 540 367",
+      "quantity": 1,
+      "description": "Wiring harness, engine trans. module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 51 7 556 004",
+      "quantity": 1,
+      "description": "Wiring harness, engine trans. module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 53 7 540 369",
+      "quantity": 1,
+      "description": "Wiring harness, engine trans. module",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

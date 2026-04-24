@@ -1,0 +1,661 @@
+{
+  "id": 1985,
+  "diagram_title": "Starter parts",
+  "image_url": "http://ills.bmwfans.info/128.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1534,
+  "category_name": "Engine Electrical System",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "12 41 1 289 494",
+      "quantity": 1,
+      "description": "Solenoid switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 41 1 289 494",
+      "quantity": 1,
+      "description": "Solenoid switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "12 41 1 289 494",
+      "quantity": 1,
+      "description": "Solenoid switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "12 41 1 721 286",
+      "quantity": 3,
+      "description": "Countersunk head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "12 41 1 721 286",
+      "quantity": 3,
+      "description": "Countersunk head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "12 41 1 721 286",
+      "quantity": 3,
+      "description": "Countersunk head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 933 096",
+      "quantity": 2,
+      "description": "Spring washer",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E9, NK, Z1"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 933 096",
+      "quantity": 2,
+      "description": "Spring washer",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E9, NK, Z1"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 933 096",
+      "quantity": 2,
+      "description": "Spring washer",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E9, NK, Z1"
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 921 077",
+      "quantity": 2,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E39, E53, E64, E64 Facelift, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 904 948",
+      "quantity": 2,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E53, E64, E64 Facelift, E65, E66, E83, E83 Facelift, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 921 077",
+      "quantity": 2,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E39, E53, E64, E64 Facelift, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 904 948",
+      "quantity": 2,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E53, E64, E64 Facelift, E65, E66, E83, E83 Facelift, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 921 077",
+      "quantity": 2,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E39, E53, E64, E64 Facelift, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 904 948",
+      "quantity": 2,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E53, E64, E64 Facelift, E65, E66, E83, E83 Facelift, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "12 41 1 273 169",
+      "quantity": 1,
+      "description": "Housing assy front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "12 41 1 273 169",
+      "quantity": 1,
+      "description": "Housing assy front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "12 41 1 273 169",
+      "quantity": 1,
+      "description": "Housing assy front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "12 41 1 735 888",
+      "quantity": 1,
+      "description": "Needle sleeve",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "12 41 1 735 888",
+      "quantity": 1,
+      "description": "Needle sleeve",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "12 41 1 735 888",
+      "quantity": 1,
+      "description": "Needle sleeve",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "12 41 1 289 480",
+      "quantity": 1,
+      "description": "Free wheel pinion",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "12 41 1 289 480",
+      "quantity": 1,
+      "description": "Free wheel pinion",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "12 41 1 289 480",
+      "quantity": 1,
+      "description": "Free wheel pinion",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "12 41 1 289 500",
+      "quantity": 1,
+      "description": "Ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "12 41 1 289 500",
+      "quantity": 1,
+      "description": "Ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "12 41 1 289 500",
+      "quantity": 1,
+      "description": "Ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "12 41 1 289 501",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "12 41 1 289 501",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "12 41 1 289 501",
+      "quantity": 1,
+      "description": "Snap ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "12 41 1 289 482",
+      "quantity": 1,
+      "description": "Shift lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "12 41 1 289 482",
+      "quantity": 1,
+      "description": "Shift lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "12 41 1 289 482",
+      "quantity": 1,
+      "description": "Shift lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "12 41 1 289 502",
+      "quantity": 1,
+      "description": "Suspension",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "12 41 1 289 502",
+      "quantity": 1,
+      "description": "Suspension",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "12 41 1 289 502",
+      "quantity": 1,
+      "description": "Suspension",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "12 41 1 289 503",
+      "quantity": 1,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "12 41 1 289 503",
+      "quantity": 1,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "12 41 1 289 503",
+      "quantity": 1,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "12 41 1 736 763",
+      "quantity": 1,
+      "description": "Planet wheel set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "12 41 1 736 763",
+      "quantity": 1,
+      "description": "Planet wheel set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "12 41 1 736 763",
+      "quantity": 1,
+      "description": "Planet wheel set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "12 41 1 736 763",
+      "quantity": 1,
+      "description": "Planet wheel set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "12 41 1 736 763",
+      "quantity": 1,
+      "description": "Planet wheel set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "12 41 1 736 763",
+      "quantity": 1,
+      "description": "Planet wheel set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "12 41 1 736 763",
+      "quantity": 1,
+      "description": "Planet wheel set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "12 41 1 736 763",
+      "quantity": 1,
+      "description": "Planet wheel set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "12 41 1 736 763",
+      "quantity": 1,
+      "description": "Planet wheel set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "12 41 2 244 439",
+      "quantity": 1,
+      "description": "Armature",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "12 41 1 289 488",
+      "quantity": 1,
+      "description": "Armature",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "12 41 2 244 439",
+      "quantity": 1,
+      "description": "Armature",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "12 41 1 289 488",
+      "quantity": 1,
+      "description": "Armature",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "12 41 2 244 439",
+      "quantity": 1,
+      "description": "Armature",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "12 41 1 289 488",
+      "quantity": 1,
+      "description": "Armature",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "12 41 1 289 495",
+      "quantity": 1,
+      "description": "Exciter winding",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "12 41 1 289 495",
+      "quantity": 1,
+      "description": "Exciter winding",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "12 41 1 289 495",
+      "quantity": 1,
+      "description": "Exciter winding",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "12 41 1 289 497",
+      "quantity": 4,
+      "description": "Compression spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "12 41 1 289 497",
+      "quantity": 4,
+      "description": "Compression spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "12 41 1 289 497",
+      "quantity": 4,
+      "description": "Compression spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "12 41 1 289 489",
+      "quantity": 1,
+      "description": "Collector guiding",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "12 41 1 289 489",
+      "quantity": 1,
+      "description": "Collector guiding",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "12 41 1 289 489",
+      "quantity": 1,
+      "description": "Collector guiding",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "12 41 1 289 490",
+      "quantity": 1,
+      "description": "Bushing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "12 41 1 289 490",
+      "quantity": 1,
+      "description": "Bushing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "12 41 1 289 490",
+      "quantity": 1,
+      "description": "Bushing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "12 41 1 289 492",
+      "quantity": 2,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "12 41 1 289 492",
+      "quantity": 2,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "12 41 1 289 492",
+      "quantity": 2,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "12 41 1 289 491",
+      "quantity": 1,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "12 41 1 289 491",
+      "quantity": 1,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "12 41 1 289 491",
+      "quantity": 1,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "24",
+      "part_number": "07 11 9 919 367",
+      "quantity": 2,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "24",
+      "part_number": "07 11 9 919 367",
+      "quantity": 2,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "24",
+      "part_number": "07 11 9 919 367",
+      "quantity": 2,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "25",
+      "part_number": "12 41 1 289 499",
+      "quantity": 1,
+      "description": "Repair kit starter motor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "25",
+      "part_number": "12 41 1 289 499",
+      "quantity": 1,
+      "description": "Repair kit starter motor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "25",
+      "part_number": "12 41 1 289 499",
+      "quantity": 1,
+      "description": "Repair kit starter motor",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "26",
+      "part_number": "12 41 1 289 498",
+      "quantity": 1,
+      "description": "Carbon brush set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "26",
+      "part_number": "12 41 1 289 498",
+      "quantity": 1,
+      "description": "Carbon brush set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "26",
+      "part_number": "12 41 1 289 498",
+      "quantity": 1,
+      "description": "Carbon brush set",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

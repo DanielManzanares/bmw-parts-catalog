@@ -1,0 +1,61 @@
+{
+  "id": 4746,
+  "diagram_title": "Ski/snowboard holder",
+  "image_url": "http://ills.bmwfans.info/3k22.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 72 0 406 587",
+      "quantity": 1,
+      "description": "Set ski holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 72 0 406 587",
+      "quantity": 1,
+      "description": "Set ski holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 72 0 144 049",
+      "quantity": 1,
+      "description": "Key (Code)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 72 0 144 049",
+      "quantity": 1,
+      "description": "Key (Code)",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 72 0 303 536",
+      "quantity": 2,
+      "description": "Lock cylinder with key",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "82 72 0 303 536",
+      "quantity": 2,
+      "description": "Lock cylinder with key",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 250,
+    "diagram_title": "Front axle support/wishbone",
+    "image_url": "http://ills.bmwfans.info/dow9.png",
+    "parts_count": 38
+  },
+  {
+    "id": 257,
+    "diagram_title": "Front spring strut/shock absorber",
+    "image_url": "http://ills.bmwfans.info/2qm.png",
+    "parts_count": 48
+  },
+  {
+    "id": 256,
+    "diagram_title": "Guide support/spring pad/attaching parts",
+    "image_url": "http://ills.bmwfans.info/2qp4.png",
+    "parts_count": 34
+  },
+  {
+    "id": 254,
+    "diagram_title": "Motorsport chassis spring strut",
+    "image_url": "http://ills.bmwfans.info/2qp6.png",
+    "parts_count": 46
+  },
+  {
+    "id": 244,
+    "diagram_title": "Service kit control arm / Value Line",
+    "image_url": "http://ills.bmwfans.info/ctve.png",
+    "parts_count": 8
+  },
+  {
+    "id": 251,
+    "diagram_title": "Stabilizer, front",
+    "image_url": "http://ills.bmwfans.info/2rs.png",
+    "parts_count": 28
+  },
+  {
+    "id": 252,
+    "diagram_title": "Wheel bearing",
+    "image_url": "http://ills.bmwfans.info/2q6.png",
+    "parts_count": 8
+  }
+]

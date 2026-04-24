@@ -1,0 +1,245 @@
+{
+  "id": 677,
+  "diagram_title": "s5d_g_countershaft_reverse_gear",
+  "image_url": "/static/images/diagrams/E46_318i-N42_manual_transmission_s5d_g_countershaft_reverse_gear.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 42,
+  "category_name": "Manual Transmission",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "23 11 7 548 105",
+      "quantity": 1,
+      "description": "Countershaft",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "23 12 1 224 077",
+      "quantity": 1,
+      "description": "99",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28, E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "23 22 1 228 477",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "23 23 7 543 802",
+      "quantity": 1,
+      "description": "Gear wheel 5th gear",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "23 22 1 228 353",
+      "quantity": 1,
+      "description": "Support",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "23 22 1 228 354",
+      "quantity": 1,
+      "description": "Support",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "23 22 1 228 355",
+      "quantity": 1,
+      "description": "Support",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "23 22 1 228 356",
+      "quantity": 1,
+      "description": "Support",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "23 22 1 228 357",
+      "quantity": 1,
+      "description": "Support",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "23 22 1 228 358",
+      "quantity": 1,
+      "description": "Support",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "23 22 1 228 359",
+      "quantity": 1,
+      "description": "Securing plate",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "23 23 1 228 351",
+      "quantity": 1,
+      "description": "Stop disk",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "23 22 1 228 352",
+      "quantity": 1,
+      "description": "Shift gear for 4th. gear",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "23 23 1 282 573",
+      "quantity": 1,
+      "description": "Needle cage",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "10",
+      "part_number": "23 23 1 228 349",
+      "quantity": 1,
+      "description": "Inner ring",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "11",
+      "part_number": "23 22 7 501 326",
+      "quantity": 2,
+      "description": "Synchronizer ring",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "11",
+      "part_number": "23 22 1 228 489",
+      "quantity": 2,
+      "description": "06",
+      "price_eur": null,
+      "compatible_models": "E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "12",
+      "part_number": "23 23 7 511 335",
+      "quantity": 1,
+      "description": "Guide sleeve 3rd and 4th gear",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "14",
+      "part_number": "23 23 1 224 365",
+      "quantity": 3,
+      "description": "Ball",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    },
+    {
+      "position_number": "15",
+      "part_number": "23 23 1 224 364",
+      "quantity": 3,
+      "description": "Insert",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    },
+    {
+      "position_number": "16",
+      "part_number": "23 22 1 228 346",
+      "quantity": 1,
+      "description": "Shift gear for 3rd. gear",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "17",
+      "part_number": "23 21 1 282 572",
+      "quantity": 1,
+      "description": "Needle cage",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "23 23 1 228 360",
+      "quantity": 1,
+      "description": "Angular ball bearing",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "19",
+      "part_number": "23 23 1 222 866",
+      "quantity": 1,
+      "description": "Torx bolt",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "20",
+      "part_number": "23 23 1 228 416",
+      "quantity": 1,
+      "description": "Reverse gear",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "21",
+      "part_number": "23 21 1 204 207",
+      "quantity": 2,
+      "description": "Needle cage",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E28, E30, E34, E36, E39, E46, E85, E87, NK, Z3"
+    },
+    {
+      "position_number": "22",
+      "part_number": "23 23 1 228 418",
+      "quantity": 1,
+      "description": "Pin",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "23",
+      "part_number": "23 22 1 224 109",
+      "quantity": 2,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": "E21, E28, E30, E34, E36, E39, E46, E85, E87, Z3"
+    },
+    {
+      "position_number": "24",
+      "part_number": "23 22 7 545 751",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "E30, E32, E34, E36, E39, E46, E85, E87, Z1, Z3"
+    }
+  ]
+}

@@ -1,0 +1,1394 @@
+[
+  {
+    "id": 4643,
+    "diagram_title": "3-point seat belt, rear",
+    "image_url": "http://ills.bmwfans.info/p7z.png",
+    "parts_count": 18
+  },
+  {
+    "id": 4539,
+    "diagram_title": "Active seat ventilation retrofit kit",
+    "image_url": "http://ills.bmwfans.info/23px.png",
+    "parts_count": 10
+  },
+  {
+    "id": 4922,
+    "diagram_title": "Adapter (universal lift) for hood",
+    "image_url": "http://ills.bmwfans.info/11xc.png",
+    "parts_count": 4
+  },
+  {
+    "id": 4363,
+    "diagram_title": "Aerodynamics package",
+    "image_url": "http://ills.bmwfans.info/1nv2.png",
+    "parts_count": 20
+  },
+  {
+    "id": 4463,
+    "diagram_title": "Alu-City floor mats",
+    "image_url": "http://ills.bmwfans.info/1vrc.png",
+    "parts_count": 6
+  },
+  {
+    "id": 4474,
+    "diagram_title": "Aluminum pedal covers",
+    "image_url": "http://ills.bmwfans.info/1w2c.png",
+    "parts_count": 10
+  },
+  {
+    "id": 4478,
+    "diagram_title": "Aluminum pedal covers",
+    "image_url": "http://ills.bmwfans.info/1w2c.png",
+    "parts_count": 10
+  },
+  {
+    "id": 4558,
+    "diagram_title": "BMW Baby Seat 0+",
+    "image_url": "http://ills.bmwfans.info/dyv5.png",
+    "parts_count": 6
+  },
+  {
+    "id": 4562,
+    "diagram_title": "BMW Baby Seat 0+",
+    "image_url": "http://ills.bmwfans.info/1kmg.png",
+    "parts_count": 38
+  },
+  {
+    "id": 4567,
+    "diagram_title": "BMW Baby Seat 0+ Isofix",
+    "image_url": "http://ills.bmwfans.info/3chf.png",
+    "parts_count": 42
+  },
+  {
+    "id": 5080,
+    "diagram_title": "BMW Bluetooth headset",
+    "image_url": "http://ills.bmwfans.info/a5qi.png",
+    "parts_count": 4
+  },
+  {
+    "id": 5113,
+    "diagram_title": "BMW Click & Drive System",
+    "image_url": "http://ills.bmwfans.info/ftfy.png",
+    "parts_count": 18
+  },
+  {
+    "id": 4571,
+    "diagram_title": "BMW Junior Seat",
+    "image_url": "http://ills.bmwfans.info/1y01.png",
+    "parts_count": 18
+  },
+  {
+    "id": 4574,
+    "diagram_title": "BMW Junior Seat 1",
+    "image_url": "http://ills.bmwfans.info/dyvo.png",
+    "parts_count": 6
+  },
+  {
+    "id": 4587,
+    "diagram_title": "BMW Junior Seat 2/3",
+    "image_url": "http://ills.bmwfans.info/dyx1.png",
+    "parts_count": 8
+  },
+  {
+    "id": 4578,
+    "diagram_title": "BMW Junior Seat I-II",
+    "image_url": "http://ills.bmwfans.info/36yd.png",
+    "parts_count": 66
+  },
+  {
+    "id": 4583,
+    "diagram_title": "BMW Junior Seat I-II Isofix",
+    "image_url": "http://ills.bmwfans.info/3s8u.png",
+    "parts_count": 54
+  },
+  {
+    "id": 4334,
+    "diagram_title": "BMW Performance Alu pedal plates",
+    "image_url": "http://ills.bmwfans.info/bqm4.png",
+    "parts_count": 4
+  },
+  {
+    "id": 4342,
+    "diagram_title": "BMW Performance parking brake handle",
+    "image_url": "http://ills.bmwfans.info/a1q5.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4338,
+    "diagram_title": "BMW Performance selector lever handle",
+    "image_url": "http://ills.bmwfans.info/a1ql.png",
+    "parts_count": 4
+  },
+  {
+    "id": 4345,
+    "diagram_title": "BMW Performance shift, manual trans.",
+    "image_url": "http://ills.bmwfans.info/35nc.png",
+    "parts_count": 12
+  },
+  {
+    "id": 4331,
+    "diagram_title": "BMW Performance strut tower brace carbon",
+    "image_url": "http://ills.bmwfans.info/abcs.png",
+    "parts_count": 12
+  },
+  {
+    "id": 5116,
+    "diagram_title": "BMW USB charger",
+    "image_url": "http://ills.bmwfans.info/c6we.png",
+    "parts_count": 4
+  },
+  {
+    "id": 4554,
+    "diagram_title": "BMW buggy chrome-marine with accessories",
+    "image_url": "http://ills.bmwfans.info/2m0w.png",
+    "parts_count": 14
+  },
+  {
+    "id": 4550,
+    "diagram_title": "BMW buggy red with accessories",
+    "image_url": "http://ills.bmwfans.info/1q5f.png",
+    "parts_count": 8
+  },
+  {
+    "id": 5201,
+    "diagram_title": "Battery charger",
+    "image_url": "http://ills.bmwfans.info/a7iq.png",
+    "parts_count": 14
+  },
+  {
+    "id": 5206,
+    "diagram_title": "Battery charger",
+    "image_url": "http://ills.bmwfans.info/2au7.png",
+    "parts_count": 2
+  },
+  {
+    "id": 5209,
+    "diagram_title": "Battery charger",
+    "image_url": "http://ills.bmwfans.info/f1vt.png",
+    "parts_count": 8
+  },
+  {
+    "id": 4647,
+    "diagram_title": "Belt holder",
+    "image_url": "http://ills.bmwfans.info/2qj2.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4863,
+    "diagram_title": "Bicycle carrier, trailer coupling",
+    "image_url": "http://ills.bmwfans.info/di1p.png",
+    "parts_count": 40
+  },
+  {
+    "id": 4794,
+    "diagram_title": "Bicycle lift",
+    "image_url": "http://ills.bmwfans.info/efh.png",
+    "parts_count": 22
+  },
+  {
+    "id": 4874,
+    "diagram_title": "Boot lashing strap",
+    "image_url": "http://ills.bmwfans.info/hfs.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4878,
+    "diagram_title": "Boot/trunk floor net",
+    "image_url": "http://ills.bmwfans.info/dmv.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4389,
+    "diagram_title": "Bulbs blue",
+    "image_url": "http://ills.bmwfans.info/2nmo.png",
+    "parts_count": 8
+  },
+  {
+    "id": 5129,
+    "diagram_title": "CD box",
+    "image_url": "http://ills.bmwfans.info/doz.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4352,
+    "diagram_title": "Carbon fiber package E46",
+    "image_url": "http://ills.bmwfans.info/3en2.png",
+    "parts_count": 6
+  },
+  {
+    "id": 5092,
+    "diagram_title": "Cell phone cradles, Universal hands-free",
+    "image_url": "http://ills.bmwfans.info/3e4p.png",
+    "parts_count": 26
+  },
+  {
+    "id": 4546,
+    "diagram_title": "Clean Bag",
+    "image_url": "http://ills.bmwfans.info/3gzl.png",
+    "parts_count": 4
+  },
+  {
+    "id": 5178,
+    "diagram_title": "Convers., Business CD to Professional CD",
+    "image_url": "http://ills.bmwfans.info/1yn3.png",
+    "parts_count": 20
+  },
+  {
+    "id": 4697,
+    "diagram_title": "Convers.kit, automatic air conditioning",
+    "image_url": "http://ills.bmwfans.info/1vgu.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4414,
+    "diagram_title": "Conversion kit tail lights Facelift 2003",
+    "image_url": "http://ills.bmwfans.info/2n4m.png",
+    "parts_count": 4
+  },
+  {
+    "id": 5175,
+    "diagram_title": "Conversion, Business to Professional CD",
+    "image_url": "http://ills.bmwfans.info/1yn3.png",
+    "parts_count": 20
+  },
+  {
+    "id": 5182,
+    "diagram_title": "Conversion, Professional/Professional CD",
+    "image_url": "http://ills.bmwfans.info/1yn3.png",
+    "parts_count": 20
+  },
+  {
+    "id": 4534,
+    "diagram_title": "Cool bag",
+    "image_url": "http://ills.bmwfans.info/dms.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4422,
+    "diagram_title": "Cover",
+    "image_url": "http://ills.bmwfans.info/1ge5.png",
+    "parts_count": 4
+  },
+  {
+    "id": 4418,
+    "diagram_title": "Cover, windshield/side window",
+    "image_url": "http://ills.bmwfans.info/3ep6.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4491,
+    "diagram_title": "Cup holder/cassette box/coinbox",
+    "image_url": "http://ills.bmwfans.info/1ylm.png",
+    "parts_count": 26
+  },
+  {
+    "id": 5135,
+    "diagram_title": "DVD navigation with on-board monitor",
+    "image_url": "http://ills.bmwfans.info/2yo5.png",
+    "parts_count": 16
+  },
+  {
+    "id": 5138,
+    "diagram_title": "DVD system Tablet",
+    "image_url": "http://ills.bmwfans.info/csme.png",
+    "parts_count": 28
+  },
+  {
+    "id": 4639,
+    "diagram_title": "Decor trims, Bicolor leather",
+    "image_url": "http://ills.bmwfans.info/11x8.png",
+    "parts_count": 14
+  },
+  {
+    "id": 4543,
+    "diagram_title": "Driver utility set",
+    "image_url": "http://ills.bmwfans.info/e5k9.png",
+    "parts_count": 4
+  },
+  {
+    "id": 4661,
+    "diagram_title": "Emergency bag",
+    "image_url": "http://ills.bmwfans.info/bclv.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4910,
+    "diagram_title": "Exterior mirror for towing",
+    "image_url": "http://ills.bmwfans.info/d6f.png",
+    "parts_count": 2
+  },
+  {
+    "id": 5144,
+    "diagram_title": "Fender antenna retrofit kit",
+    "image_url": "http://ills.bmwfans.info/1jz2.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4654,
+    "diagram_title": "Fire-extinguisher powder",
+    "image_url": "http://ills.bmwfans.info/1d0x.png",
+    "parts_count": 4
+  },
+  {
+    "id": 4665,
+    "diagram_title": "First-aid kit, universal",
+    "image_url": "http://ills.bmwfans.info/bjdo.png",
+    "parts_count": 6
+  },
+  {
+    "id": 4882,
+    "diagram_title": "Fitted luggage compartment mat",
+    "image_url": "http://ills.bmwfans.info/oc0.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4673,
+    "diagram_title": "Flashlight, LED",
+    "image_url": "http://ills.bmwfans.info/acod.png",
+    "parts_count": 4
+  },
+  {
+    "id": 4450,
+    "diagram_title": "Floor mats Commercial",
+    "image_url": "http://ills.bmwfans.info/22xi.png",
+    "parts_count": 4
+  },
+  {
+    "id": 4442,
+    "diagram_title": "Floor mats city",
+    "image_url": "http://ills.bmwfans.info/dpw.png",
+    "parts_count": 12
+  },
+  {
+    "id": 4446,
+    "diagram_title": "Floor mats country",
+    "image_url": "http://ills.bmwfans.info/dpw.png",
+    "parts_count": 12
+  },
+  {
+    "id": 4438,
+    "diagram_title": "Floor mats, velours",
+    "image_url": "http://ills.bmwfans.info/2rk6.png",
+    "parts_count": 20
+  },
+  {
+    "id": 4455,
+    "diagram_title": "Footmat update",
+    "image_url": "http://ills.bmwfans.info/a0vc.png",
+    "parts_count": 4
+  },
+  {
+    "id": 5014,
+    "diagram_title": "Hood parts, body",
+    "image_url": "http://ills.bmwfans.info/1b2z.png",
+    "parts_count": 14
+  },
+  {
+    "id": 5030,
+    "diagram_title": "Hood parts, doors/locking system",
+    "image_url": "http://ills.bmwfans.info/1b2y.png",
+    "parts_count": 34
+  },
+  {
+    "id": 5018,
+    "diagram_title": "Hood parts, railing",
+    "image_url": "http://ills.bmwfans.info/1b30.png",
+    "parts_count": 42
+  },
+  {
+    "id": 5026,
+    "diagram_title": "Hood parts, rear door",
+    "image_url": "http://ills.bmwfans.info/1b2x.png",
+    "parts_count": 32
+  },
+  {
+    "id": 5022,
+    "diagram_title": "Hood parts, side door",
+    "image_url": "http://ills.bmwfans.info/1bo9.png",
+    "parts_count": 32
+  },
+  {
+    "id": 4392,
+    "diagram_title": "Install.kit turn indicators, white",
+    "image_url": "http://ills.bmwfans.info/zb0.png",
+    "parts_count": 4
+  },
+  {
+    "id": 4382,
+    "diagram_title": "Install.kit, Park Distance Control",
+    "image_url": "http://ills.bmwfans.info/dok.png",
+    "parts_count": 2
+  },
+  {
+    "id": 5141,
+    "diagram_title": "Installation kit alarm system",
+    "image_url": "http://ills.bmwfans.info/1wm1.png",
+    "parts_count": 8
+  },
+  {
+    "id": 4693,
+    "diagram_title": "Installing set cruise control",
+    "image_url": "http://ills.bmwfans.info/1kxy.png",
+    "parts_count": 4
+  },
+  {
+    "id": 4651,
+    "diagram_title": "Installing set heated seat front",
+    "image_url": "http://ills.bmwfans.info/1s4i.png",
+    "parts_count": 4
+  },
+  {
+    "id": 4686,
+    "diagram_title": "Installing set independ.heater/ventilat.",
+    "image_url": "http://ills.bmwfans.info/3n8l.png",
+    "parts_count": 36
+  },
+  {
+    "id": 4758,
+    "diagram_title": "Ki and luggage box",
+    "image_url": "http://ills.bmwfans.info/1xir.png",
+    "parts_count": 20
+  },
+  {
+    "id": 4816,
+    "diagram_title": "Komfort ski holder",
+    "image_url": "http://ills.bmwfans.info/i44.png",
+    "parts_count": 14
+  },
+  {
+    "id": 4677,
+    "diagram_title": "LED interior light package",
+    "image_url": "http://ills.bmwfans.info/fvz8.png",
+    "parts_count": 8
+  },
+  {
+    "id": 4681,
+    "diagram_title": "Labels independent heating",
+    "image_url": "http://ills.bmwfans.info/3dza.png",
+    "parts_count": 22
+  },
+  {
+    "id": 4867,
+    "diagram_title": "Load compartment protective cover",
+    "image_url": "http://ills.bmwfans.info/1y5f.png",
+    "parts_count": 4
+  },
+  {
+    "id": 4847,
+    "diagram_title": "Luggage basket",
+    "image_url": "http://ills.bmwfans.info/d9g.png",
+    "parts_count": 12
+  },
+  {
+    "id": 4851,
+    "diagram_title": "Luggage basket aluminium",
+    "image_url": "http://ills.bmwfans.info/38ek.png",
+    "parts_count": 10
+  },
+  {
+    "id": 4762,
+    "diagram_title": "Luggage box",
+    "image_url": "http://ills.bmwfans.info/1xir.png",
+    "parts_count": 18
+  },
+  {
+    "id": 4871,
+    "diagram_title": "Luggage compartment clamping belts",
+    "image_url": "http://ills.bmwfans.info/3fqb.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4886,
+    "diagram_title": "Luggage compartment pan",
+    "image_url": "http://ills.bmwfans.info/2ubm.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4894,
+    "diagram_title": "Luggage compartment, folding",
+    "image_url": "http://ills.bmwfans.info/32je.png",
+    "parts_count": 10
+  },
+  {
+    "id": 4890,
+    "diagram_title": "Luggage compatment box \"multifix\"",
+    "image_url": "http://ills.bmwfans.info/dmr.png",
+    "parts_count": 2
+  },
+  {
+    "id": 5171,
+    "diagram_title": "Modificat. Business to Professional",
+    "image_url": "http://ills.bmwfans.info/1f82.png",
+    "parts_count": 10
+  },
+  {
+    "id": 5185,
+    "diagram_title": "Modificat. Radio Reverse to Business",
+    "image_url": "http://ills.bmwfans.info/1f8a.png",
+    "parts_count": 16
+  },
+  {
+    "id": 5159,
+    "diagram_title": "Modificat. Radio Reverse to Business CD",
+    "image_url": "http://ills.bmwfans.info/1frg.png",
+    "parts_count": 32
+  },
+  {
+    "id": 5162,
+    "diagram_title": "Modificat. Radio Reverse to Professional",
+    "image_url": "http://ills.bmwfans.info/1f82.png",
+    "parts_count": 10
+  },
+  {
+    "id": 5167,
+    "diagram_title": "Modificat.Radio Business to Business CD",
+    "image_url": "http://ills.bmwfans.info/1frg.png",
+    "parts_count": 34
+  },
+  {
+    "id": 4359,
+    "diagram_title": "Moulding rocker panels",
+    "image_url": "http://ills.bmwfans.info/165c.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4375,
+    "diagram_title": "Mud flaps",
+    "image_url": "http://ills.bmwfans.info/2qck.png",
+    "parts_count": 4
+  },
+  {
+    "id": 4750,
+    "diagram_title": "Multi-purpose roof box",
+    "image_url": "http://ills.bmwfans.info/209k.png",
+    "parts_count": 16
+  },
+  {
+    "id": 5054,
+    "diagram_title": "Navi.syst.without SA602/spare parts only",
+    "image_url": "http://ills.bmwfans.info/173y.png",
+    "parts_count": 20
+  },
+  {
+    "id": 5048,
+    "diagram_title": "Navigation arrow displ./indiv.parts",
+    "image_url": "http://ills.bmwfans.info/1hj2.png",
+    "parts_count": 30
+  },
+  {
+    "id": 5051,
+    "diagram_title": "Navigation arrow displ./indiv.parts",
+    "image_url": "http://ills.bmwfans.info/12g9.png",
+    "parts_count": 24
+  },
+  {
+    "id": 5057,
+    "diagram_title": "Navigation system with route map (SZ)",
+    "image_url": "http://ills.bmwfans.info/21mn.png",
+    "parts_count": 26
+  },
+  {
+    "id": 4410,
+    "diagram_title": "Nstalling set additio. head light Xenon",
+    "image_url": "http://ills.bmwfans.info/2nic.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4786,
+    "diagram_title": "Racing bike rack",
+    "image_url": "http://ills.bmwfans.info/3zg6.png",
+    "parts_count": 12
+  },
+  {
+    "id": 4790,
+    "diagram_title": "Racing bike rack",
+    "image_url": "http://ills.bmwfans.info/fzul.png",
+    "parts_count": 10
+  },
+  {
+    "id": 4782,
+    "diagram_title": "Rack for racing bicycle",
+    "image_url": "http://ills.bmwfans.info/eb0.png",
+    "parts_count": 18
+  },
+  {
+    "id": 5125,
+    "diagram_title": "Radio Blaupunkt Hamburg MP68",
+    "image_url": "http://ills.bmwfans.info/aki0.png",
+    "parts_count": 8
+  },
+  {
+    "id": 4737,
+    "diagram_title": "Railing carrier",
+    "image_url": "http://ills.bmwfans.info/2u39.png",
+    "parts_count": 6
+  },
+  {
+    "id": 4741,
+    "diagram_title": "Railing carrier",
+    "image_url": "http://ills.bmwfans.info/3gia.png",
+    "parts_count": 8
+  },
+  {
+    "id": 4596,
+    "diagram_title": "Remote control/compass interior mirror",
+    "image_url": "http://ills.bmwfans.info/2yp9.png",
+    "parts_count": 12
+  },
+  {
+    "id": 5066,
+    "diagram_title": "Replacement parts for radio navigation",
+    "image_url": "http://ills.bmwfans.info/2mks.png",
+    "parts_count": 12
+  },
+  {
+    "id": 5069,
+    "diagram_title": "Replacement parts for radio navigation",
+    "image_url": "http://ills.bmwfans.info/3omn.png",
+    "parts_count": 26
+  },
+  {
+    "id": 4670,
+    "diagram_title": "Reserve fuel tank",
+    "image_url": "http://ills.bmwfans.info/d73.png",
+    "parts_count": 8
+  },
+  {
+    "id": 4603,
+    "diagram_title": "Retrof., alumin. decor strips, cube silver",
+    "image_url": "http://ills.bmwfans.info/12i8.png",
+    "parts_count": 20
+  },
+  {
+    "id": 4620,
+    "diagram_title": "Retrof., alumin. decor strips, titanium II",
+    "image_url": "http://ills.bmwfans.info/228e.png",
+    "parts_count": 34
+  },
+  {
+    "id": 4470,
+    "diagram_title": "Retrofit M aluminum foot rest",
+    "image_url": "http://ills.bmwfans.info/1ier.png",
+    "parts_count": 6
+  },
+  {
+    "id": 4628,
+    "diagram_title": "Retrofit fine wood trim, myrtle",
+    "image_url": "http://ills.bmwfans.info/12i8.png",
+    "parts_count": 28
+  },
+  {
+    "id": 4348,
+    "diagram_title": "Retrofit kit M aerodyn. package",
+    "image_url": "http://ills.bmwfans.info/328e.png",
+    "parts_count": 10
+  },
+  {
+    "id": 4386,
+    "diagram_title": "Retrofit kit PDC II",
+    "image_url": "http://ills.bmwfans.info/2wim.png",
+    "parts_count": 14
+  },
+  {
+    "id": 5197,
+    "diagram_title": "Retrofit kit Settop-Box",
+    "image_url": "http://ills.bmwfans.info/2sp4.png",
+    "parts_count": 10
+  },
+  {
+    "id": 5072,
+    "diagram_title": "Retrofit kit car phone Cordless",
+    "image_url": "http://ills.bmwfans.info/21sb.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4396,
+    "diagram_title": "Retrofit kit cornering light",
+    "image_url": "http://ills.bmwfans.info/2scc.png",
+    "parts_count": 4
+  },
+  {
+    "id": 4400,
+    "diagram_title": "Retrofit kit cornering light",
+    "image_url": "http://ills.bmwfans.info/2scc.png",
+    "parts_count": 4
+  },
+  {
+    "id": 5083,
+    "diagram_title": "Retrofit kit for UNI hands-free system",
+    "image_url": "http://ills.bmwfans.info/3g3x.png",
+    "parts_count": 8
+  },
+  {
+    "id": 5087,
+    "diagram_title": "Retrofit kit hands-free facil. CLASSIC",
+    "image_url": "http://ills.bmwfans.info/2dop.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4721,
+    "diagram_title": "Retrofit kit solar-powered ventilation",
+    "image_url": "http://ills.bmwfans.info/2rvz.png",
+    "parts_count": 8
+  },
+  {
+    "id": 5132,
+    "diagram_title": "Retrofit kit, CD-changer",
+    "image_url": "http://ills.bmwfans.info/1spx.png",
+    "parts_count": 8
+  },
+  {
+    "id": 4404,
+    "diagram_title": "Retrofit kit, LED daytime driving lights",
+    "image_url": "http://ills.bmwfans.info/cu26.png",
+    "parts_count": 10
+  },
+  {
+    "id": 5155,
+    "diagram_title": "Retrofit kit, antenna amplifier",
+    "image_url": "http://ills.bmwfans.info/1jzc.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4487,
+    "diagram_title": "Retrofit kit, armrest front",
+    "image_url": "http://ills.bmwfans.info/520.png",
+    "parts_count": 32
+  },
+  {
+    "id": 5090,
+    "diagram_title": "Retrofit kit, hands free facili.Siemens25",
+    "image_url": "http://ills.bmwfans.info/128i.png",
+    "parts_count": 4
+  },
+  {
+    "id": 4378,
+    "diagram_title": "Retrofit kit, headlight cleaning system",
+    "image_url": "http://ills.bmwfans.info/tzf.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4434,
+    "diagram_title": "Retrofit kit, multifunct. steering wheel",
+    "image_url": "http://ills.bmwfans.info/1kxy.png",
+    "parts_count": 4
+  },
+  {
+    "id": 4510,
+    "diagram_title": "Retrofit kit, shift knob, leather illumi.",
+    "image_url": "http://ills.bmwfans.info/yxs.png",
+    "parts_count": 8
+  },
+  {
+    "id": 5148,
+    "diagram_title": "Retrofit kit, teleph. antenna Dualband",
+    "image_url": "http://ills.bmwfans.info/22nj.png",
+    "parts_count": 4
+  },
+  {
+    "id": 5152,
+    "diagram_title": "Retrofit kit, teleph. antenna Singleband",
+    "image_url": "http://ills.bmwfans.info/22ni.png",
+    "parts_count": 4
+  },
+  {
+    "id": 4859,
+    "diagram_title": "Retrofit kit, towing hitch",
+    "image_url": "http://ills.bmwfans.info/12kx.png",
+    "parts_count": 6
+  },
+  {
+    "id": 5074,
+    "diagram_title": "Retrofit kit, voice input",
+    "image_url": "http://ills.bmwfans.info/3292.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4600,
+    "diagram_title": "Retrofit universal remote control",
+    "image_url": "http://ills.bmwfans.info/1ydj.png",
+    "parts_count": 8
+  },
+  {
+    "id": 4713,
+    "diagram_title": "Retrofit, 3rd head restraint, rear",
+    "image_url": "http://ills.bmwfans.info/2rgx.png",
+    "parts_count": 64
+  },
+  {
+    "id": 4355,
+    "diagram_title": "Retrofit, Chrome Line Exterieur",
+    "image_url": "http://ills.bmwfans.info/19lg.png",
+    "parts_count": 22
+  },
+  {
+    "id": 4466,
+    "diagram_title": "Retrofit, M cover, entrance",
+    "image_url": "http://ills.bmwfans.info/1pie.png",
+    "parts_count": 4
+  },
+  {
+    "id": 4371,
+    "diagram_title": "Retrofit, M outside mirror",
+    "image_url": "http://ills.bmwfans.info/1w51.png",
+    "parts_count": 20
+  },
+  {
+    "id": 4367,
+    "diagram_title": "Retrofit, M rear spoiler",
+    "image_url": "http://ills.bmwfans.info/1rqg.png",
+    "parts_count": 4
+  },
+  {
+    "id": 4624,
+    "diagram_title": "Retrofit, Titan-Line Interieur",
+    "image_url": "http://ills.bmwfans.info/228e.png",
+    "parts_count": 26
+  },
+  {
+    "id": 4615,
+    "diagram_title": "Retrofit, aluminum decor strips, pillars",
+    "image_url": "http://ills.bmwfans.info/156r.png",
+    "parts_count": 32
+  },
+  {
+    "id": 4607,
+    "diagram_title": "Retrofit, decor alum., shadow brushed",
+    "image_url": "http://ills.bmwfans.info/156r.png",
+    "parts_count": 24
+  },
+  {
+    "id": 4611,
+    "diagram_title": "Retrofit, decor strips, alum. black Cube",
+    "image_url": "http://ills.bmwfans.info/12i8.png",
+    "parts_count": 28
+  },
+  {
+    "id": 4725,
+    "diagram_title": "Retrofit, glasses compartment",
+    "image_url": "http://ills.bmwfans.info/1cut.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4522,
+    "diagram_title": "Retrofit, handbrake handle",
+    "image_url": "http://ills.bmwfans.info/va3.png",
+    "parts_count": 8
+  },
+  {
+    "id": 4635,
+    "diagram_title": "Retrofit, int.mouldings, matt chrome",
+    "image_url": "http://ills.bmwfans.info/228d.png",
+    "parts_count": 20
+  },
+  {
+    "id": 4514,
+    "diagram_title": "Retrofit, leather gearshift knob",
+    "image_url": "http://ills.bmwfans.info/2ryt.png",
+    "parts_count": 12
+  },
+  {
+    "id": 4499,
+    "diagram_title": "Retrofit, leather selector lever knob",
+    "image_url": "http://ills.bmwfans.info/1sn2.png",
+    "parts_count": 6
+  },
+  {
+    "id": 4717,
+    "diagram_title": "Retrofit, lugg. compartm. emrgncy release",
+    "image_url": "http://ills.bmwfans.info/2au5.png",
+    "parts_count": 10
+  },
+  {
+    "id": 4591,
+    "diagram_title": "Retrofit, lumbar support front",
+    "image_url": "http://ills.bmwfans.info/1jzc.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4483,
+    "diagram_title": "Retrofit, multifunctional armrest rear",
+    "image_url": "http://ills.bmwfans.info/1h7b.png",
+    "parts_count": 34
+  },
+  {
+    "id": 4526,
+    "diagram_title": "Retrofit, net bag at seat backrest",
+    "image_url": "http://ills.bmwfans.info/1kek.png",
+    "parts_count": 12
+  },
+  {
+    "id": 4631,
+    "diagram_title": "Retrofit, real wood birch",
+    "image_url": "http://ills.bmwfans.info/12i8.png",
+    "parts_count": 28
+  },
+  {
+    "id": 4701,
+    "diagram_title": "Retrofit, sun blind, electric",
+    "image_url": "http://ills.bmwfans.info/1jzc.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4709,
+    "diagram_title": "Retrofit, window lift er electr.rear",
+    "image_url": "http://ills.bmwfans.info/1jzc.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4520,
+    "diagram_title": "Retrofit, wooden gearshift knob",
+    "image_url": "http://ills.bmwfans.info/1y56.png",
+    "parts_count": 12
+  },
+  {
+    "id": 4503,
+    "diagram_title": "Retrofit, wooden selector lever knob",
+    "image_url": "http://ills.bmwfans.info/1zi9.png",
+    "parts_count": 6
+  },
+  {
+    "id": 4705,
+    "diagram_title": "Roller sun shield",
+    "image_url": "http://ills.bmwfans.info/dmj.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4745,
+    "diagram_title": "Roof box",
+    "image_url": "http://ills.bmwfans.info/an17.png",
+    "parts_count": 26
+  },
+  {
+    "id": 4770,
+    "diagram_title": "Roof box 350",
+    "image_url": "http://ills.bmwfans.info/2y83.png",
+    "parts_count": 16
+  },
+  {
+    "id": 4773,
+    "diagram_title": "Roof box 460",
+    "image_url": "http://ills.bmwfans.info/ftkj.png",
+    "parts_count": 28
+  },
+  {
+    "id": 4778,
+    "diagram_title": "Roof box 520",
+    "image_url": "http://ills.bmwfans.info/g1tk.png",
+    "parts_count": 16
+  },
+  {
+    "id": 4729,
+    "diagram_title": "Roof rack",
+    "image_url": "http://ills.bmwfans.info/2pej.png",
+    "parts_count": 14
+  },
+  {
+    "id": 4733,
+    "diagram_title": "Roof rack",
+    "image_url": "http://ills.bmwfans.info/d7s.png",
+    "parts_count": 14
+  },
+  {
+    "id": 4766,
+    "diagram_title": "Roof-mounted container 320 LCI",
+    "image_url": "http://ills.bmwfans.info/ftkn.png",
+    "parts_count": 30
+  },
+  {
+    "id": 4459,
+    "diagram_title": "Rubber mat",
+    "image_url": "http://ills.bmwfans.info/ewz.png",
+    "parts_count": 16
+  },
+  {
+    "id": 4530,
+    "diagram_title": "Seat-back storage pocket",
+    "image_url": "http://ills.bmwfans.info/3ebc.png",
+    "parts_count": 4
+  },
+  {
+    "id": 4506,
+    "diagram_title": "Selector lever handle",
+    "image_url": "http://ills.bmwfans.info/1di9.png",
+    "parts_count": 4
+  },
+  {
+    "id": 5039,
+    "diagram_title": "Set of lifting jack",
+    "image_url": "http://ills.bmwfans.info/31ly.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4495,
+    "diagram_title": "Shift knob, Classic",
+    "image_url": "http://ills.bmwfans.info/h5l.png",
+    "parts_count": 12
+  },
+  {
+    "id": 4753,
+    "diagram_title": "Ski-box",
+    "image_url": "http://ills.bmwfans.info/d9a.png",
+    "parts_count": 22
+  },
+  {
+    "id": 4835,
+    "diagram_title": "Ski/snowboard holder",
+    "image_url": "http://ills.bmwfans.info/3k22.png",
+    "parts_count": 6
+  },
+  {
+    "id": 4831,
+    "diagram_title": "Ski/snowboard set",
+    "image_url": "http://ills.bmwfans.info/dpm.png",
+    "parts_count": 18
+  },
+  {
+    "id": 5111,
+    "diagram_title": "Snap-in adapter for Apple devices",
+    "image_url": "http://ills.bmwfans.info/fyvy.png",
+    "parts_count": 14
+  },
+  {
+    "id": 5098,
+    "diagram_title": "Snap-in adapter for MOTOROLA devices",
+    "image_url": "http://ills.bmwfans.info/bzo0.png",
+    "parts_count": 8
+  },
+  {
+    "id": 5105,
+    "diagram_title": "Snap-in adapter for NOKIA devices",
+    "image_url": "http://ills.bmwfans.info/bzo0.png",
+    "parts_count": 24
+  },
+  {
+    "id": 5102,
+    "diagram_title": "Snap-in adapter for SIEMENS devices",
+    "image_url": "http://ills.bmwfans.info/bzo0.png",
+    "parts_count": 6
+  },
+  {
+    "id": 5095,
+    "diagram_title": "Snap-in adapter, BlackBerry/RIM devices",
+    "image_url": "http://ills.bmwfans.info/ct1s.png",
+    "parts_count": 16
+  },
+  {
+    "id": 5108,
+    "diagram_title": "Snap-in adapter, SONY ERICSSON devices",
+    "image_url": "http://ills.bmwfans.info/bzo0.png",
+    "parts_count": 16
+  },
+  {
+    "id": 5033,
+    "diagram_title": "Snow chains",
+    "image_url": "http://ills.bmwfans.info/d6l.png",
+    "parts_count": 4
+  },
+  {
+    "id": 5119,
+    "diagram_title": "Sound Modul system",
+    "image_url": "http://ills.bmwfans.info/120z.png",
+    "parts_count": 18
+  },
+  {
+    "id": 5123,
+    "diagram_title": "Sound Modul system",
+    "image_url": "http://ills.bmwfans.info/2pch.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4824,
+    "diagram_title": "Standard ski carrier for 6 pairs of skis",
+    "image_url": "http://ills.bmwfans.info/d9q.png",
+    "parts_count": 12
+  },
+  {
+    "id": 4828,
+    "diagram_title": "Standard ski holder, for 4 pairs of ski",
+    "image_url": "http://ills.bmwfans.info/1zo2.png",
+    "parts_count": 14
+  },
+  {
+    "id": 5045,
+    "diagram_title": "Strut brace",
+    "image_url": "http://ills.bmwfans.info/3b55.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4820,
+    "diagram_title": "Support snowboard",
+    "image_url": "http://ills.bmwfans.info/d7t.png",
+    "parts_count": 14
+  },
+  {
+    "id": 4839,
+    "diagram_title": "Support tube height extension",
+    "image_url": "http://ills.bmwfans.info/3skp.png",
+    "parts_count": 4
+  },
+  {
+    "id": 5189,
+    "diagram_title": "Suppression filter",
+    "image_url": "http://ills.bmwfans.info/3kyn.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4843,
+    "diagram_title": "Surfboard rack",
+    "image_url": "http://ills.bmwfans.info/d9p.png",
+    "parts_count": 22
+  },
+  {
+    "id": 5060,
+    "diagram_title": "TMC module",
+    "image_url": "http://ills.bmwfans.info/1jzc.png",
+    "parts_count": 2
+  },
+  {
+    "id": 5077,
+    "diagram_title": "Telephone console",
+    "image_url": "http://ills.bmwfans.info/ug8.png",
+    "parts_count": 14
+  },
+  {
+    "id": 5042,
+    "diagram_title": "Tire Mobility Set",
+    "image_url": "http://ills.bmwfans.info/3hjg.png",
+    "parts_count": 8
+  },
+  {
+    "id": 4798,
+    "diagram_title": "Touring bicycle holder",
+    "image_url": "http://ills.bmwfans.info/2ubb.png",
+    "parts_count": 10
+  },
+  {
+    "id": 4802,
+    "diagram_title": "Touring bicycle holder",
+    "image_url": "http://ills.bmwfans.info/fsd.png",
+    "parts_count": 30
+  },
+  {
+    "id": 4808,
+    "diagram_title": "Touring bicycle holder",
+    "image_url": "http://ills.bmwfans.info/d9e.png",
+    "parts_count": 22
+  },
+  {
+    "id": 4812,
+    "diagram_title": "Touring bicycle holder",
+    "image_url": "http://ills.bmwfans.info/fzu6.png",
+    "parts_count": 10
+  },
+  {
+    "id": 4902,
+    "diagram_title": "Tow bar",
+    "image_url": "http://ills.bmwfans.info/b02v.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4906,
+    "diagram_title": "Tow rope",
+    "image_url": "http://ills.bmwfans.info/38f7.png",
+    "parts_count": 2
+  },
+  {
+    "id": 5194,
+    "diagram_title": "Tracking Products",
+    "image_url": "http://ills.bmwfans.info/1jzc.png",
+    "parts_count": 4
+  },
+  {
+    "id": 4915,
+    "diagram_title": "Trailer",
+    "image_url": "http://ills.bmwfans.info/10cu.png",
+    "parts_count": 28
+  },
+  {
+    "id": 4919,
+    "diagram_title": "Trailer hood",
+    "image_url": "http://ills.bmwfans.info/19n2.png",
+    "parts_count": 4
+  },
+  {
+    "id": 4934,
+    "diagram_title": "Trailer lashing system",
+    "image_url": "http://ills.bmwfans.info/10cy.png",
+    "parts_count": 6
+  },
+  {
+    "id": 4937,
+    "diagram_title": "Trailer loading ramp",
+    "image_url": "http://ills.bmwfans.info/8ho.png",
+    "parts_count": 14
+  },
+  {
+    "id": 4926,
+    "diagram_title": "Trailer motorcycle module",
+    "image_url": "http://ills.bmwfans.info/2u4t.png",
+    "parts_count": 16
+  },
+  {
+    "id": 4941,
+    "diagram_title": "Trailer rear supports",
+    "image_url": "http://ills.bmwfans.info/8dd.png",
+    "parts_count": 8
+  },
+  {
+    "id": 4930,
+    "diagram_title": "Trailer transport module",
+    "image_url": "http://ills.bmwfans.info/5as.png",
+    "parts_count": 22
+  },
+  {
+    "id": 4946,
+    "diagram_title": "Trailer, indiv. parts, brake pull rods",
+    "image_url": "http://ills.bmwfans.info/mcv.png",
+    "parts_count": 30
+  },
+  {
+    "id": 4970,
+    "diagram_title": "Trailer, indiv. parts, deflector housing",
+    "image_url": "http://ills.bmwfans.info/m5n.png",
+    "parts_count": 42
+  },
+  {
+    "id": 5007,
+    "diagram_title": "Trailer, indiv. parts, electr. system",
+    "image_url": "http://ills.bmwfans.info/1brk.png",
+    "parts_count": 90
+  },
+  {
+    "id": 4982,
+    "diagram_title": "Trailer, indiv. parts, floor assy",
+    "image_url": "http://ills.bmwfans.info/pbt.png",
+    "parts_count": 56
+  },
+  {
+    "id": 4991,
+    "diagram_title": "Trailer, indiv. parts, load ramp catch",
+    "image_url": "http://ills.bmwfans.info/pol.png",
+    "parts_count": 20
+  },
+  {
+    "id": 4986,
+    "diagram_title": "Trailer, indiv. parts, load ramp well",
+    "image_url": "http://ills.bmwfans.info/1wim.png",
+    "parts_count": 48
+  },
+  {
+    "id": 4963,
+    "diagram_title": "Trailer, indiv. parts, overrun facility",
+    "image_url": "http://ills.bmwfans.info/mdb.png",
+    "parts_count": 40
+  },
+  {
+    "id": 4954,
+    "diagram_title": "Trailer, indiv. parts, wheel brake",
+    "image_url": "http://ills.bmwfans.info/maj.png",
+    "parts_count": 42
+  },
+  {
+    "id": 4974,
+    "diagram_title": "Trailer, indiv. parts, wheel suspension",
+    "image_url": "http://ills.bmwfans.info/m8g.png",
+    "parts_count": 44
+  },
+  {
+    "id": 4978,
+    "diagram_title": "Trailer, individual parts, chassis frame",
+    "image_url": "http://ills.bmwfans.info/m86.png",
+    "parts_count": 50
+  },
+  {
+    "id": 4950,
+    "diagram_title": "Trailer, individual parts, handbrake",
+    "image_url": "http://ills.bmwfans.info/m5q.png",
+    "parts_count": 16
+  },
+  {
+    "id": 5002,
+    "diagram_title": "Trailer, individual parts, plastic parts",
+    "image_url": "http://ills.bmwfans.info/vtx.png",
+    "parts_count": 36
+  },
+  {
+    "id": 4995,
+    "diagram_title": "Trailer, individual parts, ram guard",
+    "image_url": "http://ills.bmwfans.info/m89.png",
+    "parts_count": 12
+  },
+  {
+    "id": 4998,
+    "diagram_title": "Trailer, individual parts, rear support",
+    "image_url": "http://ills.bmwfans.info/mm6.png",
+    "parts_count": 18
+  },
+  {
+    "id": 4967,
+    "diagram_title": "Trailer, individual parts, support wheel",
+    "image_url": "http://ills.bmwfans.info/md2.png",
+    "parts_count": 6
+  },
+  {
+    "id": 4959,
+    "diagram_title": "Trailer, individual parts, towbar",
+    "image_url": "http://ills.bmwfans.info/1wia.png",
+    "parts_count": 58
+  },
+  {
+    "id": 5011,
+    "diagram_title": "Twin electrics, caravan leads",
+    "image_url": "http://ills.bmwfans.info/a7is.png",
+    "parts_count": 4
+  },
+  {
+    "id": 4690,
+    "diagram_title": "Umbrella with bag",
+    "image_url": "http://ills.bmwfans.info/dnga.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4658,
+    "diagram_title": "Universal coat hanger",
+    "image_url": "http://ills.bmwfans.info/33x3.png",
+    "parts_count": 4
+  },
+  {
+    "id": 5036,
+    "diagram_title": "Universal hoist",
+    "image_url": "http://ills.bmwfans.info/a4ml.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4898,
+    "diagram_title": "Universal prodective rear cover",
+    "image_url": "http://ills.bmwfans.info/3id3.png",
+    "parts_count": 2
+  },
+  {
+    "id": 4855,
+    "diagram_title": "Universal support",
+    "image_url": "http://ills.bmwfans.info/d87.png",
+    "parts_count": 8
+  },
+  {
+    "id": 5063,
+    "diagram_title": "Upgrade navigation system (SZ)",
+    "image_url": "http://ills.bmwfans.info/22jj.png",
+    "parts_count": 6
+  },
+  {
+    "id": 4425,
+    "diagram_title": "Wood/leather steering wheel rim",
+    "image_url": "http://ills.bmwfans.info/1gil.png",
+    "parts_count": 4
+  },
+  {
+    "id": 4430,
+    "diagram_title": "Woodrimmed sport steer. wheel Airb.-Smar",
+    "image_url": "http://ills.bmwfans.info/1tjb.png",
+    "parts_count": 2
+  }
+]

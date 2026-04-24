@@ -1,0 +1,109 @@
+{
+  "id": 1971,
+  "diagram_title": "Alarm system",
+  "image_url": "http://ills.bmwfans.info/d7j.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 11 9 418 262",
+      "quantity": 1,
+      "description": "Installation kit alarm system",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 9 418 262",
+      "quantity": 1,
+      "description": "Installation kit alarm system",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "82 11 9 418 262",
+      "quantity": 1,
+      "description": "Installation kit alarm system",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 11 9 418 272",
+      "quantity": 1,
+      "description": "Control unit alarm system",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 11 9 418 272",
+      "quantity": 1,
+      "description": "Control unit alarm system",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 11 9 418 272",
+      "quantity": 1,
+      "description": "Control unit alarm system",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 11 9 418 271",
+      "quantity": 1,
+      "description": "Ultra sonic-module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 11 9 418 271",
+      "quantity": 1,
+      "description": "Ultra sonic-module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 11 9 418 271",
+      "quantity": 1,
+      "description": "Ultra sonic-module",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "82 11 9 418 278",
+      "quantity": 1,
+      "description": "Window lifter modul",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "82 11 9 418 278",
+      "quantity": 1,
+      "description": "Window lifter modul",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "82 11 9 418 278",
+      "quantity": 1,
+      "description": "Window lifter modul",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

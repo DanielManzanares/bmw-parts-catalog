@@ -1,0 +1,221 @@
+{
+  "id": 3035,
+  "diagram_title": "Front body parts",
+  "image_url": "http://ills.bmwfans.info/aef.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "41 11 8 166 987",
+      "quantity": 1,
+      "description": "Complete left engine support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "41 11 8 166 988",
+      "quantity": 1,
+      "description": "Complete left engine support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "41 11 8 122 551",
+      "quantity": 1,
+      "description": "Section of left engine support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "41 11 8 122 552",
+      "quantity": 1,
+      "description": "Section of left engine support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "41 11 8 168 909",
+      "quantity": 1,
+      "description": "Exterior left engine support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "41 11 8 168 910",
+      "quantity": 1,
+      "description": "Exterior left engine support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "41 13 8 168 907",
+      "quantity": 2,
+      "description": "Support for shock absorber",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "41 11 8 122 557",
+      "quantity": 1,
+      "description": "Support for left radiator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "41 11 8 122 558",
+      "quantity": 1,
+      "description": "Support for left radiator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "41 11 8 151 121",
+      "quantity": 1,
+      "description": "Left stabilizer support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "41 11 8 151 122",
+      "quantity": 1,
+      "description": "Left stabilizer support",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "41 12 8 161 497",
+      "quantity": 1,
+      "description": "Left engine support reinforcement",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "41 12 8 161 498",
+      "quantity": 1,
+      "description": "Left engine support reinforcement",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "41 11 8 122 547",
+      "quantity": 1,
+      "description": "Supporting strut, front wall left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "41 11 8 122 548",
+      "quantity": 1,
+      "description": "Supporting strut, front wall left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "41 13 8 122 560",
+      "quantity": 1,
+      "description": "Front panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "41 11 8 144 039",
+      "quantity": 1,
+      "description": "Bent front cross member",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "41 13 8 132 178",
+      "quantity": 1,
+      "description": "Bent front cross member",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "41 13 8 132 178",
+      "quantity": 1,
+      "description": "Bent front cross member",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "41 00 9 163 211",
+      "quantity": 2,
+      "description": "Torx bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "07 14 7 182 215",
+      "quantity": 1,
+      "description": "Earth pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "41 11 8 367 249",
+      "quantity": 1,
+      "description": "Earth pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "41 33 1 977 940",
+      "quantity": 1,
+      "description": "Front panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "41 33 8 122 472",
+      "quantity": 1,
+      "description": "Front panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "41 33 8 225 982",
+      "quantity": 1,
+      "description": "Front panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "07 11 9 901 359",
+      "quantity": 4,
+      "description": "Hex head screw",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

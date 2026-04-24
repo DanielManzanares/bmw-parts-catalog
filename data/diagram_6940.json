@@ -1,0 +1,29 @@
+{
+  "id": 6940,
+  "diagram_title": "Third stoplamp",
+  "image_url": "http://ills.bmwfans.info/10mi.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 184,
+  "category_name": "Lighting",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "63 25 7 219 086",
+      "quantity": 1,
+      "description": "Third stoplamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 13 8 373 583",
+      "quantity": 1,
+      "description": "Universal pin terminal uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

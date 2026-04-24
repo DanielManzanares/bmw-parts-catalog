@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1328,
+    "series_code": "E28",
+    "model_code": "524td-M21",
+    "engine_code": null,
+    "region": "Europe",
+    "production_date": "feb1984",
+    "owner": "Pau y Marta",
+    "series_name": "5 Series E28",
+    "diagram_count": 485,
+    "parts_count": 5357
+  },
+  {
+    "id": 1,
+    "series_code": "E36",
+    "model_code": "318is-M42",
+    "engine_code": null,
+    "region": "Europe",
+    "production_date": "L-M",
+    "owner": "Manza",
+    "series_name": "3 Series E36",
+    "diagram_count": 731,
+    "parts_count": 6758
+  },
+  {
+    "id": 200,
+    "series_code": "E36",
+    "model_code": "320i-M50",
+    "engine_code": null,
+    "region": "Europe",
+    "production_date": "L-M",
+    "owner": "Jowy",
+    "series_name": "3 Series E36",
+    "diagram_count": 751,
+    "parts_count": 7160
+  },
+  {
+    "id": 405,
+    "series_code": "E46",
+    "model_code": "318Ci-N46",
+    "engine_code": null,
+    "region": "Europe",
+    "production_date": "L-N",
+    "owner": "Cese",
+    "series_name": "3 Series E46",
+    "diagram_count": 767,
+    "parts_count": 6294
+  },
+  {
+    "id": 617,
+    "series_code": "E46",
+    "model_code": "318i-N42",
+    "engine_code": null,
+    "region": "Europe",
+    "production_date": "L-N",
+    "owner": "Cese",
+    "series_name": "3 Series E46",
+    "diagram_count": 1200,
+    "parts_count": 8111
+  },
+  {
+    "id": 848,
+    "series_code": "E46",
+    "model_code": "320Ci-M54",
+    "engine_code": null,
+    "region": "Europe",
+    "production_date": "L-N",
+    "owner": "Porti",
+    "series_name": "3 Series E46",
+    "diagram_count": 1183,
+    "parts_count": 7573
+  },
+  {
+    "id": 1530,
+    "series_code": "E46",
+    "model_code": "323i-M52",
+    "engine_code": "M52",
+    "region": "Europe",
+    "production_date": "feb2000",
+    "owner": "Manza",
+    "series_name": "3 Series E46",
+    "diagram_count": 976,
+    "parts_count": 7532
+  },
+  {
+    "id": 1087,
+    "series_code": "E46",
+    "model_code": "330Ci-M54",
+    "engine_code": null,
+    "region": "Europe",
+    "production_date": "L-N",
+    "owner": "Iñigo",
+    "series_name": "3 Series E46",
+    "diagram_count": 1198,
+    "parts_count": 7578
+  }
+]

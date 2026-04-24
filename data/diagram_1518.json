@@ -1,0 +1,253 @@
+{
+  "id": 1518,
+  "diagram_title": "Cover material, running meter",
+  "image_url": "http://ills.bmwfans.info/bpx.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "51 93 1 883 777",
+      "quantity": 1,
+      "description": "Upholstery imitation leathear",
+      "price_eur": null,
+      "compatible_models": "E23, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 93 1 828 200",
+      "quantity": 1,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E28, E3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 93 1 875 742",
+      "quantity": 1,
+      "description": "Upholstery imitation leathear",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 93 1 911 631",
+      "quantity": 1,
+      "description": "Upholstery imitation leathear",
+      "price_eur": null,
+      "compatible_models": "E23, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 93 1 911 632",
+      "quantity": 1,
+      "description": "82",
+      "price_eur": null,
+      "compatible_models": "E23, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 93 1 883 777",
+      "quantity": 1,
+      "description": "Upholstery imitation leathear",
+      "price_eur": null,
+      "compatible_models": "E23, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 93 1 828 200",
+      "quantity": 1,
+      "description": "84",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E28, E3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 93 1 875 742",
+      "quantity": 1,
+      "description": "Upholstery imitation leathear",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 93 1 911 631",
+      "quantity": 1,
+      "description": "Upholstery imitation leathear",
+      "price_eur": null,
+      "compatible_models": "E23, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 93 1 911 632",
+      "quantity": 1,
+      "description": "82",
+      "price_eur": null,
+      "compatible_models": "E23, E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 1 883 772",
+      "quantity": 1,
+      "description": "Upholstery vinyl piniengruen",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 1 875 739",
+      "quantity": 1,
+      "description": "Upholstery vinyl pacific",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 1 905 498",
+      "quantity": 1,
+      "description": "Upholstery vinyl schwarz",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E9"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 1 911 617",
+      "quantity": 1,
+      "description": "Upholstery vinyl nutria",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 1 911 618",
+      "quantity": 1,
+      "description": "Upholstery vinyl perlbeige",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 1 883 772",
+      "quantity": 1,
+      "description": "Upholstery vinyl piniengruen",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 1 875 739",
+      "quantity": 1,
+      "description": "Upholstery vinyl pacific",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 1 905 498",
+      "quantity": 1,
+      "description": "Upholstery vinyl schwarz",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E9"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 1 911 617",
+      "quantity": 1,
+      "description": "Upholstery vinyl nutria",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 92 1 911 618",
+      "quantity": 1,
+      "description": "Upholstery vinyl perlbeige",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 92 1 875 739",
+      "quantity": 1,
+      "description": "Upholstery vinyl pacific",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 92 1 883 772",
+      "quantity": 1,
+      "description": "Upholstery vinyl piniengruen",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 92 1 905 498",
+      "quantity": 1,
+      "description": "Upholstery vinyl schwarz",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E9"
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 92 1 911 617",
+      "quantity": 1,
+      "description": "Upholstery vinyl nutria",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 92 1 911 618",
+      "quantity": 1,
+      "description": "Upholstery vinyl perlbeige",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 92 1 875 739",
+      "quantity": 1,
+      "description": "Upholstery vinyl pacific",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 92 1 883 772",
+      "quantity": 1,
+      "description": "Upholstery vinyl piniengruen",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 92 1 905 498",
+      "quantity": 1,
+      "description": "Upholstery vinyl schwarz",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E9"
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 92 1 911 617",
+      "quantity": 1,
+      "description": "Upholstery vinyl nutria",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 92 1 911 618",
+      "quantity": 1,
+      "description": "Upholstery vinyl perlbeige",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    }
+  ]
+}

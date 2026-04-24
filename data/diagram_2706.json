@@ -1,0 +1,213 @@
+{
+  "id": 2706,
+  "diagram_title": "Audio-system with cd-changer",
+  "image_url": "http://ills.bmwfans.info/ful.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 059 410",
+      "quantity": 1,
+      "description": "Radio Bavaria Electronic CD II",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 060 612",
+      "quantity": 1,
+      "description": "Radio Bavaria Electronic CD II",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 060 613",
+      "quantity": 1,
+      "description": "Radio Bavaria Electronic CD II",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 060 614",
+      "quantity": 1,
+      "description": "Radio Bavaria Electronic CD II",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 400 871",
+      "quantity": 1,
+      "description": "Radio Bavaria Electronic CD II",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 402 082",
+      "quantity": 1,
+      "description": "Radio BMW Reverse RDS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 402 067",
+      "quantity": 1,
+      "description": "Radio BMW Reverse RDS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 402 083",
+      "quantity": 1,
+      "description": "Radio BMW Reverse RDS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 9 402 062",
+      "quantity": 1,
+      "description": "Radio BMW Reverse RDS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 12 9 400 872",
+      "quantity": 1,
+      "description": "Radio Bavaria C Professional RDS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 12 9 410 653",
+      "quantity": 1,
+      "description": "Conversion kit hifi 1 to hifi 2",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 12 9 410 652",
+      "quantity": 1,
+      "description": "Conversion kit hifi 1 to hifi 2",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 12 9 410 617",
+      "quantity": 1,
+      "description": "Conversion kit hifi 1 to hifi 2",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 12 9 410 618",
+      "quantity": 1,
+      "description": "Conversion kit hifi 1 to hifi 2",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 12 9 410 619",
+      "quantity": 1,
+      "description": "Conversion kit hifi 1 to hifi 2",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 12 9 410 620",
+      "quantity": 1,
+      "description": "Conversion kit hifi 1 to hifi 2",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "82 83 9 404 279",
+      "quantity": 1,
+      "description": "Sound Modul woofer/mid-rng speaker, 130mm",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "82 83 9 404 273",
+      "quantity": 1,
+      "description": "SoundModul woofer, mid-range speak+tweet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "82 83 9 404 290",
+      "quantity": 1,
+      "description": "Sound Modul system",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "65 12 8 355 801",
+      "quantity": 1,
+      "description": "BMW Bavaria CD6 Selection",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "65 12 8 355 801",
+      "quantity": 1,
+      "description": "BMW Bavaria CD6 Selection",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "65 12 8 360 284",
+      "quantity": 1,
+      "description": "BMW 6 CD changer A",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "65 12 8 361 266",
+      "quantity": 1,
+      "description": "Rmfd bmw 6 cd changer a",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "65 12 8 360 284",
+      "quantity": 1,
+      "description": "BMW 6 CD changer A",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "65 12 8 361 266",
+      "quantity": 1,
+      "description": "Rmfd bmw 6 cd changer a",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

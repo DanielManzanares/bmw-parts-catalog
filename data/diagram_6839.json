@@ -1,0 +1,189 @@
+{
+  "id": 6839,
+  "diagram_title": "Front/front lateral turn indicator",
+  "image_url": "http://ills.bmwfans.info/2c5v.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 184,
+  "category_name": "Lighting",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "63 13 8 370 719",
+      "quantity": 1,
+      "description": "Additional turn indicator lamp, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 13 8 370 720",
+      "quantity": 1,
+      "description": "Additional turn indicator lamp, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 13 2 228 591",
+      "quantity": 1,
+      "description": "Addit. turn indicator lamp, left white",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 13 2 228 592",
+      "quantity": 1,
+      "description": "Addit. turn indicator lamp, right white",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 21 7 160 797",
+      "quantity": 2,
+      "description": "Longlife bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 21 7 160 798",
+      "quantity": 1,
+      "description": "Bulb yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 50 0 030 663",
+      "quantity": 1,
+      "description": "Bulb Polar",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 12 0 420 391",
+      "quantity": 1,
+      "description": "Conversion kit, bulbs, silver",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 13 8 360 205",
+      "quantity": 2,
+      "description": "Bulb socket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 13 8 360 205",
+      "quantity": 2,
+      "description": "Bulb socket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "63 12 6 904 299",
+      "quantity": 1,
+      "description": "Front left turn indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "63 12 6 904 300",
+      "quantity": 1,
+      "description": "Front left turn indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "63 12 6 904 307",
+      "quantity": 1,
+      "description": "Front left turn indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "63 12 6 904 308",
+      "quantity": 1,
+      "description": "Front left turn indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "63 13 8 380 211",
+      "quantity": 2,
+      "description": "Bulb socket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "63 13 6 904 823",
+      "quantity": 2,
+      "description": "Bulb socket f yellow bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "63 13 6 904 823",
+      "quantity": 1,
+      "description": "Bulb socket f yellow bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 21 7 160 789",
+      "quantity": 2,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 21 6 926 920",
+      "quantity": 2,
+      "description": "Longlife bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 21 7 160 790",
+      "quantity": 2,
+      "description": "04",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 21 7 160 791",
+      "quantity": 2,
+      "description": "Bulb yellow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 21 7 160 791",
+      "quantity": 1,
+      "description": "Bulb yellow",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

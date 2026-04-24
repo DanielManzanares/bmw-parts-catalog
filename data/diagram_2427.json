@@ -1,0 +1,245 @@
+{
+  "id": 2427,
+  "diagram_title": "Slid.lift. roof-cover/ceiling frame",
+  "image_url": "http://ills.bmwfans.info/bsk.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1639,
+  "category_name": "Sliding Roof / Folding Top",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "54 12 1 912 321",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "54 12 1 917 390",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "54 12 1 870 086",
+      "quantity": 1,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "54 12 1 920 052",
+      "quantity": 1,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "54 12 1 920 052",
+      "quantity": 1,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "54 12 1 881 928",
+      "quantity": 1,
+      "description": "Ceiling frame",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "54 12 1 915 931",
+      "quantity": 1,
+      "description": "Ceiling frame covered cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "54 12 1 915 932",
+      "quantity": 1,
+      "description": "Ceiling frame covered cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "54 12 1 927 454",
+      "quantity": 1,
+      "description": "Ceiling frame covered cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "54 12 1 927 455",
+      "quantity": 1,
+      "description": "Ceiling frame covered cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "54 12 1 915 931",
+      "quantity": 1,
+      "description": "Ceiling frame covered cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "54 12 1 915 932",
+      "quantity": 1,
+      "description": "Ceiling frame covered cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "54 12 1 911 794",
+      "quantity": 1,
+      "description": "Ceiling frame covered cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "54 12 1 911 795",
+      "quantity": 1,
+      "description": "Ceiling frame covered cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "54 12 1 927 461",
+      "quantity": 1,
+      "description": "Ceiling frame covered cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "54 12 1 927 462",
+      "quantity": 1,
+      "description": "Ceiling frame covered cloth",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "54 12 1 848 635",
+      "quantity": 6,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "54 12 1 857 141",
+      "quantity": 1,
+      "description": "Connection piece left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "54 12 1 857 142",
+      "quantity": 1,
+      "description": "Connection piece left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 949 613",
+      "quantity": 2,
+      "description": "Rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 949 614",
+      "quantity": 2,
+      "description": "Rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "54 12 1 936 899",
+      "quantity": 2,
+      "description": "Sliding jaw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "54 12 1 933 099",
+      "quantity": 2,
+      "description": "Sliding jaw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "54 12 1 933 905",
+      "quantity": 2,
+      "description": "Sliding jaw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "54 12 1 849 771",
+      "quantity": 1,
+      "description": "Rain gutter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "54 12 1 933 550",
+      "quantity": 2,
+      "description": "Sliding jaw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "27",
+      "part_number": "54 12 1 934 933",
+      "quantity": 2,
+      "description": "Supporting bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "28",
+      "part_number": "07 11 9 949 613",
+      "quantity": 2,
+      "description": "Rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "30",
+      "part_number": "54 12 1 921 536",
+      "quantity": 1,
+      "description": "Slide rail",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

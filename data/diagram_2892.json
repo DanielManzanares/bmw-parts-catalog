@@ -1,0 +1,53 @@
+{
+  "id": 2892,
+  "diagram_title": "Sound Modul system",
+  "image_url": "http://ills.bmwfans.info/1228.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 89 9 415 859",
+      "quantity": 1,
+      "description": "Supplementary kit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 48 8 212 533",
+      "quantity": 1,
+      "description": "Loudspeaker recess rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 48 8 212 534",
+      "quantity": 1,
+      "description": "Loudspeaker recess rear right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "65 25 6 907 123",
+      "quantity": 1,
+      "description": "Amplifier",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 11 8 385 332",
+      "quantity": 1,
+      "description": "Audio wiring harness Stereo",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

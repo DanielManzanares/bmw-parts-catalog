@@ -1,0 +1,117 @@
+{
+  "id": 3440,
+  "diagram_title": "Steering column switch",
+  "image_url": "http://ills.bmwfans.info/a57m.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 31 8 360 915",
+      "quantity": 1,
+      "description": "Wiper switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 31 1 393 304",
+      "quantity": 1,
+      "description": "Wiper switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 31 8 360 899",
+      "quantity": 1,
+      "description": "Switch turn signal, dip-dim control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 31 8 360 907",
+      "quantity": 1,
+      "description": "Switch turn signal, dip-dim control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 31 8 360 901",
+      "quantity": 1,
+      "description": "Switch turn signal, dip-dim control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 31 8 360 909",
+      "quantity": 1,
+      "description": "Switch turn signal, dip-dim control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 31 8 360 926",
+      "quantity": 1,
+      "description": "Cruise control switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 31 1 390 967",
+      "quantity": 1,
+      "description": "Button for cruise control switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 31 1 390 968",
+      "quantity": 1,
+      "description": "Button for cruise control switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 31 1 390 969",
+      "quantity": 1,
+      "description": "Button for cruise control switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 31 1 390 970",
+      "quantity": 1,
+      "description": "Button for cruise control switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 31 1 390 971",
+      "quantity": 1,
+      "description": "Button for cruise control switch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 13 1 378 137",
+      "quantity": 1,
+      "description": "Plug housing, white",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

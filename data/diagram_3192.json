@@ -1,0 +1,293 @@
+{
+  "id": 3192,
+  "diagram_title": "Trim panel A- / B- / C-Column",
+  "image_url": "http://ills.bmwfans.info/b3h.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 173 511",
+      "quantity": 1,
+      "description": "Covering apron left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 173 512",
+      "quantity": 1,
+      "description": "Covering apron left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 173 513",
+      "quantity": 1,
+      "description": "Covering apron left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 8 173 514",
+      "quantity": 1,
+      "description": "Covering apron left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 2 251 801",
+      "quantity": 1,
+      "description": "Covering apron left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 2 251 802",
+      "quantity": 1,
+      "description": "Covering apron left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 2 251 801",
+      "quantity": 1,
+      "description": "Covering apron left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 2 251 802",
+      "quantity": 1,
+      "description": "Covering apron left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 2 251 801",
+      "quantity": 1,
+      "description": "Covering apron left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 2 251 802",
+      "quantity": 1,
+      "description": "Covering apron left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 2 251 801",
+      "quantity": 1,
+      "description": "Covering apron left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 43 2 251 802",
+      "quantity": 1,
+      "description": "Covering apron left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 43 7 194 187",
+      "quantity": 1,
+      "description": "Clip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 43 1 960 983",
+      "quantity": 2,
+      "description": "Cover f vertical safety belt adjustment",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 43 8 173 519",
+      "quantity": 1,
+      "description": "Trim panel column, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 43 8 173 520",
+      "quantity": 1,
+      "description": "Trim panel column, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 43 8 173 521",
+      "quantity": 1,
+      "description": "Trim panel column, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 43 8 173 522",
+      "quantity": 1,
+      "description": "Trim panel column, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 43 2 252 183",
+      "quantity": 1,
+      "description": "Trim panel column, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 43 2 252 184",
+      "quantity": 1,
+      "description": "Trim panel column, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 43 2 252 183",
+      "quantity": 1,
+      "description": "Trim panel column, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 43 2 252 184",
+      "quantity": 1,
+      "description": "Trim panel column, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 43 2 252 183",
+      "quantity": 1,
+      "description": "Trim panel column, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 43 2 252 184",
+      "quantity": 1,
+      "description": "Trim panel column, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 43 2 252 183",
+      "quantity": 1,
+      "description": "Trim panel column, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 43 2 252 184",
+      "quantity": 1,
+      "description": "Trim panel column, rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 46 8 130 863",
+      "quantity": 1,
+      "description": "Rear cross member cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 46 8 110 359",
+      "quantity": 4,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 46 8 151 500",
+      "quantity": 4,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 43 8 151 405",
+      "quantity": 1,
+      "description": "Covering column-center left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 43 8 151 406",
+      "quantity": 1,
+      "description": "Covering column-center left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 43 8 173 515",
+      "quantity": 1,
+      "description": "Covering column-center left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 43 8 173 516",
+      "quantity": 1,
+      "description": "Covering column-center left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 43 8 173 517",
+      "quantity": 1,
+      "description": "Covering column-center left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 43 8 173 518",
+      "quantity": 1,
+      "description": "Covering column-center left",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

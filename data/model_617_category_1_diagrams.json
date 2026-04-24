@@ -1,0 +1,404 @@
+[
+  {
+    "id": 5342,
+    "diagram_title": "Belt Drive Climate Compressor",
+    "image_url": "http://ills.bmwfans.info/1sua.png",
+    "parts_count": 5
+  },
+  {
+    "id": 5339,
+    "diagram_title": "Belt Drive Water Pump/Alternator",
+    "image_url": "http://ills.bmwfans.info/1su3.png",
+    "parts_count": 2
+  },
+  {
+    "id": 5336,
+    "diagram_title": "Belt Drive-Vibration Damper",
+    "image_url": "http://ills.bmwfans.info/1su1.png",
+    "parts_count": 5
+  },
+  {
+    "id": 5382,
+    "diagram_title": "Cooling System Water Hoses",
+    "image_url": "http://ills.bmwfans.info/36e0.png",
+    "parts_count": 6
+  },
+  {
+    "id": 5333,
+    "diagram_title": "Crankcase-Ventilation/oil separator",
+    "image_url": "http://ills.bmwfans.info/1su0.png",
+    "parts_count": 7
+  },
+  {
+    "id": 5347,
+    "diagram_title": "Crankshaft Connecting Rod",
+    "image_url": "http://ills.bmwfans.info/2u2w.png",
+    "parts_count": 8
+  },
+  {
+    "id": 5345,
+    "diagram_title": "Crankshaft with bearing shells",
+    "image_url": "http://ills.bmwfans.info/1vfs.png",
+    "parts_count": 32
+  },
+  {
+    "id": 5348,
+    "diagram_title": "Crankshaft-Pistons",
+    "image_url": "http://ills.bmwfans.info/1hq4.png",
+    "parts_count": 11
+  },
+  {
+    "id": 5319,
+    "diagram_title": "Cylinder Head",
+    "image_url": "http://ills.bmwfans.info/1stx.png",
+    "parts_count": 15
+  },
+  {
+    "id": 5322,
+    "diagram_title": "Cylinder Head Attached Parts",
+    "image_url": "http://ills.bmwfans.info/d6i8.png",
+    "parts_count": 22
+  },
+  {
+    "id": 5330,
+    "diagram_title": "Cylinder head cover",
+    "image_url": "http://ills.bmwfans.info/2qp9.png",
+    "parts_count": 13
+  },
+  {
+    "id": 5326,
+    "diagram_title": "Cylinder head, electr. add-on parts",
+    "image_url": "http://ills.bmwfans.info/34ga.png",
+    "parts_count": 13
+  },
+  {
+    "id": 5388,
+    "diagram_title": "Emission control-air pump",
+    "image_url": "http://ills.bmwfans.info/1su8.png",
+    "parts_count": 15
+  },
+  {
+    "id": 5391,
+    "diagram_title": "Emission control-air pump",
+    "image_url": "http://ills.bmwfans.info/2ay5.png",
+    "parts_count": 11
+  },
+  {
+    "id": 5313,
+    "diagram_title": "Engine Block Mounting Parts",
+    "image_url": "http://ills.bmwfans.info/34xz.png",
+    "parts_count": 12
+  },
+  {
+    "id": 5394,
+    "diagram_title": "Engine acoustics",
+    "image_url": "http://ills.bmwfans.info/1su6.png",
+    "parts_count": 3
+  },
+  {
+    "id": 5310,
+    "diagram_title": "Engine block",
+    "image_url": "http://ills.bmwfans.info/3lrp.png",
+    "parts_count": 16
+  },
+  {
+    "id": 5351,
+    "diagram_title": "Flywheel / Twin Mass Flywheel",
+    "image_url": "http://ills.bmwfans.info/fjv9.png",
+    "parts_count": 4
+  },
+  {
+    "id": 5354,
+    "diagram_title": "Flywheel automatic",
+    "image_url": "http://ills.bmwfans.info/1vs9.png",
+    "parts_count": 4
+  },
+  {
+    "id": 5385,
+    "diagram_title": "Intake manifold system",
+    "image_url": "http://ills.bmwfans.info/2t6c.png",
+    "parts_count": 21
+  },
+  {
+    "id": 5376,
+    "diagram_title": "Lubricat.syst.-oil filter, heat exchanger",
+    "image_url": "http://ills.bmwfans.info/a6pu.png",
+    "parts_count": 12
+  },
+  {
+    "id": 5316,
+    "diagram_title": "Oil pan/oil level indicator",
+    "image_url": "http://ills.bmwfans.info/21ia.png",
+    "parts_count": 15
+  },
+  {
+    "id": 5373,
+    "diagram_title": "Oil pump and compensating shaft drive",
+    "image_url": "http://ills.bmwfans.info/1stv.png",
+    "parts_count": 9
+  },
+  {
+    "id": 5370,
+    "diagram_title": "Oil pump and compensating shaft unit",
+    "image_url": "http://ills.bmwfans.info/1suh.png",
+    "parts_count": 14
+  },
+  {
+    "id": 5402,
+    "diagram_title": "Service Kit for Inspection II",
+    "image_url": "http://ills.bmwfans.info/av0m.png",
+    "parts_count": 1
+  },
+  {
+    "id": 5398,
+    "diagram_title": "Service Kit, Inspection I / Oil service",
+    "image_url": "http://ills.bmwfans.info/az79.png",
+    "parts_count": 1
+  },
+  {
+    "id": 5307,
+    "diagram_title": "Short Engine",
+    "image_url": "http://ills.bmwfans.info/1str.png",
+    "parts_count": 8
+  },
+  {
+    "id": 5357,
+    "diagram_title": "Timing and valve train-timing chain",
+    "image_url": "http://ills.bmwfans.info/35gn.png",
+    "parts_count": 17
+  },
+  {
+    "id": 5360,
+    "diagram_title": "Valve timing gear, camshaft, inlet",
+    "image_url": "http://ills.bmwfans.info/f51x.png",
+    "parts_count": 17
+  },
+  {
+    "id": 5367,
+    "diagram_title": "Valve timing gear, camshaft, outlet",
+    "image_url": "http://ills.bmwfans.info/1su5.png",
+    "parts_count": 15
+  },
+  {
+    "id": 5366,
+    "diagram_title": "Valve timing gear, cntrl unit Valvetronic",
+    "image_url": "http://ills.bmwfans.info/1su4.png",
+    "parts_count": 1
+  },
+  {
+    "id": 5363,
+    "diagram_title": "Valve timing gear, eccentric shaft",
+    "image_url": "http://ills.bmwfans.info/amut.png",
+    "parts_count": 14
+  },
+  {
+    "id": 5379,
+    "diagram_title": "Waterpump — Thermostat",
+    "image_url": "http://ills.bmwfans.info/ambq.png",
+    "parts_count": 17
+  },
+  {
+    "id": 628,
+    "diagram_title": "belt_drive_climate_compressor",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_belt_drive_climate_compressor.png",
+    "parts_count": 4
+  },
+  {
+    "id": 623,
+    "diagram_title": "belt_drive_vibration_damper",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_belt_drive_vibration_damper.png",
+    "parts_count": 5
+  },
+  {
+    "id": 627,
+    "diagram_title": "belt_drive_water_pump_alternator",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_belt_drive_water_pump_alternator.png",
+    "parts_count": 2
+  },
+  {
+    "id": 641,
+    "diagram_title": "cooling_system_water_hoses",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_cooling_system_water_hoses.png",
+    "parts_count": 6
+  },
+  {
+    "id": 624,
+    "diagram_title": "crankcase_ventilation_oil_separator",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_crankcase_ventilation_oil_separator.png",
+    "parts_count": 7
+  },
+  {
+    "id": 629,
+    "diagram_title": "crankshaft_connecting_rod",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_crankshaft_connecting_rod.png",
+    "parts_count": 8
+  },
+  {
+    "id": 633,
+    "diagram_title": "crankshaft_pistons",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_crankshaft_pistons.png",
+    "parts_count": 11
+  },
+  {
+    "id": 630,
+    "diagram_title": "crankshaft_with_bearing_shells",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_crankshaft_with_bearing_shells.png",
+    "parts_count": 9
+  },
+  {
+    "id": 621,
+    "diagram_title": "cylinder_head",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_cylinder_head.png",
+    "parts_count": 15
+  },
+  {
+    "id": 626,
+    "diagram_title": "cylinder_head_attached_parts",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_cylinder_head_attached_parts.png",
+    "parts_count": 22
+  },
+  {
+    "id": 625,
+    "diagram_title": "cylinder_head_cover",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_cylinder_head_cover.png",
+    "parts_count": 13
+  },
+  {
+    "id": 620,
+    "diagram_title": "cylinder_head_electr_add_on_parts",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_cylinder_head_electr_add_on_parts.png",
+    "parts_count": 13
+  },
+  {
+    "id": 645,
+    "diagram_title": "emission_control_air_pump",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_emission_control_air_pump.png",
+    "parts_count": 15
+  },
+  {
+    "id": 647,
+    "diagram_title": "emission_control_air_pump_2",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_emission_control_air_pump_2.png",
+    "parts_count": 11
+  },
+  {
+    "id": 648,
+    "diagram_title": "engine_acoustics",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_engine_acoustics.png",
+    "parts_count": 3
+  },
+  {
+    "id": 619,
+    "diagram_title": "engine_block",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_engine_block.png",
+    "parts_count": 16
+  },
+  {
+    "id": 622,
+    "diagram_title": "engine_block_mounting_parts",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_engine_block_mounting_parts.png",
+    "parts_count": 12
+  },
+  {
+    "id": 643,
+    "diagram_title": "exhaust_manifold",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_exhaust_manifold.png",
+    "parts_count": 7
+  },
+  {
+    "id": 631,
+    "diagram_title": "flywheel_automatic",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_flywheel_automatic.png",
+    "parts_count": 4
+  },
+  {
+    "id": 634,
+    "diagram_title": "flywheel_twin_mass_flywheel",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_flywheel_twin_mass_flywheel.png",
+    "parts_count": 4
+  },
+  {
+    "id": 646,
+    "diagram_title": "intake_manifold_system",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_intake_manifold_system.png",
+    "parts_count": 21
+  },
+  {
+    "id": 639,
+    "diagram_title": "lubricat_syst_oil_filter_heat_exchanger",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_lubricat_syst_oil_filter_heat_exchanger.png",
+    "parts_count": 12
+  },
+  {
+    "id": 618,
+    "diagram_title": "oil_pan_oil_level_indicator",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_oil_pan_oil_level_indicator.png",
+    "parts_count": 15
+  },
+  {
+    "id": 642,
+    "diagram_title": "oil_pump_and_compensating_shaft_drive",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_oil_pump_and_compensating_shaft_drive.png",
+    "parts_count": 9
+  },
+  {
+    "id": 640,
+    "diagram_title": "oil_pump_and_compensating_shaft_unit",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_oil_pump_and_compensating_shaft_unit.png",
+    "parts_count": 14
+  },
+  {
+    "id": 650,
+    "diagram_title": "service_kit_for_inspection_ii",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_service_kit_for_inspection_ii.png",
+    "parts_count": 1
+  },
+  {
+    "id": 649,
+    "diagram_title": "service_kit_inspection_i_oil_service",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_service_kit_inspection_i_oil_service.png",
+    "parts_count": 1
+  },
+  {
+    "id": 617,
+    "diagram_title": "short_engine",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_short_engine.png",
+    "parts_count": 6
+  },
+  {
+    "id": 635,
+    "diagram_title": "timing_and_valve_train_timing_chain",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_timing_and_valve_train_timing_chain.png",
+    "parts_count": 17
+  },
+  {
+    "id": 636,
+    "diagram_title": "valve_timing_gear_camshaft_inlet",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_valve_timing_gear_camshaft_inlet.png",
+    "parts_count": 17
+  },
+  {
+    "id": 638,
+    "diagram_title": "valve_timing_gear_camshaft_outlet",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_valve_timing_gear_camshaft_outlet.png",
+    "parts_count": 15
+  },
+  {
+    "id": 637,
+    "diagram_title": "valve_timing_gear_cntrl_unit_valvetronic",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_valve_timing_gear_cntrl_unit_valvetronic.png",
+    "parts_count": 1
+  },
+  {
+    "id": 632,
+    "diagram_title": "valve_timing_gear_eccentric_shaft",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_valve_timing_gear_eccentric_shaft.png",
+    "parts_count": 14
+  },
+  {
+    "id": 644,
+    "diagram_title": "waterpump_thermostat",
+    "image_url": "/static/images/diagrams/E46_318i-N42_engine_waterpump_thermostat.png",
+    "parts_count": 17
+  }
+]

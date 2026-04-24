@@ -1,0 +1,189 @@
+{
+  "id": 2048,
+  "diagram_title": "Window mounting parts",
+  "image_url": "http://ills.bmwfans.info/a7c.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 31 1 822 185",
+      "quantity": 1,
+      "description": "Weatherstrip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 31 1 820 622",
+      "quantity": 1,
+      "description": "Moulding upper",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 31 1 959 969",
+      "quantity": 1,
+      "description": "Moulding upper",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 31 1 817 451",
+      "quantity": 1,
+      "description": "Moulding lower",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 31 1 959 726",
+      "quantity": 1,
+      "description": "Moulding lower",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 31 1 820 661",
+      "quantity": 1,
+      "description": "Corner moulding, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 31 1 959 987",
+      "quantity": 1,
+      "description": "Corner moulding, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 31 1 820 662",
+      "quantity": 1,
+      "description": "Corner moulding, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 31 1 959 988",
+      "quantity": 1,
+      "description": "Corner moulding, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 31 1 820 485",
+      "quantity": 1,
+      "description": "Weatherstrip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 31 1 820 624",
+      "quantity": 2,
+      "description": "Decorative strip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 31 1 959 997",
+      "quantity": 2,
+      "description": "Decorative strip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 31 1 820 269",
+      "quantity": 2,
+      "description": "Corner moulding",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 31 1 959 999",
+      "quantity": 2,
+      "description": "Corner moulding",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 31 1 820 660",
+      "quantity": 1,
+      "description": "Corner moulding, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 31 1 961 252",
+      "quantity": 1,
+      "description": "Corner moulding, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 31 1 817 452",
+      "quantity": 1,
+      "description": "Moulding lower",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 31 1 959 998",
+      "quantity": 1,
+      "description": "Moulding lower",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 31 1 820 623",
+      "quantity": 1,
+      "description": "Moulding upper",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 31 1 959 980",
+      "quantity": 1,
+      "description": "Moulding upper",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 31 1 820 659",
+      "quantity": 1,
+      "description": "Corner moulding, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 31 1 961 251",
+      "quantity": 1,
+      "description": "Corner moulding, left",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

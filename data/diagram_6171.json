@@ -1,0 +1,77 @@
+{
+  "id": 6171,
+  "diagram_title": "Door window lifting mechanism front",
+  "image_url": "http://ills.bmwfans.info/1064.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 33 8 212 521",
+      "quantity": 1,
+      "description": "Cover, window frame with speaker, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 33 8 212 522",
+      "quantity": 1,
+      "description": "Cover, window frame with speaker, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 33 8 234 629",
+      "quantity": 1,
+      "description": "Cover, window frame with speaker, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 33 8 234 630",
+      "quantity": 1,
+      "description": "Cover, window frame with speaker, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 34 8 204 145",
+      "quantity": 2,
+      "description": "Clip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 14 6 957 034",
+      "quantity": 2,
+      "description": "Plug-in retainer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 33 8 238 887",
+      "quantity": 1,
+      "description": "Sealing front",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 33 8 238 888",
+      "quantity": 1,
+      "description": "Sealing front",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

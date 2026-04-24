@@ -1,0 +1,357 @@
+{
+  "id": 3166,
+  "diagram_title": "Glove box",
+  "image_url": "http://ills.bmwfans.info/b33.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 167 282",
+      "quantity": 1,
+      "description": "Cover glove box lower",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 167 283",
+      "quantity": 1,
+      "description": "Cover glove box lower",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 167 284",
+      "quantity": 1,
+      "description": "Cover glove box lower",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 8 167 285",
+      "quantity": 1,
+      "description": "Cover glove box lower",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 2 251 878",
+      "quantity": 1,
+      "description": "Cover glove box lower",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 16 2 255 848",
+      "quantity": 1,
+      "description": "Cover glove box lower",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 132 345",
+      "quantity": 1,
+      "description": "Glove box housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 132 346",
+      "quantity": 1,
+      "description": "Glove box housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 132 347",
+      "quantity": 1,
+      "description": "Glove box housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 132 348",
+      "quantity": 1,
+      "description": "Glove box housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 2 252 070",
+      "quantity": 1,
+      "description": "Glove box housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 2 255 854",
+      "quantity": 1,
+      "description": "Glove box housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 22 1 387 464",
+      "quantity": 1,
+      "description": "Cover with grille and lock",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 22 8 390 494",
+      "quantity": 1,
+      "description": "Cover with grille and lock",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 22 8 390 495",
+      "quantity": 1,
+      "description": "Cover with grille and lock",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 22 8 390 496",
+      "quantity": 1,
+      "description": "Cover with grille and lock",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 1 960 739",
+      "quantity": 1,
+      "description": "Catch",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 16 1 977 387",
+      "quantity": 2,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 16 1 977 382",
+      "quantity": 2,
+      "description": "Clamping spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 16 8 122 464",
+      "quantity": 1,
+      "description": "Push button",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 16 8 122 465",
+      "quantity": 1,
+      "description": "Lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 16 8 122 466",
+      "quantity": 1,
+      "description": "Compression spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 16 8 122 467",
+      "quantity": 1,
+      "description": "Retainer spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 16 8 122 492",
+      "quantity": 1,
+      "description": "Latch Striker",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 16 8 122 468",
+      "quantity": 1,
+      "description": "Retainer spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 14 9 115 641",
+      "quantity": 1,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "07 11 9 904 176",
+      "quantity": 2,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "07 14 9 156 627",
+      "quantity": 2,
+      "description": "Sheet metal screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 16 8 151 851",
+      "quantity": 2,
+      "description": "Cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 16 8 151 852",
+      "quantity": 2,
+      "description": "Cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 16 8 151 853",
+      "quantity": 2,
+      "description": "Cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 16 1 960 458",
+      "quantity": 2,
+      "description": "Cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "51 16 9 061 388",
+      "quantity": 1,
+      "description": "Rep.kit f lock cylinder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "51 16 9 061 388",
+      "quantity": 1,
+      "description": "Rep.kit f lock cylinder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "51 45 1 917 675",
+      "quantity": 2,
+      "description": "Rubber buffer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "51 16 8 151 989",
+      "quantity": 2,
+      "description": "Rubber buffer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "51 16 4 196 921",
+      "quantity": 1,
+      "description": "Sealing strip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "51 16 8 170 665",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "51 16 8 170 666",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "51 16 8 170 667",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "28",
+      "part_number": "51 16 8 169 805",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "31",
+      "part_number": "51 16 8 203 279",
+      "quantity": 1,
+      "description": "Absorber",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "32",
+      "part_number": "51 45 8 102 577",
+      "quantity": 2,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

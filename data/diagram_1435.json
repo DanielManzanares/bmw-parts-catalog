@@ -1,0 +1,813 @@
+{
+  "id": 1435,
+  "diagram_title": "Steering linkage/tie rods",
+  "image_url": "http://ills.bmwfans.info/2x6.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 137,
+  "category_name": "Steering",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "32 21 1 124 430",
+      "quantity": 1,
+      "description": "Left tie rod lever",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 21 1 124 431",
+      "quantity": 1,
+      "description": "Right tie rod arm",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 21 1 124 430",
+      "quantity": 1,
+      "description": "Left tie rod lever",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 21 1 124 431",
+      "quantity": 1,
+      "description": "Right tie rod arm",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 21 1 124 430",
+      "quantity": 1,
+      "description": "Left tie rod lever",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 21 1 124 431",
+      "quantity": 1,
+      "description": "Right tie rod arm",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 21 1 124 430",
+      "quantity": 1,
+      "description": "Left tie rod lever",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "1",
+      "part_number": "32 21 1 124 431",
+      "quantity": 1,
+      "description": "Right tie rod arm",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 913 830",
+      "quantity": 6,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E30, E36, E38, E65, NK"
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 913 830",
+      "quantity": 6,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E30, E36, E38, E65, NK"
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 913 830",
+      "quantity": 6,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E30, E36, E38, E65, NK"
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 913 830",
+      "quantity": 6,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E30, E36, E38, E65, NK"
+    },
+    {
+      "position_number": "3",
+      "part_number": "31 12 1 131 609",
+      "quantity": 4,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "31 10 6 769 443",
+      "quantity": 4,
+      "description": "87",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E61 Facelift, E67, E83, E83 Facelift, E90, E90 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "3",
+      "part_number": "32 21 1 117 034",
+      "quantity": 4,
+      "description": "Crown nut",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30"
+    },
+    {
+      "position_number": "3",
+      "part_number": "31 12 1 131 609",
+      "quantity": 4,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "31 10 6 769 443",
+      "quantity": 4,
+      "description": "87",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E61 Facelift, E67, E83, E83 Facelift, E90, E90 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "3",
+      "part_number": "32 21 1 117 034",
+      "quantity": 4,
+      "description": "Crown nut",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30"
+    },
+    {
+      "position_number": "3",
+      "part_number": "31 12 1 131 609",
+      "quantity": 4,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "31 10 6 769 443",
+      "quantity": 4,
+      "description": "87",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E61 Facelift, E67, E83, E83 Facelift, E90, E90 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "3",
+      "part_number": "32 21 1 117 034",
+      "quantity": 4,
+      "description": "Crown nut",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30"
+    },
+    {
+      "position_number": "3",
+      "part_number": "31 12 1 131 609",
+      "quantity": 4,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E32, E34"
+    },
+    {
+      "position_number": "3",
+      "part_number": "31 10 6 769 443",
+      "quantity": 4,
+      "description": "87",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E61 Facelift, E67, E83, E83 Facelift, E90, E90 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "3",
+      "part_number": "32 21 1 117 034",
+      "quantity": 4,
+      "description": "Crown nut",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E30"
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 945 200",
+      "quantity": 4,
+      "description": "Split pin",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 945 200",
+      "quantity": 4,
+      "description": "Split pin",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 945 200",
+      "quantity": 4,
+      "description": "Split pin",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 11 9 945 200",
+      "quantity": 4,
+      "description": "Split pin",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "5",
+      "part_number": "32 21 1 134 277",
+      "quantity": 1,
+      "description": "Pitman arm",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E32"
+    },
+    {
+      "position_number": "5",
+      "part_number": "32 21 1 134 277",
+      "quantity": 1,
+      "description": "Pitman arm",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E32"
+    },
+    {
+      "position_number": "5",
+      "part_number": "32 21 1 134 277",
+      "quantity": 1,
+      "description": "Pitman arm",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E32"
+    },
+    {
+      "position_number": "5",
+      "part_number": "32 21 1 134 277",
+      "quantity": 1,
+      "description": "Pitman arm",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E32"
+    },
+    {
+      "position_number": "6",
+      "part_number": "32 21 1 136 450",
+      "quantity": 1,
+      "description": "Steering arm",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E31, E32, E34"
+    },
+    {
+      "position_number": "6",
+      "part_number": "32 21 1 136 450",
+      "quantity": 1,
+      "description": "Steering arm",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E31, E32, E34"
+    },
+    {
+      "position_number": "6",
+      "part_number": "32 21 1 136 450",
+      "quantity": 1,
+      "description": "Steering arm",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E31, E32, E34"
+    },
+    {
+      "position_number": "6",
+      "part_number": "32 21 1 136 450",
+      "quantity": 1,
+      "description": "Steering arm",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E31, E32, E34"
+    },
+    {
+      "position_number": "7",
+      "part_number": "32 21 1 123 464",
+      "quantity": 1,
+      "description": "Rubber Mounting",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "7",
+      "part_number": "32 21 1 123 464",
+      "quantity": 1,
+      "description": "Rubber Mounting",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "7",
+      "part_number": "32 21 1 123 464",
+      "quantity": 1,
+      "description": "Rubber Mounting",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "7",
+      "part_number": "32 21 1 123 464",
+      "quantity": 1,
+      "description": "Rubber Mounting",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 12 9 964 672",
+      "quantity": 1,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 12 9 964 672",
+      "quantity": 1,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 12 9 964 672",
+      "quantity": 1,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 12 9 964 672",
+      "quantity": 1,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "31 11 1 114 348",
+      "quantity": 1,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E30, E31, E32, E34, E36, NK, Z1, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "31 11 1 114 348",
+      "quantity": 1,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E30, E31, E32, E34, E36, NK, Z1, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "31 11 1 114 348",
+      "quantity": 1,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E30, E31, E32, E34, E36, NK, Z1, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "31 11 1 114 348",
+      "quantity": 1,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E30, E31, E32, E34, E36, NK, Z1, Z3"
+    },
+    {
+      "position_number": "10",
+      "part_number": "31 11 1 136 251",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E23, E24, E28, E3, E30, E31, E32, E34, E9, NK"
+    },
+    {
+      "position_number": "10",
+      "part_number": "31 11 1 136 251",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E23, E24, E28, E3, E30, E31, E32, E34, E9, NK"
+    },
+    {
+      "position_number": "10",
+      "part_number": "31 11 1 136 251",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E23, E24, E28, E3, E30, E31, E32, E34, E9, NK"
+    },
+    {
+      "position_number": "10",
+      "part_number": "31 11 1 136 251",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E23, E24, E28, E3, E30, E31, E32, E34, E9, NK"
+    },
+    {
+      "position_number": "11",
+      "part_number": "32 21 1 129 014",
+      "quantity": 1,
+      "description": "Tie rod, center",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "11",
+      "part_number": "32 21 1 129 015",
+      "quantity": 1,
+      "description": "Tie rod, center",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "11",
+      "part_number": "32 21 1 129 014",
+      "quantity": 1,
+      "description": "Tie rod, center",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "11",
+      "part_number": "32 21 1 129 015",
+      "quantity": 1,
+      "description": "Tie rod, center",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "11",
+      "part_number": "32 21 1 129 014",
+      "quantity": 1,
+      "description": "Tie rod, center",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "11",
+      "part_number": "32 21 1 129 015",
+      "quantity": 1,
+      "description": "Tie rod, center",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "11",
+      "part_number": "32 21 1 129 014",
+      "quantity": 1,
+      "description": "Tie rod, center",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "11",
+      "part_number": "32 21 1 129 015",
+      "quantity": 1,
+      "description": "Tie rod, center",
+      "price_eur": null,
+      "compatible_models": "E24, E28"
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 11 9 923 436",
+      "quantity": 8,
+      "description": "Crown nut",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E9, NK"
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 12 9 922 436",
+      "quantity": 8,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E9, NK, Z1"
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 11 9 923 436",
+      "quantity": 8,
+      "description": "Crown nut",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E9, NK"
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 12 9 922 436",
+      "quantity": 8,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E9, NK, Z1"
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 11 9 923 436",
+      "quantity": 8,
+      "description": "Crown nut",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E9, NK"
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 12 9 922 436",
+      "quantity": 8,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E9, NK, Z1"
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 11 9 923 436",
+      "quantity": 8,
+      "description": "Crown nut",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E9, NK"
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 12 9 922 436",
+      "quantity": 8,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E9, NK, Z1"
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 11 9 945 112",
+      "quantity": 8,
+      "description": "Split pin",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E9, ISE, NK"
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 11 9 945 112",
+      "quantity": 8,
+      "description": "Split pin",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E9, ISE, NK"
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 11 9 945 112",
+      "quantity": 8,
+      "description": "Split pin",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E9, ISE, NK"
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 11 9 945 112",
+      "quantity": 8,
+      "description": "Split pin",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E9, ISE, NK"
+    },
+    {
+      "position_number": "14",
+      "part_number": "32 21 1 135 666",
+      "quantity": 2,
+      "description": "Tie rod",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E31, E32, E34"
+    },
+    {
+      "position_number": "14",
+      "part_number": "32 21 1 135 668",
+      "quantity": 2,
+      "description": "Tie rod",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E31, E32, E34"
+    },
+    {
+      "position_number": "14",
+      "part_number": "32 21 1 135 666",
+      "quantity": 2,
+      "description": "Tie rod",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E31, E32, E34"
+    },
+    {
+      "position_number": "14",
+      "part_number": "32 21 1 135 668",
+      "quantity": 1,
+      "description": "Tie rod",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E31, E32, E34"
+    },
+    {
+      "position_number": "14",
+      "part_number": "32 21 1 135 666",
+      "quantity": 2,
+      "description": "Tie rod",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E31, E32, E34"
+    },
+    {
+      "position_number": "14",
+      "part_number": "32 21 1 135 668",
+      "quantity": 1,
+      "description": "Tie rod",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E31, E32, E34"
+    },
+    {
+      "position_number": "14",
+      "part_number": "32 21 1 135 666",
+      "quantity": 2,
+      "description": "Tie rod",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E31, E32, E34"
+    },
+    {
+      "position_number": "14",
+      "part_number": "32 21 1 135 668",
+      "quantity": 1,
+      "description": "Tie rod",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E31, E32, E34"
+    },
+    {
+      "position_number": "15",
+      "part_number": "32 21 1 135 819",
+      "quantity": 1,
+      "description": "Ball joint left-handed thread",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E31, E32, E34"
+    },
+    {
+      "position_number": "15",
+      "part_number": "32 21 1 135 820",
+      "quantity": 1,
+      "description": "Ball joint right-handed thread",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E31, E32, E34"
+    },
+    {
+      "position_number": "15",
+      "part_number": "32 21 1 135 819",
+      "quantity": 1,
+      "description": "Ball joint left-handed thread",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E31, E32, E34"
+    },
+    {
+      "position_number": "15",
+      "part_number": "32 21 1 135 820",
+      "quantity": 1,
+      "description": "Ball joint right-handed thread",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E31, E32, E34"
+    },
+    {
+      "position_number": "15",
+      "part_number": "32 21 1 135 819",
+      "quantity": 1,
+      "description": "Ball joint left-handed thread",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E31, E32, E34"
+    },
+    {
+      "position_number": "15",
+      "part_number": "32 21 1 135 820",
+      "quantity": 1,
+      "description": "Ball joint right-handed thread",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E31, E32, E34"
+    },
+    {
+      "position_number": "15",
+      "part_number": "32 21 1 135 819",
+      "quantity": 1,
+      "description": "Ball joint left-handed thread",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E31, E32, E34"
+    },
+    {
+      "position_number": "15",
+      "part_number": "32 21 1 135 820",
+      "quantity": 1,
+      "description": "Ball joint right-handed thread",
+      "price_eur": null,
+      "compatible_models": "E24, E28, E31, E32, E34"
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 11 9 911 616",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28"
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 11 9 911 616",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28"
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 11 9 911 616",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28"
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 11 9 911 616",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28"
+    },
+    {
+      "position_number": "17",
+      "part_number": "07 11 9 933 096",
+      "quantity": 4,
+      "description": "Spring washer",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E9, NK, Z1"
+    },
+    {
+      "position_number": "17",
+      "part_number": "07 11 9 933 096",
+      "quantity": 4,
+      "description": "Spring washer",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E9, NK, Z1"
+    },
+    {
+      "position_number": "17",
+      "part_number": "07 11 9 933 096",
+      "quantity": 4,
+      "description": "Spring washer",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E9, NK, Z1"
+    },
+    {
+      "position_number": "17",
+      "part_number": "07 11 9 933 096",
+      "quantity": 4,
+      "description": "Spring washer",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E9, NK, Z1"
+    },
+    {
+      "position_number": "18",
+      "part_number": "07 12 9 922 770",
+      "quantity": 4,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, NK, Z1"
+    },
+    {
+      "position_number": "18",
+      "part_number": "07 12 9 922 770",
+      "quantity": 4,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, NK, Z1"
+    },
+    {
+      "position_number": "18",
+      "part_number": "07 12 9 922 770",
+      "quantity": 4,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, NK, Z1"
+    },
+    {
+      "position_number": "18",
+      "part_number": "07 12 9 922 770",
+      "quantity": 4,
+      "description": "Self-locking hex nut",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, NK, Z1"
+    }
+  ]
+}

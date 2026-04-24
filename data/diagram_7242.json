@@ -1,0 +1,117 @@
+{
+  "id": 7242,
+  "diagram_title": "Mobile telephone Siemens S10",
+  "image_url": "http://ills.bmwfans.info/2obo.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1648,
+  "category_name": "Communication systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "84 21 9 416 458",
+      "quantity": 1,
+      "description": "Mobile telephone Singleband",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "84 21 9 416 447",
+      "quantity": 1,
+      "description": "RMFD mobile unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "84 21 9 416 457",
+      "quantity": 1,
+      "description": "Accumulator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "84 21 0 397 834",
+      "quantity": 1,
+      "description": "Accumulator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "84 21 9 416 455",
+      "quantity": 1,
+      "description": "Charging unit housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "84 21 9 416 456",
+      "quantity": 1,
+      "description": "Charging unit housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "84 21 0 300 311",
+      "quantity": 1,
+      "description": "Not offered by BMW",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "84 21 9 416 456",
+      "quantity": 1,
+      "description": "Charging unit housing",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "84 21 0 300 311",
+      "quantity": 1,
+      "description": "Not offered by BMW",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "84 21 0 300 311",
+      "quantity": 1,
+      "description": "Not offered by BMW",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "84 21 0 300 311",
+      "quantity": 1,
+      "description": "Not offered by BMW",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "84 21 9 416 449",
+      "quantity": 1,
+      "description": "Antenna short",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "84 21 9 416 451",
+      "quantity": 1,
+      "description": "Antenna short",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

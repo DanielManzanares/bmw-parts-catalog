@@ -1,0 +1,69 @@
+{
+  "id": 3336,
+  "diagram_title": "Door cable harnesses",
+  "image_url": "http://ills.bmwfans.info/j5q.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 12 8 365 656",
+      "quantity": 1,
+      "description": "Wiring drivers side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 12 8 365 666",
+      "quantity": 1,
+      "description": "Wiring drivers side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 12 1 393 514",
+      "quantity": 1,
+      "description": "Wiring rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 12 1 393 542",
+      "quantity": 1,
+      "description": "Wiring rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 13 8 250 791",
+      "quantity": 8,
+      "description": "Hex head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 14 9 145 030",
+      "quantity": 8,
+      "description": "Hex head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "07 12 9 925 756",
+      "quantity": 8,
+      "description": "Prestol-cage",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

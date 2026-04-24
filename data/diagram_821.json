@@ -1,0 +1,397 @@
+{
+  "id": 821,
+  "diagram_title": "seat_rear_seat_frame_left",
+  "image_url": "/static/images/diagrams/E46_318i-N42_seats_seat_rear_seat_frame_left.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 008 437",
+      "quantity": 1,
+      "description": "Frame, backrest left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 008 438",
+      "quantity": 1,
+      "description": "Frame, backrest left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 008 439",
+      "quantity": 1,
+      "description": "Frame, backrest left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 008 429",
+      "quantity": 1,
+      "description": "Frame, backrest left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 008 430",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 20 7 008 431",
+      "quantity": 1,
+      "description": "Frame, backrest left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 8 267 106",
+      "quantity": 1,
+      "description": "Flap ski bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 8 267 107",
+      "quantity": 1,
+      "description": "Flap ski bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 20 8 267 108",
+      "quantity": 1,
+      "description": "Flap ski bag",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "52 20 7 028 703",
+      "quantity": 1,
+      "description": "Ski bag locking mechanism",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "63 17 1 367 868",
+      "quantity": 2,
+      "description": "Expanding nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "62 11 8 361 129",
+      "quantity": 2,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 14 6 977 362",
+      "quantity": 2,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": "E36, E46, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E72, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E91, E91 Facelift, F07, F07 Facelift, F11, F11 Facelift, F15, F16, F25, F26, F86, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 47 8 233 829",
+      "quantity": 2,
+      "description": "Support f roller blind, backrest",
+      "price_eur": null,
+      "compatible_models": "E46, E61, E61 Facelift, E83, E83 Facelift"
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 47 9 149 454",
+      "quantity": 2,
+      "description": "05",
+      "price_eur": null,
+      "compatible_models": "E46, E61, E61 Facelift, E83, E83 Facelift, F25, F26"
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 900 514",
+      "quantity": 2,
+      "description": "Fillister head with washer",
+      "price_eur": 3.56,
+      "compatible_models": "E39, E46, E61, E61 Facelift, F25, F26"
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 20 8 221 531",
+      "quantity": 2,
+      "description": "Unlocking unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "52 20 8 267 019",
+      "quantity": 1,
+      "description": "Catch rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "52 20 8 267 018",
+      "quantity": 4,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "52 20 8 099 650",
+      "quantity": 2,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 14 9 165 135",
+      "quantity": 2,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": "E46, E53, E70, E70 Facelift, E83, E83 Facelift"
+    },
+    {
+      "position_number": "12",
+      "part_number": "52 20 8 267 093",
+      "quantity": 1,
+      "description": "Lock panel, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "52 20 8 267 094",
+      "quantity": 1,
+      "description": "Lock panel, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "52 20 8 267 095",
+      "quantity": 1,
+      "description": "Lock panel, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "52 20 8 267 096",
+      "quantity": 1,
+      "description": "Lock panel, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "52 20 8 267 097",
+      "quantity": 1,
+      "description": "Lock panel, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "52 20 8 267 098",
+      "quantity": 1,
+      "description": "Lock panel, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "52 20 8 267 041",
+      "quantity": 1,
+      "description": "Fastening set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "52 20 7 000 334",
+      "quantity": 2,
+      "description": "Hinge",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "52 20 7 015 038",
+      "quantity": 2,
+      "description": "Hinge",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "52 20 7 015 040",
+      "quantity": 2,
+      "description": "Hinge",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "52 20 7 015 041",
+      "quantity": 2,
+      "description": "Hinge",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "52 20 8 267 034",
+      "quantity": 1,
+      "description": "Cover, belt outlet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "52 20 8 267 035",
+      "quantity": 1,
+      "description": "Cover, belt outlet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "52 20 8 267 036",
+      "quantity": 1,
+      "description": "Cover, belt outlet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "52 20 7 000 324",
+      "quantity": 2,
+      "description": "Covering outer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "52 20 7 000 325",
+      "quantity": 2,
+      "description": "Covering outer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "52 20 7 000 326",
+      "quantity": 2,
+      "description": "Covering outer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "52 20 7 008 446",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "52 20 7 008 447",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "52 20 7 008 448",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "52 20 7 035 852",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "52 20 8 267 038",
+      "quantity": 1,
+      "description": "Yes",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "52 20 8 267 039",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "52 20 8 267 040",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "52 20 7 008 444",
+      "quantity": 1,
+      "description": "Locking mechanism",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "52 20 7 049 456",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "52 20 9 113 327",
+      "quantity": 2,
+      "description": "Operating rod",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

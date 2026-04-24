@@ -1,0 +1,293 @@
+{
+  "id": 6568,
+  "diagram_title": "Cable tie",
+  "image_url": "http://ills.bmwfans.info/2ztn.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 13 1 367 599",
+      "quantity": 1,
+      "description": "Cable tie",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 13 1 372 391",
+      "quantity": 1,
+      "description": "Cable tie",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 13 1 377 134",
+      "quantity": 1,
+      "description": "Cable tie",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 13 1 382 243",
+      "quantity": 1,
+      "description": "Cable tie",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 13 6 915 978",
+      "quantity": 1,
+      "description": "Cable tie",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 13 8 377 065",
+      "quantity": 1,
+      "description": "Cable tie",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 13 8 383 722",
+      "quantity": 1,
+      "description": "Cable tie",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 13 6 918 584",
+      "quantity": 1,
+      "description": "Cable tie",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 13 6 914 992",
+      "quantity": 1,
+      "description": "Cable strap with bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 13 6 914 993",
+      "quantity": 1,
+      "description": "Cable strap with bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 13 6 915 974",
+      "quantity": 1,
+      "description": "Cable strap with bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 13 6 918 746",
+      "quantity": 1,
+      "description": "Cable strap with bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 13 6 924 664",
+      "quantity": 1,
+      "description": "Cable strap with bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 13 8 375 988",
+      "quantity": 1,
+      "description": "Cable strap with bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 13 8 384 831",
+      "quantity": 1,
+      "description": "Cable strap with bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 13 6 918 210",
+      "quantity": 1,
+      "description": "Cable strap with bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 13 9 224 496",
+      "quantity": 1,
+      "description": "Cable strap with bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 13 8 361 683",
+      "quantity": 1,
+      "description": "Cable strap with push-button",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 13 6 915 982",
+      "quantity": 1,
+      "description": "Cable strap with bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 13 6 918 644",
+      "quantity": 1,
+      "description": "Cable strap with bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "61 13 6 916 946",
+      "quantity": 1,
+      "description": "Cable strap with bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "61 13 6 915 983",
+      "quantity": 1,
+      "description": "Cable strap with bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "61 13 9 200 225",
+      "quantity": 1,
+      "description": "Cable strap with bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "61 13 6 913 733",
+      "quantity": 1,
+      "description": "Cable strap with bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "61 13 6 908 568",
+      "quantity": 1,
+      "description": "Cable strap with bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "61 13 6 929 454",
+      "quantity": 1,
+      "description": "Cable strap with bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "61 13 8 383 639",
+      "quantity": 1,
+      "description": "Cable strap with bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "61 13 8 357 028",
+      "quantity": 1,
+      "description": "Cable tie",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "61 13 1 389 024",
+      "quantity": 1,
+      "description": "Cable tie",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "61 13 1 391 721",
+      "quantity": 1,
+      "description": "Cable tie",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "61 13 8 380 320",
+      "quantity": 1,
+      "description": "Cable tie",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "61 13 6 915 981",
+      "quantity": 1,
+      "description": "Cable strap with bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "61 13 6 933 279",
+      "quantity": 1,
+      "description": "Cable strap with bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "61 13 6 914 025",
+      "quantity": 1,
+      "description": "Cable holder w pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "61 13 9 224 418",
+      "quantity": 1,
+      "description": "Cable holder w pin",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

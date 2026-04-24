@@ -1,0 +1,85 @@
+{
+  "id": 5278,
+  "diagram_title": "Crankshaft Connecting Rod",
+  "image_url": "http://ills.bmwfans.info/efv.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1,
+  "category_name": "Engine",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "11 24 1 437 212",
+      "quantity": 1,
+      "description": "Set of cracked connecting rods",
+      "price_eur": null,
+      "compatible_models": "E34, E36, E39, E46, E60, E61, E83, E85, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 24 1 278 209",
+      "quantity": 6,
+      "description": "Connecting rod bush",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E31, E32, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 24 1 739 729",
+      "quantity": 12,
+      "description": "94",
+      "price_eur": null,
+      "compatible_models": "E36, E39, E46, E60, E61, E83, E85, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 24 1 284 850",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 24 1 284 852",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 24 1 284 854",
+      "quantity": 6,
+      "description": "Bearing shell, blue",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 24 1 284 849",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 24 1 284 851",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 24 1 284 853",
+      "quantity": 6,
+      "description": "Bearing shell, red",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E28, E30, E34, E36, E38, E39, E46, E53, E60, E61, E65, E66, E83, E85, Z1, Z3"
+    }
+  ]
+}

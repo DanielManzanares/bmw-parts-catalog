@@ -1,0 +1,85 @@
+{
+  "id": 3666,
+  "diagram_title": "Door cable harnesses",
+  "image_url": "http://ills.bmwfans.info/2aq0.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 11 6 902 773",
+      "quantity": 1,
+      "description": "Wiring drivers side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 11 8 380 889",
+      "quantity": 1,
+      "description": "Wiring drivers side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 12 6 903 086",
+      "quantity": 1,
+      "description": "Wiring drivers side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "61 12 6 903 089",
+      "quantity": 1,
+      "description": "Wiring drivers side",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 12 8 378 339",
+      "quantity": 2,
+      "description": "Cable harness, door, rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 14 6 931 932",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 13 6 954 557",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 13 6 954 561",
+      "quantity": 4,
+      "description": "Blind rivet nut, flat headed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "61 13 8 372 631",
+      "quantity": 1,
+      "description": "Plug housing",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "id": 5235,
+  "diagram_title": "Modificat. Radio Reverse to Business CD",
+  "image_url": "http://ills.bmwfans.info/1frg.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 915 711",
+      "quantity": 1,
+      "description": "Radio BMW Business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 919 072",
+      "quantity": 1,
+      "description": "Radio BMW Business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 921 963",
+      "quantity": 1,
+      "description": "Radio BMW Business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 10 6 927 902",
+      "quantity": 1,
+      "description": "Radio BMW Business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 941 505",
+      "quantity": 1,
+      "description": "Radio BMW Business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 943 429",
+      "quantity": 1,
+      "description": "Radio BMW Business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 916 047",
+      "quantity": 1,
+      "description": "Radio BMW Business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 935 627",
+      "quantity": 1,
+      "description": "Radio BMW Business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 932 430",
+      "quantity": 1,
+      "description": "Radio BMW Business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 939 660",
+      "quantity": 1,
+      "description": "Radio BMW Business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 943 435",
+      "quantity": 1,
+      "description": "Radio BMW Business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 4 154 933",
+      "quantity": 1,
+      "description": "Radio BMW Business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 976 886",
+      "quantity": 1,
+      "description": "Radio BMW Business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 915 711",
+      "quantity": 1,
+      "description": "Radio BMW Business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 919 072",
+      "quantity": 1,
+      "description": "Radio BMW Business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 921 963",
+      "quantity": 1,
+      "description": "Radio BMW Business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 10 6 927 902",
+      "quantity": 1,
+      "description": "Radio BMW Business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 941 505",
+      "quantity": 1,
+      "description": "Radio BMW Business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 943 429",
+      "quantity": 1,
+      "description": "Radio BMW Business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 916 047",
+      "quantity": 1,
+      "description": "Radio BMW Business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 935 627",
+      "quantity": 1,
+      "description": "Radio BMW Business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 932 430",
+      "quantity": 1,
+      "description": "Radio BMW Business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 939 660",
+      "quantity": 1,
+      "description": "Radio BMW Business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 943 435",
+      "quantity": 1,
+      "description": "Radio BMW Business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 4 154 933",
+      "quantity": 1,
+      "description": "Radio BMW Business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 6 976 886",
+      "quantity": 1,
+      "description": "Radio BMW Business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 12 6 923 321",
+      "quantity": 1,
+      "description": "Button left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 12 6 923 321",
+      "quantity": 1,
+      "description": "Button left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 901 179",
+      "quantity": 2,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 904 176",
+      "quantity": 2,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 901 179",
+      "quantity": 2,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 904 176",
+      "quantity": 2,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "65 12 8 370 535",
+      "quantity": 1,
+      "description": "Radio supporting pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "65 12 8 370 535",
+      "quantity": 1,
+      "description": "Radio supporting pin",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": 2738,
+  "diagram_title": "Heater closing panel",
+  "image_url": "http://ills.bmwfans.info/cmq.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 71 1 917 396",
+      "quantity": 1,
+      "description": "Heater closing panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 71 1 874 203",
+      "quantity": 4,
+      "description": "Expanding nut",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, Z1"
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 13 1 823 634",
+      "quantity": 6,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 14 7 202 502",
+      "quantity": 6,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 48 1 920 867",
+      "quantity": 1,
+      "description": "Air channel",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

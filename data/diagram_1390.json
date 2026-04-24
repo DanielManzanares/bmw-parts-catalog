@@ -1,0 +1,469 @@
+{
+  "id": 1390,
+  "diagram_title": "Crowngear set/differential case",
+  "image_url": "http://ills.bmwfans.info/3hd.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 58,
+  "category_name": "Rear Axle",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "33 13 1 208 290",
+      "quantity": 1,
+      "description": "Impulse sending wheel",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "33 13 1 211 286",
+      "quantity": 1,
+      "description": "Impulse sending wheel",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "33 13 1 208 290",
+      "quantity": 1,
+      "description": "Impulse sending wheel",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "33 13 1 211 286",
+      "quantity": 1,
+      "description": "Impulse sending wheel",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "33 13 1 208 290",
+      "quantity": 1,
+      "description": "Impulse sending wheel",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "2",
+      "part_number": "33 13 1 211 286",
+      "quantity": 1,
+      "description": "Impulse sending wheel",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "33 13 1 213 540",
+      "quantity": 1,
+      "description": "Differential case",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "33 13 1 213 540",
+      "quantity": 1,
+      "description": "Differential case",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "3",
+      "part_number": "33 13 1 213 540",
+      "quantity": 1,
+      "description": "Differential case",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "4",
+      "part_number": "33 12 1 205 560",
+      "quantity": 1,
+      "description": "Hexagon antifatigue bolt",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E9"
+    },
+    {
+      "position_number": "4",
+      "part_number": "33 12 1 205 561",
+      "quantity": 1,
+      "description": "Hexagon antifatigue bolt",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E36, E9, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "33 12 1 205 560",
+      "quantity": 1,
+      "description": "Hexagon antifatigue bolt",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E9"
+    },
+    {
+      "position_number": "4",
+      "part_number": "33 12 1 205 561",
+      "quantity": 1,
+      "description": "Hexagon antifatigue bolt",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E36, E9, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "33 12 1 205 560",
+      "quantity": 1,
+      "description": "Hexagon antifatigue bolt",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E9"
+    },
+    {
+      "position_number": "4",
+      "part_number": "33 12 1 205 561",
+      "quantity": 1,
+      "description": "Hexagon antifatigue bolt",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E36, E9, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "33 13 1 207 280",
+      "quantity": 2,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E32, E34, E36, E38, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "33 13 1 207 280",
+      "quantity": 2,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E32, E34, E36, E38, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "33 13 1 207 280",
+      "quantity": 2,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E3, E30, E32, E34, E36, E38, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 13 1 205 021",
+      "quantity": 2,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 13 1 205 022",
+      "quantity": 2,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 13 1 205 023",
+      "quantity": 2,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 13 1 205 024",
+      "quantity": 2,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 13 1 205 025",
+      "quantity": 2,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 13 1 205 026",
+      "quantity": 2,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 13 1 205 027",
+      "quantity": 2,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 13 1 205 021",
+      "quantity": 2,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 13 1 205 022",
+      "quantity": 2,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 13 1 205 023",
+      "quantity": 2,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 13 1 205 024",
+      "quantity": 2,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 13 1 205 025",
+      "quantity": 2,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 13 1 205 026",
+      "quantity": 2,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 13 1 205 027",
+      "quantity": 2,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 13 1 205 021",
+      "quantity": 2,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 13 1 205 022",
+      "quantity": 2,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 13 1 205 023",
+      "quantity": 2,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 13 1 205 024",
+      "quantity": 2,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 13 1 205 025",
+      "quantity": 2,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 13 1 205 026",
+      "quantity": 2,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "6",
+      "part_number": "33 13 1 205 027",
+      "quantity": 2,
+      "description": "Shim",
+      "price_eur": null,
+      "compatible_models": "E21, E23, E24, E28"
+    },
+    {
+      "position_number": "7",
+      "part_number": "33 13 1 201 538",
+      "quantity": 2,
+      "description": "Diaphragm spring",
+      "price_eur": null,
+      "compatible_models": "114, E21, E23, E24, E28, E3, NK"
+    },
+    {
+      "position_number": "7",
+      "part_number": "33 13 1 201 538",
+      "quantity": 2,
+      "description": "Diaphragm spring",
+      "price_eur": null,
+      "compatible_models": "114, E21, E23, E24, E28, E3, NK"
+    },
+    {
+      "position_number": "7",
+      "part_number": "33 13 1 201 538",
+      "quantity": 2,
+      "description": "Diaphragm spring",
+      "price_eur": null,
+      "compatible_models": "114, E21, E23, E24, E28, E3, NK"
+    },
+    {
+      "position_number": "8",
+      "part_number": "33 13 1 204 953",
+      "quantity": 2,
+      "description": "Side gear",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "33 13 1 204 953",
+      "quantity": 2,
+      "description": "Side gear",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "33 13 1 204 953",
+      "quantity": 2,
+      "description": "Side gear",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "33 13 1 204 954",
+      "quantity": 2,
+      "description": "Bevel gear",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "33 13 1 204 954",
+      "quantity": 2,
+      "description": "Bevel gear",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "33 13 1 204 954",
+      "quantity": 2,
+      "description": "Bevel gear",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, E3"
+    },
+    {
+      "position_number": "10",
+      "part_number": "33 13 1 209 977",
+      "quantity": 1,
+      "description": "Bevel gear shaft",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "10",
+      "part_number": "33 13 1 213 659",
+      "quantity": 1,
+      "description": "Bevel gear shaft",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "10",
+      "part_number": "33 13 1 209 977",
+      "quantity": 1,
+      "description": "Bevel gear shaft",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "10",
+      "part_number": "33 13 1 213 659",
+      "quantity": 1,
+      "description": "Bevel gear shaft",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "10",
+      "part_number": "33 13 1 209 977",
+      "quantity": 1,
+      "description": "Bevel gear shaft",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "10",
+      "part_number": "33 13 1 213 659",
+      "quantity": 1,
+      "description": "Bevel gear shaft",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28"
+    },
+    {
+      "position_number": "12",
+      "part_number": "33 13 1 209 978",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, F32"
+    },
+    {
+      "position_number": "12",
+      "part_number": "33 13 1 209 978",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, F32"
+    },
+    {
+      "position_number": "12",
+      "part_number": "33 13 1 209 978",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": "E23, E24, E28, F32"
+    }
+  ]
+}

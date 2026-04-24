@@ -1,0 +1,61 @@
+{
+  "id": 3769,
+  "diagram_title": "Radio BMW Business CD RDS",
+  "image_url": "http://ills.bmwfans.info/1f81.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 12 8 377 910",
+      "quantity": 1,
+      "description": "Rmfd radio BMW BUSINESS CD RDS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 12 8 380 019",
+      "quantity": 1,
+      "description": "Rmfd radio BMW BUSINESS CD RDS",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 12 6 902 821",
+      "quantity": 1,
+      "description": "Rmfd radio BMW business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 12 9 415 433",
+      "quantity": 1,
+      "description": "Rmfd radio BMW business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 12 6 909 884",
+      "quantity": 1,
+      "description": "Rmfd radio BMW business CD",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 12 6 909 885",
+      "quantity": 1,
+      "description": "Rmfd radio BAVARIA CR DIGITAL",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

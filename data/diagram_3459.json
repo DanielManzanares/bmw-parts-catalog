@@ -1,0 +1,21 @@
+{
+  "id": 3459,
+  "diagram_title": "Relay for ABS overvoltage protection K10",
+  "image_url": "http://ills.bmwfans.info/emg0.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 36 1 393 404",
+      "quantity": 1,
+      "description": "ABS main relay, tomatenrot",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

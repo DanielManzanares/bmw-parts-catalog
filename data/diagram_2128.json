@@ -1,0 +1,21 @@
+{
+  "id": 2128,
+  "diagram_title": "M emblem",
+  "image_url": "http://ills.bmwfans.info/d4l.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "51 14 2 250 811",
+      "quantity": 1,
+      "description": "Letter \"m\" rear",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

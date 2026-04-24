@@ -1,0 +1,141 @@
+{
+  "id": 387,
+  "diagram_title": "Headlight",
+  "image_url": "http://ills.bmwfans.info/c6d.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 184,
+  "category_name": "Lighting",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "63 12 1 387 041",
+      "quantity": 1,
+      "description": "Headlight left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 1 387 042",
+      "quantity": 1,
+      "description": "Headlight right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 1 393 271",
+      "quantity": 1,
+      "description": "Headlight left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 1 393 272",
+      "quantity": 1,
+      "description": "Headlight right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 1 393 343",
+      "quantity": 1,
+      "description": "Left yellow headlight",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 1 393 344",
+      "quantity": 1,
+      "description": "Right yellow headlight",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 1 393 345",
+      "quantity": 1,
+      "description": "Headlight left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 1 393 346",
+      "quantity": 1,
+      "description": "Headlight right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 1 387 041",
+      "quantity": 1,
+      "description": "Headlight left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 1 387 042",
+      "quantity": 1,
+      "description": "Headlight right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 1 393 271",
+      "quantity": 1,
+      "description": "Headlight left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 1 393 272",
+      "quantity": 1,
+      "description": "Headlight right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 1 393 343",
+      "quantity": 1,
+      "description": "Left yellow headlight",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 1 393 344",
+      "quantity": 1,
+      "description": "Right yellow headlight",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 1 393 345",
+      "quantity": 1,
+      "description": "Headlight left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 1 393 346",
+      "quantity": 1,
+      "description": "Headlight right",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

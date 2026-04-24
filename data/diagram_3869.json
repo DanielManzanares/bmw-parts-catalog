@@ -1,0 +1,37 @@
+{
+  "id": 3869,
+  "diagram_title": "Safety belt front left",
+  "image_url": "http://ills.bmwfans.info/umg.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1646,
+  "category_name": "Restraint system and Accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "72 11 2 257 463",
+      "quantity": 1,
+      "description": "Left upper front belt \"bmw motorsport\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "72 11 8 200 853",
+      "quantity": 1,
+      "description": "Left upper front belt \"bmw motorsport\"",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "72 11 8 229 863",
+      "quantity": 1,
+      "description": "Left upper front belt \"bmw motorsport\"",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

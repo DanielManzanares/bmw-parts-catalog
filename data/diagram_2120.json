@@ -1,0 +1,125 @@
+{
+  "id": 2120,
+  "diagram_title": "Navigation and TV, SA609 + SA601",
+  "image_url": "http://ills.bmwfans.info/dkoo.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1531,
+  "category_name": "Technical Literature",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "01 40 0 002 523",
+      "quantity": 1,
+      "description": "Owner's man., on-board monitor+TV+navi",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "01 40 0 002 523",
+      "quantity": 1,
+      "description": "Owner's man., on-board monitor+TV+navi",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 41 0 002 524",
+      "quantity": 1,
+      "description": "Owner's man., on-board monitor+TV+navi",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "01 41 0 002 524",
+      "quantity": 1,
+      "description": "Owner's man., on-board monitor+TV+navi",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 42 0 002 526",
+      "quantity": 1,
+      "description": "Owner's man., on-board monitor+TV+navi",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "01 42 0 002 526",
+      "quantity": 1,
+      "description": "Owner's man., on-board monitor+TV+navi",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 43 0 002 527",
+      "quantity": 1,
+      "description": "Owner's man., on-board monitor+TV+navi",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "01 43 0 002 527",
+      "quantity": 1,
+      "description": "Owner's man., on-board monitor+TV+navi",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 44 0 002 528",
+      "quantity": 1,
+      "description": "Owner's man., on-board monitor+TV+navi",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "01 44 0 002 528",
+      "quantity": 1,
+      "description": "Owner's man., on-board monitor+TV+navi",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 45 0 002 529",
+      "quantity": 1,
+      "description": "Owner's man., on-board monitor+TV+navi",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "01 45 0 002 529",
+      "quantity": 1,
+      "description": "Owner's man., on-board monitor+TV+navi",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 46 0 002 530",
+      "quantity": 1,
+      "description": "Owner's man., on-board monitor+TV+navi",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "01 46 0 002 530",
+      "quantity": 1,
+      "description": "Owner's man., on-board monitor+TV+navi",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

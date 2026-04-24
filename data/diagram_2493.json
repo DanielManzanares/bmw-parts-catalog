@@ -1,0 +1,29 @@
+{
+  "id": 2493,
+  "diagram_title": "Fire-extinguisher powder",
+  "image_url": "http://ills.bmwfans.info/1d0x.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "72 60 0 000 335",
+      "quantity": 1,
+      "description": "Installing set fire-extinguisher powder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 27 9 413 886",
+      "quantity": 1,
+      "description": "Fire extinguisher holder",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

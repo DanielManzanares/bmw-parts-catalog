@@ -1,0 +1,85 @@
+{
+  "id": 6487,
+  "diagram_title": "Relay, cigarette lighter, Australia K31",
+  "image_url": "http://ills.bmwfans.info/g3nl.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 36 6 915 327",
+      "quantity": 1,
+      "description": "Relay, make contact, sky-blue",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 13 1 389 111",
+      "quantity": 1,
+      "description": "Relay holder, black white",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 13 0 007 271",
+      "quantity": 1,
+      "description": "Double leaf spring contact",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 13 0 007 437",
+      "quantity": 1,
+      "description": "Double leaf spring contact",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 13 0 007 438",
+      "quantity": 1,
+      "description": "Double leaf spring contact",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 13 8 377 730",
+      "quantity": 1,
+      "description": "Double leaf spring contact",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 13 8 377 731",
+      "quantity": 1,
+      "description": "Double leaf spring contact",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 13 8 377 732",
+      "quantity": 1,
+      "description": "Double leaf spring contact",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 13 8 377 734",
+      "quantity": 1,
+      "description": "Double leaf spring contact",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

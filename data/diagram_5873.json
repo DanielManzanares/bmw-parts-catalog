@@ -1,0 +1,213 @@
+{
+  "id": 5873,
+  "diagram_title": "Trim cover, front",
+  "image_url": "http://ills.bmwfans.info/dogr.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 11 0 149 320",
+      "quantity": 1,
+      "description": "Painted front bumper trim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 11 7 076 720",
+      "quantity": 1,
+      "description": "Painted front bumper trim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 11 1 000 238",
+      "quantity": 1,
+      "description": "Flap, towing eye, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 11 7 173 750",
+      "quantity": 1,
+      "description": "Flap, towing eye, painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 11 7 065 469",
+      "quantity": 1,
+      "description": "Grid, center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 11 7 147 525",
+      "quantity": 1,
+      "description": "Grid lateral left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 11 7 147 526",
+      "quantity": 1,
+      "description": "Grid lateral left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 11 7 147 527",
+      "quantity": 1,
+      "description": "Grid lateral left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 11 7 147 528",
+      "quantity": 1,
+      "description": "Grid lateral left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 11 0 149 352",
+      "quantity": 1,
+      "description": "Licence plate base painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 11 7 110 217",
+      "quantity": 1,
+      "description": "Licence plate base painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 11 7 110 218",
+      "quantity": 1,
+      "description": "Licence plate base painted",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 11 8 191 149",
+      "quantity": 1,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 11 7 065 475",
+      "quantity": 1,
+      "description": "Guide left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 11 7 065 476",
+      "quantity": 1,
+      "description": "Guide left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 12 7 164 686",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 11 8 222 901",
+      "quantity": 8,
+      "description": "Blind compression rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 11 7 068 126",
+      "quantity": 2,
+      "description": "Expanding rivet",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 14 6 959 925",
+      "quantity": 1,
+      "description": "Phillips screw f plastic material",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "11 61 1 716 166",
+      "quantity": 1,
+      "description": "Threaded bush",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 14 6 959 892",
+      "quantity": 1,
+      "description": "Phillips screw f plastic material",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "07 11 9 904 208",
+      "quantity": 1,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 18 1 813 017",
+      "quantity": 1,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 18 1 823 474",
+      "quantity": 1,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 11 2 293 997",
+      "quantity": 1,
+      "description": "Set of mounted parts, bumper, front",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

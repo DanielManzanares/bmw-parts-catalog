@@ -1,0 +1,317 @@
+{
+  "id": 3103,
+  "diagram_title": "Trunk lid/closing system",
+  "image_url": "http://ills.bmwfans.info/e58.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1637,
+  "category_name": "Bodywork",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "41 62 8 119 768",
+      "quantity": 1,
+      "description": "Trunk lid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "41 62 8 119 163",
+      "quantity": 1,
+      "description": "Left trunk lid hinge",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "41 62 8 119 164",
+      "quantity": 1,
+      "description": "Left trunk lid hinge",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 71 8 171 244",
+      "quantity": 1,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 24 8 119 306",
+      "quantity": 2,
+      "description": "Stop buffer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 24 1 960 859",
+      "quantity": 1,
+      "description": "Catch bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 24 1 960 861",
+      "quantity": 1,
+      "description": "Trunk lid lock",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 24 8 151 002",
+      "quantity": 1,
+      "description": "Connection rod",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 24 1 960 862",
+      "quantity": 2,
+      "description": "Gas pressurized spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 23 8 123 298",
+      "quantity": 2,
+      "description": "Bump stop",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 14 6 985 055",
+      "quantity": 1,
+      "description": "Torx-bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "67 11 8 360 732",
+      "quantity": 1,
+      "description": "Actuator f trunk lid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "67 11 8 361 140",
+      "quantity": 1,
+      "description": "Actuator f trunk lid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 14 9 113 701",
+      "quantity": 2,
+      "description": "Torx-bolt for plastic material",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 11 9 915 021",
+      "quantity": 2,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 24 8 119 838",
+      "quantity": 1,
+      "description": "Operating rod",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "51 22 1 817 032",
+      "quantity": 1,
+      "description": "Circlip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 24 8 187 291",
+      "quantity": 2,
+      "description": "Buffer stop with ejector",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "07 14 7 202 357",
+      "quantity": 2,
+      "description": "Torx-countersunk head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "51 24 8 122 346",
+      "quantity": 1,
+      "description": "Catch with key",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "51 24 8 122 347",
+      "quantity": 1,
+      "description": "Catch with key",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "51 13 1 977 253",
+      "quantity": 1,
+      "description": "Trunk lid grip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "51 13 9 066 377",
+      "quantity": 1,
+      "description": "Trunk lid grip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "51 13 9 066 378",
+      "quantity": 1,
+      "description": "Trunk lid grip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "51 13 1 960 840",
+      "quantity": 4,
+      "description": "Phillips screw f plastic material",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "51 16 1 943 152",
+      "quantity": 4,
+      "description": "Expanding nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "51 18 1 852 299",
+      "quantity": 2,
+      "description": "Plug-in nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "07 14 3 448 498",
+      "quantity": 2,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "24",
+      "part_number": "07 11 9 931 018",
+      "quantity": 2,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "24",
+      "part_number": "07 11 9 904 202",
+      "quantity": 2,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "25",
+      "part_number": "51 18 1 813 017",
+      "quantity": 2,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "25",
+      "part_number": "51 18 1 823 474",
+      "quantity": 2,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "25",
+      "part_number": "64 11 1 375 497",
+      "quantity": 2,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "26",
+      "part_number": "51 24 8 148 859",
+      "quantity": 1,
+      "description": "Stop buffer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "27",
+      "part_number": "07 11 9 900 574",
+      "quantity": 4,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "28",
+      "part_number": "07 11 9 915 031",
+      "quantity": 2,
+      "description": "Hex bolt with washer",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E9, Z1, Z3"
+    },
+    {
+      "position_number": "29",
+      "part_number": "67 11 8 361 868",
+      "quantity": 1,
+      "description": "Connection piece",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "29",
+      "part_number": "67 11 8 361 869",
+      "quantity": 1,
+      "description": "Connection piece",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

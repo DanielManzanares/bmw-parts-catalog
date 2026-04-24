@@ -1,0 +1,53 @@
+{
+  "id": 3629,
+  "diagram_title": "Horn",
+  "image_url": "http://ills.bmwfans.info/c12.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "61 33 1 387 685",
+      "quantity": 1,
+      "description": "Horn",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 33 7 163 993",
+      "quantity": 1,
+      "description": "Horn",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 33 1 387 686",
+      "quantity": 1,
+      "description": "Horn",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 33 7 163 994",
+      "quantity": 1,
+      "description": "Horn",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 906 407",
+      "quantity": 2,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E24, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E83, E9, NK, Z1, Z3"
+    }
+  ]
+}

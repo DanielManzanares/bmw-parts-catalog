@@ -1,0 +1,53 @@
+{
+  "id": 2279,
+  "diagram_title": "Handbrake grip/leather cover",
+  "image_url": "http://ills.bmwfans.info/d57.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "34 41 9 403 196",
+      "quantity": 1,
+      "description": "Handbrake grip/leather cover set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 41 9 403 197",
+      "quantity": 1,
+      "description": "Handbrake grip/leather cover set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 41 9 403 198",
+      "quantity": 1,
+      "description": "Handbrake grip/leather cover set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "34 41 9 403 199",
+      "quantity": 1,
+      "description": "Handbrake grip/leather cover set",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "82 25 9 402 861",
+      "quantity": 1,
+      "description": "Burr walnut handbrake grip",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

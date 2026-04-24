@@ -1,0 +1,21 @@
+{
+  "id": 2307,
+  "diagram_title": "Lambskin seat cover",
+  "image_url": "http://ills.bmwfans.info/1ay5.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 11 9 401 064",
+      "quantity": 2,
+      "description": "Cover for seat front lambswool",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

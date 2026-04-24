@@ -1,0 +1,117 @@
+{
+  "id": 2432,
+  "diagram_title": "Retrofit kit, child seats in the rear",
+  "image_url": "http://ills.bmwfans.info/1i52.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 23 0 010 368",
+      "quantity": 1,
+      "description": "Integrated child seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 23 0 010 366",
+      "quantity": 1,
+      "description": "Integrated child seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 23 0 010 364",
+      "quantity": 1,
+      "description": "Integrated child seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 23 0 010 362",
+      "quantity": 1,
+      "description": "Integrated child seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 23 0 010 372",
+      "quantity": 1,
+      "description": "Integrated child seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 23 0 010 371",
+      "quantity": 1,
+      "description": "Integrated child seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 23 0 010 370",
+      "quantity": 1,
+      "description": "Integrated child seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 23 0 010 359",
+      "quantity": 1,
+      "description": "Integrated child seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 23 0 010 358",
+      "quantity": 1,
+      "description": "Integrated child seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 23 0 010 357",
+      "quantity": 1,
+      "description": "Integrated child seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 23 0 010 063",
+      "quantity": 1,
+      "description": "Integrated child seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 23 0 010 136",
+      "quantity": 1,
+      "description": "Integrated child seat",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 23 0 010 360",
+      "quantity": 1,
+      "description": "Integrated child seat",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

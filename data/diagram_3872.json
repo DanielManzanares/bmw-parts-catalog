@@ -1,0 +1,85 @@
+{
+  "id": 3872,
+  "diagram_title": "Safety belt rear",
+  "image_url": "http://ills.bmwfans.info/dhe.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1646,
+  "category_name": "Restraint system and Accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "72 11 2 257 467",
+      "quantity": 1,
+      "description": "Upper belt rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "72 11 2 257 468",
+      "quantity": 1,
+      "description": "Upper belt rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "72 11 8 208 815",
+      "quantity": 2,
+      "description": "Upper belt rear",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "72 11 8 135 347",
+      "quantity": 1,
+      "description": "Lower belt rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "72 11 8 135 348",
+      "quantity": 1,
+      "description": "Lower belt rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "72 11 1 977 413",
+      "quantity": 1,
+      "description": "Lap belt rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "72 11 1 977 415",
+      "quantity": 1,
+      "description": "Lap belt rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "72 11 1 977 414",
+      "quantity": 1,
+      "description": "Lap belt rear right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "72 11 1 977 416",
+      "quantity": 1,
+      "description": "Lap belt rear right",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

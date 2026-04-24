@@ -1,0 +1,357 @@
+{
+  "id": 6896,
+  "diagram_title": "Single parts, xenon headlight",
+  "image_url": "http://ills.bmwfans.info/ajjw.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 184,
+  "category_name": "Lighting",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "63 12 8 380 189",
+      "quantity": 1,
+      "description": "Left cover glass",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 8 380 190",
+      "quantity": 1,
+      "description": "Left cover glass",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 6 924 043",
+      "quantity": 1,
+      "description": "Left cover glass",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 6 924 044",
+      "quantity": 1,
+      "description": "Right cover glass",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 6 923 409",
+      "quantity": 1,
+      "description": "Left cover glass",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 12 6 923 410",
+      "quantity": 1,
+      "description": "Right cover glass",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 12 8 380 205",
+      "quantity": 2,
+      "description": "Bulb socket, parking light",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 21 7 160 797",
+      "quantity": 2,
+      "description": "Longlife bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "63 12 6 901 481",
+      "quantity": 2,
+      "description": "Bracket, control unit, Xenon light",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "63 12 6 920 165",
+      "quantity": 1,
+      "description": "Bracket, control unit, Xenon light left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "63 12 6 920 166",
+      "quantity": 1,
+      "description": "Bracket, control unit, Xenon light right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "63 12 8 380 207",
+      "quantity": 2,
+      "description": "Bulb socket, high beam",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 21 7 160 780",
+      "quantity": 2,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 21 7 160 781",
+      "quantity": 2,
+      "description": "Longlife bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 21 7 170 652",
+      "quantity": 2,
+      "description": "Set of light bulbs H7 BMW Design",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 11 9 904 790",
+      "quantity": 2,
+      "description": "Bulb Xenon light",
+      "price_eur": null,
+      "compatible_models": "E46, E60, E61"
+    },
+    {
+      "position_number": "7",
+      "part_number": "63 21 7 160 806",
+      "quantity": 1,
+      "description": "Bulb Xenon light",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "63 12 8 384 492",
+      "quantity": 2,
+      "description": "High beam cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 12 8 384 487",
+      "quantity": 1,
+      "description": "Cover strip, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 12 8 384 488",
+      "quantity": 1,
+      "description": "Cover strip, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 12 6 921 859",
+      "quantity": 1,
+      "description": "Cover strip, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 12 6 921 860",
+      "quantity": 1,
+      "description": "Cover strip, right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "63 12 8 380 187",
+      "quantity": 1,
+      "description": "Bracket headlight left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "63 12 8 380 188",
+      "quantity": 1,
+      "description": "Bracket headlight right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "63 12 6 975 083",
+      "quantity": 8,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "63 12 8 374 670",
+      "quantity": 4,
+      "description": "Expanding nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "63 12 8 374 671",
+      "quantity": 4,
+      "description": "03",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "67 16 8 372 381",
+      "quantity": 2,
+      "description": "Head light vertical aim control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "61 13 8 373 573",
+      "quantity": 2,
+      "description": "Wiring light regulator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "61 35 8 376 273",
+      "quantity": 2,
+      "description": "Control unit xenon light",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "63 12 7 176 068",
+      "quantity": 2,
+      "description": "Control unit xenon light",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "63 12 6 904 548",
+      "quantity": 2,
+      "description": "Ignition element Xenon-light",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "63 12 6 907 504",
+      "quantity": 2,
+      "description": "Ignition element Xenon-light",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "63 12 6 905 323",
+      "quantity": 2,
+      "description": "Supporting ring f Xenon light bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "63 12 6 901 480",
+      "quantity": 2,
+      "description": "Low beam cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "63 12 6 946 039",
+      "quantity": 2,
+      "description": "Lamp cover low beam",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "63 12 8 380 210",
+      "quantity": 2,
+      "description": "Headlight gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "63 12 6 904 664",
+      "quantity": 1,
+      "description": "Repair kit headlight",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "71 23 7 248 266",
+      "quantity": 2,
+      "description": "Stick-on label xenon-light",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "61 13 8 364 494",
+      "quantity": 1,
+      "description": "Plug terminal black",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "61 13 8 373 332",
+      "quantity": 1,
+      "description": "Universal socket housing uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "24",
+      "part_number": "61 13 8 364 498",
+      "quantity": 1,
+      "description": "Socket housing, grey",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "25",
+      "part_number": "61 13 8 365 356",
+      "quantity": 1,
+      "description": "Universal socket housing uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 5494,
+    "diagram_title": "Clutch",
+    "image_url": "http://ills.bmwfans.info/frc.png",
+    "parts_count": 8
+  },
+  {
+    "id": 5497,
+    "diagram_title": "Clutch control",
+    "image_url": "http://ills.bmwfans.info/1t3e.png",
+    "parts_count": 27
+  },
+  {
+    "id": 892,
+    "diagram_title": "clutch",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_clutch_clutch.png",
+    "parts_count": 9
+  },
+  {
+    "id": 896,
+    "diagram_title": "clutch_control",
+    "image_url": "/static/images/diagrams/E46_320Ci-M54_clutch_clutch_control.png",
+    "parts_count": 25
+  }
+]

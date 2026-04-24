@@ -1,0 +1,37 @@
+{
+  "id": 7416,
+  "diagram_title": "Single parts f Nokia3110 teleph. antenna",
+  "image_url": "http://ills.bmwfans.info/23z9.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1648,
+  "category_name": "Communication systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "84 53 8 375 641",
+      "quantity": 1,
+      "description": "Roof antenna base, singleband",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "84 53 8 376 331",
+      "quantity": 1,
+      "description": "Antenna radiator, singleband",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 12 8 375 790",
+      "quantity": 1,
+      "description": "Antenna cable",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

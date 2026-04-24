@@ -1,0 +1,21 @@
+{
+  "id": 6711,
+  "diagram_title": "Relay for hydraulic pump SMG K6318",
+  "image_url": "http://ills.bmwfans.info/ehk5.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 36 6 901 469",
+      "quantity": 1,
+      "description": "Relay, make contact, black",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

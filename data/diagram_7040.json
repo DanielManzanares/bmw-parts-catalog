@@ -1,0 +1,21 @@
+{
+  "id": 7040,
+  "diagram_title": "Antenna cable TV",
+  "image_url": "http://ills.bmwfans.info/2sdb.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "3",
+      "part_number": "61 12 8 374 681",
+      "quantity": 2,
+      "description": "Antenna cable for video module/TV amp",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

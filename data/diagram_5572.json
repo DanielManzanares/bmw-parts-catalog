@@ -1,0 +1,253 @@
+{
+  "id": 5572,
+  "diagram_title": "S5D...Z inner gear shifting parts",
+  "image_url": "http://ills.bmwfans.info/29gf.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 42,
+  "category_name": "Manual Transmission",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "23 31 7 501 036",
+      "quantity": 1,
+      "description": "Selector shaft",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "23 31 1 224 937",
+      "quantity": 1,
+      "description": "Spring plate",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "23 31 1 224 922",
+      "quantity": 2,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "23 31 1 224 832",
+      "quantity": 1,
+      "description": "Return spring",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "5",
+      "part_number": "23 31 1 282 556",
+      "quantity": 1,
+      "description": "Selector arm with ball bearing",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "23 31 1 224 815",
+      "quantity": 1,
+      "description": "Roll pin",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "7",
+      "part_number": "23 31 7 502 164",
+      "quantity": 1,
+      "description": "Stop plate",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "8",
+      "part_number": "23 11 7 566 216",
+      "quantity": 2,
+      "description": "Torx bolt",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "9",
+      "part_number": "23 31 7 531 374",
+      "quantity": 3,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F06, F10, F10 Facelift, F11, F11 Facelift, F12, F13, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F36, F80, F80 Facelift, F82, F83, F87, Z3"
+    },
+    {
+      "position_number": "10",
+      "part_number": "23 31 1 224 825",
+      "quantity": 3,
+      "description": "Cover lid",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F06, F10, F10 Facelift, F11, F11 Facelift, F12, F13, Z3"
+    },
+    {
+      "position_number": "11",
+      "part_number": "23 31 1 224 935",
+      "quantity": 1,
+      "description": "Compression spring",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "12",
+      "part_number": "23 31 7 502 165",
+      "quantity": 1,
+      "description": "Locking pin",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "13",
+      "part_number": "23 31 1 224 817",
+      "quantity": 1,
+      "description": "Compression spring",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "14",
+      "part_number": "23 31 1 224 849",
+      "quantity": 1,
+      "description": "Locking pin",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "15",
+      "part_number": "23 31 1 224 819",
+      "quantity": 1,
+      "description": "Compression spring",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, E60, E61, E63, E64, E84, E85, E86, E90, E91, Z3"
+    },
+    {
+      "position_number": "16",
+      "part_number": "23 31 1 224 823",
+      "quantity": 1,
+      "description": "Locking pin",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F06, F10, F10 Facelift, F11, F11 Facelift, F12, F13, Z3"
+    },
+    {
+      "position_number": "17",
+      "part_number": "23 31 1 224 833",
+      "quantity": 1,
+      "description": "Return spring",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "18",
+      "part_number": "23 31 1 224 863",
+      "quantity": 1,
+      "description": "Deflection lever",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "19",
+      "part_number": "23 31 1 224 923",
+      "quantity": 1,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "20",
+      "part_number": "23 31 1 282 585",
+      "quantity": 1,
+      "description": "Shifting fork 5st and reverse gear",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "21",
+      "part_number": "23 31 1 282 582",
+      "quantity": 1,
+      "description": "Shifting fork 1st and 2nd gear",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "22",
+      "part_number": "23 31 1 282 584",
+      "quantity": 1,
+      "description": "Shifting fork 3rd and 4th gear",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "23",
+      "part_number": "23 31 7 543 214",
+      "quantity": 6,
+      "description": "Bolt",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "24",
+      "part_number": "23 31 1 224 848",
+      "quantity": 6,
+      "description": "Sliding piece",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "25",
+      "part_number": "23 31 7 637 524",
+      "quantity": 3,
+      "description": "Cover lid",
+      "price_eur": null,
+      "compatible_models": "CMSP, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, Z3"
+    },
+    {
+      "position_number": "26",
+      "part_number": "23 31 1 224 959",
+      "quantity": 2,
+      "description": "Compression spring",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "27",
+      "part_number": "23 31 1 224 791",
+      "quantity": 2,
+      "description": "Locking pin",
+      "price_eur": null,
+      "compatible_models": "E28, E30, E32, E34, E36, E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "28",
+      "part_number": "23 11 7 525 048",
+      "quantity": 1,
+      "description": "Set of detent pins",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "29",
+      "part_number": "23 21 1 224 843",
+      "quantity": 1,
+      "description": "Locking lever",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, Z3"
+    },
+    {
+      "position_number": "30",
+      "part_number": "23 31 7 543 225",
+      "quantity": 2,
+      "description": "Collar bolt",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E53, Z3"
+    }
+  ]
+}

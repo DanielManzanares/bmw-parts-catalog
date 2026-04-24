@@ -1,0 +1,29 @@
+{
+  "id": 6779,
+  "diagram_title": "Relais base",
+  "image_url": "http://ills.bmwfans.info/3ilz.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "61 13 1 389 111",
+      "quantity": 1,
+      "description": "Relay holder, black white",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "61 13 1 389 113",
+      "quantity": 1,
+      "description": "Relay holder, black white",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

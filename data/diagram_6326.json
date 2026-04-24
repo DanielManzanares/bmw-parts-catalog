@@ -1,0 +1,613 @@
+{
+  "id": 6326,
+  "diagram_title": "Door trim panel, rear, side airbag",
+  "image_url": "http://ills.bmwfans.info/1hm6.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 229 433",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 229 434",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 224 611",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 224 612",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 224 609",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 224 610",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 232 631",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 232 632",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 230 695",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 230 696",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 230 707",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 230 708",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 224 567",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 224 568",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 224 605",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 224 606",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 224 607",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 224 608",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 7 048 009",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 7 048 010",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 7 025 705",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 7 025 706",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 7 890 723",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 7 890 724",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 7 048 355",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 7 048 356",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 7 048 357",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 7 048 358",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 230 697",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 230 698",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 230 699",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 230 700",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 230 703",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 230 704",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 7 043 099",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 7 043 100",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 7 043 083",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 7 043 084",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 7 043 125",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 7 043 126",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 7 043 017",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 7 043 018",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 7 043 019",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 7 043 020",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 224 421",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 224 422",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 224 419",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 224 420",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 224 417",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 224 418",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 224 577",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 224 578",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 224 579",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 224 580",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 223 933",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 42 8 223 934",
+      "quantity": 1,
+      "description": "Door trim panel, rear, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 8 213 917",
+      "quantity": 2,
+      "description": "Plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 8 224 397",
+      "quantity": 2,
+      "description": "Plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 41 8 224 398",
+      "quantity": 2,
+      "description": "Plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 42 8 213 935",
+      "quantity": 2,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 42 8 224 415",
+      "quantity": 2,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 42 8 224 416",
+      "quantity": 2,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 41 8 225 552",
+      "quantity": 8,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "46 63 7 651 465",
+      "quantity": 8,
+      "description": "Plug-in nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 41 8 238 371",
+      "quantity": 2,
+      "description": "Expanding nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 42 7 064 735",
+      "quantity": 2,
+      "description": "Expanding nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "07 14 6 979 835",
+      "quantity": 2,
+      "description": "Fillister head screw with collar",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 41 7 059 617",
+      "quantity": 8,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 42 8 200 751",
+      "quantity": 1,
+      "description": "Door handle, inside left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 42 8 200 752",
+      "quantity": 1,
+      "description": "Door handle, inside left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 41 8 224 768",
+      "quantity": 10,
+      "description": "Clip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 41 8 224 781",
+      "quantity": 4,
+      "description": "Clip",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 41 8 200 729",
+      "quantity": 2,
+      "description": "Bush",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 11 9 931 029",
+      "quantity": 2,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E65, E70, E70 Facelift, E71, E83, E83 Facelift, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 11 9 936 439",
+      "quantity": 2,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E65, E66, E67, E70, E70 Facelift, E71, E81, E82, E83, E83 Facelift, E87, E87 Facelift, E88, E9, NK, Z1, Z3"
+    }
+  ]
+}

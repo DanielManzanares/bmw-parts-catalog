@@ -1,0 +1,77 @@
+{
+  "id": 5192,
+  "diagram_title": "Radio Blaupunkt Hamburg MP68",
+  "image_url": "http://ills.bmwfans.info/aki0.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 90 2 156 186",
+      "quantity": 1,
+      "description": "Radio Blaupunkt full stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 90 2 156 186",
+      "quantity": 1,
+      "description": "Radio Blaupunkt full stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 90 2 156 186",
+      "quantity": 1,
+      "description": "Radio Blaupunkt full stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 90 2 156 186",
+      "quantity": 1,
+      "description": "Radio Blaupunkt full stereo",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 90 2 156 732",
+      "quantity": 1,
+      "description": "AUX adapter cable, BMW, with 3.5 mm jack",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "65 90 2 156 732",
+      "quantity": 1,
+      "description": "AUX adapter cable, BMW, with 3.5 mm jack",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 90 0 390 317",
+      "quantity": 1,
+      "description": "Radio trim, centered",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "65 90 0 390 317",
+      "quantity": 1,
+      "description": "Radio trim, centered",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

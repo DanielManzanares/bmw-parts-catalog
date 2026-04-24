@@ -1,0 +1,77 @@
+{
+  "id": 3891,
+  "diagram_title": "Single parts f centre console telephone",
+  "image_url": "http://ills.bmwfans.info/d2z.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1648,
+  "category_name": "Communication systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "84 61 0 007 173",
+      "quantity": 1,
+      "description": "Basic kit, telephone GSM Phase V",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 16 8 173 731",
+      "quantity": 1,
+      "description": "Eject-box trim panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "84 11 8 385 759",
+      "quantity": 1,
+      "description": "Car telephone eject-box",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 16 8 173 728",
+      "quantity": 1,
+      "description": "Eject-box bracket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "07 14 9 115 641",
+      "quantity": 2,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "65 61 8 350 471",
+      "quantity": 1,
+      "description": "Hands free pad",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "65 61 8 356 137",
+      "quantity": 2,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "84 13 8 361 364",
+      "quantity": 1,
+      "description": "Holder for receiver support",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

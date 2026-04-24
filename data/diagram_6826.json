@@ -1,0 +1,61 @@
+{
+  "id": 6826,
+  "diagram_title": "DVD navigation street map",
+  "image_url": "http://ills.bmwfans.info/2pvu.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1643,
+  "category_name": "Audio, Navigation, Electronic Systems",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "65 90 2 218 520",
+      "quantity": 1,
+      "description": "Update DVD Road Map of Europe high",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 90 2 304 561",
+      "quantity": 1,
+      "description": "Update DVD Road Map of Europe high",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 90 2 350 318",
+      "quantity": 1,
+      "description": "Update DVD Road Map of Europe high",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 90 2 289 049",
+      "quantity": 1,
+      "description": "Update DVD Road Map of Europe high",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 90 2 408 599",
+      "quantity": 1,
+      "description": "Update DVD Road Map of Europe high",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "65 90 2 218 523",
+      "quantity": 1,
+      "description": "CD map GB / Ireland",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "id": 2050,
+  "diagram_title": "Door window lifting mechanism front",
+  "image_url": "http://ills.bmwfans.info/a8n.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 32 1 867 903",
+      "quantity": 1,
+      "description": "Window lifter front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 32 1 867 904",
+      "quantity": 1,
+      "description": "Window lifter front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 913 442",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E39, E9, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "07 11 9 905 524",
+      "quantity": 1,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, 700, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F31, F32, F33, F34, F35, F35 Facelift, F36, F80, F80 Facelift, F82, F83, F87, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 936 425",
+      "quantity": 1,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 32 1 871 969",
+      "quantity": 2,
+      "description": "Sliding piece",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 32 1 875 554",
+      "quantity": 2,
+      "description": "Crank, window lifter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 32 1 875 839",
+      "quantity": 2,
+      "description": "Crank, window lifter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 32 1 904 060",
+      "quantity": 2,
+      "description": "Crank, window lifter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 32 1 912 268",
+      "quantity": 2,
+      "description": "Crank, window lifter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 32 1 912 269",
+      "quantity": 2,
+      "description": "Crank, window lifter",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 32 1 819 852",
+      "quantity": 2,
+      "description": "Stop disk",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 32 1 875 551",
+      "quantity": 2,
+      "description": "Stop disk",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 32 1 904 063",
+      "quantity": 2,
+      "description": "Stop disk",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 32 1 911 575",
+      "quantity": 2,
+      "description": "Stop disk",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 32 1 911 576",
+      "quantity": 2,
+      "description": "Stop disk",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 32 1 886 647",
+      "quantity": 2,
+      "description": "Bush",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 21 1 800 790",
+      "quantity": 2,
+      "description": "Conical screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 32 1 809 844",
+      "quantity": 2,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 32 1 809 881",
+      "quantity": 4,
+      "description": "Sliding piece",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "61 61 1 356 101",
+      "quantity": 4,
+      "description": "Locknut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 41 7 053 138",
+      "quantity": 4,
+      "description": "Locknut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 33 1 921 471",
+      "quantity": 1,
+      "description": "Electr.window lifter front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 33 1 921 472",
+      "quantity": 1,
+      "description": "Electr.window lifter front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 33 1 868 829",
+      "quantity": 1,
+      "description": "Electr.window lifter front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 33 1 868 830",
+      "quantity": 1,
+      "description": "Electr.window lifter front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 33 1 375 403",
+      "quantity": 1,
+      "description": "Electr.drive left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 33 1 375 404",
+      "quantity": 1,
+      "description": "Electr.drive left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "23 11 2 322 368",
+      "quantity": 6,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36"
+    },
+    {
+      "position_number": "15",
+      "part_number": "07 11 9 922 832",
+      "quantity": 6,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E53, E9, ISE, NK"
+    },
+    {
+      "position_number": "15",
+      "part_number": "07 11 9 905 543",
+      "quantity": 6,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E83, E83 Facelift, E84, E85, E86, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02 Facelift, F03, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F30 Facelift, F31, F31 Facelift, F32, F33, F34, F36, F46, F48, F85, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "16",
+      "part_number": "07 11 9 931 044",
+      "quantity": 6,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E9, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "17",
+      "part_number": "07 11 9 913 442",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E39, E9, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "17",
+      "part_number": "07 11 9 905 524",
+      "quantity": 2,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": "114, 700, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E70, E70 Facelift, E71, E81, E82, E83, E83 Facelift, E84, E85, E86, E87, E87 Facelift, E88, E89, E9, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F01, F01 Facelift, F02, F02 Facelift, F03, F03 Facelift, F04, F06, F06 Facelift, F07, F07 Facelift, F10, F10 Facelift, F11, F11 Facelift, F12, F12 Facelift, F13, F13 Facelift, F15, F16, F18, F18 Facelift, F20, F20 Facelift, F21, F21 Facelift, F22, F23, F25, F26, F30, F31, F32, F33, F34, F35, F35 Facelift, F36, F80, F80 Facelift, F82, F83, F87, ISE, NK, Z1, Z3"
+    },
+    {
+      "position_number": "18",
+      "part_number": "71 11 1 150 191",
+      "quantity": 1,
+      "description": "Emergency tool electr.window",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "71 11 1 150 500",
+      "quantity": 1,
+      "description": "Emergency tool electr.window",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "51 32 1 882 677",
+      "quantity": 4,
+      "description": "Holder",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

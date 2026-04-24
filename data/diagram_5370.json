@@ -1,0 +1,125 @@
+{
+  "id": 5370,
+  "diagram_title": "Oil pump and compensating shaft unit",
+  "image_url": "http://ills.bmwfans.info/1suh.png",
+  "model_id": 617,
+  "model_code": "318i-N42",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1,
+  "category_name": "Engine",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "11 27 7 594 471",
+      "quantity": 1,
+      "description": "Oil pump and compensating shaft unit",
+      "price_eur": null,
+      "compatible_models": "E46, E60 Facelift, E81, E82, E84, E85, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "2",
+      "part_number": "11 41 7 507 650",
+      "quantity": 1,
+      "description": "Screw plug",
+      "price_eur": null,
+      "compatible_models": "E46, E81, E83, E83 Facelift, E85, E87, E87 Facelift, E90, E90 Facelift, E91"
+    },
+    {
+      "position_number": "3",
+      "part_number": "11 41 7 507 648",
+      "quantity": 1,
+      "description": "Control valve",
+      "price_eur": null,
+      "compatible_models": "E46, E81, E83, E83 Facelift, E85, E87, E87 Facelift, E90, E90 Facelift, E91"
+    },
+    {
+      "position_number": "4",
+      "part_number": "11 41 7 507 755",
+      "quantity": 1,
+      "description": "Coil spring",
+      "price_eur": null,
+      "compatible_models": "E46, E81, E83, E83 Facelift, E85, E87, E87 Facelift, E90, E90 Facelift, E91"
+    },
+    {
+      "position_number": "5",
+      "part_number": "11 27 7 500 892",
+      "quantity": 1,
+      "description": "Oil deflector",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "6",
+      "part_number": "11 41 7 500 328",
+      "quantity": 1,
+      "description": "Suction pipe",
+      "price_eur": null,
+      "compatible_models": "E46, E60 Facelift, E81, E82, E84, E85, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "7",
+      "part_number": "11 41 7 507 756",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E46, E60 Facelift, E81, E82, E84, E85, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "8",
+      "part_number": "11 31 7 507 551",
+      "quantity": 1,
+      "description": "Sprocket",
+      "price_eur": null,
+      "compatible_models": "E46, E60 Facelift, E61 Facelift, E81, E82, E83, E83 Facelift, E84, E85, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "9",
+      "part_number": "11 27 7 505 696",
+      "quantity": 1,
+      "description": "Torx bolt",
+      "price_eur": null,
+      "compatible_models": "E46, E60 Facelift, E81, E82, E84, E85, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "10",
+      "part_number": "11 27 7 505 697",
+      "quantity": 1,
+      "description": "Torx bolt",
+      "price_eur": null,
+      "compatible_models": "E46, E60 Facelift, E61 Facelift, E81, E82, E84, E85, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "11",
+      "part_number": "11 27 7 504 379",
+      "quantity": 6,
+      "description": "Torx bolt",
+      "price_eur": null,
+      "compatible_models": "E46, E60 Facelift, E61 Facelift, E81, E82, E83, E83 Facelift, E84, E85, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "12",
+      "part_number": "11 27 7 509 226",
+      "quantity": 5,
+      "description": "Fillister-head screw",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "13",
+      "part_number": "11 41 7 506 378",
+      "quantity": 1,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "E46, E60 Facelift, E61 Facelift, E81, E82, E83, E83 Facelift, E84, E85, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "14",
+      "part_number": "07 12 9 905 061",
+      "quantity": 2,
+      "description": "ISA screw",
+      "price_eur": null,
+      "compatible_models": "E46, E60 Facelift, E61 Facelift, E81, E82, E83, E83 Facelift, E84, E85, E87, E87 Facelift, E88, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift, F33, F83"
+    }
+  ]
+}

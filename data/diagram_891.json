@@ -1,0 +1,69 @@
+{
+  "id": 891,
+  "diagram_title": "fuel_pump_and_fuel_level_sensor",
+  "image_url": "/static/images/diagrams/E46_320Ci-M54_fuel_supply_fuel_pump_and_fuel_level_sensor.png",
+  "model_id": 848,
+  "model_code": "320Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 31,
+  "category_name": "Fuel Supply",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "16 14 6 766 942",
+      "quantity": 1,
+      "description": "Delivery unit, right",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "2",
+      "part_number": "16 11 6 768 788",
+      "quantity": 1,
+      "description": "Left fuel level sensor",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "3",
+      "part_number": "16 14 6 755 880",
+      "quantity": 1,
+      "description": "Sucking jet pump",
+      "price_eur": null,
+      "compatible_models": "E46"
+    },
+    {
+      "position_number": "4",
+      "part_number": "16 11 1 184 084",
+      "quantity": 2,
+      "description": "Rubber seal",
+      "price_eur": null,
+      "compatible_models": "E39, E46"
+    },
+    {
+      "position_number": "5",
+      "part_number": "16 14 1 183 543",
+      "quantity": 1,
+      "description": "O-ring",
+      "price_eur": null,
+      "compatible_models": "E36, E46"
+    },
+    {
+      "position_number": "6",
+      "part_number": "16 11 6 762 417",
+      "quantity": 2,
+      "description": "Screw cap",
+      "price_eur": null,
+      "compatible_models": "E39, E46, E52, E53, E60, E60 Facelift, E61, E61 Facelift, E63, E63 Facelift, E64, E64 Facelift, E65, E66, E67, E83, E83 Facelift"
+    },
+    {
+      "position_number": "8",
+      "part_number": "61 13 8 352 390",
+      "quantity": 1,
+      "description": "Universal socket housing uncoded",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 2284,
+  "diagram_title": "Retrofit, net bag at seat backrest",
+  "image_url": "http://ills.bmwfans.info/dmc.png",
+  "model_id": 200,
+  "model_code": "320i-M50",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "82 40 9 402 893",
+      "quantity": 1,
+      "description": "Front backrest net",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

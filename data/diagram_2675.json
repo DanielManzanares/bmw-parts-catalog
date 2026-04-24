@@ -1,0 +1,221 @@
+{
+  "id": 2675,
+  "diagram_title": "Heating/air conditioner actuation",
+  "image_url": "http://ills.bmwfans.info/cmu.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 11 1 375 913",
+      "quantity": 1,
+      "description": "Panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "64 11 1 375 912",
+      "quantity": 1,
+      "description": "Panel",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 11 1 375 099",
+      "quantity": 1,
+      "description": "Illumination plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 11 1 368 498",
+      "quantity": 1,
+      "description": "Plug",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "64 11 1 367 693",
+      "quantity": 3,
+      "description": "Operating lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "64 11 1 375 098",
+      "quantity": 1,
+      "description": "Heater control",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "64 11 1 368 521",
+      "quantity": 1,
+      "description": "Bow",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "64 11 1 367 696",
+      "quantity": 1,
+      "description": "Rotary knob",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "64 11 1 367 695",
+      "quantity": 1,
+      "description": "Knob temperature",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "64 11 1 367 697",
+      "quantity": 3,
+      "description": "Button",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 906 429",
+      "quantity": 1,
+      "description": "Fillister head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "64 11 1 373 214",
+      "quantity": 1,
+      "description": "Control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 11 9 906 749",
+      "quantity": 4,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "07 11 9 931 029",
+      "quantity": 2,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E65, E70, E70 Facelift, E71, E83, E83 Facelift, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "14",
+      "part_number": "07 11 9 936 439",
+      "quantity": 2,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E52, E53, E65, E66, E67, E70, E70 Facelift, E71, E81, E82, E83, E83 Facelift, E87, E87 Facelift, E88, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "14",
+      "part_number": "07 11 9 931 030",
+      "quantity": 2,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E28, E30, E31, E32, E34, E36, E53, Z1"
+    },
+    {
+      "position_number": "15",
+      "part_number": "07 12 9 925 709",
+      "quantity": 2,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "07 12 9 901 644",
+      "quantity": 2,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "07 12 9 904 220",
+      "quantity": 2,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "64 11 1 370 453",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "64 11 1 374 633",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "07 11 9 978 375",
+      "quantity": 2,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": "E21, E28, E30, Z1"
+    },
+    {
+      "position_number": "18",
+      "part_number": "07 50 9 063 579",
+      "quantity": 1,
+      "description": "91",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E26, E28, E3, E30, E32, E34, E36, Z1, Z3"
+    },
+    {
+      "position_number": "18",
+      "part_number": "63 21 7 167 000",
+      "quantity": 1,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "64 11 1 372 279",
+      "quantity": 1,
+      "description": "Set prism",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "64 11 1 369 868",
+      "quantity": 3,
+      "description": "Diode",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

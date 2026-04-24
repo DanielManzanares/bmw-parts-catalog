@@ -1,0 +1,53 @@
+{
+  "id": 2096,
+  "diagram_title": "Interior rear-view mirror",
+  "image_url": "http://ills.bmwfans.info/a9t.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 16 1 856 356",
+      "quantity": 1,
+      "description": "Interior rear-view mirror",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 16 2 125 362",
+      "quantity": 1,
+      "description": "Interior rear-view mirror",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 16 1 801 085",
+      "quantity": 1,
+      "description": "Base plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 44 1 900 133",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 44 1 900 133",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

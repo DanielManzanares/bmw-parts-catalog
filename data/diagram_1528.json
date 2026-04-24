@@ -1,0 +1,413 @@
+{
+  "id": 1528,
+  "diagram_title": "Turn indicator",
+  "image_url": "http://ills.bmwfans.info/c46.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 184,
+  "category_name": "Lighting",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "63 13 1 373 297",
+      "quantity": 1,
+      "description": "Left turn indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 13 1 373 298",
+      "quantity": 1,
+      "description": "Right turn indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 13 1 373 297",
+      "quantity": 1,
+      "description": "Left turn indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "63 13 1 373 298",
+      "quantity": 1,
+      "description": "Right turn indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 13 1 366 573",
+      "quantity": 2,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "63 13 1 366 573",
+      "quantity": 2,
+      "description": "Gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 13 1 366 571",
+      "quantity": 1,
+      "description": "Lens left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 13 1 366 572",
+      "quantity": 1,
+      "description": "Lens right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 13 9 069 124",
+      "quantity": 1,
+      "description": "95",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 13 9 069 125",
+      "quantity": 1,
+      "description": "Lens left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 13 1 366 571",
+      "quantity": 1,
+      "description": "Lens left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 13 1 366 572",
+      "quantity": 1,
+      "description": "Lens right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 13 9 069 124",
+      "quantity": 1,
+      "description": "95",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "63 13 9 069 125",
+      "quantity": 1,
+      "description": "Lens left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "63 13 1 359 937",
+      "quantity": 6,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "63 13 1 359 937",
+      "quantity": 6,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "63 13 1 361 965",
+      "quantity": 6,
+      "description": "Washer-gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "63 13 1 361 965",
+      "quantity": 6,
+      "description": "Washer-gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 50 9 063 574",
+      "quantity": 1,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E53, E65, E66, E67, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 21 7 160 789",
+      "quantity": 1,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 21 6 926 920",
+      "quantity": 1,
+      "description": "Longlife bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 21 7 160 790",
+      "quantity": 1,
+      "description": "04",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 11 9 978 370",
+      "quantity": 2,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": "E21, E28, Z1"
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 50 9 063 574",
+      "quantity": 1,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E38, E39, E46, E53, E65, E66, E67, E9, NK, Z1, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 21 7 160 789",
+      "quantity": 1,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 21 6 926 920",
+      "quantity": 1,
+      "description": "Longlife bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "63 21 7 160 790",
+      "quantity": 1,
+      "description": "04",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "07 11 9 978 370",
+      "quantity": 2,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": "E21, E28, Z1"
+    },
+    {
+      "position_number": "7",
+      "part_number": "63 17 1 367 868",
+      "quantity": 6,
+      "description": "Expanding nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "63 17 1 367 868",
+      "quantity": 6,
+      "description": "Expanding nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 11 9 907 789",
+      "quantity": 6,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E9"
+    },
+    {
+      "position_number": "8",
+      "part_number": "07 11 9 907 789",
+      "quantity": 6,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3, E30, E31, E32, E34, E36, E9"
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 13 1 367 801",
+      "quantity": 1,
+      "description": "Left turn indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 13 1 367 802",
+      "quantity": 1,
+      "description": "Right turn indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 13 1 367 801",
+      "quantity": 1,
+      "description": "Left turn indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "63 13 1 367 802",
+      "quantity": 1,
+      "description": "Right turn indicator",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 978 373",
+      "quantity": 2,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "10",
+      "part_number": "63 21 6 926 927",
+      "quantity": 2,
+      "description": "Longlife bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "63 21 7 160 797",
+      "quantity": 2,
+      "description": "Longlife bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 978 373",
+      "quantity": 2,
+      "description": "Bulb",
+      "price_eur": null,
+      "compatible_models": "E28"
+    },
+    {
+      "position_number": "10",
+      "part_number": "63 21 6 926 927",
+      "quantity": 2,
+      "description": "Longlife bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "63 21 7 160 797",
+      "quantity": 2,
+      "description": "Longlife bulb",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 71 1 874 203",
+      "quantity": 2,
+      "description": "Expanding nut",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, Z1"
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 71 1 874 203",
+      "quantity": 2,
+      "description": "Expanding nut",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E32, E34, E36, Z1"
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 11 9 906 734",
+      "quantity": 2,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": "CMSP, E23, E24, E28, E30, E31, E32, E34, E36, E53"
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 11 9 906 734",
+      "quantity": 2,
+      "description": "Fillister head self-tapping screw",
+      "price_eur": null,
+      "compatible_models": "CMSP, E23, E24, E28, E30, E31, E32, E34, E36, E53"
+    },
+    {
+      "position_number": "13",
+      "part_number": "63 13 1 367 803",
+      "quantity": 1,
+      "description": "Gasket left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "63 13 1 367 804",
+      "quantity": 1,
+      "description": "Gasket right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "63 13 1 367 803",
+      "quantity": 1,
+      "description": "Gasket left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "63 13 1 367 804",
+      "quantity": 1,
+      "description": "Gasket right",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

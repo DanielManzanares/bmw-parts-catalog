@@ -1,0 +1,205 @@
+{
+  "id": 2058,
+  "diagram_title": "Bumper rear",
+  "image_url": "http://ills.bmwfans.info/aod.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 12 1 934 665",
+      "quantity": 1,
+      "description": "Bumper rear center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 12 1 961 876",
+      "quantity": 1,
+      "description": "Bumper rear center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 12 1 867 607",
+      "quantity": 1,
+      "description": "Bumper rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 12 1 961 913",
+      "quantity": 1,
+      "description": "Bumper rear left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 12 1 867 608",
+      "quantity": 1,
+      "description": "Bumper rear right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 12 1 961 914",
+      "quantity": 1,
+      "description": "Bumper rear right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 12 1 867 609",
+      "quantity": 1,
+      "description": "Covering left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 12 1 961 919",
+      "quantity": 1,
+      "description": "Covering left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 12 1 867 610",
+      "quantity": 1,
+      "description": "Covering right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 12 1 961 920",
+      "quantity": 1,
+      "description": "Covering right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 12 1 843 029",
+      "quantity": 4,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 11 1 835 625",
+      "quantity": 6,
+      "description": "Hex nut with plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 11 7 070 183",
+      "quantity": 6,
+      "description": "Hex nut with plate",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 12 1 867 615",
+      "quantity": 1,
+      "description": "Protective Mouldings",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 11 1 867 927",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 45 1 868 108",
+      "quantity": 4,
+      "description": "Hex nut",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28, E30, E31, E32, E34, Z1"
+    },
+    {
+      "position_number": "12",
+      "part_number": "07 14 7 134 319",
+      "quantity": 4,
+      "description": "Hex nut with plate",
+      "price_eur": null,
+      "compatible_models": "CMSP, E12, E21, E23, E24, E28, E30, E31, E32, E34, E36, E38, E39, E46, F25, F26, Z1"
+    },
+    {
+      "position_number": "13",
+      "part_number": "51 11 1 900 386",
+      "quantity": 2,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 12 1 900 409",
+      "quantity": 2,
+      "description": "Rubber washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "07 11 9 936 432",
+      "quantity": 2,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "114, CMSP, E21, E28, E3, E30, E32, E34, E36, E9, NK, Z3"
+    },
+    {
+      "position_number": "15",
+      "part_number": "07 11 9 936 441",
+      "quantity": 2,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E26, E28, E3, E30, E31, E32, E34, E36, E39, E46, E52, E53, E9, NK, Z3"
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 12 1 886 299",
+      "quantity": 2,
+      "description": "Rubber washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "17",
+      "part_number": "07 11 9 916 973",
+      "quantity": 2,
+      "description": "Hex head screw",
+      "price_eur": null,
+      "compatible_models": "E12, E23, E24, E28, E30, Z1"
+    },
+    {
+      "position_number": "18",
+      "part_number": "51 12 9 056 462",
+      "quantity": 1,
+      "description": "Mounting parts set",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

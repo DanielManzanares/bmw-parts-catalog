@@ -1,0 +1,93 @@
+{
+  "id": 3984,
+  "diagram_title": "Housing parts — air conditioning",
+  "image_url": "http://ills.bmwfans.info/voz.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1642,
+  "category_name": "Heater and Air Conditioning",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "64 11 8 372 792",
+      "quantity": 1,
+      "description": "Empty housing f heater/air condit.unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "64 11 8 372 793",
+      "quantity": 1,
+      "description": "Covr blower",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "64 11 8 380 217",
+      "quantity": 1,
+      "description": "Heater radiator cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "64 11 8 372 791",
+      "quantity": 1,
+      "description": "Set small parts f air cond.adjust.lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "64 11 8 372 794",
+      "quantity": 1,
+      "description": "Sealing frame",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "64 11 8 372 795",
+      "quantity": 1,
+      "description": "Profile-gasket",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "64 11 1 370 938",
+      "quantity": 1,
+      "description": "Clamp",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "64 11 8 391 265",
+      "quantity": 1,
+      "description": "Screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "64 11 6 906 545",
+      "quantity": 1,
+      "description": "Condensation water outlet hose",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "64 11 8 386 936",
+      "quantity": 1,
+      "description": "Gearbox flap position",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

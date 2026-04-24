@@ -1,0 +1,21 @@
+{
+  "id": 5574,
+  "diagram_title": "Basic control module SMG",
+  "image_url": "http://ills.bmwfans.info/2339.png",
+  "model_id": 1087,
+  "model_code": "330Ci-M54",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 42,
+  "category_name": "Manual Transmission",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "23 60 7 527 996",
+      "quantity": 1,
+      "description": "Rmfd basic control unit SMG",
+      "price_eur": null,
+      "compatible_models": "E46"
+    }
+  ]
+}

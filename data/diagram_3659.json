@@ -1,0 +1,93 @@
+{
+  "id": 3659,
+  "diagram_title": "Running meter individual, embossed leath.",
+  "image_url": "http://ills.bmwfans.info/e5p.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 492 574",
+      "quantity": 1,
+      "description": "Upholstery leather, embossed \"Pablo\"",
+      "price_eur": null,
+      "compatible_models": "E31, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 492 576",
+      "quantity": 1,
+      "description": "Upholstery leather, embossed \"Pablo\"",
+      "price_eur": null,
+      "compatible_models": "E31, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 492 578",
+      "quantity": 1,
+      "description": "Upholstery leather, embossed \"Pablo\"",
+      "price_eur": null,
+      "compatible_models": "E31, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 493 007",
+      "quantity": 1,
+      "description": "Upholstery leather, embossed \"Pablo\"",
+      "price_eur": null,
+      "compatible_models": "E31, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 493 008",
+      "quantity": 1,
+      "description": "Upholstery leather, embossed \"Pablo\"",
+      "price_eur": null,
+      "compatible_models": "E31, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 92 2 493 009",
+      "quantity": 1,
+      "description": "Upholstery leather, embossed \"Pablo\"",
+      "price_eur": null,
+      "compatible_models": "E31, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 493 011",
+      "quantity": 1,
+      "description": "Upholstery leather, embossed \"Cobra\"",
+      "price_eur": null,
+      "compatible_models": "E31, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 493 012",
+      "quantity": 1,
+      "description": "Upholstery leather, embossed \"Cobra\"",
+      "price_eur": null,
+      "compatible_models": "E31, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 493 013",
+      "quantity": 1,
+      "description": "Upholstery leather, embossed \"Cobra\"",
+      "price_eur": null,
+      "compatible_models": "E31, E36, E38, E39, E46, Z3"
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 92 2 493 014",
+      "quantity": 1,
+      "description": "Upholstery leather, embossed \"Cobra\"",
+      "price_eur": null,
+      "compatible_models": "E31, E36, E38, E39, E46, Z3"
+    }
+  ]
+}

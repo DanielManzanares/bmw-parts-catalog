@@ -1,0 +1,381 @@
+{
+  "id": 3132,
+  "diagram_title": "Trim cover, front",
+  "image_url": "http://ills.bmwfans.info/bbl.png",
+  "model_id": 1,
+  "model_code": "318is-M42",
+  "series_code": "E36",
+  "engine_code": null,
+  "category_id": 1638,
+  "category_name": "Vehicle trim",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 11 9 066 235",
+      "quantity": 1,
+      "description": "Partially painted front bumper trim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 11 9 066 236",
+      "quantity": 1,
+      "description": "Partially painted front bumper trim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 11 9 066 495",
+      "quantity": 1,
+      "description": "Partially painted front bumper trim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 11 9 066 496",
+      "quantity": 1,
+      "description": "Partially painted front bumper trim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 11 8 165 142",
+      "quantity": 1,
+      "description": "Partially painted front bumper trim",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 11 8 146 077",
+      "quantity": 1,
+      "description": "Rubber strip right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 11 8 146 318",
+      "quantity": 1,
+      "description": "Rubber strip right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 11 8 146 076",
+      "quantity": 1,
+      "description": "Rubber strip right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 11 8 165 146",
+      "quantity": 1,
+      "description": "Base",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 11 8 146 078",
+      "quantity": 1,
+      "description": "Cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 11 8 122 449",
+      "quantity": 1,
+      "description": "Covering left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "51 11 8 122 450",
+      "quantity": 1,
+      "description": "Covering left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 11 1 944 537",
+      "quantity": 1,
+      "description": "Expanding rivet, black",
+      "price_eur": null,
+      "compatible_models": "E32, E34, E36, E38, E39, E46, E52, E53, E81, E82, E83, E83 Facelift, E87, E87 Facelift, E88, Z1, Z3"
+    },
+    {
+      "position_number": "6",
+      "part_number": "51 11 8 144 138",
+      "quantity": 1,
+      "description": "Expanding rivet, black",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 11 1 977 107",
+      "quantity": 1,
+      "description": "Left support for fog lamps",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "7",
+      "part_number": "51 11 1 977 108",
+      "quantity": 1,
+      "description": "Right support for fog lamps",
+      "price_eur": null,
+      "compatible_models": "E36"
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 11 8 165 144",
+      "quantity": 1,
+      "description": "Closed grid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 11 8 165 145",
+      "quantity": 1,
+      "description": "Closed grid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 11 8 165 150",
+      "quantity": 1,
+      "description": "Closed grid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 11 8 165 145",
+      "quantity": 1,
+      "description": "Closed grid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 11 8 165 150",
+      "quantity": 1,
+      "description": "Closed grid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "51 11 8 165 150",
+      "quantity": 1,
+      "description": "Closed grid",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 71 1 977 117",
+      "quantity": 1,
+      "description": "Support left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "51 71 1 977 118",
+      "quantity": 1,
+      "description": "Support left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 71 8 156 251",
+      "quantity": 1,
+      "description": "Air duct, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "51 71 8 156 252",
+      "quantity": 1,
+      "description": "Air duct, left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 11 8 122 575",
+      "quantity": 1,
+      "description": "Left insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "11",
+      "part_number": "51 11 8 122 576",
+      "quantity": 1,
+      "description": "Left insert",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 11 8 122 577",
+      "quantity": 1,
+      "description": "Support left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "51 11 8 122 578",
+      "quantity": 1,
+      "description": "Support left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 12 9 901 668",
+      "quantity": 4,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "07 14 7 144 276",
+      "quantity": 4,
+      "description": "Body nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "14",
+      "part_number": "51 11 8 122 335",
+      "quantity": 2,
+      "description": "Holding strap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "15",
+      "part_number": "72 15 8 119 188",
+      "quantity": 1,
+      "description": "Towing hinge",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "16",
+      "part_number": "51 11 8 165 148",
+      "quantity": 1,
+      "description": "Base",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "07 11 9 936 412",
+      "quantity": 4,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "18",
+      "part_number": "07 11 9 904 207",
+      "quantity": 4,
+      "description": "Washer",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "19",
+      "part_number": "07 14 6 959 892",
+      "quantity": 4,
+      "description": "Phillips screw f plastic material",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "51 18 1 813 017",
+      "quantity": 4,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "51 18 1 823 474",
+      "quantity": 4,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "20",
+      "part_number": "64 11 1 375 497",
+      "quantity": 4,
+      "description": "Covering cap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "21",
+      "part_number": "64 11 1 364 257",
+      "quantity": 8,
+      "description": "Spring nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "22",
+      "part_number": "07 11 9 916 949",
+      "quantity": 2,
+      "description": "Hex head screw",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "23",
+      "part_number": "07 11 9 904 310",
+      "quantity": 4,
+      "description": "Sheet metal screw",
+      "price_eur": null,
+      "compatible_models": "E23, E30, E32, E34, E36, E39, E46, E60, E60 Facelift, E61, E61 Facelift, E70, E70 Facelift, E71, E83, E83 Facelift, E90, E90 Facelift, E91, E91 Facelift, E92, E92 Facelift, E93, E93 Facelift"
+    },
+    {
+      "position_number": "24",
+      "part_number": "64 11 1 364 257",
+      "quantity": 8,
+      "description": "Spring nut",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "25",
+      "part_number": "51 11 9 059 461",
+      "quantity": 1,
+      "description": "Set mounting parts",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

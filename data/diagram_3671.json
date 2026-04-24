@@ -1,0 +1,61 @@
+{
+  "id": 3671,
+  "diagram_title": "Repair cable, airbag",
+  "image_url": "http://ills.bmwfans.info/qrv.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1640,
+  "category_name": "Vehicle electrical system",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "61 12 9 118 088",
+      "quantity": 2,
+      "description": "Rep.cable f seat plug and control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "61 12 9 118 079",
+      "quantity": 1,
+      "description": "Rep.cable driver's airbag and ctrl unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "61 12 9 118 086",
+      "quantity": 1,
+      "description": "Rep.cable f column A, B and control unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "61 12 9 118 119",
+      "quantity": 1,
+      "description": "Rep.cable f passeng.airbag and ctrl unit",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "61 13 8 353 746",
+      "quantity": 1,
+      "description": "Cable connector",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "61 13 1 379 833",
+      "quantity": 1,
+      "description": "Shrinking hose",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

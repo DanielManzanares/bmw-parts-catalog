@@ -1,0 +1,133 @@
+{
+  "id": 5405,
+  "diagram_title": "Gear shift knobs/shift lever coverings",
+  "image_url": "http://ills.bmwfans.info/2rxh.png",
+  "model_id": 405,
+  "model_code": "318Ci-N46",
+  "series_code": "E46",
+  "engine_code": null,
+  "category_id": 1635,
+  "category_name": "Gearshift",
+  "parts": [
+    {
+      "position_number": "2",
+      "part_number": "25 11 7 500 299",
+      "quantity": 1,
+      "description": "Gearshift knob, leather/5-speed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "25 11 7 503 231",
+      "quantity": 1,
+      "description": "Gearshift knob, leather/M plaque/5-speed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "25 11 7 896 031",
+      "quantity": 1,
+      "description": "Gearshift knob, leather/M plaque/5-speed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "25 11 1 434 497",
+      "quantity": 1,
+      "description": "Gear shift knob wood/5-speed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "25 11 7 512 153",
+      "quantity": 1,
+      "description": "Gear shift knob wood/5-speed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "25 11 2 282 248",
+      "quantity": 1,
+      "description": "Shift knob, wood, M plaque, 5-speed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "25 11 7 832 641",
+      "quantity": 1,
+      "description": "Shift knob, wood, M plaque, 5-speed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "25 11 1 434 497",
+      "quantity": 1,
+      "description": "Gear shift knob wood/5-speed",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "25 11 1 434 098",
+      "quantity": 1,
+      "description": "Imitation leather gear lever cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "25 11 1 434 352",
+      "quantity": 1,
+      "description": "Imitation leather gear lever cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "25 11 1 434 531",
+      "quantity": 1,
+      "description": "Imitation leather gear lever cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "25 11 1 434 426",
+      "quantity": 1,
+      "description": "Imitation leather gear lever cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "25 11 1 434 430",
+      "quantity": 1,
+      "description": "Imitation leather gear lever cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "25 11 1 434 537",
+      "quantity": 1,
+      "description": "Imitation leather gear lever cover",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "25 11 1 434 100",
+      "quantity": 1,
+      "description": "Insert shifter covering",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "id": 1458,
+  "diagram_title": "Fitting f reclining front seat",
+  "image_url": "http://ills.bmwfans.info/b5w.png",
+  "model_id": 1328,
+  "model_code": "524td-M21",
+  "series_code": "E28",
+  "engine_code": null,
+  "category_id": 152,
+  "category_name": "Seats",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 841 423",
+      "quantity": 1,
+      "description": "Recl.seat fitting outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 841 424",
+      "quantity": 1,
+      "description": "Recl.seat fitting outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 841 425",
+      "quantity": 1,
+      "description": "Recl.seat fitting inner left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 841 426",
+      "quantity": 1,
+      "description": "Recl.seat fitting inner right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 841 423",
+      "quantity": 1,
+      "description": "Recl.seat fitting outer left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 841 424",
+      "quantity": 1,
+      "description": "Recl.seat fitting outer right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 841 425",
+      "quantity": 1,
+      "description": "Recl.seat fitting inner left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "52 10 1 841 426",
+      "quantity": 1,
+      "description": "Recl.seat fitting inner right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 823 856",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "52 10 1 823 856",
+      "quantity": 4,
+      "description": "Hex bolt",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 934 132",
+      "quantity": 4,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3"
+    },
+    {
+      "position_number": "3",
+      "part_number": "07 11 9 934 132",
+      "quantity": 4,
+      "description": "Lock Ring",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E24, E28, E3"
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 10 1 843 100",
+      "quantity": 2,
+      "description": "Rubber Ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "52 10 1 843 100",
+      "quantity": 2,
+      "description": "Rubber Ring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 1 841 743",
+      "quantity": 1,
+      "description": "Lever left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 1 841 744",
+      "quantity": 1,
+      "description": "Lever right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 1 841 743",
+      "quantity": 1,
+      "description": "Lever left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "5",
+      "part_number": "52 10 1 841 744",
+      "quantity": 1,
+      "description": "Lever right",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 1 841 730",
+      "quantity": 2,
+      "description": "Tension spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "6",
+      "part_number": "52 10 1 841 730",
+      "quantity": 2,
+      "description": "Tension spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 1 841 736",
+      "quantity": 2,
+      "description": "Pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "7",
+      "part_number": "52 10 1 841 736",
+      "quantity": 2,
+      "description": "Pin",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 1 841 739",
+      "quantity": 2,
+      "description": "Tension spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "8",
+      "part_number": "52 10 1 841 739",
+      "quantity": 2,
+      "description": "Tension spring",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "52 10 1 842 674",
+      "quantity": 8,
+      "description": "Csk.fillister head srew",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "9",
+      "part_number": "52 10 1 842 674",
+      "quantity": 8,
+      "description": "Csk.fillister head srew",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 928 482",
+      "quantity": 4,
+      "description": "Countersunk head screw",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E28, E3"
+    },
+    {
+      "position_number": "10",
+      "part_number": "07 11 9 928 482",
+      "quantity": 4,
+      "description": "Countersunk head screw",
+      "price_eur": null,
+      "compatible_models": "114, E12, E21, E23, E28, E3"
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 11 9 918 526",
+      "quantity": 4,
+      "description": "Self tapping screw",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28"
+    },
+    {
+      "position_number": "11",
+      "part_number": "07 11 9 918 526",
+      "quantity": 4,
+      "description": "Self tapping screw",
+      "price_eur": null,
+      "compatible_models": "E12, E21, E23, E24, E28"
+    },
+    {
+      "position_number": "12",
+      "part_number": "52 10 1 870 533",
+      "quantity": 4,
+      "description": "Transfer lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "12",
+      "part_number": "52 10 1 870 533",
+      "quantity": 4,
+      "description": "Transfer lever",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "52 10 1 873 571",
+      "quantity": 2,
+      "description": "Connection pipe",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "13",
+      "part_number": "52 10 1 873 571",
+      "quantity": 2,
+      "description": "Connection pipe",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}

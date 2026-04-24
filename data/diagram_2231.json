@@ -1,0 +1,69 @@
+{
+  "id": 2231,
+  "diagram_title": "Retrofit kit M aerodyn. package",
+  "image_url": "http://ills.bmwfans.info/1yhq.png",
+  "model_id": 1530,
+  "model_code": "323i-M52",
+  "series_code": "E46",
+  "engine_code": "M52",
+  "category_id": 1533,
+  "category_name": "Retrofitting, conversion, accessories",
+  "parts": [
+    {
+      "position_number": "1",
+      "part_number": "51 71 0 139 650",
+      "quantity": 1,
+      "description": "Retrofit kit M aerodyn. package",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "1",
+      "part_number": "51 71 0 139 649",
+      "quantity": 1,
+      "description": "Retrofit kit M aerodyn. package",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 12 7 891 916",
+      "quantity": 1,
+      "description": "Cover, lower part center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "2",
+      "part_number": "51 12 7 893 073",
+      "quantity": 1,
+      "description": "Cover, lower part center",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "3",
+      "part_number": "51 12 7 893 074",
+      "quantity": 1,
+      "description": "Trailer hitch flap",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 11 7 895 415",
+      "quantity": 1,
+      "description": "Support, side panel front left",
+      "price_eur": null,
+      "compatible_models": null
+    },
+    {
+      "position_number": "4",
+      "part_number": "51 11 7 895 416",
+      "quantity": 1,
+      "description": "Support, side panel front left",
+      "price_eur": null,
+      "compatible_models": null
+    }
+  ]
+}
