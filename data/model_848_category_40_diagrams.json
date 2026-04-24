@@ -26,25 +26,25 @@
   {
     "id": 889,
     "diagram_title": "catalytic_converter_front_silencer",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_exhaust_system_catalytic_converter_front_silencer.png",
+    "image_url": "images/E46_320Ci-M54_exhaust_system_catalytic_converter_front_silencer.png",
     "parts_count": 10
   },
   {
     "id": 895,
     "diagram_title": "center_and_rear_muffler",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_exhaust_system_center_and_rear_muffler.png",
+    "image_url": "images/E46_320Ci-M54_exhaust_system_center_and_rear_muffler.png",
     "parts_count": 19
   },
   {
     "id": 890,
     "diagram_title": "exhaust_system_rear",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_exhaust_system_exhaust_system_rear.png",
+    "image_url": "images/E46_320Ci-M54_exhaust_system_exhaust_system_rear.png",
     "parts_count": 3
   },
   {
     "id": 897,
     "diagram_title": "suspension_parts_exhaust",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_exhaust_system_suspension_parts_exhaust.png",
+    "image_url": "images/E46_320Ci-M54_exhaust_system_suspension_parts_exhaust.png",
     "parts_count": 14
   }
 ]

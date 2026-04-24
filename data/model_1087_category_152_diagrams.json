@@ -182,181 +182,181 @@
   {
     "id": 1280,
     "diagram_title": "bmw_sports_seat_frame_mechanical",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_bmw_sports_seat_frame_mechanical.png",
+    "image_url": "images/E46_330Ci-M54_seats_bmw_sports_seat_frame_mechanical.png",
     "parts_count": 16
   },
   {
     "id": 1305,
     "diagram_title": "cover_material_running_meter",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_cover_material_running_meter.png",
+    "image_url": "images/E46_330Ci-M54_seats_cover_material_running_meter.png",
     "parts_count": 42
   },
   {
     "id": 1290,
     "diagram_title": "front_seat_backrest_frame_rear_panel",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_front_seat_backrest_frame_rear_panel.png",
+    "image_url": "images/E46_330Ci-M54_seats_front_seat_backrest_frame_rear_panel.png",
     "parts_count": 22
   },
   {
     "id": 1294,
     "diagram_title": "front_seat_backrest_frame_rear_panel_2",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_front_seat_backrest_frame_rear_panel_2.png",
+    "image_url": "images/E46_330Ci-M54_seats_front_seat_backrest_frame_rear_panel_2.png",
     "parts_count": 26
   },
   {
     "id": 1282,
     "diagram_title": "front_seat_backrest_unlocking",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_front_seat_backrest_unlocking.png",
+    "image_url": "images/E46_330Ci-M54_seats_front_seat_backrest_unlocking.png",
     "parts_count": 18
   },
   {
     "id": 1286,
     "diagram_title": "front_seat_frame_mech_el_singl_parts",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_front_seat_frame_mech_el_singl_parts.png",
+    "image_url": "images/E46_330Ci-M54_seats_front_seat_frame_mech_el_singl_parts.png",
     "parts_count": 9
   },
   {
     "id": 1287,
     "diagram_title": "front_seat_rail",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_front_seat_rail.png",
+    "image_url": "images/E46_330Ci-M54_seats_front_seat_rail.png",
     "parts_count": 16
   },
   {
     "id": 1291,
     "diagram_title": "front_seat_rail_electrical_single_parts",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_front_seat_rail_electrical_single_parts.png",
+    "image_url": "images/E46_330Ci-M54_seats_front_seat_rail_electrical_single_parts.png",
     "parts_count": 27
   },
   {
     "id": 1288,
     "diagram_title": "front_seat_rail_mechanical_single_parts",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_front_seat_rail_mechanical_single_parts.png",
+    "image_url": "images/E46_330Ci-M54_seats_front_seat_rail_mechanical_single_parts.png",
     "parts_count": 15
   },
   {
     "id": 1303,
     "diagram_title": "rear_seat_center_armrest",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_rear_seat_center_armrest.png",
+    "image_url": "images/E46_330Ci-M54_seats_rear_seat_center_armrest.png",
     "parts_count": 43
   },
   {
     "id": 1292,
     "diagram_title": "rear_seat_head_restraint",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_rear_seat_head_restraint.png",
+    "image_url": "images/E46_330Ci-M54_seats_rear_seat_head_restraint.png",
     "parts_count": 22
   },
   {
     "id": 1300,
     "diagram_title": "running_meter_individual_embossed_leath",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_running_meter_individual_embossed_leath.png",
+    "image_url": "images/E46_330Ci-M54_seats_running_meter_individual_embossed_leath.png",
     "parts_count": 10
   },
   {
     "id": 1302,
     "diagram_title": "running_meter_leather_nappa_heritage",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_running_meter_leather_nappa_heritage.png",
+    "image_url": "images/E46_330Ci-M54_seats_running_meter_leather_nappa_heritage.png",
     "parts_count": 3
   },
   {
     "id": 1297,
     "diagram_title": "running_meter_leather_nappa_soft_leath",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_running_meter_leather_nappa_soft_leath.png",
+    "image_url": "images/E46_330Ci-M54_seats_running_meter_leather_nappa_soft_leath.png",
     "parts_count": 1
   },
   {
     "id": 1304,
     "diagram_title": "running_meter_leather_walknappa",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_running_meter_leather_walknappa.png",
+    "image_url": "images/E46_330Ci-M54_seats_running_meter_leather_walknappa.png",
     "parts_count": 82
   },
   {
     "id": 1298,
     "diagram_title": "running_meter_mosaik",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_running_meter_mosaik.png",
+    "image_url": "images/E46_330Ci-M54_seats_running_meter_mosaik.png",
     "parts_count": 3
   },
   {
     "id": 1267,
     "diagram_title": "seat_front_complete_seat",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_seat_front_complete_seat.png",
+    "image_url": "images/E46_330Ci-M54_seats_seat_front_complete_seat.png",
     "parts_count": 5
   },
   {
     "id": 1276,
     "diagram_title": "seat_front_complete_seat_2",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_seat_front_complete_seat_2.png",
+    "image_url": "images/E46_330Ci-M54_seats_seat_front_complete_seat_2.png",
     "parts_count": 5
   },
   {
     "id": 1281,
     "diagram_title": "seat_front_head_restraint_base_seat",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_seat_front_head_restraint_base_seat.png",
+    "image_url": "images/E46_330Ci-M54_seats_seat_front_head_restraint_base_seat.png",
     "parts_count": 20
   },
   {
     "id": 1285,
     "diagram_title": "seat_front_head_restraint_sport_seat",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_seat_front_head_restraint_sport_seat.png",
+    "image_url": "images/E46_330Ci-M54_seats_seat_front_head_restraint_sport_seat.png",
     "parts_count": 25
   },
   {
     "id": 1279,
     "diagram_title": "seat_front_tilt_adjustment",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_seat_front_tilt_adjustment.png",
+    "image_url": "images/E46_330Ci-M54_seats_seat_front_tilt_adjustment.png",
     "parts_count": 16
   },
   {
     "id": 1289,
     "diagram_title": "seat_front_tilt_adjustment_2",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_seat_front_tilt_adjustment_2.png",
+    "image_url": "images/E46_330Ci-M54_seats_seat_front_tilt_adjustment_2.png",
     "parts_count": 13
   },
   {
     "id": 1284,
     "diagram_title": "seat_front_uphlstry_cover_sport_seat",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_seat_front_uphlstry_cover_sport_seat.png",
+    "image_url": "images/E46_330Ci-M54_seats_seat_front_uphlstry_cover_sport_seat.png",
     "parts_count": 39
   },
   {
     "id": 1277,
     "diagram_title": "seat_front_upholstery_and_cover",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_seat_front_upholstery_and_cover.png",
+    "image_url": "images/E46_330Ci-M54_seats_seat_front_upholstery_and_cover.png",
     "parts_count": 33
   },
   {
     "id": 1293,
     "diagram_title": "seat_rear_head_restraint_center",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_seat_rear_head_restraint_center.png",
+    "image_url": "images/E46_330Ci-M54_seats_seat_rear_head_restraint_center.png",
     "parts_count": 22
   },
   {
     "id": 1296,
     "diagram_title": "seat_rear_seat_frame_load_through",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_seat_rear_seat_frame_load_through.png",
+    "image_url": "images/E46_330Ci-M54_seats_seat_rear_seat_frame_load_through.png",
     "parts_count": 66
   },
   {
     "id": 1295,
     "diagram_title": "seat_rear_uphlstry_cover_load_through",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_seat_rear_uphlstry_cover_load_through.png",
+    "image_url": "images/E46_330Ci-M54_seats_seat_rear_uphlstry_cover_load_through.png",
     "parts_count": 109
   },
   {
     "id": 1278,
     "diagram_title": "single_parts_of_front_seat_controls",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_single_parts_of_front_seat_controls.png",
+    "image_url": "images/E46_330Ci-M54_seats_single_parts_of_front_seat_controls.png",
     "parts_count": 20
   },
   {
     "id": 1283,
     "diagram_title": "single_parts_of_front_seat_controls_2",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_single_parts_of_front_seat_controls_2.png",
+    "image_url": "images/E46_330Ci-M54_seats_single_parts_of_front_seat_controls_2.png",
     "parts_count": 21
   },
   {
     "id": 1301,
     "diagram_title": "yarded_material_leather_oregon",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_seats_yarded_material_leather_oregon.png",
+    "image_url": "images/E46_330Ci-M54_seats_yarded_material_leather_oregon.png",
     "parts_count": 16
   }
 ]

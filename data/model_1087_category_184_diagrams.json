@@ -134,133 +134,133 @@
   {
     "id": 1311,
     "diagram_title": "bmw_blue_lamps",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_lighting_bmw_blue_lamps.png",
+    "image_url": "images/E46_330Ci-M54_lighting_bmw_blue_lamps.png",
     "parts_count": 5
   },
   {
     "id": 1315,
     "diagram_title": "bmw_chrome_lamps",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_lighting_bmw_chrome_lamps.png",
+    "image_url": "images/E46_330Ci-M54_lighting_bmw_chrome_lamps.png",
     "parts_count": 2
   },
   {
     "id": 1308,
     "diagram_title": "bmw_performance_light",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_lighting_bmw_performance_light.png",
+    "image_url": "images/E46_330Ci-M54_lighting_bmw_performance_light.png",
     "parts_count": 2
   },
   {
     "id": 1314,
     "diagram_title": "bmw_power_lamps",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_lighting_bmw_power_lamps.png",
+    "image_url": "images/E46_330Ci-M54_lighting_bmw_power_lamps.png",
     "parts_count": 3
   },
   {
     "id": 1317,
     "diagram_title": "fog_lamp_m_technik",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_lighting_fog_lamp_m_technik.png",
+    "image_url": "images/E46_330Ci-M54_lighting_fog_lamp_m_technik.png",
     "parts_count": 11
   },
   {
     "id": 1313,
     "diagram_title": "fog_lights",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_lighting_fog_lights.png",
+    "image_url": "images/E46_330Ci-M54_lighting_fog_lights.png",
     "parts_count": 1
   },
   {
     "id": 1318,
     "diagram_title": "fog_lights_2",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_lighting_fog_lights_2.png",
+    "image_url": "images/E46_330Ci-M54_lighting_fog_lights_2.png",
     "parts_count": 12
   },
   {
     "id": 1316,
     "diagram_title": "front_front_lateral_turn_indicator",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_lighting_front_front_lateral_turn_indicator.png",
+    "image_url": "images/E46_330Ci-M54_lighting_front_front_lateral_turn_indicator.png",
     "parts_count": 26
   },
   {
     "id": 1299,
     "diagram_title": "headlight",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_lighting_headlight.png",
+    "image_url": "images/E46_330Ci-M54_lighting_headlight.png",
     "parts_count": 9
   },
   {
     "id": 1321,
     "diagram_title": "interior_lights",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_lighting_interior_lights.png",
+    "image_url": "images/E46_330Ci-M54_lighting_interior_lights.png",
     "parts_count": 1
   },
   {
     "id": 1326,
     "diagram_title": "overhead_interior_light",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_lighting_overhead_interior_light.png",
+    "image_url": "images/E46_330Ci-M54_lighting_overhead_interior_light.png",
     "parts_count": 19
   },
   {
     "id": 1325,
     "diagram_title": "rear_light_in_the_side_panel",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_lighting_rear_light_in_the_side_panel.png",
+    "image_url": "images/E46_330Ci-M54_lighting_rear_light_in_the_side_panel.png",
     "parts_count": 22
   },
   {
     "id": 1320,
     "diagram_title": "rear_light_in_trunk_lid",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_lighting_rear_light_in_trunk_lid.png",
+    "image_url": "images/E46_330Ci-M54_lighting_rear_light_in_trunk_lid.png",
     "parts_count": 13
   },
   {
     "id": 1322,
     "diagram_title": "reflector",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_lighting_reflector.png",
+    "image_url": "images/E46_330Ci-M54_lighting_reflector.png",
     "parts_count": 2
   },
   {
     "id": 1307,
     "diagram_title": "single_components_f_headlight_xenon_alc",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_lighting_single_components_f_headlight_xenon_alc.png",
+    "image_url": "images/E46_330Ci-M54_lighting_single_components_f_headlight_xenon_alc.png",
     "parts_count": 4
   },
   {
     "id": 1306,
     "diagram_title": "single_components_for_headlight",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_lighting_single_components_for_headlight.png",
+    "image_url": "images/E46_330Ci-M54_lighting_single_components_for_headlight.png",
     "parts_count": 26
   },
   {
     "id": 1310,
     "diagram_title": "single_parts_xenon_headlight",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_lighting_single_parts_xenon_headlight.png",
+    "image_url": "images/E46_330Ci-M54_lighting_single_parts_xenon_headlight.png",
     "parts_count": 31
   },
   {
     "id": 1312,
     "diagram_title": "spare_bulbs_box",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_lighting_spare_bulbs_box.png",
+    "image_url": "images/E46_330Ci-M54_lighting_spare_bulbs_box.png",
     "parts_count": 2
   },
   {
     "id": 1309,
     "diagram_title": "spare_bulbs_box_2",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_lighting_spare_bulbs_box_2.png",
+    "image_url": "images/E46_330Ci-M54_lighting_spare_bulbs_box_2.png",
     "parts_count": 1
   },
   {
     "id": 1319,
     "diagram_title": "third_stoplamp",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_lighting_third_stoplamp.png",
+    "image_url": "images/E46_330Ci-M54_lighting_third_stoplamp.png",
     "parts_count": 1
   },
   {
     "id": 1324,
     "diagram_title": "various_lamps",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_lighting_various_lamps.png",
+    "image_url": "images/E46_330Ci-M54_lighting_various_lamps.png",
     "parts_count": 1
   },
   {
     "id": 1323,
     "diagram_title": "various_lamps_spare_bulbs_box",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_lighting_various_lamps_spare_bulbs_box.png",
+    "image_url": "images/E46_330Ci-M54_lighting_various_lamps_spare_bulbs_box.png",
     "parts_count": 19
   }
 ]

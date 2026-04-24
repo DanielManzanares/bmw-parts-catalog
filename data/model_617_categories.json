@@ -11,7 +11,7 @@
     "name": "Automatic Transmission",
     "slug": "automatic_transmission",
     "diagram_count": 20,
-    "representative_image": "/static/images/diagrams/E46_318i-N42_automatic_transmission_a5s360r_390r_seals_speed_sensor.png"
+    "representative_image": "images/E46_318i-N42_automatic_transmission_a5s360r_390r_seals_speed_sensor.png"
   },
   {
     "id": 1637,
@@ -25,14 +25,14 @@
     "name": "Brakes",
     "slug": "brakes",
     "diagram_count": 34,
-    "representative_image": "/static/images/diagrams/E46_318i-N42_brakes_front_brake_pad_wear_sensor.png"
+    "representative_image": "images/E46_318i-N42_brakes_front_brake_pad_wear_sensor.png"
   },
   {
     "id": 39,
     "name": "Clutch",
     "slug": "clutch",
     "diagram_count": 4,
-    "representative_image": "/static/images/diagrams/E46_318i-N42_clutch_clutch.png"
+    "representative_image": "images/E46_318i-N42_clutch_clutch.png"
   },
   {
     "id": 1648,
@@ -67,7 +67,7 @@
     "name": "Engine",
     "slug": "engine",
     "diagram_count": 67,
-    "representative_image": "/static/images/diagrams/E46_318i-N42_engine_short_engine.png"
+    "representative_image": "images/E46_318i-N42_engine_short_engine.png"
   },
   {
     "id": 1534,
@@ -95,14 +95,14 @@
     "name": "Exhaust System",
     "slug": "exhaust_system",
     "diagram_count": 12,
-    "representative_image": "/static/images/diagrams/E46_318i-N42_exhaust_system_exhaust_manifold_with_catalyst.png"
+    "representative_image": "images/E46_318i-N42_exhaust_system_exhaust_manifold_with_catalyst.png"
   },
   {
     "id": 49,
     "name": "Front Axle",
     "slug": "front_axle",
     "diagram_count": 21,
-    "representative_image": "/static/images/diagrams/E46_318i-N42_front_axle_repair_kit_for_anti_roll_bar_links.png"
+    "representative_image": "images/E46_318i-N42_front_axle_repair_kit_for_anti_roll_bar_links.png"
   },
   {
     "id": 1535,
@@ -116,7 +116,7 @@
     "name": "Fuel Supply",
     "slug": "fuel_supply",
     "diagram_count": 10,
-    "representative_image": "/static/images/diagrams/E46_318i-N42_fuel_supply_expansion_tank.png"
+    "representative_image": "images/E46_318i-N42_fuel_supply_expansion_tank.png"
   },
   {
     "id": 1635,
@@ -158,21 +158,21 @@
     "name": "Lighting",
     "slug": "lighting",
     "diagram_count": 39,
-    "representative_image": "/static/images/diagrams/E46_318i-N42_lighting_headlight.png"
+    "representative_image": "images/E46_318i-N42_lighting_headlight.png"
   },
   {
     "id": 42,
     "name": "Manual Transmission",
     "slug": "manual_transmission",
     "diagram_count": 16,
-    "representative_image": "/static/images/diagrams/E46_318i-N42_manual_transmission_manual_transmission_s5d_g.png"
+    "representative_image": "images/E46_318i-N42_manual_transmission_manual_transmission_s5d_g.png"
   },
   {
     "id": 83,
     "name": "Pedals",
     "slug": "pedals",
     "diagram_count": 4,
-    "representative_image": "/static/images/diagrams/E46_318i-N42_pedals_acceleration_accelerator_pedal_module.png"
+    "representative_image": "images/E46_318i-N42_pedals_acceleration_accelerator_pedal_module.png"
   },
   {
     "id": 1536,
@@ -186,7 +186,7 @@
     "name": "Rear Axle",
     "slug": "rear_axle",
     "diagram_count": 25,
-    "representative_image": "/static/images/diagrams/E46_318i-N42_rear_axle_output_shaft.png"
+    "representative_image": "images/E46_318i-N42_rear_axle_output_shaft.png"
   },
   {
     "id": 1646,
@@ -214,7 +214,7 @@
     "name": "Seats",
     "slug": "seats",
     "diagram_count": 58,
-    "representative_image": "/static/images/diagrams/E46_318i-N42_seats_seat_front_complete_seat.png"
+    "representative_image": "images/E46_318i-N42_seats_seat_front_complete_seat.png"
   },
   {
     "id": 1639,
@@ -228,7 +228,7 @@
     "name": "Steering",
     "slug": "steering",
     "diagram_count": 34,
-    "representative_image": "/static/images/diagrams/E46_318i-N42_steering_power_steering.png"
+    "representative_image": "images/E46_318i-N42_steering_power_steering.png"
   },
   {
     "id": 1531,
@@ -256,7 +256,7 @@
     "name": "Wheels",
     "slug": "wheels",
     "diagram_count": 115,
-    "representative_image": "/static/images/diagrams/E46_318i-N42_wheels_alloy_rim_styl_12.png"
+    "representative_image": "images/E46_318i-N42_wheels_alloy_rim_styl_12.png"
   },
   {
     "id": 1647,

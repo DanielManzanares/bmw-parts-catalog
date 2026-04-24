@@ -38,37 +38,37 @@
   {
     "id": 1132,
     "diagram_title": "exp_tank_activated_carbon_container",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_fuel_supply_exp_tank_activated_carbon_container.png",
+    "image_url": "images/E46_330Ci-M54_fuel_supply_exp_tank_activated_carbon_container.png",
     "parts_count": 18
   },
   {
     "id": 1133,
     "diagram_title": "exp_tank_activated_carbon_container_2",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_fuel_supply_exp_tank_activated_carbon_container_2.png",
+    "image_url": "images/E46_330Ci-M54_fuel_supply_exp_tank_activated_carbon_container_2.png",
     "parts_count": 15
   },
   {
     "id": 1126,
     "diagram_title": "expansion_tank",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_fuel_supply_expansion_tank.png",
+    "image_url": "images/E46_330Ci-M54_fuel_supply_expansion_tank.png",
     "parts_count": 8
   },
   {
     "id": 1130,
     "diagram_title": "fuel_pipe_and_mounting_parts",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_fuel_supply_fuel_pipe_and_mounting_parts.png",
+    "image_url": "images/E46_330Ci-M54_fuel_supply_fuel_pipe_and_mounting_parts.png",
     "parts_count": 13
   },
   {
     "id": 1127,
     "diagram_title": "fuel_pump_and_fuel_level_sensor",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_fuel_supply_fuel_pump_and_fuel_level_sensor.png",
+    "image_url": "images/E46_330Ci-M54_fuel_supply_fuel_pump_and_fuel_level_sensor.png",
     "parts_count": 7
   },
   {
     "id": 1124,
     "diagram_title": "fuel_tank_attaching_parts",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_fuel_supply_fuel_tank_attaching_parts.png",
+    "image_url": "images/E46_330Ci-M54_fuel_supply_fuel_tank_attaching_parts.png",
     "parts_count": 22
   }
 ]

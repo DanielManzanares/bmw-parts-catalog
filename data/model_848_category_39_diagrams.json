@@ -14,13 +14,13 @@
   {
     "id": 892,
     "diagram_title": "clutch",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_clutch_clutch.png",
+    "image_url": "images/E46_320Ci-M54_clutch_clutch.png",
     "parts_count": 9
   },
   {
     "id": 896,
     "diagram_title": "clutch_control",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_clutch_clutch_control.png",
+    "image_url": "images/E46_320Ci-M54_clutch_clutch_control.png",
     "parts_count": 25
   }
 ]

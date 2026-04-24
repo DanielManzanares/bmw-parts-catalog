@@ -80,73 +80,73 @@
   {
     "id": 695,
     "diagram_title": "differential_drive_output",
-    "image_url": "/static/images/diagrams/E46_318i-N42_rear_axle_differential_drive_output.png",
+    "image_url": "images/E46_318i-N42_rear_axle_differential_drive_output.png",
     "parts_count": 22
   },
   {
     "id": 692,
     "diagram_title": "final_drive_gasket_set",
-    "image_url": "/static/images/diagrams/E46_318i-N42_rear_axle_final_drive_gasket_set.png",
+    "image_url": "images/E46_318i-N42_rear_axle_final_drive_gasket_set.png",
     "parts_count": 11
   },
   {
     "id": 698,
     "diagram_title": "headlight_vertical_aim_control_sensor",
-    "image_url": "/static/images/diagrams/E46_318i-N42_rear_axle_headlight_vertical_aim_control_sensor.png",
+    "image_url": "images/E46_318i-N42_rear_axle_headlight_vertical_aim_control_sensor.png",
     "parts_count": 14
   },
   {
     "id": 699,
     "diagram_title": "kit_wheel_bearing_rear_value_line",
-    "image_url": "/static/images/diagrams/E46_318i-N42_rear_axle_kit_wheel_bearing_rear_value_line.png",
+    "image_url": "images/E46_318i-N42_rear_axle_kit_wheel_bearing_rear_value_line.png",
     "parts_count": 3
   },
   {
     "id": 691,
     "diagram_title": "output_shaft",
-    "image_url": "/static/images/diagrams/E46_318i-N42_rear_axle_output_shaft.png",
+    "image_url": "images/E46_318i-N42_rear_axle_output_shaft.png",
     "parts_count": 7
   },
   {
     "id": 694,
     "diagram_title": "rear_axle_carrier",
-    "image_url": "/static/images/diagrams/E46_318i-N42_rear_axle_rear_axle_carrier.png",
+    "image_url": "images/E46_318i-N42_rear_axle_rear_axle_carrier.png",
     "parts_count": 17
   },
   {
     "id": 696,
     "diagram_title": "rear_axle_support_wheel_suspension",
-    "image_url": "/static/images/diagrams/E46_318i-N42_rear_axle_rear_axle_support_wheel_suspension.png",
+    "image_url": "images/E46_318i-N42_rear_axle_rear_axle_support_wheel_suspension.png",
     "parts_count": 28
   },
   {
     "id": 701,
     "diagram_title": "rear_spring_strut_mounting_parts",
-    "image_url": "/static/images/diagrams/E46_318i-N42_rear_axle_rear_spring_strut_mounting_parts.png",
+    "image_url": "images/E46_318i-N42_rear_axle_rear_spring_strut_mounting_parts.png",
     "parts_count": 16
   },
   {
     "id": 697,
     "diagram_title": "repair_kit_for_trailing_arm",
-    "image_url": "/static/images/diagrams/E46_318i-N42_rear_axle_repair_kit_for_trailing_arm.png",
+    "image_url": "images/E46_318i-N42_rear_axle_repair_kit_for_trailing_arm.png",
     "parts_count": 1
   },
   {
     "id": 702,
     "diagram_title": "repair_kits_shock_absorber_rear",
-    "image_url": "/static/images/diagrams/E46_318i-N42_rear_axle_repair_kits_shock_absorber_rear.png",
+    "image_url": "images/E46_318i-N42_rear_axle_repair_kits_shock_absorber_rear.png",
     "parts_count": 3
   },
   {
     "id": 700,
     "diagram_title": "side_shaft_wheel_bearings",
-    "image_url": "/static/images/diagrams/E46_318i-N42_rear_axle_side_shaft_wheel_bearings.png",
+    "image_url": "images/E46_318i-N42_rear_axle_side_shaft_wheel_bearings.png",
     "parts_count": 6
   },
   {
     "id": 703,
     "diagram_title": "stabilizer_rear",
-    "image_url": "/static/images/diagrams/E46_318i-N42_rear_axle_stabilizer_rear.png",
+    "image_url": "images/E46_318i-N42_rear_axle_stabilizer_rear.png",
     "parts_count": 12
   }
 ]

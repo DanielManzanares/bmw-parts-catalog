@@ -86,109 +86,109 @@
   {
     "id": 951,
     "diagram_title": "asc_hydro_unit_control_unit_support",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_brakes_asc_hydro_unit_control_unit_support.png",
+    "image_url": "images/E46_320Ci-M54_brakes_asc_hydro_unit_control_unit_support.png",
     "parts_count": 8
   },
   {
     "id": 953,
     "diagram_title": "brake_master_cylinder_dsc",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_brakes_brake_master_cylinder_dsc.png",
+    "image_url": "images/E46_320Ci-M54_brakes_brake_master_cylinder_dsc.png",
     "parts_count": 11
   },
   {
     "id": 952,
     "diagram_title": "brake_master_cylinder_expansion_tank",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_brakes_brake_master_cylinder_expansion_tank.png",
+    "image_url": "images/E46_320Ci-M54_brakes_brake_master_cylinder_expansion_tank.png",
     "parts_count": 11
   },
   {
     "id": 943,
     "diagram_title": "front_brake_brake_disc",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_brakes_front_brake_brake_disc.png",
+    "image_url": "images/E46_320Ci-M54_brakes_front_brake_brake_disc.png",
     "parts_count": 6
   },
   {
     "id": 944,
     "diagram_title": "front_brake_pad_wear_sensor",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_brakes_front_brake_pad_wear_sensor.png",
+    "image_url": "images/E46_320Ci-M54_brakes_front_brake_pad_wear_sensor.png",
     "parts_count": 15
   },
   {
     "id": 947,
     "diagram_title": "front_brake_pipe_asc",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_brakes_front_brake_pipe_asc.png",
+    "image_url": "images/E46_320Ci-M54_brakes_front_brake_pipe_asc.png",
     "parts_count": 12
   },
   {
     "id": 950,
     "diagram_title": "front_brake_pipe_dsc",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_brakes_front_brake_pipe_dsc.png",
+    "image_url": "images/E46_320Ci-M54_brakes_front_brake_pipe_dsc.png",
     "parts_count": 10
   },
   {
     "id": 957,
     "diagram_title": "handbrake_lever",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_brakes_handbrake_lever.png",
+    "image_url": "images/E46_320Ci-M54_brakes_handbrake_lever.png",
     "parts_count": 7
   },
   {
     "id": 955,
     "diagram_title": "hydro_unit_dsc_fastening_sensors",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_brakes_hydro_unit_dsc_fastening_sensors.png",
+    "image_url": "images/E46_320Ci-M54_brakes_hydro_unit_dsc_fastening_sensors.png",
     "parts_count": 23
   },
   {
     "id": 958,
     "diagram_title": "parking_brake_brake_shoes",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_brakes_parking_brake_brake_shoes.png",
+    "image_url": "images/E46_320Ci-M54_brakes_parking_brake_brake_shoes.png",
     "parts_count": 9
   },
   {
     "id": 956,
     "diagram_title": "power_brake_unit_depression",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_brakes_power_brake_unit_depression.png",
+    "image_url": "images/E46_320Ci-M54_brakes_power_brake_unit_depression.png",
     "parts_count": 14
   },
   {
     "id": 954,
     "diagram_title": "power_brake_unit_depression_2",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_brakes_power_brake_unit_depression_2.png",
+    "image_url": "images/E46_320Ci-M54_brakes_power_brake_unit_depression_2.png",
     "parts_count": 14
   },
   {
     "id": 946,
     "diagram_title": "rear_brake_brake_pad_wear_sensor",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_brakes_rear_brake_brake_pad_wear_sensor.png",
+    "image_url": "images/E46_320Ci-M54_brakes_rear_brake_brake_pad_wear_sensor.png",
     "parts_count": 14
   },
   {
     "id": 949,
     "diagram_title": "rear_brake_pipe_asc",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_brakes_rear_brake_pipe_asc.png",
+    "image_url": "images/E46_320Ci-M54_brakes_rear_brake_pipe_asc.png",
     "parts_count": 16
   },
   {
     "id": 948,
     "diagram_title": "rear_brake_pipe_dsc",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_brakes_rear_brake_pipe_dsc.png",
+    "image_url": "images/E46_320Ci-M54_brakes_rear_brake_pipe_dsc.png",
     "parts_count": 16
   },
   {
     "id": 945,
     "diagram_title": "rear_wheel_brake_brake_disc",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_brakes_rear_wheel_brake_brake_disc.png",
+    "image_url": "images/E46_320Ci-M54_brakes_rear_wheel_brake_brake_disc.png",
     "parts_count": 6
   },
   {
     "id": 942,
     "diagram_title": "service_kit_for_brake_pads_value_line",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_brakes_service_kit_for_brake_pads_value_line.png",
+    "image_url": "images/E46_320Ci-M54_brakes_service_kit_for_brake_pads_value_line.png",
     "parts_count": 2
   },
   {
     "id": 959,
     "diagram_title": "service_kit_for_brake_shoes_value_line",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_brakes_service_kit_for_brake_shoes_value_line.png",
+    "image_url": "images/E46_320Ci-M54_brakes_service_kit_for_brake_shoes_value_line.png",
     "parts_count": 1
   }
 ]

@@ -122,121 +122,121 @@
   {
     "id": 1157,
     "diagram_title": "basic_control_module_smg",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_manual_transmission_basic_control_module_smg.png",
+    "image_url": "images/E46_330Ci-M54_manual_transmission_basic_control_module_smg.png",
     "parts_count": 1
   },
   {
     "id": 1139,
     "diagram_title": "gearbox_mounting_parts",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_manual_transmission_gearbox_mounting_parts.png",
+    "image_url": "images/E46_330Ci-M54_manual_transmission_gearbox_mounting_parts.png",
     "parts_count": 7
   },
   {
     "id": 1146,
     "diagram_title": "gs5s31bz_smg_actuator_sensoren",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_manual_transmission_gs5s31bz_smg_actuator_sensoren.png",
+    "image_url": "images/E46_330Ci-M54_manual_transmission_gs5s31bz_smg_actuator_sensoren.png",
     "parts_count": 17
   },
   {
     "id": 1153,
     "diagram_title": "gs5s31bz_smg_counter_shaft_reverse_gear",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_manual_transmission_gs5s31bz_smg_counter_shaft_reverse_gear.png",
+    "image_url": "images/E46_330Ci-M54_manual_transmission_gs5s31bz_smg_counter_shaft_reverse_gear.png",
     "parts_count": 25
   },
   {
     "id": 1156,
     "diagram_title": "gs5s31bz_smg_drive_output_shaft",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_manual_transmission_gs5s31bz_smg_drive_output_shaft.png",
+    "image_url": "images/E46_330Ci-M54_manual_transmission_gs5s31bz_smg_drive_output_shaft.png",
     "parts_count": 65
   },
   {
     "id": 1148,
     "diagram_title": "gs5s31bz_smg_expansion_tank_pump",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_manual_transmission_gs5s31bz_smg_expansion_tank_pump.png",
+    "image_url": "images/E46_330Ci-M54_manual_transmission_gs5s31bz_smg_expansion_tank_pump.png",
     "parts_count": 16
   },
   {
     "id": 1151,
     "diagram_title": "gs5s31bz_smg_housing_and_mounting_parts",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_manual_transmission_gs5s31bz_smg_housing_and_mounting_parts.png",
+    "image_url": "images/E46_330Ci-M54_manual_transmission_gs5s31bz_smg_housing_and_mounting_parts.png",
     "parts_count": 19
   },
   {
     "id": 1147,
     "diagram_title": "gs5s31bz_smg_hydraulic_pipes",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_manual_transmission_gs5s31bz_smg_hydraulic_pipes.png",
+    "image_url": "images/E46_330Ci-M54_manual_transmission_gs5s31bz_smg_hydraulic_pipes.png",
     "parts_count": 9
   },
   {
     "id": 1145,
     "diagram_title": "gs5s31bz_smg_hydraulic_unit",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_manual_transmission_gs5s31bz_smg_hydraulic_unit.png",
+    "image_url": "images/E46_330Ci-M54_manual_transmission_gs5s31bz_smg_hydraulic_unit.png",
     "parts_count": 9
   },
   {
     "id": 1150,
     "diagram_title": "gs5s31bz_smg_inner_gear_shifting_parts",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_manual_transmission_gs5s31bz_smg_inner_gear_shifting_parts.png",
+    "image_url": "images/E46_330Ci-M54_manual_transmission_gs5s31bz_smg_inner_gear_shifting_parts.png",
     "parts_count": 23
   },
   {
     "id": 1149,
     "diagram_title": "gs5s31bz_smg_press_accumulator_valves",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_manual_transmission_gs5s31bz_smg_press_accumulator_valves.png",
+    "image_url": "images/E46_330Ci-M54_manual_transmission_gs5s31bz_smg_press_accumulator_valves.png",
     "parts_count": 15
   },
   {
     "id": 1143,
     "diagram_title": "manual_transmission_gs5s31bz_smg",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_manual_transmission_manual_transmission_gs5s31bz_smg.png",
+    "image_url": "images/E46_330Ci-M54_manual_transmission_manual_transmission_gs5s31bz_smg.png",
     "parts_count": 6
   },
   {
     "id": 1141,
     "diagram_title": "manual_transmission_gs6_37bz_dz",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_manual_transmission_manual_transmission_gs6_37bz_dz.png",
+    "image_url": "images/E46_330Ci-M54_manual_transmission_manual_transmission_gs6_37bz_dz.png",
     "parts_count": 1
   },
   {
     "id": 1144,
     "diagram_title": "manual_transmission_gs6s37bz_smg",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_manual_transmission_manual_transmission_gs6s37bz_smg.png",
+    "image_url": "images/E46_330Ci-M54_manual_transmission_manual_transmission_gs6s37bz_smg.png",
     "parts_count": 1
   },
   {
     "id": 1140,
     "diagram_title": "manual_transmission_s5d_z",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_manual_transmission_manual_transmission_s5d_z.png",
+    "image_url": "images/E46_330Ci-M54_manual_transmission_manual_transmission_s5d_z.png",
     "parts_count": 4
   },
   {
     "id": 1158,
     "diagram_title": "programmed_smg_control_unit",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_manual_transmission_programmed_smg_control_unit.png",
+    "image_url": "images/E46_330Ci-M54_manual_transmission_programmed_smg_control_unit.png",
     "parts_count": 1
   },
   {
     "id": 1154,
     "diagram_title": "s5d_z_countershaft_reverse_gear",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_manual_transmission_s5d_z_countershaft_reverse_gear.png",
+    "image_url": "images/E46_330Ci-M54_manual_transmission_s5d_z_countershaft_reverse_gear.png",
     "parts_count": 25
   },
   {
     "id": 1155,
     "diagram_title": "s5d_z_drive_shaft_output_shaft",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_manual_transmission_s5d_z_drive_shaft_output_shaft.png",
+    "image_url": "images/E46_330Ci-M54_manual_transmission_s5d_z_drive_shaft_output_shaft.png",
     "parts_count": 65
   },
   {
     "id": 1152,
     "diagram_title": "s5d_z_housing_mounting_parts",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_manual_transmission_s5d_z_housing_mounting_parts.png",
+    "image_url": "images/E46_330Ci-M54_manual_transmission_s5d_z_housing_mounting_parts.png",
     "parts_count": 21
   },
   {
     "id": 1159,
     "diagram_title": "s5d_z_inner_gear_shifting_parts",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_manual_transmission_s5d_z_inner_gear_shifting_parts.png",
+    "image_url": "images/E46_330Ci-M54_manual_transmission_s5d_z_inner_gear_shifting_parts.png",
     "parts_count": 30
   }
 ]

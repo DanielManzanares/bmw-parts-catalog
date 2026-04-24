@@ -62,61 +62,61 @@
   {
     "id": 681,
     "diagram_title": "a5s360r_390r_ctrl_unit_with_mount_parts",
-    "image_url": "/static/images/diagrams/E46_318i-N42_automatic_transmission_a5s360r_390r_ctrl_unit_with_mount_parts.png",
+    "image_url": "images/E46_318i-N42_automatic_transmission_a5s360r_390r_ctrl_unit_with_mount_parts.png",
     "parts_count": 11
   },
   {
     "id": 678,
     "diagram_title": "a5s360r_390r_gear_shifting_part",
-    "image_url": "/static/images/diagrams/E46_318i-N42_automatic_transmission_a5s360r_390r_gear_shifting_part.png",
+    "image_url": "images/E46_318i-N42_automatic_transmission_a5s360r_390r_gear_shifting_part.png",
     "parts_count": 3
   },
   {
     "id": 676,
     "diagram_title": "a5s360r_390r_oil_pan_oil_strainer",
-    "image_url": "/static/images/diagrams/E46_318i-N42_automatic_transmission_a5s360r_390r_oil_pan_oil_strainer.png",
+    "image_url": "images/E46_318i-N42_automatic_transmission_a5s360r_390r_oil_pan_oil_strainer.png",
     "parts_count": 8
   },
   {
     "id": 674,
     "diagram_title": "a5s360r_390r_output",
-    "image_url": "/static/images/diagrams/E46_318i-N42_automatic_transmission_a5s360r_390r_output.png",
+    "image_url": "images/E46_318i-N42_automatic_transmission_a5s360r_390r_output.png",
     "parts_count": 7
   },
   {
     "id": 669,
     "diagram_title": "a5s360r_390r_seals_speed_sensor",
-    "image_url": "/static/images/diagrams/E46_318i-N42_automatic_transmission_a5s360r_390r_seals_speed_sensor.png",
+    "image_url": "images/E46_318i-N42_automatic_transmission_a5s360r_390r_seals_speed_sensor.png",
     "parts_count": 6
   },
   {
     "id": 673,
     "diagram_title": "automatic_transmission_a5s360r_a5s390r",
-    "image_url": "/static/images/diagrams/E46_318i-N42_automatic_transmission_automatic_transmission_a5s360r_a5s390r.png",
+    "image_url": "images/E46_318i-N42_automatic_transmission_automatic_transmission_a5s360r_a5s390r.png",
     "parts_count": 5
   },
   {
     "id": 680,
     "diagram_title": "basic_control_unit_egs",
-    "image_url": "/static/images/diagrams/E46_318i-N42_automatic_transmission_basic_control_unit_egs.png",
+    "image_url": "images/E46_318i-N42_automatic_transmission_basic_control_unit_egs.png",
     "parts_count": 2
   },
   {
     "id": 679,
     "diagram_title": "control_unit_egs_programmed",
-    "image_url": "/static/images/diagrams/E46_318i-N42_automatic_transmission_control_unit_egs_programmed.png",
+    "image_url": "images/E46_318i-N42_automatic_transmission_control_unit_egs_programmed.png",
     "parts_count": 2
   },
   {
     "id": 675,
     "diagram_title": "fluid_change_kit_autom_transmission",
-    "image_url": "/static/images/diagrams/E46_318i-N42_automatic_transmission_fluid_change_kit_autom_transmission.png",
+    "image_url": "images/E46_318i-N42_automatic_transmission_fluid_change_kit_autom_transmission.png",
     "parts_count": 4
   },
   {
     "id": 672,
     "diagram_title": "gearbox_mounting",
-    "image_url": "/static/images/diagrams/E46_318i-N42_automatic_transmission_gearbox_mounting.png",
+    "image_url": "images/E46_318i-N42_automatic_transmission_gearbox_mounting.png",
     "parts_count": 5
   }
 ]

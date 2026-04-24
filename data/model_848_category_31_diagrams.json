@@ -32,31 +32,31 @@
   {
     "id": 888,
     "diagram_title": "exp_tank_activated_carbon_container",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_fuel_supply_exp_tank_activated_carbon_container.png",
+    "image_url": "images/E46_320Ci-M54_fuel_supply_exp_tank_activated_carbon_container.png",
     "parts_count": 14
   },
   {
     "id": 885,
     "diagram_title": "expansion_tank",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_fuel_supply_expansion_tank.png",
+    "image_url": "images/E46_320Ci-M54_fuel_supply_expansion_tank.png",
     "parts_count": 8
   },
   {
     "id": 893,
     "diagram_title": "fuel_pipe_and_mounting_parts",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_fuel_supply_fuel_pipe_and_mounting_parts.png",
+    "image_url": "images/E46_320Ci-M54_fuel_supply_fuel_pipe_and_mounting_parts.png",
     "parts_count": 12
   },
   {
     "id": 891,
     "diagram_title": "fuel_pump_and_fuel_level_sensor",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_fuel_supply_fuel_pump_and_fuel_level_sensor.png",
+    "image_url": "images/E46_320Ci-M54_fuel_supply_fuel_pump_and_fuel_level_sensor.png",
     "parts_count": 7
   },
   {
     "id": 886,
     "diagram_title": "fuel_tank_attaching_parts",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_fuel_supply_fuel_tank_attaching_parts.png",
+    "image_url": "images/E46_320Ci-M54_fuel_supply_fuel_tank_attaching_parts.png",
     "parts_count": 20
   }
 ]

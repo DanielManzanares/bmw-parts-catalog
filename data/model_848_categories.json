@@ -11,7 +11,7 @@
     "name": "Automatic Transmission",
     "slug": "automatic_transmission",
     "diagram_count": 31,
-    "representative_image": "/static/images/diagrams/E46_320Ci-M54_automatic_transmission_fluid_change_kit_autom_transmission_2.png"
+    "representative_image": "images/E46_320Ci-M54_automatic_transmission_fluid_change_kit_autom_transmission_2.png"
   },
   {
     "id": 1637,
@@ -25,14 +25,14 @@
     "name": "Brakes",
     "slug": "brakes",
     "diagram_count": 32,
-    "representative_image": "/static/images/diagrams/E46_320Ci-M54_brakes_service_kit_for_brake_pads_value_line.png"
+    "representative_image": "images/E46_320Ci-M54_brakes_service_kit_for_brake_pads_value_line.png"
   },
   {
     "id": 39,
     "name": "Clutch",
     "slug": "clutch",
     "diagram_count": 4,
-    "representative_image": "/static/images/diagrams/E46_320Ci-M54_clutch_clutch.png"
+    "representative_image": "images/E46_320Ci-M54_clutch_clutch.png"
   },
   {
     "id": 1648,
@@ -67,7 +67,7 @@
     "name": "Engine",
     "slug": "engine",
     "diagram_count": 76,
-    "representative_image": "/static/images/diagrams/E46_320Ci-M54_engine_timing_case.png"
+    "representative_image": "images/E46_320Ci-M54_engine_timing_case.png"
   },
   {
     "id": 1534,
@@ -95,14 +95,14 @@
     "name": "Exhaust System",
     "slug": "exhaust_system",
     "diagram_count": 8,
-    "representative_image": "/static/images/diagrams/E46_320Ci-M54_exhaust_system_catalytic_converter_front_silencer.png"
+    "representative_image": "images/E46_320Ci-M54_exhaust_system_catalytic_converter_front_silencer.png"
   },
   {
     "id": 49,
     "name": "Front Axle",
     "slug": "front_axle",
     "diagram_count": 21,
-    "representative_image": "/static/images/diagrams/E46_320Ci-M54_front_axle_kit_wheel_bearing_front_value_line.png"
+    "representative_image": "images/E46_320Ci-M54_front_axle_kit_wheel_bearing_front_value_line.png"
   },
   {
     "id": 1535,
@@ -116,7 +116,7 @@
     "name": "Fuel Supply",
     "slug": "fuel_supply",
     "diagram_count": 10,
-    "representative_image": "/static/images/diagrams/E46_320Ci-M54_fuel_supply_expansion_tank.png"
+    "representative_image": "images/E46_320Ci-M54_fuel_supply_expansion_tank.png"
   },
   {
     "id": 1635,
@@ -158,21 +158,21 @@
     "name": "Lighting",
     "slug": "lighting",
     "diagram_count": 45,
-    "representative_image": "/static/images/diagrams/E46_320Ci-M54_lighting_single_components_for_headlight_2.png"
+    "representative_image": "images/E46_320Ci-M54_lighting_single_components_for_headlight_2.png"
   },
   {
     "id": 42,
     "name": "Manual Transmission",
     "slug": "manual_transmission",
     "diagram_count": 16,
-    "representative_image": "/static/images/diagrams/E46_320Ci-M54_manual_transmission_manual_transmission_s5d_g.png"
+    "representative_image": "images/E46_320Ci-M54_manual_transmission_manual_transmission_s5d_g.png"
   },
   {
     "id": 83,
     "name": "Pedals",
     "slug": "pedals",
     "diagram_count": 4,
-    "representative_image": "/static/images/diagrams/E46_320Ci-M54_pedals_acceleration_accelerator_pedal_module.png"
+    "representative_image": "images/E46_320Ci-M54_pedals_acceleration_accelerator_pedal_module.png"
   },
   {
     "id": 1536,
@@ -186,7 +186,7 @@
     "name": "Rear Axle",
     "slug": "rear_axle",
     "diagram_count": 25,
-    "representative_image": "/static/images/diagrams/E46_320Ci-M54_rear_axle_final_drive_gasket_set.png"
+    "representative_image": "images/E46_320Ci-M54_rear_axle_final_drive_gasket_set.png"
   },
   {
     "id": 1646,
@@ -214,7 +214,7 @@
     "name": "Seats",
     "slug": "seats",
     "diagram_count": 59,
-    "representative_image": "/static/images/diagrams/E46_320Ci-M54_seats_seat_front_complete_seat.png"
+    "representative_image": "images/E46_320Ci-M54_seats_seat_front_complete_seat.png"
   },
   {
     "id": 1639,
@@ -228,7 +228,7 @@
     "name": "Steering",
     "slug": "steering",
     "diagram_count": 28,
-    "representative_image": "/static/images/diagrams/E46_320Ci-M54_steering_power_steering.png"
+    "representative_image": "images/E46_320Ci-M54_steering_power_steering.png"
   },
   {
     "id": 1531,
@@ -256,7 +256,7 @@
     "name": "Wheels",
     "slug": "wheels",
     "diagram_count": 115,
-    "representative_image": "/static/images/diagrams/E46_320Ci-M54_wheels_steel_rim_styl_12_2.png"
+    "representative_image": "images/E46_320Ci-M54_wheels_steel_rim_styl_12_2.png"
   },
   {
     "id": 1647,

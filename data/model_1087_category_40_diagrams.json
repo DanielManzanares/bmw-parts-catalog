@@ -44,43 +44,43 @@
   {
     "id": 1131,
     "diagram_title": "catalytic_converter_front_silencer",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_exhaust_system_catalytic_converter_front_silencer.png",
+    "image_url": "images/E46_330Ci-M54_exhaust_system_catalytic_converter_front_silencer.png",
     "parts_count": 9
   },
   {
     "id": 1135,
     "diagram_title": "center_and_rear_muffler",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_exhaust_system_center_and_rear_muffler.png",
+    "image_url": "images/E46_330Ci-M54_exhaust_system_center_and_rear_muffler.png",
     "parts_count": 21
   },
   {
     "id": 1128,
     "diagram_title": "exhaust_system_rear",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_exhaust_system_exhaust_system_rear.png",
+    "image_url": "images/E46_330Ci-M54_exhaust_system_exhaust_system_rear.png",
     "parts_count": 5
   },
   {
     "id": 1129,
     "diagram_title": "front_muffler",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_exhaust_system_front_muffler.png",
+    "image_url": "images/E46_330Ci-M54_exhaust_system_front_muffler.png",
     "parts_count": 8
   },
   {
     "id": 1134,
     "diagram_title": "suspension_parts_exhaust",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_exhaust_system_suspension_parts_exhaust.png",
+    "image_url": "images/E46_330Ci-M54_exhaust_system_suspension_parts_exhaust.png",
     "parts_count": 9
   },
   {
     "id": 1137,
     "diagram_title": "suspension_parts_exhaust_2",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_exhaust_system_suspension_parts_exhaust_2.png",
+    "image_url": "images/E46_330Ci-M54_exhaust_system_suspension_parts_exhaust_2.png",
     "parts_count": 9
   },
   {
     "id": 1136,
     "diagram_title": "vacuum_control_exhaust_flap",
-    "image_url": "/static/images/diagrams/E46_330Ci-M54_exhaust_system_vacuum_control_exhaust_flap.png",
+    "image_url": "images/E46_330Ci-M54_exhaust_system_vacuum_control_exhaust_flap.png",
     "parts_count": 17
   }
 ]

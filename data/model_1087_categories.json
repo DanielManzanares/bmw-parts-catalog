@@ -11,7 +11,7 @@
     "name": "Automatic Transmission",
     "slug": "automatic_transmission",
     "diagram_count": 31,
-    "representative_image": "/static/images/diagrams/E46_330Ci-M54_automatic_transmission_gearbox_mounting.png"
+    "representative_image": "images/E46_330Ci-M54_automatic_transmission_gearbox_mounting.png"
   },
   {
     "id": 1637,
@@ -25,14 +25,14 @@
     "name": "Brakes",
     "slug": "brakes",
     "diagram_count": 41,
-    "representative_image": "/static/images/diagrams/E46_330Ci-M54_brakes_rear_wheel_brake_disc_perforated.png"
+    "representative_image": "images/E46_330Ci-M54_brakes_rear_wheel_brake_disc_perforated.png"
   },
   {
     "id": 39,
     "name": "Clutch",
     "slug": "clutch",
     "diagram_count": 4,
-    "representative_image": "/static/images/diagrams/E46_330Ci-M54_clutch_clutch_control.png"
+    "representative_image": "images/E46_330Ci-M54_clutch_clutch_control.png"
   },
   {
     "id": 1648,
@@ -67,7 +67,7 @@
     "name": "Engine",
     "slug": "engine",
     "diagram_count": 76,
-    "representative_image": "/static/images/diagrams/E46_330Ci-M54_engine_timing_case.png"
+    "representative_image": "images/E46_330Ci-M54_engine_timing_case.png"
   },
   {
     "id": 1534,
@@ -95,14 +95,14 @@
     "name": "Exhaust System",
     "slug": "exhaust_system",
     "diagram_count": 14,
-    "representative_image": "/static/images/diagrams/E46_330Ci-M54_exhaust_system_exhaust_system_rear.png"
+    "representative_image": "images/E46_330Ci-M54_exhaust_system_exhaust_system_rear.png"
   },
   {
     "id": 49,
     "name": "Front Axle",
     "slug": "front_axle",
     "diagram_count": 21,
-    "representative_image": "/static/images/diagrams/E46_330Ci-M54_front_axle_front_axle_support_wishbone.png"
+    "representative_image": "images/E46_330Ci-M54_front_axle_front_axle_support_wishbone.png"
   },
   {
     "id": 1535,
@@ -116,7 +116,7 @@
     "name": "Fuel Supply",
     "slug": "fuel_supply",
     "diagram_count": 12,
-    "representative_image": "/static/images/diagrams/E46_330Ci-M54_fuel_supply_fuel_tank_attaching_parts.png"
+    "representative_image": "images/E46_330Ci-M54_fuel_supply_fuel_tank_attaching_parts.png"
   },
   {
     "id": 1635,
@@ -158,21 +158,21 @@
     "name": "Lighting",
     "slug": "lighting",
     "diagram_count": 44,
-    "representative_image": "/static/images/diagrams/E46_330Ci-M54_lighting_headlight.png"
+    "representative_image": "images/E46_330Ci-M54_lighting_headlight.png"
   },
   {
     "id": 42,
     "name": "Manual Transmission",
     "slug": "manual_transmission",
     "diagram_count": 40,
-    "representative_image": "/static/images/diagrams/E46_330Ci-M54_manual_transmission_gearbox_mounting_parts.png"
+    "representative_image": "images/E46_330Ci-M54_manual_transmission_gearbox_mounting_parts.png"
   },
   {
     "id": 83,
     "name": "Pedals",
     "slug": "pedals",
     "diagram_count": 4,
-    "representative_image": "/static/images/diagrams/E46_330Ci-M54_pedals_acceleration_accelerator_pedal_module.png"
+    "representative_image": "images/E46_330Ci-M54_pedals_acceleration_accelerator_pedal_module.png"
   },
   {
     "id": 1536,
@@ -186,7 +186,7 @@
     "name": "Rear Axle",
     "slug": "rear_axle",
     "diagram_count": 27,
-    "representative_image": "/static/images/diagrams/E46_330Ci-M54_rear_axle_output_shaft_with_bearing_ball_cage.png"
+    "representative_image": "images/E46_330Ci-M54_rear_axle_output_shaft_with_bearing_ball_cage.png"
   },
   {
     "id": 1646,
@@ -214,7 +214,7 @@
     "name": "Seats",
     "slug": "seats",
     "diagram_count": 60,
-    "representative_image": "/static/images/diagrams/E46_330Ci-M54_seats_seat_front_complete_seat.png"
+    "representative_image": "images/E46_330Ci-M54_seats_seat_front_complete_seat.png"
   },
   {
     "id": 1639,
@@ -228,7 +228,7 @@
     "name": "Steering",
     "slug": "steering",
     "diagram_count": 32,
-    "representative_image": "/static/images/diagrams/E46_330Ci-M54_steering_oil_carrier_single_parts.png"
+    "representative_image": "images/E46_330Ci-M54_steering_oil_carrier_single_parts.png"
   },
   {
     "id": 1531,
@@ -256,7 +256,7 @@
     "name": "Wheels",
     "slug": "wheels",
     "diagram_count": 78,
-    "representative_image": "/static/images/diagrams/E46_330Ci-M54_wheels_z_star_styl_35.png"
+    "representative_image": "images/E46_330Ci-M54_wheels_z_star_styl_35.png"
   },
   {
     "id": 1647,

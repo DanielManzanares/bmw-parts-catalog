@@ -80,91 +80,91 @@
   {
     "id": 1026,
     "diagram_title": "hydro_steering_oil_pipes",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_hydro_steering_oil_pipes.png",
+    "image_url": "images/E46_320Ci-M54_steering_hydro_steering_oil_pipes.png",
     "parts_count": 17
   },
   {
     "id": 1032,
     "diagram_title": "m_sports_strng_whl_airb_smart_multifunc",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_m_sports_strng_whl_airb_smart_multifunc.png",
+    "image_url": "images/E46_320Ci-M54_steering_m_sports_strng_whl_airb_smart_multifunc.png",
     "parts_count": 8
   },
   {
     "id": 1029,
     "diagram_title": "m_sports_strng_whl_leather_airbag_smart",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_m_sports_strng_whl_leather_airbag_smart.png",
+    "image_url": "images/E46_320Ci-M54_steering_m_sports_strng_whl_leather_airbag_smart.png",
     "parts_count": 8
   },
   {
     "id": 1024,
     "diagram_title": "manually_adjust_steering_column",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_manually_adjust_steering_column.png",
+    "image_url": "images/E46_320Ci-M54_steering_manually_adjust_steering_column.png",
     "parts_count": 13
   },
   {
     "id": 1027,
     "diagram_title": "oil_carrier_single_parts",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_oil_carrier_single_parts.png",
+    "image_url": "images/E46_320Ci-M54_steering_oil_carrier_single_parts.png",
     "parts_count": 6
   },
   {
     "id": 1019,
     "diagram_title": "power_steering",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_power_steering.png",
+    "image_url": "images/E46_320Ci-M54_steering_power_steering.png",
     "parts_count": 5
   },
   {
     "id": 1023,
     "diagram_title": "power_steering_pump",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_power_steering_pump.png",
+    "image_url": "images/E46_320Ci-M54_steering_power_steering_pump.png",
     "parts_count": 9
   },
   {
     "id": 1028,
     "diagram_title": "sport_st_whl_airbag_smart_decor_cover",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_sport_st_whl_airbag_smart_decor_cover.png",
+    "image_url": "images/E46_320Ci-M54_steering_sport_st_whl_airbag_smart_decor_cover.png",
     "parts_count": 15
   },
   {
     "id": 1034,
     "diagram_title": "sport_st_whl_airbag_smart_decor_cover_2",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_sport_st_whl_airbag_smart_decor_cover_2.png",
+    "image_url": "images/E46_320Ci-M54_steering_sport_st_whl_airbag_smart_decor_cover_2.png",
     "parts_count": 22
   },
   {
     "id": 1036,
     "diagram_title": "sport_st_whl_airbag_smart_mf_decor_cover",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_sport_st_whl_airbag_smart_mf_decor_cover.png",
+    "image_url": "images/E46_320Ci-M54_steering_sport_st_whl_airbag_smart_mf_decor_cover.png",
     "parts_count": 25
   },
   {
     "id": 1030,
     "diagram_title": "sport_st_whl_airbag_smart_mf_decor_cover_2",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_sport_st_whl_airbag_smart_mf_decor_cover_2.png",
+    "image_url": "images/E46_320Ci-M54_steering_sport_st_whl_airbag_smart_mf_decor_cover_2.png",
     "parts_count": 25
   },
   {
     "id": 1021,
     "diagram_title": "steer_col_lower_joint_assy",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_steer_col_lower_joint_assy.png",
+    "image_url": "images/E46_320Ci-M54_steering_steer_col_lower_joint_assy.png",
     "parts_count": 3
   },
   {
     "id": 1025,
     "diagram_title": "steering_column_adjustable_single_parts",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_steering_column_adjustable_single_parts.png",
+    "image_url": "images/E46_320Ci-M54_steering_steering_column_adjustable_single_parts.png",
     "parts_count": 19
   },
   {
     "id": 1020,
     "diagram_title": "steering_linkage_tie_rods",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_steering_linkage_tie_rods.png",
+    "image_url": "images/E46_320Ci-M54_steering_steering_linkage_tie_rods.png",
     "parts_count": 11
   },
   {
     "id": 1022,
     "diagram_title": "steering_lock_ignition_switch",
-    "image_url": "/static/images/diagrams/E46_320Ci-M54_steering_steering_lock_ignition_switch.png",
+    "image_url": "images/E46_320Ci-M54_steering_steering_lock_ignition_switch.png",
     "parts_count": 8
   }
 ]

@@ -122,115 +122,115 @@
   {
     "id": 844,
     "diagram_title": "addit_turn_indicator_lamp_trunk_lid",
-    "image_url": "/static/images/diagrams/E46_318i-N42_lighting_addit_turn_indicator_lamp_trunk_lid.png",
+    "image_url": "images/E46_318i-N42_lighting_addit_turn_indicator_lamp_trunk_lid.png",
     "parts_count": 5
   },
   {
     "id": 835,
     "diagram_title": "bmw_blue_lamps",
-    "image_url": "/static/images/diagrams/E46_318i-N42_lighting_bmw_blue_lamps.png",
+    "image_url": "images/E46_318i-N42_lighting_bmw_blue_lamps.png",
     "parts_count": 5
   },
   {
     "id": 837,
     "diagram_title": "bmw_chrome_lamps",
-    "image_url": "/static/images/diagrams/E46_318i-N42_lighting_bmw_chrome_lamps.png",
+    "image_url": "images/E46_318i-N42_lighting_bmw_chrome_lamps.png",
     "parts_count": 2
   },
   {
     "id": 829,
     "diagram_title": "bmw_performance_light",
-    "image_url": "/static/images/diagrams/E46_318i-N42_lighting_bmw_performance_light.png",
+    "image_url": "images/E46_318i-N42_lighting_bmw_performance_light.png",
     "parts_count": 2
   },
   {
     "id": 836,
     "diagram_title": "bmw_power_lamps",
-    "image_url": "/static/images/diagrams/E46_318i-N42_lighting_bmw_power_lamps.png",
+    "image_url": "images/E46_318i-N42_lighting_bmw_power_lamps.png",
     "parts_count": 3
   },
   {
     "id": 839,
     "diagram_title": "fog_lamp_m_technik",
-    "image_url": "/static/images/diagrams/E46_318i-N42_lighting_fog_lamp_m_technik.png",
+    "image_url": "images/E46_318i-N42_lighting_fog_lamp_m_technik.png",
     "parts_count": 11
   },
   {
     "id": 838,
     "diagram_title": "fog_lights",
-    "image_url": "/static/images/diagrams/E46_318i-N42_lighting_fog_lights.png",
+    "image_url": "images/E46_318i-N42_lighting_fog_lights.png",
     "parts_count": 4
   },
   {
     "id": 828,
     "diagram_title": "headlight",
-    "image_url": "/static/images/diagrams/E46_318i-N42_lighting_headlight.png",
+    "image_url": "images/E46_318i-N42_lighting_headlight.png",
     "parts_count": 11
   },
   {
     "id": 846,
     "diagram_title": "interior_lights",
-    "image_url": "/static/images/diagrams/E46_318i-N42_lighting_interior_lights.png",
+    "image_url": "images/E46_318i-N42_lighting_interior_lights.png",
     "parts_count": 21
   },
   {
     "id": 840,
     "diagram_title": "rear_light_in_the_side_panel",
-    "image_url": "/static/images/diagrams/E46_318i-N42_lighting_rear_light_in_the_side_panel.png",
+    "image_url": "images/E46_318i-N42_lighting_rear_light_in_the_side_panel.png",
     "parts_count": 22
   },
   {
     "id": 841,
     "diagram_title": "rear_light_in_trunk_lid",
-    "image_url": "/static/images/diagrams/E46_318i-N42_lighting_rear_light_in_trunk_lid.png",
+    "image_url": "images/E46_318i-N42_lighting_rear_light_in_trunk_lid.png",
     "parts_count": 15
   },
   {
     "id": 833,
     "diagram_title": "single_components_for_headlight",
-    "image_url": "/static/images/diagrams/E46_318i-N42_lighting_single_components_for_headlight.png",
+    "image_url": "images/E46_318i-N42_lighting_single_components_for_headlight.png",
     "parts_count": 30
   },
   {
     "id": 834,
     "diagram_title": "single_parts_xenon_headlight",
-    "image_url": "/static/images/diagrams/E46_318i-N42_lighting_single_parts_xenon_headlight.png",
+    "image_url": "images/E46_318i-N42_lighting_single_parts_xenon_headlight.png",
     "parts_count": 37
   },
   {
     "id": 831,
     "diagram_title": "spare_bulbs_box",
-    "image_url": "/static/images/diagrams/E46_318i-N42_lighting_spare_bulbs_box.png",
+    "image_url": "images/E46_318i-N42_lighting_spare_bulbs_box.png",
     "parts_count": 2
   },
   {
     "id": 830,
     "diagram_title": "spare_bulbs_box_2",
-    "image_url": "/static/images/diagrams/E46_318i-N42_lighting_spare_bulbs_box_2.png",
+    "image_url": "images/E46_318i-N42_lighting_spare_bulbs_box_2.png",
     "parts_count": 1
   },
   {
     "id": 843,
     "diagram_title": "third_stoplamp",
-    "image_url": "/static/images/diagrams/E46_318i-N42_lighting_third_stoplamp.png",
+    "image_url": "images/E46_318i-N42_lighting_third_stoplamp.png",
     "parts_count": 6
   },
   {
     "id": 845,
     "diagram_title": "turn_signals_front_side",
-    "image_url": "/static/images/diagrams/E46_318i-N42_lighting_turn_signals_front_side.png",
+    "image_url": "images/E46_318i-N42_lighting_turn_signals_front_side.png",
     "parts_count": 36
   },
   {
     "id": 842,
     "diagram_title": "various_lamps",
-    "image_url": "/static/images/diagrams/E46_318i-N42_lighting_various_lamps.png",
+    "image_url": "images/E46_318i-N42_lighting_various_lamps.png",
     "parts_count": 1
   },
   {
     "id": 847,
     "diagram_title": "various_lamps_spare_bulbs_box",
-    "image_url": "/static/images/diagrams/E46_318i-N42_lighting_various_lamps_spare_bulbs_box.png",
+    "image_url": "images/E46_318i-N42_lighting_various_lamps_spare_bulbs_box.png",
     "parts_count": 18
   }
 ]

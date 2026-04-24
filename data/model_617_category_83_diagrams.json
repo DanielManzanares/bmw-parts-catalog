@@ -14,13 +14,13 @@
   {
     "id": 721,
     "diagram_title": "acceleration_accelerator_pedal_module",
-    "image_url": "/static/images/diagrams/E46_318i-N42_pedals_acceleration_accelerator_pedal_module.png",
+    "image_url": "images/E46_318i-N42_pedals_acceleration_accelerator_pedal_module.png",
     "parts_count": 8
   },
   {
     "id": 722,
     "diagram_title": "pedals_stop_light_switch",
-    "image_url": "/static/images/diagrams/E46_318i-N42_pedals_pedals_stop_light_switch.png",
+    "image_url": "images/E46_318i-N42_pedals_pedals_stop_light_switch.png",
     "parts_count": 25
   }
 ]

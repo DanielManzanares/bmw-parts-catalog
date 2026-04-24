@@ -38,37 +38,37 @@
   {
     "id": 658,
     "diagram_title": "catalytic_converter_center_muffler",
-    "image_url": "/static/images/diagrams/E46_318i-N42_exhaust_system_catalytic_converter_center_muffler.png",
+    "image_url": "images/E46_318i-N42_exhaust_system_catalytic_converter_center_muffler.png",
     "parts_count": 16
   },
   {
     "id": 654,
     "diagram_title": "exhaust_manifold_with_catalyst",
-    "image_url": "/static/images/diagrams/E46_318i-N42_exhaust_system_exhaust_manifold_with_catalyst.png",
+    "image_url": "images/E46_318i-N42_exhaust_system_exhaust_manifold_with_catalyst.png",
     "parts_count": 5
   },
   {
     "id": 657,
     "diagram_title": "lambda_probe_fixings",
-    "image_url": "/static/images/diagrams/E46_318i-N42_exhaust_system_lambda_probe_fixings.png",
+    "image_url": "images/E46_318i-N42_exhaust_system_lambda_probe_fixings.png",
     "parts_count": 18
   },
   {
     "id": 659,
     "diagram_title": "rear_muffler",
-    "image_url": "/static/images/diagrams/E46_318i-N42_exhaust_system_rear_muffler.png",
+    "image_url": "images/E46_318i-N42_exhaust_system_rear_muffler.png",
     "parts_count": 4
   },
   {
     "id": 660,
     "diagram_title": "suspension_parts_exhaust",
-    "image_url": "/static/images/diagrams/E46_318i-N42_exhaust_system_suspension_parts_exhaust.png",
+    "image_url": "images/E46_318i-N42_exhaust_system_suspension_parts_exhaust.png",
     "parts_count": 10
   },
   {
     "id": 665,
     "diagram_title": "suspension_parts_exhaust_2",
-    "image_url": "/static/images/diagrams/E46_318i-N42_exhaust_system_suspension_parts_exhaust_2.png",
+    "image_url": "images/E46_318i-N42_exhaust_system_suspension_parts_exhaust_2.png",
     "parts_count": 12
   }
 ]
