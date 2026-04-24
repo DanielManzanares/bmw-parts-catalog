@@ -321,12 +321,21 @@ async function renderModel(modelId) {
 }
 
 async function renderCategory(modelId, categoryId) {
+    console.log('renderCategory called with:', modelId, categoryId);
     try {
+        console.log('Fetching models.json...');
         const models = await fetch('data/models.json').then(r => r.json());
+        console.log('Models loaded:', models.length);
         const model = models.find(m => m.id == modelId);
+        console.log('Model found:', model);
+        console.log(`Fetching data/model_${modelId}_categories.json...`);
         const categories = await fetch(`data/model_${modelId}_categories.json`).then(r => r.json());
+        console.log('Categories loaded:', categories.length);
         const category = categories.find(c => c.id == categoryId);
+        console.log('Category found:', category);
+        console.log(`Fetching data/model_${modelId}_category_${categoryId}_diagrams.json...`);
         const diagrams = await fetch(`data/model_${modelId}_category_${categoryId}_diagrams.json`).then(r => r.json());
+        console.log('Diagrams loaded:', diagrams.length);
 
         document.getElementById('app').innerHTML = `
             <div class="breadcrumb">
