@@ -209,7 +209,7 @@ async function renderHome() {
             <!-- Models Grid -->
             <div class="premium-grid">
                 ${models.map(m => `
-                    <div class="premium-card" onclick="router.navigate('model/${m.id}')">
+                    <div class="premium-card" data-nav="model/${m.id}">
                         <!-- Card Header with Gradient -->
                         <div class="premium-card-header">
                             <div class="premium-card-glow"></div>
@@ -294,7 +294,7 @@ async function renderModel(modelId) {
             </div>
             <div class="grid">
                 ${categories.map(c => `
-                    <div class="card" onclick="router.navigate('model/${modelId}/category/${c.id}')">
+                    <div class="card" data-nav="model/${modelId}/category/${c.id}">
                         ${c.representative_image ? `<img src="${c.representative_image}" alt="${c.name}" style="width: 100%; height: 140px; object-fit: cover; border-radius: 8px; margin-bottom: 16px; background: #fafafa;">` : `<div style="width: 100%; height: 140px; background: #fafafa; border-radius: 8px; margin-bottom: 16px; display: flex; align-items: center; justify-content: center; color: #d4d4d4; font-size: 48px;">📋</div>`}
                         <div class="card-title" style="font-size: 15px; margin-bottom: 8px;" data-original="${c.name}">${c.name}</div>
                         <div class="card-meta">
@@ -343,7 +343,7 @@ async function renderCategory(modelId, categoryId) {
                 </div>
                 <div class="grid">
                     ${diagrams.map(d => `
-                        <div class="card" onclick="router.navigate('diagram/${d.id}')">
+                        <div class="card" data-nav="diagram/${d.id}">
                             ${d.image_url ? `<img src="${d.image_url}" alt="${d.diagram_title}" style="width: 100%; height: 180px; object-fit: cover; border-radius: 8px; margin-bottom: 16px; background: #fafafa;">` : `<div style="width: 100%; height: 180px; background: #fafafa; border-radius: 8px; margin-bottom: 16px; display: flex; align-items: center; justify-content: center; color: #d4d4d4; font-size: 48px;">📋</div>`}
                             <div class="card-title" style="font-size: 15px; margin-bottom: 8px;" data-original="${d.diagram_title}">${d.diagram_title}</div>
                             <div class="card-meta">
@@ -445,6 +445,16 @@ async function renderDiagram(diagramId) {
         document.getElementById('app').innerHTML = `<div class="container"><h1>Error loading diagram</h1><p>${err.message}</p></div>`;
     }
 }
+
+// Event delegation for navigation
+document.addEventListener('click', (e) => {
+    const navEl = e.target.closest('[data-nav]');
+    if (navEl) {
+        e.preventDefault();
+        const path = navEl.getAttribute('data-nav');
+        router.navigate(path);
+    }
+});
 
 // Initialize on load and handle hash changes
 window.addEventListener('DOMContentLoaded', () => {
