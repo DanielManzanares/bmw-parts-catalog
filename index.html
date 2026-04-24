@@ -254,9 +254,11 @@ async function renderHome() {
             </div>
         </div>
     `;
+    setLanguage(currentLang);
 }
 
 async function renderModel(modelId) {
+    try {
     const models = await fetch('data/models.json').then(r => r.json());
     const model = models.find(m => m.id == modelId);
     const categories = await fetch(`data/model_${modelId}_categories.json`).then(r => r.json());
@@ -309,53 +311,66 @@ async function renderModel(modelId) {
             </div>
         </div>
     `;
+        setLanguage(currentLang);
+    } catch(err) {
+        console.error('Error loading model:', err);
+        document.getElementById('app').innerHTML = `<div class="container"><h1>Error loading data</h1><p>${err.message}</p></div>`;
+    }
 }
 
 async function renderCategory(modelId, categoryId) {
-    const models = await fetch('data/models.json').then(r => r.json());
-    const model = models.find(m => m.id == modelId);
-    const categories = await fetch(`data/model_${modelId}_categories.json`).then(r => r.json());
-    const category = categories.find(c => c.id == categoryId);
-    const diagrams = await fetch(`data/model_${modelId}_category_${categoryId}_diagrams.json`).then(r => r.json());
+    try {
+        const models = await fetch('data/models.json').then(r => r.json());
+        const model = models.find(m => m.id == modelId);
+        const categories = await fetch(`data/model_${modelId}_categories.json`).then(r => r.json());
+        const category = categories.find(c => c.id == categoryId);
+        const diagrams = await fetch(`data/model_${modelId}_category_${categoryId}_diagrams.json`).then(r => r.json());
 
-    document.getElementById('app').innerHTML = `
-        <div class="breadcrumb">
-            <div class="breadcrumb-content">
-                <a onclick="router.navigate('')" class="lang-text" data-en="Home" data-es="Inicio">Home</a>
-                <span class="breadcrumb-sep">/</span>
-                <a onclick="router.navigate('model/${modelId}')">${model.series_code} ${model.model_code}</a>
-                <span class="breadcrumb-sep">/</span>
-                <span class="breadcrumb-current" data-original="${category.name}">${category.name}</span>
+        document.getElementById('app').innerHTML = `
+            <div class="breadcrumb">
+                <div class="breadcrumb-content">
+                    <a onclick="router.navigate('')" class="lang-text" data-en="Home" data-es="Inicio">Home</a>
+                    <span class="breadcrumb-sep">/</span>
+                    <a onclick="router.navigate('model/${modelId}')">${model.series_code} ${model.model_code}</a>
+                    <span class="breadcrumb-sep">/</span>
+                    <span class="breadcrumb-current" data-original="${category.name}">${category.name}</span>
+                </div>
             </div>
-        </div>
-        <div class="container">
-            <div class="page-header">
-                <h1 class="page-title" data-original="${category.name}">${category.name}</h1>
-                <p class="page-subtitle">${model.series_code} ${model.model_code} · ${diagrams.length} <span class="lang-text" data-en="diagrams" data-es="diagramas">diagrams</span></p>
-            </div>
-            <div class="grid">
-                ${diagrams.map(d => `
-                    <div class="card" onclick="router.navigate('diagram/${d.id}')">
-                        ${d.image_url ? `<img src="${d.image_url}" alt="${d.diagram_title}" style="width: 100%; height: 180px; object-fit: cover; border-radius: 8px; margin-bottom: 16px; background: #fafafa;">` : `<div style="width: 100%; height: 180px; background: #fafafa; border-radius: 8px; margin-bottom: 16px; display: flex; align-items: center; justify-content: center; color: #d4d4d4; font-size: 48px;">📋</div>`}
-                        <div class="card-title" style="font-size: 15px; margin-bottom: 8px;" data-original="${d.diagram_title}">${d.diagram_title}</div>
-                        <div class="card-meta">
-                            <span>${d.parts_count} <span class="lang-text" data-en="parts" data-es="piezas">parts</span></span>
+            <div class="container">
+                <div class="page-header">
+                    <h1 class="page-title" data-original="${category.name}">${category.name}</h1>
+                    <p class="page-subtitle">${model.series_code} ${model.model_code} · ${diagrams.length} <span class="lang-text" data-en="diagrams" data-es="diagramas">diagrams</span></p>
+                </div>
+                <div class="grid">
+                    ${diagrams.map(d => `
+                        <div class="card" onclick="router.navigate('diagram/${d.id}')">
+                            ${d.image_url ? `<img src="${d.image_url}" alt="${d.diagram_title}" style="width: 100%; height: 180px; object-fit: cover; border-radius: 8px; margin-bottom: 16px; background: #fafafa;">` : `<div style="width: 100%; height: 180px; background: #fafafa; border-radius: 8px; margin-bottom: 16px; display: flex; align-items: center; justify-content: center; color: #d4d4d4; font-size: 48px;">📋</div>`}
+                            <div class="card-title" style="font-size: 15px; margin-bottom: 8px;" data-original="${d.diagram_title}">${d.diagram_title}</div>
+                            <div class="card-meta">
+                                <span>${d.parts_count} <span class="lang-text" data-en="parts" data-es="piezas">parts</span></span>
+                            </div>
                         </div>
-                    </div>
-                `).join('')}
+                    `).join('')}
+                </div>
+                <div style="margin-top: 48px;">
+                    <button class="btn-secondary" onclick="router.navigate('model/${modelId}')">
+                        <span>←</span>
+                        <span class="lang-text" data-en="Back to Model" data-es="Volver al Modelo">Back to Model</span>
+                    </button>
+                </div>
             </div>
-            <div style="margin-top: 48px;">
-                <button class="btn-secondary" onclick="router.navigate('model/${modelId}')">
-                    <span>←</span>
-                    <span class="lang-text" data-en="Back to Model" data-es="Volver al Modelo">Back to Model</span>
-                </button>
-            </div>
-        </div>
-    `;
+        `;
+        setLanguage(currentLang);
+    } catch(err) {
+        console.error('Error loading category:', err);
+        document.getElementById('app').innerHTML = `<div class="container"><h1>Error loading data</h1><p>${err.message}</p></div>`;
+    }
 }
 
 async function renderDiagram(diagramId) {
-    const diagram = await fetch(`data/diagram_${diagramId}.json`).then(r => r.json());
+    try {
+        const diagram = await fetch(`data/diagram_${diagramId}.json`).then(r => r.json());
+        if (!diagram) throw new Error('Diagram not found');
 
     document.getElementById('app').innerHTML = `
         <div class="breadcrumb">
@@ -424,7 +439,19 @@ async function renderDiagram(diagramId) {
             </div>
         </div>
     `;
+        setLanguage(currentLang);
+    } catch(err) {
+        console.error('Error loading diagram:', err);
+        document.getElementById('app').innerHTML = `<div class="container"><h1>Error loading diagram</h1><p>${err.message}</p></div>`;
+    }
 }
+
+// Initialize on load and handle hash changes
+window.addEventListener('DOMContentLoaded', () => {
+    router.render();
+    setLanguage(currentLang);
+});
+window.addEventListener('hashchange', () => router.render());
     </script>
 </body>
 </html>
