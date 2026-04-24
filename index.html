@@ -141,7 +141,8 @@ const router = {
     render() {
         const hash = window.location.hash.slice(1) || '';
         const parts = hash.split('/');
-        
+        console.log('Router render - hash:', hash, 'parts:', parts);
+
         if (!hash) renderHome();
         else if (parts[0] === 'model' && parts[1]) renderModel(parts[1]);
         else if (parts[0] === 'model' && parts[1] && parts[2] === 'category' && parts[3]) renderCategory(parts[1], parts[3]);
@@ -450,9 +451,11 @@ async function renderDiagram(diagramId) {
 // Event delegation for navigation
 document.addEventListener('click', (e) => {
     const navEl = e.target.closest('[data-nav]');
+    console.log('Click detected, navEl:', navEl);
     if (navEl) {
         e.preventDefault();
         const path = navEl.getAttribute('data-nav');
+        console.log('Navigating to:', path);
         router.navigate(path);
     }
 });

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Navigation</title>
+    <style>
+        body { font-family: sans-serif; padding: 20px; }
+        .card { border: 1px solid #ccc; padding: 20px; margin: 10px; cursor: pointer; }
+        .card:hover { background: #f0f0f0; }
+    </style>
+</head>
+<body>
+    <h1>Navigation Test</h1>
+    <div id="info"></div>
+    <div id="app"></div>
+
+    <script>
+        const router = {
+            navigate(path) {
+                window.location.hash = path;
+            },
+            render() {
+                const hash = window.location.hash.slice(1) || '';
+                document.getElementById('info').innerHTML = `Current hash: "${hash}"`;
+
+                if (!hash) {
+                    document.getElementById('app').innerHTML = `
+                        <h2>Home</h2>
+                        <div class="card" data-nav="model/1">Go to Model 1</div>
+                        <div class="card" data-nav="model/2">Go to Model 2</div>
+                    `;
+                } else if (hash.startsWith('model/')) {
+                    const modelId = hash.split('/')[1];
+                    document.getElementById('app').innerHTML = `
+                        <h2>Model ${modelId}</h2>
+                        <div class="card" data-nav="">Back to Home</div>
+                        <div class="card" data-nav="model/${modelId}/category/10">Category 10</div>
+                        <div class="card" data-nav="model/${modelId}/category/20">Category 20</div>
+                    `;
+                }
+            }
+        };
+
+        // Event delegation
+        document.addEventListener('click', (e) => {
+            console.log('Click on:', e.target);
+            const navEl = e.target.closest('[data-nav]');
+            console.log('Nav element:', navEl);
+            if (navEl) {
+                e.preventDefault();
+                const path = navEl.getAttribute('data-nav');
+                console.log('Navigate to:', path);
+                router.navigate(path);
+            }
+        });
+
+        window.addEventListener('hashchange', () => {
+            console.log('Hash changed to:', window.location.hash);
+            router.render();
+        });
+
+        window.addEventListener('DOMContentLoaded', () => {
+            console.log('DOM loaded');
+            router.render();
+        });
+    </script>
+</body>
+</html>
