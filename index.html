@@ -97,7 +97,7 @@
     <footer class="footer">
         <p>BMW Parts Catalog - Educational purposes only</p>
         <p style="margin-top: 8px; font-size: 12px;">Data sourced from public BMW parts catalogs</p>
-        <p style="margin-top: 12px; font-size: 11px; color: #bbb;">v1.0.3</p>
+        <p style="margin-top: 12px; font-size: 11px; color: #bbb;">v1.0.4</p>
     </footer>
 
     <script>
@@ -143,11 +143,26 @@ const router = {
         const parts = hash.split('/');
         console.log('Router render - hash:', hash, 'parts:', parts);
 
-        if (!hash) renderHome();
-        else if (parts[0] === 'model' && parts[1]) renderModel(parts[1]);
-        else if (parts[0] === 'model' && parts[1] && parts[2] === 'category' && parts[3]) renderCategory(parts[1], parts[3]);
-        else if (parts[0] === 'diagram' && parts[1]) renderDiagram(parts[1]);
-        else renderHome();
+        if (!hash) {
+            console.log('Calling renderHome()');
+            renderHome();
+        }
+        else if (parts[0] === 'model' && parts[1] && parts[2] === 'category' && parts[3]) {
+            console.log('Calling renderCategory with:', parts[1], parts[3]);
+            renderCategory(parts[1], parts[3]);
+        }
+        else if (parts[0] === 'model' && parts[1]) {
+            console.log('Calling renderModel with:', parts[1]);
+            renderModel(parts[1]);
+        }
+        else if (parts[0] === 'diagram' && parts[1]) {
+            console.log('Calling renderDiagram with:', parts[1]);
+            renderDiagram(parts[1]);
+        }
+        else {
+            console.log('No match, calling renderHome()');
+            renderHome();
+        }
         
         setTimeout(() => setLanguage(currentLang), 100);
     }
