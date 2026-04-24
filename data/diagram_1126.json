@@ -1,7 +1,7 @@
 {
   "id": 1126,
   "diagram_title": "expansion_tank",
-  "image_url": "/static/images/diagrams/E46_330Ci-M54_fuel_supply_expansion_tank.png",
+  "image_url": "images/E46_330Ci-M54_fuel_supply_expansion_tank.png",
   "model_id": 1087,
   "model_code": "330Ci-M54",
   "series_code": "E46",
