@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
     <title>BMW Parts Catalog</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <style>
@@ -69,11 +69,16 @@
         .breadcrumb-current { color: #1a1a1a; font-weight: 500; }
         .btn-secondary { padding: 10px 20px; background: #fff; color: #1a1a1a; border: 1px solid #e5e5e5; border-radius: 8px; text-decoration: none; display: inline-flex; align-items: center; gap: 8px; font-size: 14px; font-weight: 500; transition: all 0.2s; cursor: pointer; }
         .btn-secondary:hover { background: #fafafa; border-color: #1a1a1a; }
-        table { width: 100%; border-collapse: separate; border-spacing: 0; background: #fff; border: 1px solid #e5e5e5; border-radius: 12px; overflow: hidden; }
-        table th { background: #fafafa; color: #666; padding: 12px 16px; text-align: left; font-weight: 600; font-size: 12px; text-transform: uppercase; letter-spacing: 0.05em; border-bottom: 1px solid #e5e5e5; }
+        .table-wrapper { width: 100%; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+        table { width: 100%; min-width: 800px; border-collapse: separate; border-spacing: 0; background: #fff; border: 1px solid #e5e5e5; border-radius: 12px; overflow: hidden; }
+        table th { background: #fafafa; color: #666; padding: 12px 16px; text-align: left; font-weight: 600; font-size: 12px; text-transform: uppercase; letter-spacing: 0.05em; border-bottom: 1px solid #e5e5e5; white-space: nowrap; }
         table td { padding: 16px; border-bottom: 1px solid #f5f5f5; font-size: 14px; }
         table tr:last-child td { border-bottom: none; }
         table tr:hover td { background: #fafafa; }
+        @media (max-width: 768px) {
+            table { min-width: 700px; font-size: 13px; }
+            table th, table td { padding: 10px 12px; }
+        }
         .part-number { font-family: monospace; background: #f5f5f5; padding: 4px 8px; border-radius: 6px; font-weight: 500; font-size: 13px; }
         img.diagram-img { width: 100%; height: auto; border-radius: 8px; }
         .footer { text-align: center; padding: 48px 24px; color: #999; font-size: 13px; border-top: 1px solid #e5e5e5; margin-top: 64px; }
@@ -115,7 +120,7 @@
     <footer class="footer">
         <p>BMW Parts Catalog - Educational purposes only</p>
         <p style="margin-top: 8px; font-size: 12px;">Data sourced from public BMW parts catalogs</p>
-        <p style="margin-top: 12px; font-size: 11px; color: #bbb;">v1.1.0</p>
+        <p style="margin-top: 12px; font-size: 11px; color: #bbb;">v1.1.1</p>
     </footer>
 
     <script>
@@ -437,6 +442,7 @@ async function renderDiagram(diagramId) {
             ${diagram.parts.length > 0 ? `
             <div id="parts-container" style="background: #fff; border: 1px solid #e5e5e5; border-radius: 12px; padding: 24px; margin-bottom: 32px;">
                 <h2 class="lang-text" style="font-size: 18px; font-weight: 600; margin-bottom: 20px;" data-en="Parts List" data-es="Lista de Piezas">Parts List</h2>
+                <div class="table-wrapper">
                 <table>
                     <thead>
                         <tr>
@@ -472,6 +478,7 @@ async function renderDiagram(diagramId) {
                         `).join('')}
                     </tbody>
                 </table>
+                </div>
             </div>
             ` : ''}
             <div style="margin-top: 32px;">
