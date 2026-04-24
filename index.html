@@ -78,6 +78,24 @@
         img.diagram-img { width: 100%; height: auto; border-radius: 8px; }
         .footer { text-align: center; padding: 48px 24px; color: #999; font-size: 13px; border-top: 1px solid #e5e5e5; margin-top: 64px; }
         #app { min-height: calc(100vh - 200px); }
+
+        /* Split View Styles */
+        .split-view-active .container { max-width: 100% !important; padding: 24px !important; }
+
+        /* Mobile/Tablet: Vertical Split */
+        @media (max-width: 1200px) {
+            .split-view-active #diagram-container { position: sticky !important; top: 70px; z-index: 10; margin-bottom: 16px !important; max-height: 45vh; overflow: hidden; }
+            .split-view-active #diagram-container img { max-height: 40vh; width: auto; margin: 0 auto; }
+            .split-view-active #parts-container { margin-top: 16px; }
+        }
+
+        /* Desktop: Horizontal Split */
+        @media (min-width: 1201px) {
+            .split-view-active .container { display: flex; flex-wrap: wrap; gap: 24px; align-items: flex-start; }
+            .split-view-active .page-header { width: 100%; flex-basis: 100%; text-align: center; margin-bottom: 24px; }
+            .split-view-active #diagram-container { position: sticky !important; top: 70px; flex: 0 0 45%; max-width: 45%; margin-bottom: 0 !important; max-height: calc(100vh - 100px); overflow: auto; }
+            .split-view-active #parts-container { flex: 1; margin-bottom: 0 !important; }
+        }
     </style>
 </head>
 <body>
@@ -97,7 +115,7 @@
     <footer class="footer">
         <p>BMW Parts Catalog - Educational purposes only</p>
         <p style="margin-top: 8px; font-size: 12px;">Data sourced from public BMW parts catalogs</p>
-        <p style="margin-top: 12px; font-size: 11px; color: #bbb;">v1.0.5</p>
+        <p style="margin-top: 12px; font-size: 11px; color: #bbb;">v1.1.0</p>
     </footer>
 
     <script>
@@ -415,7 +433,7 @@ async function renderDiagram(diagramId) {
                 <h1 class="page-title" data-original="${diagram.diagram_title}">${diagram.diagram_title}</h1>
                 <p class="page-subtitle">${diagram.series_code} ${diagram.model_code} ${diagram.engine_code || ''} · ${diagram.parts.length} <span class="lang-text" data-en="parts" data-es="piezas">parts</span></p>
             </div>
-            ${diagram.image_url ? `<div style="background: #fff; border: 1px solid #e5e5e5; border-radius: 12px; padding: 24px; margin-bottom: 32px;"><img src="${diagram.image_url}" alt="${diagram.diagram_title}" class="diagram-img"></div>` : ''}
+            ${diagram.image_url ? `<div id="diagram-container" style="background: #fff; border: 1px solid #e5e5e5; border-radius: 12px; padding: 24px; margin-bottom: 32px;"><img src="${diagram.image_url}" alt="${diagram.diagram_title}" class="diagram-img"></div>` : ''}
             ${diagram.parts.length > 0 ? `
             <div style="background: #fff; border: 1px solid #e5e5e5; border-radius: 12px; padding: 24px; margin-bottom: 32px;">
                 <h2 class="lang-text" style="font-size: 18px; font-weight: 600; margin-bottom: 20px;" data-en="Parts List" data-es="Lista de Piezas">Parts List</h2>
@@ -464,12 +482,31 @@ async function renderDiagram(diagramId) {
                 </button>
             </div>
         </div>
+
+        <!-- Split View Toggle Button -->
+        <button id="split-view-toggle" onclick="toggleSplitView()" style="position: fixed; bottom: 20px; left: 20px; width: 44px; height: 44px; border-radius: 50%; background: #1a1a1a; color: white; border: none; cursor: pointer; box-shadow: 0 4px 12px rgba(0,0,0,0.15); display: flex; align-items: center; justify-content: center; font-size: 20px; z-index: 1000; transition: all 0.2s;" onmouseover="this.style.background='#333'" onmouseout="this.style.background='#1a1a1a'" title="Split View">
+            <span id="split-icon">⊞</span>
+        </button>
     `;
         setLanguage(currentLang);
+
+        // Restore split view state if it was active
+        if (localStorage.getItem('splitViewActive') === 'true') {
+            document.body.classList.add('split-view-active');
+            document.getElementById('split-icon').textContent = '⊟';
+        }
     } catch(err) {
         console.error('Error loading diagram:', err);
         document.getElementById('app').innerHTML = `<div class="container"><h1>Error loading diagram</h1><p>${err.message}</p></div>`;
     }
+}
+
+function toggleSplitView() {
+    document.body.classList.toggle('split-view-active');
+    const icon = document.getElementById('split-icon');
+    const isActive = document.body.classList.contains('split-view-active');
+    icon.textContent = isActive ? '⊟' : '⊞';
+    localStorage.setItem('splitViewActive', isActive);
 }
 
 // Event delegation for navigation
