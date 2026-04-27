@@ -120,7 +120,7 @@
     <footer class="footer">
         <p>BMW Parts Catalog - Educational purposes only</p>
         <p style="margin-top: 8px; font-size: 12px;">Data sourced from public BMW parts catalogs</p>
-        <p style="margin-top: 12px; font-size: 11px; color: #bbb;">v1.1.1</p>
+        <p style="margin-top: 12px; font-size: 11px; color: #bbb;">v1.2.0</p>
     </footer>
 
     <script>
@@ -164,26 +164,20 @@ const router = {
     render() {
         const hash = window.location.hash.slice(1) || '';
         const parts = hash.split('/');
-        console.log('Router render - hash:', hash, 'parts:', parts);
 
         if (!hash) {
-            console.log('Calling renderHome()');
             renderHome();
         }
         else if (parts[0] === 'model' && parts[1] && parts[2] === 'category' && parts[3]) {
-            console.log('Calling renderCategory with:', parts[1], parts[3]);
             renderCategory(parts[1], parts[3]);
         }
         else if (parts[0] === 'model' && parts[1]) {
-            console.log('Calling renderModel with:', parts[1]);
             renderModel(parts[1]);
         }
         else if (parts[0] === 'diagram' && parts[1]) {
-            console.log('Calling renderDiagram with:', parts[1]);
             renderDiagram(parts[1]);
         }
         else {
-            console.log('No match, calling renderHome()');
             renderHome();
         }
         
@@ -353,8 +347,7 @@ async function renderModel(modelId) {
     `;
         setLanguage(currentLang);
     } catch(err) {
-        console.error('Error loading model:', err);
-        document.getElementById('app').innerHTML = `<div class="container"><h1>Error loading data</h1><p>${err.message}</p></div>`;
+        document.getElementById('app').innerHTML = `<div class="container"><h1>Error loading data</h1><p>Please try refreshing the page</p></div>`;
     }
 }
 
@@ -365,8 +358,6 @@ async function renderCategory(modelId, categoryId) {
         const models = await fetch('data/models.json').then(r => r.json());
         console.log('Models loaded:', models.length);
         const model = models.find(m => m.id == modelId);
-        console.log('Model found:', model);
-        console.log(`Fetching data/model_${modelId}_categories.json...`);
         const categories = await fetch(`data/model_${modelId}_categories.json`).then(r => r.json());
         console.log('Categories loaded:', categories.length);
         const category = categories.find(c => c.id == categoryId);
@@ -411,8 +402,7 @@ async function renderCategory(modelId, categoryId) {
         `;
         setLanguage(currentLang);
     } catch(err) {
-        console.error('Error loading category:', err);
-        document.getElementById('app').innerHTML = `<div class="container"><h1>Error loading data</h1><p>${err.message}</p></div>`;
+        document.getElementById('app').innerHTML = `<div class="container"><h1>Error loading data</h1><p>Please try refreshing the page</p></div>`;
     }
 }
 
@@ -503,8 +493,7 @@ async function renderDiagram(diagramId) {
             document.getElementById('split-icon').textContent = '⊟';
         }
     } catch(err) {
-        console.error('Error loading diagram:', err);
-        document.getElementById('app').innerHTML = `<div class="container"><h1>Error loading diagram</h1><p>${err.message}</p></div>`;
+        document.getElementById('app').innerHTML = `<div class="container"><h1>Error loading diagram</h1><p>Please try refreshing the page</p></div>`;
     }
 }
 
@@ -519,11 +508,9 @@ function toggleSplitView() {
 // Event delegation for navigation
 document.addEventListener('click', (e) => {
     const navEl = e.target.closest('[data-nav]');
-    console.log('Click detected, navEl:', navEl);
     if (navEl) {
         e.preventDefault();
         const path = navEl.getAttribute('data-nav');
-        console.log('Navigating to:', path);
         router.navigate(path);
     }
 });

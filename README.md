@@ -5,19 +5,22 @@ Premium parts catalog for classic BMW models with detailed diagrams and bilingua
 ## 🎯 Features
 
 - **8 BMW Models**: E28, E36, E46 series
-- **Detailed Diagrams**: Thousands of exploded view diagrams with part numbers
-- **Bilingual**: Full EN/ES translation with 425+ automotive terms
+- **7,291 Detailed Diagrams**: Exploded view diagrams with part numbers
+- **23,819 Unique Parts**: Complete parts database with prices
+- **Bilingual**: Full EN/ES translation with 430+ automotive terms
+- **Split View Mode**: Diagram sticky/floating while browsing parts
 - **Premium Design**: Modern, minimalist interface inspired by MyBMW app
-- **Responsive**: Works on desktop, tablet, and mobile
+- **Responsive**: Perfect on desktop, tablet, and mobile (iPhone optimized)
 - **Single Page App**: Fast navigation with hash-based routing
 - **Search Integration**: Direct links to Autodoc for parts availability
 
 ## 📊 Catalog Stats
 
-- 8 BMW Models
-- 3,000+ Part Diagrams
-- 50,000+ Individual Parts
-- Complete price information
+- **8 BMW Models** (E28, E36, E46)
+- **7,291 Part Diagrams** with images
+- **23,819 Unique Parts** catalogued
+- **Complete price information** in EUR
+- **430+ Technical terms** translated EN/ES
 
 ## 🚀 Live Demo
 
